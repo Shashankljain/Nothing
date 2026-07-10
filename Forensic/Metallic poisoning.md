@@ -6,7 +6,7 @@
 Chronic arsenic poisoning, also known as **Arsenicosis**, results from the ingestion of small doses of arsenic over a prolonged period. It is characterized by gradual health deterioration and specific changes in the skin, nails, and nervous system.
 
 **Introduction**  
-Arsenic is a heavy metal historically referred to as the **"Inheritance Powder"** because it was used to kill family members to gain inheritance. The most toxic form is **Arsenic Trioxide** ($As_2O_3$), which is tasteless, odorless, and sparingly soluble in water.
+Arsenic is a heavy metal historically referred to as the **"Inheritance Powder"** because it was used to kill family members to gain inheritance. The most toxic form is **==Arsenic Trioxide** ($As_2O_3$)==, which is tasteless, odorless, and sparingly soluble in water.
 
 **Toxicokinetics**  
 Arsenic is a cumulative poison. It is deposited in tissues rich in keratin, such as the **hair, nails, and skin**, and can be detected in bones for several years after death.
