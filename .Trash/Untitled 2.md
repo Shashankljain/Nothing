@@ -1,9 +1,4 @@
----
-
-
-### **Basic Concepts**
-
-**Definition**  
+  
 **Plumbism**, also known as **Saturnism**, is the clinical syndrome resulting from the cumulative absorption of lead into the body over a prolonged period.
 
 **Introduction**  
