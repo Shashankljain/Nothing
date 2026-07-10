@@ -11,10 +11,14 @@
             "id": "83c9460f1b0632f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Forensic/Organic irritants.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Organic irritants"
             }
           }
         ]
@@ -166,6 +170,10 @@
   },
   "active": "83c9460f1b0632f5",
   "lastOpenFiles": [
+    "Forensic/Ophitoximia.md",
+    "Forensic/Management of snake poison.md",
+    "Forensic/Scorpion.md",
+    "Forensic/image.jpg",
     "Com med.md",
     "A.md",
     "Untitled.canvas",
