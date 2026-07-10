@@ -22,15 +22,16 @@
 
 ★ **Important Exam Point: The Big Four** In India, most venomous bites are caused by the "Big Four": Common Cobra, Common Krait, Russell’s Viper, and Saw-scaled Viper.
 
-|**Feature**|**Poisonous (Venomous) Snake**|**Non-Poisonous Snake**|
-|---|---|---|
-|**Head Scales**|Usually small (except Cobras/Kraits which have large shields).|Usually large.|
-|**Belly Scales**|Large and cover the **entire breadth** of the belly.|Small; do not cover the entire breadth.|
-|**Tail**|Compressed/flat in sea snakes (venomous).|Round and tapering.|
-|**Fangs**|Long, hollow, and **canalized** (like a hypodermic needle).|Short and solid.|
-|**Bite Mark**|**Two distinct fang marks** (punctate marks).|Multiple small teeth marks in a semicircular row.|
-|**Habit**|Mostly nocturnal.|Diurnal.|
-
+| **Feature**      | **Poisonous (Venomous) Snake**                                 | **Non-Poisonous Snake**                           |
+| ---------------- | -------------------------------------------------------------- | ------------------------------------------------- |
+| **Head Scales**  | Usually small (except Cobras/Kraits which have large shields). | Usually large.                                    |
+| **Belly Scales** | Large and cover the **entire breadth** of the belly.           | Small; do not cover the entire breadth.           |
+| **Tail**         | Compressed/flat in sea snakes (venomous).                      | Round and tapering.                               |
+| **Fangs**        | Long, hollow, and **canalized** (like a hypodermic needle).    | Short and solid.                                  |
+| **Bite Mark**    | **Two distinct fang marks** (punctate marks).                  | Multiple small teeth marks in a semicircular row. |
+| **Habit**        | Mostly nocturnal.                                              | Diurnal.                                          |
+|                  |                                                                |                                                   |
+![[image.jpg]]
 ---
 
 **III. Management of a Poisonous Snake Bite**
