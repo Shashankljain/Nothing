@@ -1,7 +1,7 @@
 ### **Chronic Lead Poisoning (Plumbism/Saturnism)**
 
 ---
-
+[[Metallic poisoning]]
 #### **Basic Concepts**
 
 **Introduction** Lead (**Shisha**) is a heavy, steel-gray metal that is ubiquitous in the environment but has **no physiological role** in the human body. Chronic lead poisoning, also known as **Plumbism** or **Saturnism**, is the most common form of heavy metal toxicity encountered in clinical and forensic practice.
