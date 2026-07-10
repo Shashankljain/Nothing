@@ -115,7 +115,7 @@ Acute poisoning manifests in three clinical forms based on the dose and route:
 **Internal:**
 
 - **Stomach:** Characteristically shows a **"Red Velvety" appearance**—mucosa is swollen, red, and covered with sticky mucus containing white particles of arsenic.
-- **Heart:** **Subendocardial petechial hemorrhages** in the left ventricle are a classic sign.
+- **Heart:** ==***Subendocardial petechial hemorrhages***== in the left ventricle are a classic sign.
 - **Liver:** Fatty infiltration or acute necrosis.
 - **Kidneys:** Acute tubular necrosis.
 
