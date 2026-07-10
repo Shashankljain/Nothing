@@ -1,4 +1,3 @@
 How are u
 Iam from Android 
-Is it syncing 
-
+Is it syncin[[Hw]]
