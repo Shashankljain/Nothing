@@ -1,5 +1,4 @@
-[[CNS depressents]]
-
+[[Amp]]
 ### **Toxicology and Acute Methyl Alcohol Poisoning**
 
 ---
