@@ -50,17 +50,13 @@
             }
           },
           {
-            "id": "2223b0e3d7532c48",
+            "id": "a1a5590723332a2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hatters shakes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hatters shakes"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -155,7 +151,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Hatters shakes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -209,7 +204,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "2223b0e3d7532c48",
+  "active": "a1a5590723332a2c",
   "lastOpenFiles": [
     "Hatters shakes.md",
     "Difference between arsenic poisoningand cholera..md",
