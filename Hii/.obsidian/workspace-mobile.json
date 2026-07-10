@@ -1,42 +1,14 @@
 {
   "main": {
-    "id": "4a0e24cd454706b0",
+    "id": "f7a291654472a7e6",
     "type": "split",
     "children": [
       {
-        "id": "cb07530f6b985d76",
+        "id": "75ba54bb5fb85cce",
         "type": "tabs",
         "children": [
           {
-            "id": "ad9a3404053280b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New/Untitled 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 3"
-            }
-          },
-          {
-            "id": "5bfd58c924150bc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New/Untitled 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 3"
-            }
-          },
-          {
-            "id": "03392cb0d09609c4",
+            "id": "20545e72a7170c40",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,46 +16,31 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "3c8ec8166e2392d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corrosives.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Corrosives"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e8ccbb92640dfccb",
+    "id": "088fe4bd01714bcd",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "d796d9d35b2b4fca",
+        "id": "5fc7af29faf6d414",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": true
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
         }
       },
       {
-        "id": "12878bf1ee52055f",
+        "id": "60376709b46f6881",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -100,7 +57,7 @@
         }
       },
       {
-        "id": "5c9a310396511968",
+        "id": "a82f0f843e7d54f4",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -115,7 +72,7 @@
         }
       },
       {
-        "id": "2746c9313560bcfa",
+        "id": "c8c74db5e9ec9e8f",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -129,7 +86,7 @@
         }
       },
       {
-        "id": "6b0dd30fb5344b60",
+        "id": "7b0afff78e444dfc",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -142,16 +99,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "199b396c048b2968",
+    "id": "e0a84a5ce32d5e2b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9708d2054976b3d4",
+        "id": "318f7304bdb1f00f",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,12 +121,11 @@
         }
       },
       {
-        "id": "d74be4999ff38ecc",
+        "id": "4a81677f4e40657a",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ipad.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -179,12 +134,11 @@
         }
       },
       {
-        "id": "f501b8a52ad9eb37",
+        "id": "117acba40db20902",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ipad.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -207,19 +161,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "03392cb0d09609c4",
+  "active": "20545e72a7170c40",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "New/Untitled/Nn.md",
-    "New/Untitled 3.md",
-    "New/Untitled/Corrosives.md",
-    "New/Untitled",
-    "New",
-    "Oxalic acid.md",
-    "Untitled.md",
-    "Ipad",
-    "Untitled 2.md",
-    "Ipad.md",
-    "Hw.md"
+    "Untitled.md"
   ]
 }
