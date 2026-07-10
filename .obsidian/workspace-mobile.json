@@ -34,22 +34,9 @@
               "icon": "lucide-file",
               "title": "A"
             }
-          },
-          {
-            "id": "93b7e0bd89867ca0",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,12 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "93b7e0bd89867ca0",
+  "active": "20735db04f47357a",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled.base",
     "Hii/All 19.md",
     "Com med.md",
-    "Untitled.base",
-    "Untitled.canvas",
     "A.md",
     "Test/Untitled 1.md",
     "Test/Corrosives.md",
