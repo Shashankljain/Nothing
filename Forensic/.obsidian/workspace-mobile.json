@@ -11,10 +11,10 @@
             "id": "a4da97aa400fbbb1",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -164,9 +164,9 @@
   },
   "active": "a4da97aa400fbbb1",
   "lastOpenFiles": [
+    "Organic irritants.md",
     "Management of snake b.md",
     "BNS 2023.md",
-    "Organic irritants.md",
     "Ophitoximia.md",
     "image.jpg"
   ]
