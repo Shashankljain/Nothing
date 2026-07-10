@@ -50,17 +50,13 @@
             }
           },
           {
-            "id": "08c34172e7ae2b6e",
+            "id": "2223b0e3d7532c48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Difference between arsenic poisoningand cholera..md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Difference between arsenic poisoningand cholera."
+              "title": "New tab"
             }
           }
         ],
@@ -155,7 +151,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Difference between arsenic poisoningand cholera..md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -209,7 +204,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "08c34172e7ae2b6e",
+  "active": "2223b0e3d7532c48",
   "lastOpenFiles": [
     "Difference between arsenic poisoningand cholera..md",
     "Metallic poisoning.md",
