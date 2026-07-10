@@ -1,5 +1,5 @@
 ### **Chronic Mercurial Poisoning (Hydrargyrism)**
-
+[[Metallic poisoning]]
 ---
 
 #### **1. Basic Concepts**
