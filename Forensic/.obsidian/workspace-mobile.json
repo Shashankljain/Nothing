@@ -4,77 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "44b509df1b463733",
+        "id": "c7f0c1183f38838c",
         "type": "tabs",
         "children": [
           {
-            "id": "8b39149681f33c5c",
+            "id": "cbb60f20e2c9efc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metallic poisoning.md",
+                "file": "Acute arsenic poison.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metallic poisoning"
-            }
-          },
-          {
-            "id": "545d82b6c63f6311",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hg.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hg"
-            }
-          },
-          {
-            "id": "06617de3ba209837",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metallic poisoning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Metallic poisoning"
-            }
-          },
-          {
-            "id": "a1a5590723332a2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metallic poisoning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Metallic poisoning"
-            }
-          },
-          {
-            "id": "0f0f5af70dd738bc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Acute arsenic poison"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Metallic poisoning.md",
+            "file": "Acute arsenic poison.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -219,18 +166,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "a1a5590723332a2c",
+  "active": "cbb60f20e2c9efc6",
   "lastOpenFiles": [
+    "Organic irritants.md",
+    "Ophitoximia.md",
+    "Difference between arsenic poisoningand cholera..md",
+    "Metallic poisoning.md",
+    "Hg.md",
     "Rodenticides.md",
     "Agricultural poison.md",
     "Hatters shakes.md",
-    "Difference between arsenic poisoningand cholera..md",
-    "Metallic poisoning.md",
     "Acute arsenic poison.md",
-    "Hg.md",
     "Pb.md",
-    "Ophitoximia.md",
-    "Organic irritants.md",
     "Scorpion.md",
     "image 1.jpg",
     "Management of snake poison.md",

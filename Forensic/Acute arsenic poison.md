@@ -15,7 +15,7 @@ Arsenic is a heavy metal known historically as the **"King of Poisons"** or th
 - **Arsine ($AsH_3$):** A highly toxic, colorless gas with a garlic-like odor.
 
 **Mechanism of Action (Toxicodynamics)**  
-Arsenic interferes with cellular respiration by uncoupling mitochondrial oxidative phosphorylation. It binds with the **sulfhydryl (-SH) groups** of mitochondrial enzymes (specifically pyruvate dehydrogenase), inhibiting the citric acid cycle and decreasing ATP production.
+Arsenic interferes with cellular respiration by uncoupling mitochondrial oxidative phosphorylation. It binds with the **sulfhydryl (-SH) groups** of mitochondrial enzymes (specifically *==pyruvate dehydrogenase==*), inhibiting the citric acid cycle and decreasing ATP production.
 
 ---
 

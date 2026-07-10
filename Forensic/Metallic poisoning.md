@@ -61,6 +61,13 @@ Arsenic was a popular homicidal poison because:
 - Small quantities are required to cause death.
 - The gradual onset of symptoms mimics natural disease (like cholera), allowing the offender to escape suspicion.
 
+
+- Disadvantages of arsenic as homicidal poison:
+- ﻿﻿It retards putrefaction.
+- ﻿﻿It can be detected in decomposed/buried bodies.  
+    Arsenic can be found in bones, hair and nails for several years.
+- ﻿﻿It can be detected in charred bones or ashes.
+
 **II. Occupational and Environmental Exposure**
 
 - **Occupational:** Workers in metal foundries, mining, glass production, and the semiconductor industry are at risk.
@@ -100,7 +107,7 @@ University examinations now require the application of the new 2023 criminal law
 **Autopsy Findings (Chronic)**
 
 - **External:** Emaciation (thinning), skin pigmentation, hyperkeratosis, and white streaks on nails.
-- **Internal:** Chronic gastritis, fatty degeneration (cirrhosis) of the liver, and tubular necrosis of the kidneys.
+- **Internal:** Chronic gastritis,patchy inflammation , fatty degeneration (cirrhosis) of the liver, and tubular necrosis of the kidneys.
 - **Postmortem Imbibition:** If a body is buried in arsenic-rich soil, the poison may seep into the tissues, making it difficult to distinguish from actual poisoning.
 
 ---
