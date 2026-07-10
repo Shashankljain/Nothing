@@ -60,17 +60,13 @@
             }
           },
           {
-            "id": "bc291be2b7d29bdd",
+            "id": "0f0f5af70dd738bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agricultural poison.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Agricultural poison"
+              "title": "New tab"
             }
           }
         ],
@@ -165,7 +161,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Agricultural poison.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -219,8 +214,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "bc291be2b7d29bdd",
+  "active": "0f0f5af70dd738bc",
   "lastOpenFiles": [
+    "Rodenticides.md",
     "Agricultural poison.md",
     "Hatters shakes.md",
     "Difference between arsenic poisoningand cholera..md",
