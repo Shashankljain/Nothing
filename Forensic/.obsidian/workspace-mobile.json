@@ -53,10 +53,14 @@
             "id": "2223b0e3d7532c48",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ],
@@ -151,6 +155,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -206,6 +211,7 @@
   },
   "active": "2223b0e3d7532c48",
   "lastOpenFiles": [
+    "Untitled.md",
     "Difference between arsenic poisoningand cholera..md",
     "Metallic poisoning.md",
     "Acute arsenic poison.md",
