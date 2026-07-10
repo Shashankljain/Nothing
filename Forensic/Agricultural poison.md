@@ -1,5 +1,5 @@
 ### **Classification of Poisons and Organophosphate Poisoning**
-
+[[Toxicology]]
 ---
 
 ### **Part I: Classification of Poisons**

@@ -1,5 +1,6 @@
 ### **Chronic Arsenic Poisoning (Arsenicosis)**
 [[Metallic poisoning]]
+[[Toxicology]]
 #### **1. Basic Concepts**
 
 **Definition**  

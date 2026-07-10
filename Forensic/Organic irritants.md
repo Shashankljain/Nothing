@@ -1,5 +1,5 @@
 **Irritants and Snakebite Management**
-
+[[Toxicology]]
 ---
 
 **I. Classification of Irritants**
