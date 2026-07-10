@@ -1,12 +1,13 @@
 ### **Chronic Arsenic Poisoning (Arsenicosis)**
 [[Metallic poisoning]]
+[[Toxicology]]
 #### **1. Basic Concepts**
 
 **Definition**  
 Chronic arsenic poisoning, also known as **Arsenicosis**, results from the ingestion of small doses of arsenic over a prolonged period. It is characterized by gradual health deterioration and specific changes in the skin, nails, and nervous system.
 
 **Introduction**  
-Arsenic is a heavy metal historically referred to as the **"Inheritance Powder"** because it was used to kill family members to gain inheritance. The most toxic form is **Arsenic Trioxide** ($As_2O_3$), which is tasteless, odorless, and sparingly soluble in water.
+Arsenic is a heavy metal historically referred to as the **"Inheritance Powder"** because it was used to kill family members to gain inheritance. The most toxic form is **==Arsenic Trioxide** ($As_2O_3$)==, which is tasteless, odorless, and sparingly soluble in water.
 
 **Toxicokinetics**  
 Arsenic is a cumulative poison. It is deposited in tissues rich in keratin, such as the **hair, nails, and skin**, and can be detected in bones for several years after death.
@@ -61,6 +62,13 @@ Arsenic was a popular homicidal poison because:
 - Small quantities are required to cause death.
 - The gradual onset of symptoms mimics natural disease (like cholera), allowing the offender to escape suspicion.
 
+
+- Disadvantages of arsenic as homicidal poison:
+- ﻿﻿It retards putrefaction.
+- ﻿﻿It can be detected in decomposed/buried bodies.  
+    Arsenic can be found in bones, hair and nails for several years.
+- ﻿﻿It can be detected in charred bones or ashes.
+
 **II. Occupational and Environmental Exposure**
 
 - **Occupational:** Workers in metal foundries, mining, glass production, and the semiconductor industry are at risk.
@@ -100,7 +108,7 @@ University examinations now require the application of the new 2023 criminal law
 **Autopsy Findings (Chronic)**
 
 - **External:** Emaciation (thinning), skin pigmentation, hyperkeratosis, and white streaks on nails.
-- **Internal:** Chronic gastritis, fatty degeneration (cirrhosis) of the liver, and tubular necrosis of the kidneys.
+- **Internal:** Chronic gastritis,patchy inflammation , fatty degeneration (cirrhosis) of the liver, and tubular necrosis of the kidneys.
 - **Postmortem Imbibition:** If a body is buried in arsenic-rich soil, the poison may seep into the tissues, making it difficult to distinguish from actual poisoning.
 
 ---

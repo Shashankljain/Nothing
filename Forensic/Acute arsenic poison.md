@@ -15,7 +15,7 @@ Arsenic is a heavy metal known historically as the **"King of Poisons"** or th
 - **Arsine ($AsH_3$):** A highly toxic, colorless gas with a garlic-like odor.
 
 **Mechanism of Action (Toxicodynamics)**  
-Arsenic interferes with cellular respiration by uncoupling mitochondrial oxidative phosphorylation. It binds with the **sulfhydryl (-SH) groups** of mitochondrial enzymes (specifically pyruvate dehydrogenase), inhibiting the citric acid cycle and decreasing ATP production.
+Arsenic interferes with cellular respiration by uncoupling mitochondrial oxidative phosphorylation. It binds with the **sulfhydryl (-SH) groups** of mitochondrial enzymes (specifically *==pyruvate dehydrogenase==*), inhibiting the citric acid cycle and decreasing ATP production.
 
 ---
 
@@ -115,7 +115,7 @@ Acute poisoning manifests in three clinical forms based on the dose and route:
 **Internal:**
 
 - **Stomach:** Characteristically shows a **"Red Velvety" appearance**—mucosa is swollen, red, and covered with sticky mucus containing white particles of arsenic.
-- **Heart:** **Subendocardial petechial hemorrhages** in the left ventricle are a classic sign.
+- **Heart:** ==***Subendocardial petechial hemorrhages***== in the left ventricle are a classic sign.
 - **Liver:** Fatty infiltration or acute necrosis.
 - **Kidneys:** Acute tubular necrosis.
 
