@@ -39,10 +39,14 @@
             "id": "03392cb0d09609c4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
             }
           },
           {
@@ -217,7 +221,7 @@
     "New",
     "Oxalic acid.md",
     "Untitled.md",
-    "Ipad",
+    "Com med",
     "Untitled 2.md",
     "Ipad.md",
     "Hw.md"
