@@ -53,10 +53,14 @@
             "id": "dc4021fb07f24677",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Pb.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pb"
             }
           }
         ],
@@ -206,6 +210,7 @@
   },
   "active": "dc4021fb07f24677",
   "lastOpenFiles": [
+    "Difference between arsenic poisoningand cholera..md",
     "AMP.md",
     "Amp.md",
     "Stages of alcohol intoxication in detail..md",
@@ -214,7 +219,6 @@
     "Agricultural poison.md",
     "Metallic poisoning.md",
     "Toxicology.md",
-    "Difference between arsenic poisoningand cholera..md",
     "Acute arsenic poison.md",
     "Ophitoximia.md",
     "Hg.md",

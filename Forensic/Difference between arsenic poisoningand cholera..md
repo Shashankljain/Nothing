@@ -16,19 +16,19 @@ Arsenic was historically known as the **"Inheritance Powder"** because it was 
 
 University examinations frequently ask for this specific differentiation in a 5-mark or 10-mark format.
 
-|**Feature**|**Arsenic Poisoning (Acute)**|**Cholera (Infection)**|
-|:--|:--|:--|
-|**GIT Symptoms (Order)**|**Pain in throat** $\rightarrow$ Vomiting $\rightarrow$ Purging.|**Purging** $\rightarrow$ Vomiting $\rightarrow$ Pain in throat.|
-|**Vomitus**|Contains mucus, bile, and often **blood**.|Watery; usually lacks mucus, bile, or blood.|
-|**Stools (Purging)**|Rice-watery; may contain **blood**.|Rice-watery; **no blood**; passed in a continuous involuntary jet.|
-|**Tenesmus**|**Present** (Persistent, painful desire to empty bowels).|**Absent**.|
-|**Throat Pain**|Occurs **before** vomiting/purging.|Occurs **after** vomiting/purging due to extreme dehydration.|
-|**Conjunctiva**|**Inflamed and red**.|Not inflamed.|
-|**Voice**|**Not affected**.|**Rough and whistling** (due to dehydration).|
-|**Bacteriology**|No specific bacteria found.|_**Vibrio cholerae**_ present in stool culture.|
-|**Laboratory/X-ray**|**Radiopaque shadow** on abdominal X-ray (Arsenic trioxide).|No radiopaque findings.|
-|**Epidemiology**|Usually an **individual** or a specific family/group is affected.|Often occurs in **sporadic or epidemic** forms in the locality.|
-|**Motive**|Often **homicidal**, rarely accidental.|No criminal motive.|
+| **Feature**              | **Arsenic Poisoning (Acute)**                                     | **Cholera (Infection)**                                                |
+| :----------------------- | :---------------------------------------------------------------- | :--------------------------------------------------------------------- |
+| **GIT Symptoms (Order)** | **Pain in throat** $\rightarrow$ Vomiting $\rightarrow$ Purging.  | **Purging** $\rightarrow$ Vomiting $\rightarrow$ Pain in throat.       |
+| **Vomitus**              | Contains mucus, bile, and often **blood**.                        | Watery; usually lacks mucus, bile, or blood.                           |
+| **Stools (Purging)**     | Rice-watery; may contain **blood**.                               | Rice-watery; **==no blood==**; passed in a continuous involuntary jet. |
+| **Tenesmus**             | **Present** (Persistent, painful desire to empty bowels).         | **Absent**.                                                            |
+| **Throat Pain**          | Occurs **before** vomiting/purging.                               | Occurs **after** vomiting/purging due to extreme dehydration.          |
+| **Conjunctiva**          | **Inflamed and red**.                                             | Not inflamed.                                                          |
+| **Voice**                | **Not affected**.                                                 | ==**Rough and whistling** (due to dehydration).==                      |
+| **Bacteriology**         | No specific bacteria found.                                       | _**Vibrio cholerae**_ present in stool culture.                        |
+| **Laboratory/X-ray**     | **Radiopaque shadow** on abdominal X-ray (Arsenic trioxide).      | No radiopaque findings.                                                |
+| **Epidemiology**         | Usually an **individual** or a specific family/group is affected. | Often occurs in **sporadic or epidemic** forms in the locality.        |
+| **Motive**               | Often **homicidal**, rarely accidental.                           | No criminal motive.                                                    |
 
 ---
 
