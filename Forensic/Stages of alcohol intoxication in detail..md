@@ -27,10 +27,11 @@ The effects of alcohol are conventionally divided into three distinct clinical s
 
 ##### **I. Stage of Excitement (BAC: 50–150 mg%)**
 
-- **Behavioral Changes:** The person becomes euphoric with an exaggerated sense of well-being. They may become talkative, disclose secrets (known as _**In vino veritas**_—in wine there is truth), and behave recklessly.
+- **Behavioral Changes:** The person becomes euphoric with an exaggerated sense of well-being. They may become talkative, disclose secrets (known as *==**In vino veritas**==*—in wine there is truth), and behave recklessly.
 - **Cognitive Effects:** Judgment is impaired, and the faculty of attention deteriorates.
 - **Physical Signs:** Lowering of visual acuity and the presence of **nystagmus** (involuntary rhythmic eye movement).
 - **Sexual Effect:** It increases sexual desire but markedly impairs physical performance.
+- Pupils dilated
 
 ##### **II. Stage of Incoordination (BAC: 150–250 mg%)**
 
@@ -45,8 +46,9 @@ The effects of alcohol are conventionally divided into three distinct clinical s
 ##### **III. Stage of Narcosis / Coma (BAC: >250 mg%)**
 
 - **Clinical Presentation:** The person becomes profoundly giddy, staggers, and eventually falls into a deep sleep from which they cannot be easily roused.
-- **McEwan's Sign (★ Important Exam Point):** The pupils are characteristically constricted, but if the patient is stimulated (e.g., by pinching or slapping), the **pupils dilate with slow return**. This helps differentiate alcoholic coma from other types of coma.
-- **Vital Signs:** Breathing becomes stertorous (heavy snoring sound), the pulse is rapid, and the body temperature falls (hypothermia).
+- ***==McEwan's Sign==* (★ Important Exam Point):** The pupils are characteristically ==constricted==, but if the patient is stimulated (e.g., by pinching or slapping), the ***pupils dilate with slow return***. This helps differentiate alcoholic coma from other types of coma.
+- **Vital Signs:** Breathing depression -Breathing becomes stertorous (heavy snoring sound),
+(circulatory depression )the pulse is rapid, and the body temperature falls (hypothermia).
 - **Lethal Level:** Death typically occurs if the BAC is between **400–500 mg/dL**.
 
 ---
@@ -82,7 +84,7 @@ University examinations now require the application of the new 2023 criminal law
 
 #### **6. Medico-Legal Examination (Drunkenness)**
 
-★ **Important Exam Point: Field Impairment Tests (FITs)**:
+★ **Important Exam Point: *==Field Impairment Tests (FITs)==***:
 
 1. **Romberg Test:** Standing still with eyes closed and head tilted back; positive if the patient sways or falls.
 2. **Walk and Turn Test:** Walking nine heel-to-toe steps along a straight line.
