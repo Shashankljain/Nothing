@@ -58,7 +58,7 @@ Symptoms typically appear after a latent period of **12–24 hours**.
 
 **II. Ocular (Hallmark Feature) ★**
 
-- **"Snowfield Vision"**: Misty or blurred vision, as if looking through a snowstorm.
+- **"Snowfield Vision"**: Misty or blurred vision, as if looking through a snowstorm. -Retina involvement.
 - 'Halo vision' (bright circles around lights).
 - **Signs:** Pupils are fixed and **dilated (mydriasis)**; optic neuritis and atrophy can lead to permanent blindness.
 
@@ -69,7 +69,7 @@ Symptoms typically appear after a latent period of **12–24 hours**.
 
 **IV. Systemic/Renal**
 
-- **High Anion-Gap Metabolic Acidosis:** Characterized by rapid, deep breathing (Kussmaul breathing).
+- **High Anion-Gap Metabolic Acidosis:** Characterized by rapid, deep breathing ***==(Kussmaul breathing).==***
 - Scanty urine output.
 
 ---
