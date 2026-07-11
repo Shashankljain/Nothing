@@ -11,6 +11,7 @@
 **Classification of Lead Compounds**
 
 1. **Inorganic Lead:** Lead oxides, metallic lead, and salts.
+.       (CATS)
     - _Lead Acetate:_ Sugar of lead (formerly used as an astringent).
     - _Lead Tetraoxide:_ **Sindoor** (red lead).
     - _Lead Sulfide:_ Surma (applied to eyes).
