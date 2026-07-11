@@ -64,8 +64,8 @@ Chronic intoxication is characterized by a diagnostic **triad**: **Tremors**,�
 
 **II. Specific Conditions**
 
-- **Mercurialentis:** A peculiar eye change where a **malt-brown reflex** is seen on the anterior lens capsule due to mercury vapor deposits.
-- **Acrodynia (Pink Disease):** Seen in children as an allergic reaction. Features include pinkish rashes, sweating, tachycardia, and "pain in the extremities".
+- **Mercuria lentis:** A peculiar eye change where a **malt-brown reflex** is seen on the anterior lens capsule due to mercury vapor deposits.
+- **Acrodynia (Pink Disease):** Seen in children as an allergic reaction. Features include -4P pinkish rashes, Peeling of skin,puffy and "pain in the extremities".
 - **Minamata Disease:** Results from organic mercury. Symptoms include ataxia, visual field constriction, hearing loss, and "clouding of consciousness".
 
 ---

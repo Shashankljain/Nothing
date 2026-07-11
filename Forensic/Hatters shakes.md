@@ -1,5 +1,6 @@
 ### **Hatter’s Shakes (Danbury Tremors)**
 [[Metallic poisoning]]
+[[Hg]]
 ---
 
 #### **Basic Concepts**
@@ -26,7 +27,7 @@ The tremors are **coarse** and interspersed with **jerky movements** every f
 3. **Extremities:** Finally involves the **arms and legs**.
 
 ★ **Important Exam Point: Concussion Mercurilis**  
-In the most advanced and severe stages, the tremors become so violent that the condition is referred to as **concussion mercurilis**.
+In the most advanced and severe stages, the tremors become so violent that the condition is referred to as **==*concussion mercurilis*==**.
 
 ---
 
