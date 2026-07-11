@@ -30,9 +30,19 @@
               "icon": "lucide-file",
               "title": "Opium poisoning"
             }
+          },
+          {
+            "id": "91d2e09c35309be9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +133,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Opium poisoning.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -177,7 +186,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "c4ba279d8ce78856",
+  "active": "91d2e09c35309be9",
   "lastOpenFiles": [
     "Opium poisoning.md",
     "Amp.md",
