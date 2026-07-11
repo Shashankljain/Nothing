@@ -3,7 +3,7 @@
 #### **1. Basic Concepts & Classification**
 
 **Definition**  
-Neurotic poisons, also known as **Systemic Poisons**, are substances that act primarily on the Central Nervous System (CNS) after absorption. They can act as stimulants or depressants of various brain and spinal cord functions.
+Neurotic poisons, also known as **Systemic Poisons, Rail road poison ,Roadside poison**, are substances that act primarily on the Central Nervous System (CNS) after absorption. They can act as stimulants or depressants of various brain and spinal cord functions.
 
 **Classification of CNS Poisons**  
 According to their specific site and mode of action, neurotic poisons are classified as follows:
