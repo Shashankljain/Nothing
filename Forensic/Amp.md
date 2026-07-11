@@ -7,14 +7,14 @@
 #### **1. Basic Concepts**
 
 **Introduction**  
-**Methyl Alcohol (Methanol)**, also known as **Wood Alcohol, Wood Naphtha, or Wood Spirits**, is a colorless, volatile liquid with a burning taste and an odor similar to ethyl alcohol. It is widely used as an industrial solvent and is a frequent constituent of antifreeze, duplicating fluids, and cleaning materials.
+**Methyl Alcohol (Methanol)**, also known as **Wood Alcohol, Wood Naphtha, or Wood Spirits**, is a colorless, volatile liquid with a burning taste and an odor similar to ethyl alcohol. It is widely used as an **==industrial solvent==** and is a frequent constituent of **==antifreeze==**, duplicating fluids, and cleaning materials.
 
 **Toxicokinetics (Metabolism)**
 
 - **Absorption:** It is rapidly absorbed through the gastrointestinal tract (GIT), lungs (inhalation), and skin.
-- **Pathophysiology:** Methanol is a cumulative poison because its oxidation occurs at only 15% the rate of ethyl alcohol.
+- **Pathophysiology:** Methanol is a **==cumulative poison==** because its oxidation occurs at only 15% the rate of ethyl alcohol.
 - **Metabolism:** It is converted in the liver by the enzyme **alcohol dehydrogenase** into **Formaldehyde**, which is then converted into **Formic Acid**.
-- **Mechanism of Toxicity:** **Formic acid** is the toxic metabolite responsible for causing a high anion-gap metabolic acidosis and specific damage to the retina and optic nerve.
+- **Mechanism of Toxicity:** **Formic acid** is the toxic metabolite responsible for causing a high anion-gap metabolic acidosis and specific damage to the ==*retina and optic nerve*==.
 
 **Fatal Dose and Period**
 
@@ -54,7 +54,7 @@ Symptoms typically appear after a latent period of **12–24 hours**.
 **I. Gastrointestinal (GIT)**
 
 - Nausea, vomiting, and severe abdominal cramps.
-- A spirit-like odor may be perceived in the breath.
+- A *==spirit-like odor==* may be perceived in the breath.
 
 **II. Ocular (Hallmark Feature) ★**
 
