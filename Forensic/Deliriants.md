@@ -1,5 +1,5 @@
 ### **Poisons Acting on the Central Nervous System (Neurotics)**
-
+[[Toxicology]]
 #### **1. Basic Concepts & Classification**
 
 **Definition**  

@@ -1,5 +1,5 @@
 ### **Cocainism (Chronic Cocaine Poisoning)**
-
+[[Deliriants]]
 ---
 
 #### **Basic Concepts**
