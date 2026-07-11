@@ -54,7 +54,7 @@ OP poisoning produces a **Cholinergic Toxidrome**.
 
 - Seizures, coma, and respiratory depression.
 - ★ **Key Sign:** **Pinpoint pupils (Miosis)**.
-- ★ **Characteristic Odour:** A strong **kerosene-like smell** in the breath and vomitus (due to the solvent used).
+- ★ **Characteristic Odour:** A strong **==kerosene-like smell==** in the breath and vomitus (due to the solvent used).
 
 ---
 
@@ -84,11 +84,12 @@ Management follows the **ABCD** mnemonic (Airway, Breathing, Circulation, Drug
 
 1. **Decontamination:**
     - **Skin:** Remove contaminated clothes and wash skin with soap and water.
-    - **Gastric Lavage:** Perform within 1–2 hours of ingestion using **Potassium Permanganate (1:5000)** to oxidize the poison.
+    - **Gastric Lavage:** Perform within 1–2 hours of ingestion using **==*Potassium Permanganate (1:5000)***== to oxidize the poison.
 2. **Specific Antidotes:**
     - **Atropine:** The **physiological antagonist**. It blocks muscarinic receptors to stop secretions and bradycardia. (End-point: Drying of secretions and dilated pupils).
     - **Pralidoxime (Oximes/PAM):** The **enzyme reactivator**. It "breaks" the bond between OP and AChE if given before "aging" occurs.
 3. **Supportive Care:** Maintain airway; mechanical ventilation may be required if respiratory muscles are paralyzed.
+##### 4. Protective care
 
 ---
 

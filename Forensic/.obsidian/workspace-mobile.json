@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agricultural poison.md",
+                "file": "Rodenticides.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agricultural poison"
+              "title": "Rodenticides"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Agricultural poison.md",
+            "file": "Rodenticides.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,9 +168,9 @@
   },
   "active": "b71fc1f264981525",
   "lastOpenFiles": [
+    "Agricultural poison.md",
     "Pethidine.md",
     "Opium poisoning.md",
-    "Agricultural poison.md",
     "Somniferous.md",
     "Amp.md",
     "Stages of alcohol intoxication in detail..md",
