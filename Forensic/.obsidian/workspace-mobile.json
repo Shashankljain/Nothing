@@ -112,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Pb.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
