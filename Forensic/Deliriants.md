@@ -3,21 +3,21 @@
 #### **1. Basic Concepts & Classification**
 
 **Definition**  
-Neurotic poisons, also known as **Systemic Poisons, Rail road poison ,Roadside poison**, are substances that act primarily on the Central Nervous System (CNS) after absorption. They can act as stimulants or depressants of various brain and spinal cord functions.
+Neurotic poisons, also known as **Systemic Poisons**, are substances that act primarily on the Central Nervous System (CNS) after absorption. They can act as stimulants or depressants of various brain and spinal cord functions.
 
 **Classification of CNS Poisons**  
 According to their specific site and mode of action, neurotic poisons are classified as follows:
 
-|**Category**|**Sub-type**|**Examples**|
-|:--|:--|:--|
-|**I. Cerebral**|**Somniferous** (Sleep-inducing)|Opioids (Morphine), Barbiturates|
-||**Inebriants** (Intoxicating)|Ethanol (Alcohol), Ether, Anesthetics|
-||**Deliriants** (Cause delirium)|**Dhatura**, Cannabis, Cocaine|
-|**II. Spinal**|Act on the spinal cord|_Strychnos nux-vomica_ (Strychnine)|
-|**III. Peripheral**|Act on peripheral nerves|Curare, Conium|
+| **Category**        | **Sub-type**                     | **Examples**                                      |
+| :------------------ | :------------------------------- | :------------------------------------------------ |
+| **I. Cerebral**     | **Somniferous** (Sleep-inducing) | Opioids (Morphine), Barbiturates                  |
+|                     | **Inebriants** (Intoxicating)    | Ethanol (Alcohol), Ether, Anesthetics             |
+|                     | **Deliriants** (Cause delirium)  | **Dhatura**, Cannabis, Cocaine                    |
+| **II. Spinal**      | Act on the spinal cord           | _Strychnos nux-vomica_ (Strychnine),==Gelsemium== |
+| **III. Peripheral** | Act on peripheral nerves         | Curare, Conium                                    |
 
 ---
-
+![[image 2.jpg]]
 ### **Dhatura Poisoning (Deliriant Poisoning)**
 
 #### **1. Basic Concepts**
@@ -25,7 +25,7 @@ According to their specific site and mode of action, neurotic poisons are classi
 **Introduction**  
 Dhatura is a member of the _Solanaceae_ family. In India, common species include _**Datura alba**_ (white flowers) and _**Datura fastuosa**_ (purple flowers).
 
-**What? (Common Names):** Known as Thorn Apple, Jimson Weed, Hell’s Bell, Devil’s Trumpet, and Rail-road poison.
+**What? (Common Names):** Known as Thorn Apple,Roadside poison, Jimson Weed, Hell’s Bell, Devil’s Trumpet, and Rail-road poison.
 
 **Active Principles:** The plant contains **Tropane alkaloids**:
 
