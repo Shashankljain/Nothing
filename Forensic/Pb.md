@@ -24,7 +24,10 @@
 - **Excretion:** Mainly through urine (70%), but the rate is slow, leading to cumulative toxicity.
 
 ---
+# MOA 
 
+
+---
 ### **Medico-Legal Importance**
 
 ★ **Important Exam Point: Manner of Exposure**
