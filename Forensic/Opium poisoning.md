@@ -1,5 +1,5 @@
 ### **Opium Poisoning (Somniferous/Narcotic Poisoning)**
-
+[[Somniferous]]
 ---
 
 #### **Basic Concepts**
