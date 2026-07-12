@@ -25,10 +25,14 @@
             "id": "3a9919ffd2bd3071",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Drug dependance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drug dependance"
             }
           }
         ],
@@ -123,6 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Drug dependance.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
