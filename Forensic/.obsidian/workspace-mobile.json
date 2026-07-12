@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Aspirin"
             }
+          },
+          {
+            "id": "687179ec26895e36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCPNDT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PCPNDT"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Aspirin.md",
+            "file": "PCPNDT.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,14 +181,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "e11c29463a1ca954",
+  "active": "687179ec26895e36",
   "lastOpenFiles": [
+    "PCPNDT.md",
+    "Aspirin.md",
     "Paracetamol poisoning.md",
     "Food poisoning (botulism ).md",
     "THOTA.md",
     "Laws.md",
     "COPRA.md",
-    "Aspirin.md",
     "CO.md",
     "Analgesic,Antipyretic.md",
     "CN.md",
@@ -193,7 +209,6 @@
     "Somniferous.md",
     "Cocainism.md",
     "Cocain toxicity.md",
-    "Cannabis indica.md",
     "image 2.jpg",
     "image 1.jpg",
     "image.jpg"
