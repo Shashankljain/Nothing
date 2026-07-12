@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "PCPNDT"
             }
+          },
+          {
+            "id": "db8b01955baeb8bc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +137,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "PCPNDT.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,7 +190,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "687179ec26895e36",
+  "active": "db8b01955baeb8bc",
   "lastOpenFiles": [
     "PCPNDT.md",
     "Aspirin.md",
