@@ -22,7 +22,7 @@ Nux vomica, poison nut, Quaker buttons, _kuchila_, and _yetti_.
 ★ **Important Exam Point:** Strychnine is a competitive antagonist of **glycine**, which is an inhibitory neurotransmitter.
 
 - **How:** It blocks glycine receptors in the anterior horn cells of the spinal cord (specifically **Renshaw cells**).
-- **Effect:** By blocking inhibition, it causes "release excitation," leading to constant, powerful muscle contractions.
+- **Effect:** By blocking inhibition, it causes "release excitation," leading to constant, ==powerful muscle contractions.==
 
 ---
 
@@ -33,7 +33,7 @@ Symptoms typically appear within **15–30 minutes** of ingestion.
 **I. Prodromal (Early) Symptoms**
 
 - Bitter taste in the mouth.
-- A "choking sensation" in the throat and stiffness of the face and neck.
+- A "==choking sensation==" in the throat and ==stiffness of the face and neck.==
 - Increased acuity of perception (hyperesthesia) to light, sound, and touch.
 
 **II. The "Conscious" Seizure ★**  
