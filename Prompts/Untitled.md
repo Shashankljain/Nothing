@@ -31,6 +31,9 @@ Use them consistently to represent:
 • Decision making
 • Clinical reasoning
 
+Whenever possible, replace descriptive sentences with symbols, arrows, abbreviations, mathematical operators, and compact notation.
+
+Prefer symbolic representation over full sentences
 Instead of writing long paragraphs:
 
 ✓ Use concise bullet points
