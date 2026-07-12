@@ -11,17 +11,70 @@
             "id": "e11c29463a1ca954",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "781a69347e59c8f3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Opium poisoning.md",
+                "file": "Body packer syn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opium poisoning"
+              "title": "Body packer syn"
+            }
+          },
+          {
+            "id": "183eba0eaa19d8f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Designer drug.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Designer drug"
+            }
+          },
+          {
+            "id": "2e02be5b9be1176e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spinal poison.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spinal poison"
+            }
+          },
+          {
+            "id": "b390d993ac7aea44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drug dependance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drug dependance"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -112,7 +165,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Opium poisoning.md",
+            "file": "Drug dependance.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,8 +219,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "e11c29463a1ca954",
+  "active": "b390d993ac7aea44",
   "lastOpenFiles": [
+    "Spinal poison.md",
+    "Designer drug.md",
+    "Body packer syn.md",
+    "Drug dependance.md",
+    "Pethidine.md",
+    "Opium poisoning.md",
     "Somniferous.md",
     "Cocainism.md",
     "Cocain toxicity.md",
@@ -176,8 +235,6 @@
     "image 2.jpg",
     "Rodenticides.md",
     "Agricultural poison.md",
-    "Pethidine.md",
-    "Opium poisoning.md",
     "Amp.md",
     "Stages of alcohol intoxication in detail..md",
     "CNS depressents.md",
@@ -191,9 +248,6 @@
     "Metallic poisoning.md",
     "Difference between arsenic poisoningand cholera..md",
     "AMP.md",
-    "Organic irritants.md",
-    "Ophitoximia.md",
-    "Scorpion.md",
     "image 1.jpg",
     "image.jpg"
   ]

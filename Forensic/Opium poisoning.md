@@ -75,7 +75,7 @@ Symptoms usually appear within 30–90 minutes of oral ingestion. The clinical c
 **3. Stage of Narcosis/Coma**: ★ **Important Exam Point: The Classic Triad** The triad of **Respiratory Depression + Pin-point Pupils + Coma** is diagnostic.
 
 - **Pupils:** Constricted to **pin-point size** and non-reacting to light.
-- **Respiration:** Very slow, stertorous (4–6 breaths/min); becomes Cheyne-Stokes before death.
+- **Respiration:** Very slow, stertorous (4–6 breaths/min); becomes ==*Cheyne-Stokes*== before death.
 - **Skin:** Cold and clammy with profuse perspiration (all other secretions are suspended).
 - **Secretions:** Only sweat is increased; all others (saliva, urine) are diminished.
 - **Foam Cone:** Pinkish froth may appear at the mouth during terminal stages.
