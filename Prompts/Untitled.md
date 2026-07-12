@@ -32,6 +32,43 @@ Use them consistently to represent:
 • Clinical reasoning
 
 Whenever possible, replace descriptive sentences with symbols, arrows, abbreviations, mathematical operators, and compact notation.
+Use symbols extensively:
+
+↑ = Increased
+
+↓ = Decreased
+
+→ = Leads to
+
+⇒ = Therefore
+
+⇄ = Bidirectional
+
+↔ = Associated with
+
++ = And
+
+/ = Or
+
+≠ = Not equal to
+
+> = Greater than
+
+< = Less than
+
+≈ = Approximately
+
+✓ = Present
+
+✗ = Absent
+
+⚠ = Important caution
+
+★ = Frequently asked
+
+📌 = High-yield
+
+💡 = Clinical pearl
 
 Prefer symbolic representation over full sentences
 Instead of writing long paragraphs:
