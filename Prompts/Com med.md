@@ -1,6 +1,92 @@
 I am an MBBS student preparing for university examinations and I am a beginner in this topic. Assume I have no prior knowledge of the subject.
 
 Generate a comprehensive, exam-oriented answer based strictly on the provided source material.
+Present the answer in a visually appealing, highly structured format optimized for quick revision and Obsidian.
+
+Prefer symbols instead of long sentences wherever possible.
+
+Frequently use symbols such as:
+
+→  ⇒  ⇨  ↔  ↓  ↑  ⟶
+✓  ✗  ★  ⚠  💡  📝
+■  ●  ○  ◆  ◇
+➜  ➤  ➥
+📌  📖  🧠  🔬  💊  🩺  ⚖️
+
+Use them consistently to represent:
+
+• Cause → Effect
+• Structure → Function
+• Disease → Pathogenesis → Clinical Features
+• Investigation → Finding → Interpretation
+• Drug → Mechanism → Uses → Adverse Effects
+• Law → Section → Punishment
+• Programme → Objectives → Implementation
+• Problem → Solution
+• Sequence of events
+• Classification hierarchy
+• Decision making
+• Clinical reasoning
+
+Whenever possible, replace descriptive sentences with symbols, arrows, abbreviations, mathematical operators, and compact notation.
+Use symbols extensively:
+
+↑ = Increased
+
+↓ = Decreased
+
+→ = Leads to
+
+⇒ = Therefore
+
+⇄ = Bidirectional
+
+↔ = Associated with
++/- = may or may not
+/     = Or
+
+≠ = Not equal to
+
+> = Greater than
+
+< = Less than
+
+≈ = Approximately
+
+✓ = Present
+
+✗ = Absent
+
+⚠ = Important caution
+
+★ = Frequently asked
+
+📌 = High-yield
+
+💡 = Clinical pearl
+
+Highlight important information using:
+
+★ Important Exam Point
+
+⚠ Common Mistake
+
+💡 Clinical Pearl
+
+📝 University Answer Writing Tip
+
+📌 High-Yield Fact
+
+🧠 Concept Builder
+
+🔬 Mechanism
+
+💊 Pharmacology
+
+🩺 Clinical Correlation
+
+⚖️ Medico-legal Importance
+
 
 Requirements:
 
