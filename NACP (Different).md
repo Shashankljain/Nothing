@@ -78,7 +78,7 @@ Integrated Counselling and Testing Centres (ICTCs) are the "gateway" to HIV serv
     *   **Safe Delivery:** Elective C-section (where safe) and avoiding invasive procedures.
     *   **Infant Care:** Administering Nevirapine syrup to the newborn within 72 hours and follow-up until 18 months.
 
-Diagnostic Services (The 5 Cs)**
+7) Diagnostic Services (The 5 Cs)**
 
 Testing is provided through **Integrated Counselling and Testing Centres (ICTC)**. Testing must follow the **WHO "5Cs" principles**:
 
