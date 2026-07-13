@@ -162,13 +162,8 @@ For National Health Programmes, explain under the following headings:
     * Mention the figure/diagram number at the appropriate place.
     * Explain what the diagram demonstrates.
 10. Highlight keywords that should be written in examinations.
-11. At the end provide:
-    A. Quick Revision Notes
-    B. One-page Exam Summary
-    C. Last-minute Revision Points
-12. If the topic is commonly asked as a 2-mark, 5-mark, 10-mark, or 15-mark question, provide a model university-exam answer format for each.
-13. Maintain scientific accuracy while keeping the explanation simple enough for a beginner.
-14. Do not skip intermediate concepts. Explain every important step as if teaching a first-year learner.
-15. Prioritize conceptual understanding first and then exam-oriented presentation.
-16. Use bullet points, tables, flowcharts, and structured formatting extensively for easy revision.
-17. ⁠Whenever possible, indicate which points are most likely to fetch marks in the examination and mark them as ★ Important Exam Point
+11. Maintain scientific accuracy while keeping the explanation simple enough for a beginner.
+12. Do not skip intermediate concepts. Explain every important step as if teaching a first-year learner.
+13. Prioritize conceptual understanding first and then exam-oriented presentation.
+14. Use bullet points, tables, flowcharts, and structured formatting extensively for easy revision.
+15. ⁠Whenever possible, indicate which points are most likely to fetch marks in the examination and mark them as ★ Important Exam Point
