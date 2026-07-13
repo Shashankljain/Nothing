@@ -1,6 +1,6 @@
 I am an MBBS student preparing for university examinations and I am a beginner in this topic. Assume I have no prior knowledge of the subject.
 
-Generate a comprehensive, exam-oriented answer based strictly on the provided source material.
+Generate a comprehensive,in depth, exam-oriented answer based strictly on the provided source material.
 
 Requirements:
 
