@@ -8,7 +8,7 @@ An **Integrated Counselling and Testing Centre (ICTC)** is a health facility w
 ★ **Important Exam Point:** The integration of **professional counselling** with medical testing is what distinguishes an ICTC from a regular diagnostic laboratory.
 
 ---
-
+![[image 1.jpg]]
 ### **2. The WHO "5Cs" Principles**
 
 According to the sources, every ICTC must strictly adhere to five core principles to ensure ethical standards and high-quality care:
