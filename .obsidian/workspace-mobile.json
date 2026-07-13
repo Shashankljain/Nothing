@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Com med/NVBDCP.md",
+                "file": "Com med/NRHM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NVBDCP"
+              "title": "NRHM"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Forensic/Opium poisoning.md",
+            "file": "Com med/NRHM.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,6 +170,7 @@
   },
   "active": "83c9460f1b0632f5",
   "lastOpenFiles": [
+    "Com med/NVBDCP.md",
     "Prompts/Com med.md",
     "Forensic/Spinal poison.md",
     "Prompts/Untitled.md",
@@ -195,7 +196,6 @@
     "Com med/RNTCP.md",
     "Com med/RCH.md",
     "Com med/PM in Paediatrics.md",
-    "Com med/PM in Obstetrics.md",
     "Prompts",
     "Forensic/image 2.jpg",
     "Forensic/image 1.jpg",
