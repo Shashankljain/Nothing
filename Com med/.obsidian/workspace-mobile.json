@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NVB.md",
+                "file": "NVBDCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NVB"
+              "title": "NVBDCP"
             }
           }
         ],
@@ -181,7 +181,7 @@
   },
   "active": "a64077ae6f2c2269",
   "lastOpenFiles": [
-    "NVB.md",
+    "NVBDCP.md",
     "Health programmes in India.md",
     "BFHI.md",
     "PM in geriatrics.md",
