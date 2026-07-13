@@ -44,9 +44,19 @@
               "icon": "lucide-file",
               "title": "NRHM"
             }
+          },
+          {
+            "id": "bfc5a035cf5a5a1d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +147,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "NRHM.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -193,7 +202,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "7802cd998bbd105c",
+  "active": "bfc5a035cf5a5a1d",
   "lastOpenFiles": [
     "NRHM.md",
     "Blindness.md",
