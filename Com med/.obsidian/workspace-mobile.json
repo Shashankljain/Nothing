@@ -11,10 +11,14 @@
             "id": "864956fb9e8ac231",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "NLEP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NLEP"
             }
           },
           {
@@ -23,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NVBDCP.md",
+                "file": "Malaria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NVBDCP"
+              "title": "Malaria"
             }
           }
         ],
@@ -60,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#Assist",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -111,7 +115,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "199b396c048b2968",
@@ -123,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "NVBDCP.md",
+            "file": "Malaria.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,10 +185,10 @@
   },
   "active": "a64077ae6f2c2269",
   "lastOpenFiles": [
-    "Malaria.md",
-    "NLEP.md",
-    "ICTC.md",
     "NVBDCP.md",
+    "NLEP.md",
+    "Malaria.md",
+    "ICTC.md",
     "NRHM.md",
     "RCH.md",
     "Blindness.md",

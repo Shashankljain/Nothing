@@ -69,9 +69,10 @@ The core activities of the programme are divided into three main strategies:
 
 The programme follows a decentralized three-tier structure:
 
-- **National Level:** Directorate of NVBDCP (Delhi) under the Ministry of Health and Family Welfare (MoHFW).
-- **State Level:** State Vector Borne Disease Control Division headed by the **State Programme Officer (SPO)**.
+- **National Level:** Directorate of NVBDCP (Delhi) under the Ministry of Health and Family Welfare (MoHFW). Supply DDT,Larvicide
+- **State Level:** State Vector Borne Disease Control Division headed by the **State Programme Officer (SPO)**. Strategise , implement of programme.
 - **District Level:** District Vector Borne Disease Control Society (merged with District Health Society) headed by the **District Malaria Officer (DMO)** or **DVBDC Officer**.
+	the Management of funds and planning, monitoring of programs activities 
 - **Peripheral Level:** **Primary Health Centres (PHCs)** and **Sub-centres**, where **ASHAs** and **Multi-Purpose Workers (MPWs)** perform door-to-door surveillance and case management.
 
 ---
