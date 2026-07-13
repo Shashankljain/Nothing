@@ -1,96 +1,110 @@
 [[Health programmes in India]]
-Vector-borne diseases (VBDs) are a group of illnesses caused by pathogens (parasites, viruses, or bacteria) that are transmitted by vectors such as mosquitoes, sandflies, ticks, and fleas. In India, these diseases account for significant morbidity and mortality, particularly among the poor and tribal populations.
+**Vector-borne diseases (VBDs)** are a group of communicable diseases transmitted by the bite of infected arthropod vectors (such as mosquitoes, sandflies, and ticks) or via certain non-vertebrate hosts. In India, these diseases constitute a major public health challenge due to their high morbidity and potential for explosive outbreaks.
 
-### **Vector-Borne Diseases of Public Health Importance in India**
+The **National Vector Borne Disease Control Programme (NVBDCP)** serves as the umbrella organization for the prevention and control of these diseases in India.
 
-The National Vector Borne Disease Control Programme (NVBDCP) focuses on six primary VBDs in India.
+---
 
-#### **Table: Agents and Vectors of Major VBDs**
+### **Enumeration of Vector Borne Diseases in India**
 
-|**Disease**|**Pathogen (Agent)**|**Vector**|**Key Characteristic**|
-|:--|:--|:--|:--|
-|**Malaria**|_Plasmodium vivax_, _P. falciparum_|Female _Anopheles_ mosquito|_An. culicifacies_ (rural), _An. stephensi_(urban)|
-|**Lymphatic Filariasis**|_W. bancrofti_, _Brugia malayi_|_Culex quinquefasciatus_, _Mansonia_|_Culex_ breeds in dirty/polluted water|
-|**Kala-azar (VL)**|_Leishmania donovani_|_Phlebotomus argentipes_(Sandfly)|Non-zoonotic in India; man is sole reservoir|
-|**Dengue**|Dengue virus (Serotypes 1, 2, 3, 4)|_Aedes aegypti_, _Aedes albopictus_|Day-biting; breeds in man-made containers|
-|**Chikungunya**|Chikungunya virus|_Aedes aegypti_, _Aedes albopictus_|"Doubling up" due to excruciating joint pain|
-|**Japanese Encephalitis (JE)**|JE Virus (Flavivirus)|_Culex tritaeniorhynchus_, _C. vishnui_|Zoonotic; pigs are the major animal host|
+The following six diseases are of primary public health importance under the NVBDCP:
 
-★ **Important Exam Point:** While others like **Zika Virus Disease** and **Kyasanur Forest Disease (KFD)** exist in India, the "Big Six" listed above are the core focus of the National Programme.
+1. **Malaria**
+2. **Lymphatic Filariasis**
+3. **Kala-azar (Visceral Leishmaniasis)**
+4. **Japanese Encephalitis (JE)**
+5. **Dengue Fever / Dengue Haemorrhagic Fever**
+6. **Chikungunya Fever**
+
+---
+
+### **Agents and Vectors of VBDs in India**
+
+|Disease|Causative Agent|Primary Vector(s) in India|
+|:--|:--|:--|
+|**Malaria**|_Plasmodium vivax, P. falciparum, P. malariae, P. ovale_|_Anopheles culicifacies_ (rural), _Anopheles stephensi_(urban)|
+|**Lymphatic Filariasis**|_Wuchereria bancrofti_ (90%), _Brugia malayi_|_Culex quinquefasciatus_ (for Bancroftian), _Mansonia_ spp. (for Brugian)|
+|**Kala-azar**|_Leishmania donovani_ (protozoa)|_Phlebotomus argentipes_ (Sandfly)|
+|**Japanese Encephalitis**|Japanese Encephalitis Virus (Flavivirus)|_Culex tritaeniorhynchus, Culex vishnui_|
+|**Dengue**|Dengue Virus (Serotypes 1, 2, 3, 4)|_Aedes aegypti, Aedes albopictus_|
+|**Chikungunya**|Chikungunya Virus (Alphavirus)|_Aedes aegypti, Aedes albopictus_|
 
 ---
 
 ### **National Vector Borne Disease Control Programme (NVBDCP)**
 
-The NVBDCP is the nodal agency for policy making and technical guidance for the prevention and control of these diseases in India, operating under the overall umbrella of the **National Rural Health Mission (NRHM)**.
+The NVBDCP is implemented in States and UTs under the overall umbrella of the **National Rural Health Mission (NRHM)**. The Directorate of NVBDCP is the nodal agency for policy and technical guidance.
 
-#### **A. Aim and Goals**
+#### **1. Aim**
 
-- **Goal:** To achieve a "Malaria Free India" by 2030 and eliminate Lymphatic Filariasis and Kala-azar as public health problems.
-- **Target:** Reduce mortality and morbidity significantly through integrated strategies.
+To reduce morbidity and mortality due to vector-borne diseases and to achieve elimination targets for specific diseases like Malaria, Kala-azar, and Lymphatic Filariasis.
 
-#### **B. Three-Pronged Strategy**
+#### **2. Three-Pronged Strategy**
 
-**1. Disease Management (Early Case Detection & Complete Treatment)**
+The core activities of the programme are divided into three main strategies:
 
-- **Malaria:** Use of **Rapid Diagnostic Tests (RDTs)** at the community level and **Artesunate Combination Therapy (ACT)** for _P. falciparum_.
-- **Kala-azar:** Use of **rK39 kits** for rapid diagnosis and oral **Miltefosine** or single-dose **Liposomal Amphotericin B**for treatment.
-- **Filariasis:** **Mass Drug Administration (MDA)** using annual single doses of DEC + Albendazole (or Ivermectin) to the entire at-risk population.
-- **Dengue/JE:** Strengthening referral services and clinical management as there is no specific antiviral cure.
+**A. Disease Management**
 
-**2. Integrated Vector Management (IVM)**
+- **Early Case Detection and Complete Treatment (EDCT):** Using **Rapid Diagnostic Kits (RDKs)** and microscopy for diagnosis; and effective drugs like **Artesunate Combination Therapy (ACT)** for Malaria.
+- **Strengthening Referral Services:** Improving hospital preparedness for severe cases (e.g., Dengue shock syndrome or Cerebral Malaria).
+- **Epidemic Preparedness:** Rapid response teams for outbreak containment.
 
-- **Indoor Residual Spray (IRS):** Spraying walls with insecticides like DDT, Malathion, or Synthetic Pyrethroids.
-- **Long-Lasting Insecticidal Nets (LLINs):** Distribution of insecticide-treated nets, particularly in high-risk tribal areas.
-- **Anti-Larval Measures:**
-    - **Chemical:** Use of **Temephos (Abate)** or Paris Green in water.
-    - **Biological:** Use of larvivorous fish like **Gambusia** and _Poecilia_ in stagnant water.
-    - **Environmental:** "Source Reduction"—eliminating breeding sites by filling ditches or improving drainage.
+**B. Integrated Vector Management (IVM)**
 
-**3. Supportive Interventions**
+- **Indoor Residual Spraying (IRS):** Spraying insecticide on indoor walls in selected high-risk areas.
+- **Insecticide Treated Bed Nets (ITNs):** Promotion and distribution of **Long-Lasting Insecticidal Nets (LLINs)**.
+- **Anti-Larval Measures:** Use of **larvivorous fish** (Gambusia/Poecilia) in water bodies and chemical larvicides in urban areas.
+- **Source Reduction:** Minor environmental engineering to eliminate breeding sites (stagnant water collection).
 
-- **Behaviour Change Communication (BCC):** Educating the community on using bed nets and identifying symptoms.
-- **Public-Private Partnership (PPP):** Involving NGOs and private practitioners in reporting and treatment.
-- **Inter-sectoral Convergence:** Collaborating with departments like Urban Development (for drainage) and Agriculture.
+**C. Supportive Interventions**
 
----
-
-### **★ High-Yield Exam Points**
-
-- **Umbrella Programme:** NVBDCP was formed in **2002** by merging programmes for Malaria, Filariasis, and Kala-azar.
-- **The "Gold Standard":** Microscopy remains the gold standard for malaria diagnosis in the programme.
-- **Elimination Criteria:**
-    - **Leprosy:** <1 case per 10,000 population.
-    - **Kala-azar:** <1 case per 10,000 population at the block level.
-    - **Filariasis:** Microfilaria rate <1%.
+- **Behaviour Change Communication (BCC):** Creating awareness through IPC (Inter-Personal Communication) and mass media to ensure community participation.
+- **Public-Private Partnership (PPP):** Involving private practitioners and NGOs in diagnosis and treatment.
+- **Human Resource Development:** Capacity building and training for all cadres of health workers (MOs, ASHAs, MPWs).
+- **Monitoring and Evaluation:** Periodic reviews, field visits, and web-based management information systems.
 
 ---
 
-### **Frequently Asked Viva Questions**
+### **Organizational Structure of NVBDCP**
 
-**Q: Which mosquito breeds in "clean water" vs "dirty water"?** **A:** _Anopheles_ (Malaria) generally prefers clean water; _Culex_ (Filariasis) breeds profusely in polluted/dirty water collections.
+The programme follows a decentralized three-tier structure:
 
-**Q: What is the "Annual Parasite Incidence" (API)?** **A:** It is the number of confirmed malaria cases per 1,000 population per year. An **API ≥ 2** is used as a threshold for identifying high-risk areas eligible for vector control.
+- **National Level:** Directorate of NVBDCP (Delhi) under the Ministry of Health and Family Welfare (MoHFW).
+- **State Level:** State Vector Borne Disease Control Division headed by the **State Programme Officer (SPO)**.
+- **District Level:** District Vector Borne Disease Control Society (merged with District Health Society) headed by the **District Malaria Officer (DMO)** or **DVBDC Officer**.
+- **Peripheral Level:** **Primary Health Centres (PHCs)** and **Sub-centres**, where **ASHAs** and **Multi-Purpose Workers (MPWs)** perform door-to-door surveillance and case management.
 
-**Q: What is "Source Reduction"?** **A:** It is an environmental control method that involves the permanent elimination of vector breeding places, such as filling ditches or draining stagnant water.
+---
+
+### **High-Yield Exam Points ★**
+
+- ★ **Malaria Elimination Target:** India aims to interrupt local transmission and achieve zero indigenous cases by **2027** and maintain malaria-free status by **2030**.
+- ★ **Kala-azar Elimination:** Defined as an incidence of less than **1 case per 10,000 population** at the block level.
+- ★ **Filariasis Strategy:** Based on **Mass Drug Administration (MDA)** once a year for 5 years or more using DEC + Albendazole.
+- ★ **Aedes aegypti Index:** A house index used for surveillance; it should not exceed **1%** in towns to ensure freedom from Yellow Fever (an international requirement).
+- ★ **Larvivorous Fish:** _Gambusia affinis_ and _Poecilia reticulata_ are widely used biological control agents.
 
 ---
 
 ### **Quick Revision Summary**
 
-- **Diseases:** 6 (Malaria, Filaria, Kala-azar, JE, Dengue, Chikungunya).
-- **Strategy:** Disease management, Integrated Vector Management (IVM), and BCC.
-- **Tools:** RDTs, ACT, LLINs, IRS, Larvivorous fish.
-- **Malaria Target:** Zero indigenous cases by 2027; elimination by 2030.
-- **Sandfly Control:** Residual spraying (DDT) up to a height of 6 feet.
+- **Program Name:** NVBDCP (National Vector Borne Disease Control Programme).
+- **Diseases (6):** Malaria, Filaria, Kala-azar, JE, Dengue, Chikungunya.
+- **Core Strategy:** Disease Management (EDCT), Integrated Vector Management (IRS, LLINs, Larvivorous fish), and Supportive Interventions (BCC, Training).
+- **Malaria Vector:** _Anopheles_ (Night biter).
+- **Dengue/Chikungunya Vector:** _Aedes_ (Day biter, "Tiger Mosquito").
+- **Kala-azar Vector:** _Phlebotomus_ (Sandfly).
+- **Diagnosis Tools:** RDTs (Rapid Diagnostic Tests) and Microscopy.
 
 ---
 
-### **Model University Exam Answer Format (10 Marks)**
+### **Frequently Asked Viva Questions**
 
-1. **Introduction:** Define VBDs and mention NVBDCP as the nodal agency under NRHM.
-2. **Enumeration Table:** List the 6 diseases with their agents and specific vectors.
-3. **NVBDCP Strategies:** Explain the three-pronged approach (Disease Management, IVM, Supportive).
-4. **Malaria Elimination:** Mention the National Strategic Plan (2023-2027) and target years (2027/2030).
-5. **Vector Control Methods:** Detail IRS, LLINs, and biological control (Gambusia fish).
-6. **Conclusion:** Emphasize the importance of community participation and multi-sectoral action.
+1. **Q: What is the "Zero Dose" in OPV?**
+    - **A:** It is the dose of Oral Polio Vaccine given at birth or within the first 15 days of life.
+2. **Q: Which vector is called the "Nuisance Mosquito"?**
+    - **A:** _Culex quinquefasciatus_, because it is a terrible pest and breeds in dirty water around dwellings.
+3. **Q: What is the drug of choice for radical treatment of P. vivax?**
+    - **A:** Chloroquine for 3 days followed by **Primaquine** for 14 days (to prevent relapses from hypnozoites).
+4. **Q: What is the significance of the Aedes aegypti index?**
+    - **A:** It monitors the percentage of houses showing larval breeding; keeping it below 1% is critical to prevent the introduction/spread of Yellow Fever.
