@@ -1,86 +1,96 @@
 [[NVBDCP]]
-# Malaria Control and Elimination Strategies
+Malaria is a protozoal disease caused by the _Plasmodium_ parasite and transmitted by the bite of an infected female _Anopheles_ mosquito. In India, the **National Vector Borne Disease Control Programme (NVBDCP)** is the nodal agency for the prevention and control of malaria, now functioning under the umbrella of the National Health Mission (NHM).
 
-### **1. Introduction and Definitions**
-
-Malaria control and elimination strategies in India have evolved from simple disease management to a sophisticated, phased elimination approach under the **National Vector Borne Disease Control Programme (NVBDCP)**.
-
-- **Malaria Control:** Reducing the disease burden to a level where it is no longer a public health problem.
-- **Malaria Elimination:** The interruption of local mosquito-borne transmission (zero indigenous cases) in a defined geographical area.
-- **National Target:** India aims to achieve a "Malaria Free" status by **2030**.
+The current strategic focus has shifted from mere "control" to **Malaria Elimination**, with the goal of achieving a malaria-free India by **2030**.
 
 ---
 
-### **2. The Strategic Framework (The Three-Pronged Strategy)**
+### **Evolution of Malaria Strategy in India**
 
-The NVBDCP, operating under the National Health Mission (NHM), employs a three-pronged strategy for the prevention and control of malaria.
+|Year|Milestone|
+|:--|:--|
+|**1953**|National Malaria Control Programme (NMCP) launched.|
+|**1958**|Converted to National Malaria Eradication Programme (NMEP).|
+|**2002**|Renamed National Vector Borne Disease Control Programme (NVBDCP).|
+|**2016**|National Framework for Malaria Elimination (2016-2030) launched.|
+|**2023**|National Strategic Plan (NSP) for Malaria Elimination (2023-2027) launched.|
 
-#### **A. Disease Management (Early Case Detection & Complete Treatment - EDCT)**
+---
 
-The "Testing, Treating, and Tracking" approach is the cornerstone of reducing the parasite reservoir in the community.
+### **Core Strategies for Malaria Control & Elimination**
 
-- **Diagnosis:**
-    - **Microscopy:** The "Gold Standard" for malaria elimination.
-    - **Rapid Diagnostic Tests (RDTs):** Used at the community level by ASHAs for early diagnosis.
-- **Treatment Guidelines:**
-    - **P. vivax:** Treated with **Chloroquine** (3 days) and **Primaquine** (14 days) to prevent relapses.
-    - **P. falciparum:** Treated with **Artemisinin-based Combination Therapy (ACT)**.
-    - **Severe Malaria:** Managed as a medical emergency with parenteral Artemisinin derivatives (like Artesunate) or Quinine.
+![[image.jpg]]
 
-#### **B. Integrated Vector Management (IVM)**
+The program adopts a **three-pronged strategy**:
 
-IVM involves a combination of methods to reduce the mosquito population and man-vector contact.
+#### **1. Disease Management (Early Case Detection and Complete Treatment - EDCT)**
 
-|**Method**|**Specific Interventions**|**Source**|
+- **Diagnosis:** Use of **Rapid Diagnostic Kits (RDTs)**—specifically bivalent RDTs to detect both _P. vivax_ and _P. falciparum_—especially in remote areas where microscopy is unavailable. Microscopy remains the "gold standard" for its high sensitivity and specificity.
+- **Treatment:** No scope for "presumptive treatment".
+    - **P. vivax:** Chloroquine (3 days) + Primaquine (14 days) to prevent relapse by killing hypnozoites.
+    - **P. falciparum:** **Artemisinin-based Combination Therapy (ACT)** is used. In most of India, it is Artesunate + Sulfadoxine-Pyrimethamine (AS+SP). In the North-Eastern states, due to resistance, Artemether + Lumefantrine (AL) is used.
+- **Referral & Epidemic Response:** Strengthening district hospitals for severe malaria management and deploying Rapid Response Teams for outbreaks.
+
+#### **2. Integrated Vector Management (IVM)**
+
+IVM aims to reduce the ==transmission== risk through biological, chemical, and environmental methods.
+
+- **Indoor Residual Spraying (IRS):** Spraying walls with insecticides like **DDT**, Malathion, or Synthetic Pyrethroids. It is primarily used in rural settings with high transmission.
+- **Personal Protection:** Massive distribution of **Long-Lasting Insecticidal Nets (LLINs)** or Insecticide Treated Bed Nets (ITNs). LLINs are the preferred method for areas with an API ≥ 5.
+- **Anti-larval Measures:**
+    - **Chemical:** Use of larvicides like Temephos or Paris Green.
+    - **Biological:** Use of **larvivorous fish** such as _Gambusia affinis_ and _Poecilia reticulata_ in stagnant water bodies.
+- **Source Reduction:** Environmental engineering like minor drainage, filling pits, and intermittent irrigation to eliminate breeding sites.
+
+#### **3. Supportive Interventions**
+
+- **Behaviour Change Communication (BCC):** Educating the community on early symptom recognition, the importance of finishing treatment, and using bed nets.
+- **Public-Private Partnership (PPP):** Involving private hospitals and NGOs in case notification and management.
+- **Surveillance:**
+    - **Active Case Detection (ACD):** Fortnightly house visits by Multi-Purpose Workers (MPWs) or ASHAs to collect blood smears from fever cases.
+    - **Passive Case Detection (PCD):** Testing patients who voluntarily visit health facilities (PHCs, CHCs).
+    - **Sentinel Surveillance:** Established in large hospitals to track severe cases and malaria deaths.
+
+---
+
+### **National Framework for Malaria Elimination (2016-2030)**
+
+India has categorized States/UTs into four categories based on the **Annual Parasite Incidence (API)** to tailor interventions:
+
+|Category|Definition|Target Status|
 |:--|:--|:--|
-|**Indoor Residual Spray (IRS)**|Spraying walls with insecticides (DDT, Malathion, or Synthetic Pyrethroids) in high-risk areas.||
-|**Personal Protection**|Distribution of **Long-Lasting Insecticidal Nets (LLINs)** and Insecticide Treated Nets (ITNs).||
-|**Anti-Larval Measures**|Use of chemical larvicides (Temephos/Abate) or biological control (Larvivorous fish like **Gambusia**).||
-|**Source Reduction**|Eliminating breeding sites through minor engineering (filling ditches, improving drainage).||
-
-#### **C. Supportive Interventions**
-
-- **Behavior Change Communication (BCC):** Educating the community on identifying signs of malaria and the importance of using bed nets.
-- **Public-Private Partnership (PPP):** Involving NGOs and private practitioners in reporting cases and following treatment protocols.
-- **Inter-sectoral Convergence:** Collaborating with departments like Agriculture and Urban Development.
+|**Category 0**|Zero indigenous cases.|Maintain malaria-free status.|
+|**Category 1**|API < 1 per 1000 population in all districts.|Elimination phase.|
+|**Category 2**|API < 1 but some districts reporting API ≥ 1.|Pre-elimination phase.|
+|**Category 3**|API ≥ 1 per 1000 population.|Intensified control phase.|
 
 ---
 
-### **3. Stratification and Phased Elimination (Programme Phasing)**
+### **★ High-Yield Exam Points ★**
 
-India uses **Annual Parasite Incidence (API)** — the number of confirmed cases per 1,000 population per year — to categorize states and districts for targeted intervention.
-
-- **Category 0:** Transmission interrupted; **Zero indigenous cases** (e.g., Puducherry, Lakshadweep).
-- **Category 1 (Elimination Phase):** API < 1 case per 1000 population in all districts.
-- **Category 2 (Pre-elimination Phase):** API < 1 overall, but some districts have API > 1.
-- **Category 3 (Intensified Control Phase):** API ≥ 1 per 1000 population.
-
----
-
-### **★ High-Yield Exam Points**
-
-- **The "Rule of 2":** Areas with **API ≥ 2** are classified as high-risk and are eligible for vector control measures like IRS.
-- **ACT Contraindication:** ACT is **not** to be given in the **first trimester** of pregnancy.
-- **Primaquine Contraindication:** It should not be given to infants <1 year, pregnant women, or individuals with **G6PD deficiency**.
-- **The 2027/2030 Milestones:** India aims for zero indigenous cases by 2027 and complete elimination by 2030.
+- ★ **Malaria Elimination Target:** Interrupt local transmission and achieve zero indigenous cases by **2027** and maintain it until **2030**.
+- ★ **API (Annual Parasite Incidence):** The most sophisticated measure of malaria incidence. Formula: (Confirmed cases during one year / Population under surveillance) × 1000.
+- ★ **ABER (Annual Blood Examination Rate):** An index of the operational efficiency of the programme. The target is to screen 10% of the population annually.
+- ★ **Urban Malaria Scheme:** Launched in 1971; focuses on anti-larval measures and the implementation of civil bye-laws to prevent breeding in man-made containers (overhead tanks, coolers).
+- ★ **Drug Resistance:** P. falciparum is resistant to Chloroquine in many areas, necessitating the use of ACT.
 
 ---
 
-### **Quick Revision Notes**
+### **Quick Revision Summary**
 
-- **Mission:** National Framework for Malaria Elimination (2016–2030).
-- **Indicators:** API (incidence), ABER (surveillance efficiency), SPR (slide positivity).
-- **Tool of Choice:** RDTs and LLINs are the primary tools in remote/tribal areas.
-- **Tribal Strategy:** Implemented through the **Tribal Malaria Action Plan (TMAP)** to address the high burden in forested areas.
+- **Nodal Agency:** NVBDCP.
+- **Mnemonic for Strategies:** **"I-E-S"** (**I**VM, **E**DCT, **S**upportive Interventions).
+- **Key Tool for Elimination:** Bivalent RDTs and LLINs.
+- **Vector control:** Larvivorous fish (_Gambusia_), IRS (DDT/Malathion), and Source reduction.
+- **Treatment:** Vivax = CQ + PQ (14 days); Falciparum = ACT + PQ (single dose).
 
 ---
 
-### **Frequently Asked Viva Questions**
+### **Model University Exam Answer Format (5 Marks)**
 
-**Q: What is "Annual Parasite Incidence" (API)?** **A:** It is the number of confirmed malaria cases per 1,000 population under surveillance in a year. It is the primary indicator for stratification.
-
-**Q: Why is Chloroquine alone not enough for _P. vivax_?** **A:** Chloroquine only kills the erythrocytic (blood) stage. **Primaquine** is necessary to kill the hypnozoites (dormant liver stage) to prevent relapses.
-
-**Q: Name a biological method used for malaria control.** **A:** Introduction of larvivorous fish like **Gambusia affinis** or _Poecilia_ into stagnant water bodies.
-
-**Q: What is "Source Reduction"?** **A:** It is an environmental control method involving the permanent elimination of mosquito breeding places, such as filling pits or draining water collections.
+1. **Introduction:** Define Malaria and NVBDCP.
+2. **Objectives:** Mention the 2027 and 2030 elimination goals.
+3. **Strategy 1 (Disease Management):** RDTs, Microscopy, and ACT vs. CQ treatment regimens.
+4. **Strategy 2 (Vector Management):** IRS, LLINs, and Larvivorous fish.
+5. **Strategy 3 (Supportive):** BCC, ASHA involvement, and Surveillance (ACD/PCD).
+6. **Conclusion:** Mention the categorization of states (API-based).
