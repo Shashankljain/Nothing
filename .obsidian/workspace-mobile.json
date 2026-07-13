@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompts/Com med.md",
+                "file": "Com med/NVBDCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Com med"
+              "title": "NVBDCP"
             }
           }
         ]
@@ -170,9 +170,9 @@
   },
   "active": "83c9460f1b0632f5",
   "lastOpenFiles": [
+    "Prompts/Com med.md",
     "Forensic/Spinal poison.md",
     "Prompts/Untitled.md",
-    "Prompts/Com med.md",
     "Forensic/War gases.md",
     "Forensic/THOTA.md",
     "Forensic/strychnine vs tetanus.md",
