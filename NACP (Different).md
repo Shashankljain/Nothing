@@ -77,6 +77,17 @@ Integrated Counselling and Testing Centres (ICTCs) are the "gateway" to HIV serv
     *   **Antiretroviral Therapy:** Starting ART (usually Zidovudine) from the 2nd trimester.
     *   **Safe Delivery:** Elective C-section (where safe) and avoiding invasive procedures.
     *   **Infant Care:** Administering Nevirapine syrup to the newborn within 72 hours and follow-up until 18 months.
+Diagnostic Services (The 5 Cs)**
+
+Testing is provided through **Integrated Counselling and Testing Centres (ICTC)**. Testing must follow the **WHO "5Cs" principles**:
+
+1. **Consent:** Voluntary and informed.
+2. **Confidentiality**.
+3. **Counselling:** Pre-test and post-test.
+4. **Correct test results**.
+5. **Connection:** Direct linkage to care and treatment.
+
+#### **
 
 ---
 
