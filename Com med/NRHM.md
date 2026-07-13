@@ -1,6 +1,6 @@
 [[Health programmes in India]]
 
-
+![[Screenshot_20260713-144519.png]]
 ### **National Rural Health Mission (NRHM)**
 
 The **National Rural Health Mission (NRHM)** was launched on **5th April 2005** by the Government of India to provide accessible, affordable, and quality healthcare to the rural population, especially vulnerable groups like women and children. It is now a sub-mission under the **National Health Mission (NHM)**.
