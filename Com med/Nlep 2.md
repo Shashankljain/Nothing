@@ -2,7 +2,7 @@
 The **National Leprosy Eradication Programme (NLEP)** is a centrally sponsored health scheme in India. It was launched in **1983** as a continuation of the National Leprosy Control Programme with the primary goal of eradicating leprosy from the country by introducing **Multidrug Therapy (MDT)**.
 
 ---
-
+![[Pasted image 20260714200322.png]]
 ### **I. Aim and Objectives**
 
 The basic goal of the programme is to reduce the prevalence of leprosy to such a low level that it is no longer a public health problem.
