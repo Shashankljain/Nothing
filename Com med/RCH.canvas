@@ -3,7 +3,8 @@
 		{"id":"514b6fb6418a2cfb","type":"text","text":"![[Pasted image 20260714102100.png]][[Health programmes in India]]","x":-612,"y":-180,"width":612,"height":540},
 		{"id":"cd17324cdf646d13","type":"text","text":"![[Pasted image 20260714102144.png]]\n![[Pasted image 20260714102237.png]]","x":-744,"y":485,"width":264,"height":395},
 		{"id":"901bfb652d5dc61f","type":"text","text":"![[Pasted image 20260714102309.png]]","x":-395,"y":475,"width":255,"height":165},
-		{"id":"53e96e7b9a7525a5","type":"text","text":"![[Pasted image 20260714102359.png]]\n![[Pasted image 20260714102429.png]]","x":-82,"y":481,"width":262,"height":202}
+		{"id":"53e96e7b9a7525a5","type":"text","text":"![[Pasted image 20260714102359.png]]\n![[Pasted image 20260714102429.png]]","x":-82,"y":481,"width":262,"height":202},
+		{"id":"207d94aa3d263c9f","x":-660,"y":-960,"width":709,"height":780,"type":"text","text":"![[RCH]]"}
 	],
 	"edges":[
 		{"id":"83325ab00c358ad4","fromNode":"514b6fb6418a2cfb","fromSide":"bottom","toNode":"cd17324cdf646d13","toSide":"top"},

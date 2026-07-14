@@ -11,13 +11,16 @@
             "id": "b10a531cb582a9b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "RCH.md",
-                "mode": "source",
-                "source": false
+                "file": "RCH.canvas",
+                "viewState": {
+                  "x": -291.2955825835639,
+                  "y": 323.26762488379416,
+                  "zoom": -0.15457791882064442
+                }
               },
-              "icon": "lucide-file",
+              "icon": "lucide-layout-dashboard",
               "title": "RCH"
             }
           }
@@ -112,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "RCH.md",
+            "file": "RCH.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
