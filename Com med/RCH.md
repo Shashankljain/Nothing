@@ -1,4 +1,5 @@
 [[Health programmes in India]]
+[[RCH.canvas]]
 The concepts of family planning and family welfare represent a significant shift in India’s public health approach, moving from a narrow focus on "population control" to a holistic view of the family's health.
 
 ---
