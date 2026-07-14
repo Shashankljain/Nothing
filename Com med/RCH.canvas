@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"53e96e7b9a7525a5","x":-82,"y":481,"width":250,"height":60,"type":"text","text":""},
 		{"id":"514b6fb6418a2cfb","type":"text","text":"![[Pasted image 20260714102100.png]]","x":-146,"y":24,"width":286,"height":236},
 		{"id":"cd17324cdf646d13","type":"text","text":"![[Pasted image 20260714102144.png]]\n![[Pasted image 20260714102237.png]]","x":-744,"y":485,"width":264,"height":395},
 		{"id":"901bfb652d5dc61f","type":"text","text":"![[Pasted image 20260714102309.png]]","x":-395,"y":475,"width":255,"height":165}
