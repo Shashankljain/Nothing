@@ -85,7 +85,7 @@ RNTCP categorizes patients based on the site of disease, severity, and previous 
 |**Category I**|New smear-positive; Seriously ill smear-negative or extra-pulmonary|2 $H_3R_3Z_3E_3$|4 $H_3R_3$|6 Months|
 |**Category II**|Relapse; Failure; Defaulters|2 $H_3R_3Z_3E_3S_3$ + 1 $H_3R_3Z_3E_3$|5 $H_3R_3E_3$|8 Months|
 |**Category III**|New smear-negative (not seriously ill); Less severe extra-pulmonary|2 $H_3R_3Z_3$|4 $H_3R_3$|6 Months|
-
+### OBSELETE NOW…
 [Source: 173]
 
 **Key Abbreviations:**
