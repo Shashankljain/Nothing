@@ -11,17 +11,14 @@
             "id": "b10a531cb582a9b8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "RCH.canvas",
-                "viewState": {
-                  "x": -291.2955825835639,
-                  "y": 323.26762488379416,
-                  "zoom": -0.15457791882064442
-                }
+                "file": "RNTCP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "RCH"
+              "icon": "lucide-file",
+              "title": "RNTCP"
             }
           }
         ]
@@ -115,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "RCH.canvas",
+            "file": "RNTCP.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
