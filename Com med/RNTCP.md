@@ -117,7 +117,7 @@ ASHAs and other community workers are the backbone of RNTCP.
 
 - **Job Responsibilities:** Direct observation of patients swallowing drugs, motivating patients to complete treatment, and maintaining records.
 - **Incentives:** ₹1,000 for Category I, ₹1,500 for Category II, and ₹5,000 for drug-resistant TB completion. ★ Important Exam Point
-
+![[Pasted image 20260714193647.png]]
 ---
 
 ### **VIII. Epidemiological Definitions** ★ Important Exam Point
