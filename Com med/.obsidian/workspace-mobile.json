@@ -15,9 +15,9 @@
               "state": {
                 "file": "RCH.canvas",
                 "viewState": {
-                  "x": -21.5,
-                  "y": 53.5,
-                  "zoom": 0
+                  "x": -30.913096842005835,
+                  "y": 380.2105891620823,
+                  "zoom": 0.145274668835832
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -173,6 +173,7 @@
   },
   "active": "b10a531cb582a9b8",
   "lastOpenFiles": [
+    "Pasted image 20260714102100.png",
     "RCH.canvas",
     "RCH.md",
     "Blindness.md",
