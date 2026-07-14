@@ -108,7 +108,7 @@ RNTCP has a decentralized, 5-tier organizational setup.
 3. **District Level:** **District TB Centre (DTC)**, led by the District TB Officer (DTO).
 4. **Sub-district Level:** **Tuberculosis Unit (TU)**. One TU covers ~5 lakh population (2.5 lakh in hilly/tribal areas).
 5. **Peripheral/Village Level:** **Designated Microscopy Centres (DMC)** (one per 1 lakh population) and **DOTS Agents** (ASHA, Anganwadi workers, etc.).
-
+![[Pasted image 20260714193557.png]]
 ---
 
 ### **VII. Role of Health Workers (ASHA/DOTS Agents)**
