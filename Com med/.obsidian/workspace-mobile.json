@@ -11,13 +11,16 @@
             "id": "b10a531cb582a9b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "RCH.md",
-                "mode": "source",
-                "source": false
+                "file": "RCH.canvas",
+                "viewState": {
+                  "x": -21.5,
+                  "y": 53.5,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
+              "icon": "lucide-layout-dashboard",
               "title": "RCH"
             }
           }
@@ -112,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "RCH.md",
+            "file": "RCH.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,13 +173,13 @@
   },
   "active": "b10a531cb582a9b8",
   "lastOpenFiles": [
+    "RCH.canvas",
+    "RCH.md",
     "Blindness.md",
     "RNTCP.md",
-    "RCH.md",
     "Untitled.base",
     "2026-07-13.md",
     "Untitled.md",
-    "Untitled.canvas",
     "ICTC.md",
     "image 1.jpg",
     "NLEP.md",
