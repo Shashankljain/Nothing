@@ -1,12 +1,12 @@
  [[RCH.canvas]]
  #new 
- **Navajaat Shishu Suraksha Karyakram (NSSK)** is a centrally sponsored program launched by the Government of India to address neonatal mortality by training healthcare providers in basic newborn care and resuscitation,. It focuses on the most critical period for a child's survival—the first few minutes and days of life.
+ **Navajaat Shishu Suraksha Karyakram (NSSK)** is a centrally sponsored program launched by the Government of India to address ==neonatal mortality== by training healthcare providers in basic newborn care and resuscitation,. It focuses on the most critical period for a child's survival—the first few minutes and days of life.
 
 ---
 
 ### **I. Introduction**
 
-- **Definition:** NSSK is a training-based initiative designed to ensure that every newborn receives a set of essential interventions at birth to prevent common causes of death such as birth asphyxia, hypothermia, and infections,.
+- **Definition:** NSSK is a training-based initiative designed to ensure that every newborn receives a ==set of essential interventions== at birth to prevent *common causes of death* such as birth asphyxia, hypothermia, and infections,.
 - **Aim:** To reduce the Neonatal Mortality Rate (NMR) by strengthening the skills of health personnel (doctors, nurses, ANMs) who attend deliveries at various levels of the health system.
 - **Public Health Significance:** Neonatal deaths (deaths within the first 28 days of life) contribute significantly to the Under-5 mortality rate in India. NSSK targets the "Golden Minute"—the first minute after birth—when the initiation of breathing is crucial.
 

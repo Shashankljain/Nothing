@@ -1,5 +1,5 @@
 [[RCH.canvas]]
-#new 
+
 **Rashtriya Bal Swasthya Karyakram (RBSK)** is a significant health initiative launched under the National Health Mission (NHM) to provide comprehensive healthcare for children. It focuses on early identification and early intervention for a wide range of health conditions.
 
 ---
@@ -25,15 +25,19 @@ The primary aim is to detect health conditions early to prevent progression into
 
 The program utilizes a structured screening approach at different levels of the community and health system:
 
-1. **For Preschool Children (0–6 years):**
+1. **For Newborn:**
+     ![[image 2.jpg]]
+2. **For Preschool Children (6week -6 years):**
     
     - Screening is conducted at **Anganwadi Centres** twice a year.
+    - Mobile health team 
     - Focus is on early childhood development and birth defects.
-2. **For School-age Children (6–18 years):**
+3. **For School-age Children (6–18 years):**
     
     - Screening is conducted at **Government and Government-aided schools** at least once a year.
     - This group includes children in primary, secondary, and higher secondary sections.
-3. **Mobile Health Teams:**
+    - Min. 2 Mobile health teams
+4. **Mobile Health Teams:**
     
     - Dedicated teams consisting of Medical Officers (Ayush/MBBS), Staff Nurses/ANMs, and Pharmacists visit these institutions to perform the screenings.
 
