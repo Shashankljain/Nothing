@@ -114,9 +114,23 @@
               "icon": "lucide-file",
               "title": "IDSP"
             }
+          },
+          {
+            "id": "2163a50d07f90531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -262,8 +276,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "5391ef786ceb6148",
+  "active": "2163a50d07f90531",
   "lastOpenFiles": [
+    "Untitled.md",
     "IDSP.md",
     "ARSH.md",
     "RBSK.md",
@@ -301,7 +316,6 @@
     "BFHI.md",
     "PM in geriatrics.md",
     "PM in Paediatrics.md",
-    "PM in Obstetrics.md",
     "New/Untitled",
     "New",
     "Com med"
