@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "ebec97dfaf18d9cd",
+            "id": "6badda3937adccac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Malaria.md",
+                "file": "Case finding tool.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Malaria"
+              "title": "Case finding tool"
             }
           }
         ],
@@ -127,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Malaria.md",
+            "file": "Case finding tool.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,12 +183,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "ebec97dfaf18d9cd",
+  "active": "6badda3937adccac",
   "lastOpenFiles": [
+    "Case finding tool.md",
+    "Blindness.md",
+    "Malaria.md",
     "RCH.canvas",
     "Vision 2020.md",
-    "Blindness.md",
-    "Blindness.md",
     "NLEP.md",
     "Nlep 2.md",
     "Pasted image 20260714200322.png",
@@ -210,7 +211,6 @@
     "ICTC.md",
     "NACP (Different).md",
     "NRHM.md",
-    "Malaria.md",
     "NVBDCP.md",
     "BFHI.md",
     "PM in geriatrics.md",
