@@ -30,6 +30,20 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "2ad8f89491107399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IMNCI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IMNCI"
+            }
           }
         ],
         "currentTab": 1
@@ -180,6 +194,11 @@
   },
   "active": "b57315ad987e3b4a",
   "lastOpenFiles": [
+    "RCH.md",
+    "IMNCI.md",
+    "Pasted image 20260715123450.png",
+    "Pasted image 20260715123424.png",
+    "Pasted image 20260715123317.png",
     "Blindness.md",
     "Blood safety.md",
     "ICTC.md",
@@ -196,14 +215,10 @@
     "Pasted image 20260714193647.png",
     "Pasted image 20260714193557.png",
     "Pasted image 20260714193529.png",
-    "RCH.md",
     "Health programmes in India.md",
     "Pasted image 20260714102429.png",
     "Pasted image 20260714102359.png",
     "Pasted image 20260714102309.png",
-    "Pasted image 20260714102237.png",
-    "Pasted image 20260714102144.png",
-    "Pasted image 20260714102100.png",
     "Untitled.base",
     "2026-07-13.md",
     "NRHM.md",
@@ -216,10 +231,8 @@
     "Untitled 1.md",
     "New/Untitled/Nn.md",
     "New/Untitled 3.md",
-    "New/Untitled/Corrosives.md",
     "New/Untitled",
     "New",
-    "Oxalic acid.md",
     "Com med"
   ]
 }
