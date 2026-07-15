@@ -25,17 +25,14 @@
             "id": "ebec97dfaf18d9cd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "RCH.canvas",
-                "viewState": {
-                  "x": -434.47038821280455,
-                  "y": 519.9450006355631,
-                  "zoom": -1.5236894690387999
-                }
+                "file": "Malaria.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "RCH"
+              "icon": "lucide-file",
+              "title": "Malaria"
             }
           }
         ],
@@ -130,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "RCH.canvas",
+            "file": "Malaria.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
