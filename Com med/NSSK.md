@@ -1,5 +1,5 @@
  [[RCH.canvas]]
- #new 
+ 
  **Navajaat Shishu Suraksha Karyakram (NSSK)** is a centrally sponsored program launched by the Government of India to address ==neonatal mortality== by training healthcare providers in basic newborn care and resuscitation,. It focuses on the most critical period for a child's survival—the first few minutes and days of life.
 
 ---
