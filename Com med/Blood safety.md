@@ -1,4 +1,4 @@
-[[Health programmes in India]]
+#new [[Health programmes in India]]
 **Blood safety** is a critical component of public health and modern medicine, ensuring that patients receive blood or blood products that are free from infectious agents and are immunologically compatible. In India, the **Blood Safety Programme**was launched in **1989** as part of the National AIDS Control Programme to prevent the transmission of HIV and other blood-borne infections.
 
 ---
