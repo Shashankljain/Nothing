@@ -25,10 +25,17 @@
             "id": "ebec97dfaf18d9cd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "RCH.canvas",
+                "viewState": {
+                  "x": -434.47038821280455,
+                  "y": 519.9450006355631,
+                  "zoom": -1.5236894690387999
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "RCH"
             }
           }
         ],
@@ -123,6 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "RCH.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
