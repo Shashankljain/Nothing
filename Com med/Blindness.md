@@ -1,144 +1,144 @@
 [[Health programmes in India]]
-# National Programme for Control of Blindness and Visual Impairment (NPCBVI)
-
-### **1. Introduction**
-
-The **National Programme for Control of Blindness (NPCB)** was launched in **1976** as a 100% Centrally Sponsored Programme with the goal of reducing the prevalence of blindness and establishing infrastructure for eye care services. In recent years, the nomenclature was updated to the **National Programme for Control of Blindness and Visual Impairment (NPCBVI)** to reflect a broader focus on all levels of visual loss.
-
-★ **Important Exam Point:** India was the first country in the world to launch a national-level blindness control programme.
+The **National Programme for Control of Blindness (NPCB)**, recently renamed the **National Programme for Control of Blindness and Visual Impairment (NPCBVI)**, is a 100% centrally sponsored initiative launched by the Government of India. India holds the distinction of being the first country in the world to launch such a national-level program to combat avoidable blindness.
 
 ---
 
-### **2. Definition of Blindness (The "New" Criteria)**
+### **I. Introduction and Definitions**
 
-India recently updated its 40-year-old definition of blindness to align with World Health Organization (WHO) standards.
+Blindness is a significant public health issue in India, which is a major contributor to the global "blind pool".
 
-- **Old Definition:** Visual acuity of < 6/60 in the better eye with best possible correction.
-- **New Definition:** A person is considered blind if they are **unable to count fingers from a distance of 3 metres**(visual acuity of **< 3/60 Snellen** or its equivalent).
+#### **Definition of Blindness** ★ Important Exam Point
 
----
+The definition of blindness was revised in 2017 to align with WHO criteria for national and international comparability.
 
-### **3. Aim and Objectives**
+- **Current Definition:** A person is considered blind if they have visual acuity of **less than 3/60 (Snellen)** or its equivalent in the better eye with the best possible correction, or the **inability to count fingers** in daylight at a distance of **3 metres**.
+- **Previous Definition:** Historically, the criterion was visual acuity of less than 6/60 or a distance of 6 metres (adopted in 1976).
 
-The primary aim is to reduce the backlog of blindness through identification and treatment while developing a sustainable eye care system.
+#### **Magnitude of the Problem (Causes in India)**
 
-**Key Objectives:**
+According to the National Survey on Blindness (2015–19), the prevalence of blindness was 1.0% in 2006–07 and is projected at 0.36% currently.
 
-1. **Reduce Prevalence:** To reduce the prevalence of blindness to **0.3%** (3 per 1,000) by 2020 and further to **0.25/1,000**by 2025 as per **National Health Policy 2017**.
-2. **Service Delivery:** To provide high-quality eye care services to the community through a "Primary Health Care" approach.
-3. **Human Resource Development:** To train ophthalmic assistants, surgeons, and multi-purpose workers.
-4. **Decentralization:** Strengthening the **District Blindness Control Societies (DBCS)** for local planning and implementation.
-5. **Community Awareness:** Utilizing Information, Education, and Communication (IEC) to promote eye donation and hygiene.
-
----
-
-### **4. Strategy: The Three-Tier System**
-
-The programme delivers care through a hierarchical structure that ensures the most efficient use of resources.
-
-|**Level of Care**|**Infrastructure/Personnel**|**Activities/Services**|
-|:--|:--|:--|
-|**Primary Level**|PHCs, Sub-centres, MPWs, Village Health Guides.|Identification of cases, screening of school children, treatment of minor infections (conjunctivitis), and referral.|
-|**Secondary Level**|District Hospitals, **Mobile Eye Clinics**.|Definitive management of common conditions like **Cataract surgery**, Glaucoma, and ocular trauma.|
-|**Tertiary Level**|Medical Colleges, Regional Institutes, State Eye Banks.|Sophisticated care: Retinal detachment surgery, **Corneal grafting**, and specialized training.|
+|Principal Causes of Blindness|Percentage (%)|
+|:--|:--|
+|**Cataract (Untreated)**|**66.2%**|
+|Cataract Surgical Complications|7.2%|
+|Corneal Opacity (Non-trachomatous)|7.4%|
+|Glaucoma|5.5%|
+|Refractive Error|0.1%|
 
 ---
 
-### **5. Major Components of the Programme**
+### **II. Aim and Objectives**
 
-#### **A. Cataract Management**
+The **ultimate goal** of the program is to reduce the prevalence of blindness to **0.3%**.
 
-Cataract is the leading cause of blindness in India, responsible for **66.2%** of cases.
+**Core Objectives:** ★ Important Exam Point
 
-- **Strategy:** The "Eye Camp" approach has been highly successful for mass cataract surgery.
-- **Current Shift:** Transitioning from "Camp-based" surgery to "Fixed-facility" surgery to ensure better follow-up and quality.
-
-#### **B. Refractive Error and School Eye Health**
-
-- **Screening:** Periodic screening of school children for refractive errors and squint.
-- **Provision:** Distribution of free spectacles to poor children.
-
-#### **C. Vitamin A Prophylaxis**
-
-- **Aim:** Prevention of nutritional blindness (Xerophthalmia).
-- **Dose:** 200,000 IU given orally at 6-monthly intervals for children aged 1–6 years.
-
-#### **D. Trachoma Control**
-
-- **History:** The Trachoma Control Programme (1963) was merged with NPCB in 1976.
-- **Achievement:** **India was declared free from Trachoma on 8th Oct 2024** by the WHO.
-
-#### **E. Occupational Eye Health**
-
-- Prevention of injuries in industries (welding, factories) through protective eyewear and safety education.
+1. **Reduce Backlog:** Identify and treat blind persons to clear the existing backlog of curable blindness.
+2. **Institutional Capacity:** Develop and strengthen eye care infrastructure at primary, secondary, and tertiary levels.
+3. **Human Resource Development:** Train eye surgeons, ophthalmic assistants, and other personnel.
+4. **Awareness:** Enhance community awareness regarding eye care and reduce the stress on preventive measures.
+5. **Secure Participation:** Involve NGOs and private practitioners in delivering eye care services.
 
 ---
 
-### **6. Global Initiatives: Vision 2020**
+### **III. Strategy: The 4-Tier Infrastructure (Vision 2020)**
 
-India is a signatory to **Vision 2020: The Right to Sight**, a global initiative launched by WHO/IAPB in 1999.
+Adopted by India in 2004, **Vision 2020: The Right to Sight** is a global initiative to eliminate avoidable blindness by the year 2020. It operates through a 4-tier system:
 
-- **Core Logic:** Recognition of sight as a fundamental human right.
-- **Target Diseases:** Cataract, Refractive errors, Childhood blindness, Trachoma, and Glaucoma.
-
----
-
-### **7. Monitoring and Evaluation**
-
-Key indicators used to measure progress include:
-
-1. **Cataract Surgical Rate (CSR):** Number of cataract operations performed per million population per year.
-2. **Prevalence Rate:** Percentage of the population that is blind.
-3. **Number of Eye Personnel:** Tracking the availability of surgeons and assistants.
+1. **Tier 1: Vision Centres (20,000):** Located at the primary level. They provide refractive services (prescription of glasses), school screening, and primary eye care.
+2. **Tier 2: Service Centres (2,000):** Secondary level (Sub-district/District). They focus on cataract surgery and other common eye surgeries.
+3. **Tier 3: Training Centres (200):** Tertiary level (Medical Colleges/RIOs). They provide sophisticated care like corneal transplants, retinal surgery, and glaucoma surgery, as well as training for personnel.
+4. **Tier 4: Centres of Excellence (20):** National level. They provide professional leadership, strategy development, and advanced research.
 
 ---
 
-### **★ High-Yield Exam Points**
+### **IV. Major Components and Activities**
 
-- **Prevalence Goal:** NHP 2017 target is to reduce blindness prevalence to **0.25/1,000** by 2025.
-- **Leading Cause:** Cataract (66.2%), followed by corneal opacity (7.4%) and Glaucoma (5.5%).
-- **The "3-Metre" Rule:** Remember the updated definition of blindness for viva and MCQ.
-- **Trachoma Status:** India is **ELIMINATED** (2024).
+#### **1. Cataract Surgery**
+
+This remains the major thrust of the program.
+
+- **Target:** Performing **66 lakh cataract operations per year**.
+- **Approach:** Shifting from seasonal "eye camps" to a **fixed facility surgical approach** year-round to improve quality and follow-up.
+
+#### **2. School Eye Screening**
+
+- **Target:** Children aged 10–14 years.
+- **Process:** Children are first screened by **trained teachers**; those suspected of having refractive errors are referred to ophthalmic assistants.
+- **Outcome:** Distribution of free spectacles to children from families below the poverty line.
+
+#### **3. Eye Donation and Banking**
+
+- **Promotion:** "Eye Donation Fortnight" is organized from **25th August to 8th September** every year.
+- **Goal:** Collection of 50,000 donated eyes per year for keratoplasty.
+
+#### **4. Vitamin A Prophylaxis**
+
+To prevent nutritional blindness (xerophthalmia):
+
+- **Dose:** 200,000 IU of Vitamin A syrup.
+- **Schedule:** Administered orally at **6-monthly intervals** to children aged **1 to 6 years**.
+
+#### **5. Control of Trachoma (SAFE Strategy)** ★ Important Exam Point
+
+India has successfully eliminated infective trachoma (WHO declared India free on 8th Oct 2024). The strategy used was:
+
+- **S:** Lid **S**urgery.
+- **A:** **A**ntibiotics (Tetracycline 1% ointment).
+- **F:** **F**acial cleanliness.
+- **E:** **E**nvironmental improvements.
+
+---
+
+### **V. Organizational Structure**
+
+The program operates through a decentralized five-tier administrative setup.
+
+|Level|Responsible Body / Members|
+|:--|:--|
+|**Central**|Ophthalmology Section, DGHS, Ministry of Health & FW, New Delhi|
+|**State**|State Ophthalmic Cell / State Health Societies|
+|**District**|**District Blindness Control Society (DBCS)**|
+|**Service Delivery**|Tertiary (RIOs), Secondary (District Hospitals), Primary (PHCs/HWC)|
+
+---
+
+### **VI. Recent Updates and New Initiatives**
+
+1. **Backlog Free Status:** Districts aim to achieve "Cataract Backlog Free" status by 2024-25.
+2. **Health and Wellness Centres (HWC):** These are now being utilized to provide primary eye care services.
+3. **Inclusion in AB-PMJAY:** Cataract surgery packages are now included in the Ayushman Bharat PM-JAY and State Insurance Schemes.
+4. **Tele-ophthalmology:** Use of mobile units and IT-enabled services to reach disadvantaged and remote areas.
+
+---
+
+### **High-Yield Exam Points** ★
+
+- **Launch Year:** 1976.
+- **Leading Cause of Blindness:** Cataract (66.2%).
+- **New Blindness Definition:** Visual acuity < 3/60 or inability to count fingers at 3 metres.
+- **World Sight Day:** Observed on the 2nd Thursday of October.
+- **Vision Guardian:** Proposed under Vision 2020 for every 5,000 population.
 
 ---
 
 ### **Frequently Asked Viva Questions**
 
-**Q: What was the primary reason for changing the definition of blindness?** **A:** To bring India in line with WHO standards (3/60) and to accurately reflect the population needing visual rehabilitation.
-
-**Q: Who is the "gatekeeper" of school eye health?** **A:** The **School Teacher**, who is trained to identify children with potential vision problems for referral.
-
-**Q: What is "Corneal Grafting"?** **A:** A surgical procedure to replace a damaged cornea with healthy donor tissue, supported by the **Corneal Grafting Acts** passed by states.
-
----
-
-### **Quick Revision Notes**
-
-- **NPCBVI Founded:** 1976.
-- **New Definition:** < 3/60 (3-metre rule).
-- **Top Cause:** Cataract (66.2%).
-- **Target:** 0.3% prevalence by 2020; 0.025% by 2025.
-- **Hierarchy:** Primary (Screen/Refer) $\rightarrow$ Secondary (Surgery) $\rightarrow$ Tertiary (Specialized/Banks).
-- **Trachoma eliminated:** 2024.
+- **Q: What is the "SAFE" strategy?**
+    - **A:** It stands for Surgery, Antibiotics, Facial cleanliness, and Environmental improvement, used for trachoma control.
+- **Q: When is the Eye Donation Fortnight?**
+    - **A:** 25th August to 8th September.
+- **Q: Who performs the first level of school screening?**
+    - **A:** Trained school teachers.
+- **Q: What is the current target prevalence for blindness?**
+    - **A:** 0.3%.
 
 ---
 
-### **Model University Exam Answer Formats**
+### **Common Mistakes Students Make**
 
-#### **5-Mark Question: Describe NPCBVI**
-
-1. **Intro:** Launch (1976), Centrally sponsored.
-2. **Objectives:** Reduce prevalence to 0.3% (2020) and 0.25/1000 (2025).
-3. **New Definition:** Explain the 3-metre rule vs the old 6-metre rule.
-4. **Major Components:** Cataract surgery, school health, Vitamin A, and Eye donation.
-5. **Conclusion:** Success of Trachoma elimination (2024).
-
-#### **10-Mark Question: Comprehensive Note on Blindness Control in India**
-
-1. **Introduction & Definition:** Detailed history and the new <3/60 Snellen definition.
-2. **Epidemiology:** List causes of blindness in India (Cataract, Refractive errors, Glaucoma table).
-3. **NPCBVI Strategies:** The three-tier delivery system (Primary, Secondary, Tertiary).
-4. **School Health & Vitamin A:** Elaborate on screening and prophylaxis.
-5. **Vision 2020:** Discuss the global "Right to Sight" context.
-6. **Indicators & Achievements:** Mention CSR and the elimination of Trachoma.
-7. **Challenges:** Aging population and increasing NCDs (Diabetic retinopathy).
+- **Old Definitions:** Writing the 6-metre definition instead of the current **3-metre** WHO-aligned criteria.
+- **Infrastructure Levels:** Confusing the roles of Vision Centres (Primary) and Service Centres (Secondary).
+- **Trachoma Status:** Stating that trachoma is still a major problem; India is now **declared free from trachoma**.
+- **Vitamin A Dosing:** Forgetting that for blindness prevention, the schedule is specifically **1–6 years** at 6-month intervals.
