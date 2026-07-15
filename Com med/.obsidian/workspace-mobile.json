@@ -30,107 +30,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "2ad8f89491107399",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IMNCI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IMNCI"
-            }
-          },
-          {
-            "id": "7f4584e7d5604ef6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NMHP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NMHP"
-            }
-          },
-          {
-            "id": "a768e0179f08d12e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NSSK.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NSSK"
-            }
-          },
-          {
-            "id": "135c320aeeb62862",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RBSK.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RBSK"
-            }
-          },
-          {
-            "id": "d9aedd225ce00403",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARSH.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ARSH"
-            }
-          },
-          {
-            "id": "5391ef786ceb6148",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IDSP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IDSP"
-            }
-          },
-          {
-            "id": "2163a50d07f90531",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -276,9 +178,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "2163a50d07f90531",
+  "active": "b57315ad987e3b4a",
   "lastOpenFiles": [
-    "Untitled.md",
+    "NCCP.md",
+    "IMNCI.md",
     "IDSP.md",
     "ARSH.md",
     "RBSK.md",
@@ -288,7 +191,6 @@
     "Pasted image 20260715125716.png",
     "Pasted image 20260715125656.png",
     "RCH.md",
-    "IMNCI.md",
     "Pasted image 20260715123450.png",
     "Pasted image 20260715123424.png",
     "Pasted image 20260715123317.png",
