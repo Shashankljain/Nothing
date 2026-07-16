@@ -1,12 +1,12 @@
 [[PM in Paediatrics]]
-#new 
+
 A **Child Guidance Clinic (CGC)** is a specialized mental health facility designed to provide diagnostic and therapeutic services for children suffering from emotional or behavioural problems. In Community Medicine, it is viewed as a vital link between the school system, the family, and specialized psychiatric care.
 
 ---
 
 ### **I. Introduction and Definition**
 
-- **Definition:** A Child Guidance Clinic is a community-based service that identifies, assesses, and treats children and adolescents who exhibit deviations from normal mental health or social behaviour.
+- **Definition:** A Child Guidance Clinic is a *community-based service* that ==identifies, assesses, and treats== children and adolescents who exhibit deviations from normal mental health or social behaviour.
 - **Target Group:** Primarily school-age children and adolescents (10–19 years) who are undergoing the "stormy" transition to adulthood.
 - **Philosophy:** The clinic operates on the principle that many psychiatric and behavioural issues in children can be managed without long-term hospitalisation if identified early within the community.
 
@@ -14,7 +14,7 @@ A **Child Guidance Clinic (CGC)** is a specialized mental health facility desi
 
 ### **II. Objectives of Child Guidance Services** ★ Important Exam Point
 
-The ultimate goal is to ensure the healthy psychological development of the child and their integration into society.
+Prevent children from possibility of becoming Neurotics and Psychotics.
 
 1. **Early Identification:** To detect emotional and behavioural problems at an early stage to prevent progression.
 2. **Therapy and Adjustment:** To help children cope with stress and achieve adequate adjustment to their environment, peers, and the opposite sex.
@@ -27,11 +27,11 @@ The ultimate goal is to ensure the healthy psychological development of the chil
 
 The services provided at a CGC are multidimensional and often involve a "health team" approach.
 
-- **Diagnostic Services:** Performing clinical and psychological assessments to differentiate between normal developmental phases and true psychiatric disorders.
-- **Psychotherapy:** Providing individual or group therapy sessions tailored to the child’s cognitive and emotional level.
-- **Counselling:** Offering guidance to both the child and the family to resolve conflicts and improve interpersonal relationships.
+- **Diagnostic Services:** Performing clinical and psychological assessments to differentiate between ==*normal developmental phases and true psychiatric disorders*==.
+- **Psychotherapy:** Providing individual or group ==therapy sessions== tailored to the child’s cognitive and emotional level.
+- **Counselling:** Offering **==guidance==** to both the child and the family to resolve conflicts and improve interpersonal relationships.
 - **Rehabilitation:** Implementing social and educational measures to restore the child to their highest possible level of functional ability.
-- **Referral:** Directing children with severe organic mental conditions or psychoses to tertiary-level mental hospitals.
+- **Referral:** Directing children with *severe organic mental conditions or psychoses* to tertiary-level mental hospitals.
 
 ---
 

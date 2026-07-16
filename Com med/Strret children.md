@@ -1,17 +1,17 @@
 [[PM in Paediatrics]]
-#new 
+
 **Street children** represent a significant social and public health challenge in the field of Community Medicine. They are often categorized under **"Social Pathology"** because their condition is inextricably linked to poverty, family disintegration, and the failure of social support systems.
 
 ---
 
 ### **I. Introduction and Context**
 
-- **Definition:** While not strictly defined by age alone in the sources, street children are generally minors who live and/or work on the streets, often lacking parental supervision or a permanent home.
+- **Definition:** While not strictly defined by age alone in the sources, street children are generally minors boys and girls who live and/or work on the streets, often lacking parental supervision or a permanent home.
 - **Social Perspective:** They are viewed as a product of **urbanization** and **industrialization**, where the "warmth of the village community" is replaced by the impersonal and often harsh environment of the city.
 - **Vulnerability:** They are classified as a "bridge population" and a "vulnerable group" due to their lack of access to health information and preventive measures.
 
 ---
-
+![[image 4.jpg]]
 ### **II. Etiology: Why are children on the street?** ★ Important Exam Point
 
 The presence of children on the street is rarely due to a single cause; it is a multifactorial issue.
@@ -28,7 +28,7 @@ The presence of children on the street is rarely due to a single cause; it is a 
 Street children face a "triple burden" of health issues:
 
 - **Infectious Diseases (HIV/AIDS):** They are particularly vulnerable to HIV/AIDS because they are less likely to have information about the disease or access to condoms and testing. They often face repeated risks of infection through exploitation or drug use.
-- **Substance Abuse:** Exposure to "drug culture" is high. Many street children use volatile solvents (glue, petrol, thinners) or tobacco as an "escape phenomenon" from the tensions and frustrations of street life.
+- **Substance Abuse:** Exposure to "drug culture" is high. Many street children use volatile solvents (glue, petrol, thinners) or tobacco as an "==escape phenomenon==" from the tensions and frustrations of street life.
 - **Mental Health Issues:** They often suffer from emotional instability, feelings of insecurity, and "failure to adjust" to the environment, which can lead to psychopathic behavior or permanent intellectual impairment.
 - **Juvenile Delinquency:** A child on the street who commits an offense (theft, burglary, etc.) is labeled a juvenile delinquent. This is viewed as a **social problem** requiring rehabilitation rather than just punishment.
 

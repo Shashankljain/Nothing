@@ -1,5 +1,4 @@
 [[PM in Paediatrics]]
-#new 
 The **Juvenile Justice Act (JJ Act)** is the primary legal framework in India for the care, protection, and rehabilitation of children who are either in conflict with the law or in need of care and protection. It represents a shift from a punitive approach to a "Social Defence" and rehabilitative model.
 
 ---
