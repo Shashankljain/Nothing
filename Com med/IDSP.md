@@ -1,6 +1,6 @@
 [[Health programmes in India]]
 #new 
-The **Integrated Disease Surveillance Project (IDSP)** is a decentralized, state-based surveillance system in India intended to detect and respond to disease outbreaks early. It provides a common platform for the surveillance of various communicable and non-communicable diseases to ensure a timely and effective public health response.
+The **Integrated Disease Surveillance Project (IDSP)** is a decentralized, state-based surveillance system in India intended to ==detect== and ==respond to disease outbreaks== early. It provides a common platform for the surveillance of various communicable and non-communicable diseases to ensure a timely and effective public health response.
 
 ---
 
@@ -29,9 +29,9 @@ The primary **aim** of IDSP is to strengthen the disease surveillance system f
 
 The IDSP relies on a systematic reporting structure involving different "forms" to capture data from various levels of the healthcare system.
 
-- **P Form (Presumptive):** Used for reporting cases based on clinical suspicion by medical officers.
-- **L Form (Laboratory):** Used for reporting cases that have been confirmed by laboratory tests.
-- **S Form (Syndromic):** _(Contextually implied in surveillance)_ Used by paramedical staff/health workers for reporting based on symptoms.
+- **P Form (Presumptive):** Used for reporting cases based on ==clinical suspicion== by medical officers.
+- **L Form (Laboratory):** Used for reporting cases that have been confirmed by ==laboratory tests.==
+- **S Form (Syndromic):** _(Contextually implied in surveillance)_ Used by paramedical staff/health workers for reporting based on ==symptoms==.
 
 **Weekly Fever Alerts:** The project is particularly vital for malaria control, where it provides weekly fever alerts that act as early warning signals for potential outbreaks.
 
@@ -43,7 +43,7 @@ The project operates across multiple tiers to ensure data flows from the periphe
 
 1. **National Level:** National Centre for Disease Control (NCDC), Delhi, which acts as the apex laboratory and nodal agency.
 2. **State Level:** State Surveillance Units (SSU) responsible for state-specific roadmap development.
-3. **District Level:** District Surveillance Units (DSU) which are the "unit of planning" for local interventions.
+3. **District Level:** District Surveillance Units (DSU) which are the "==unit of planning==" for local interventions.
 4. **Peripheral Level:** PHCs and Health and Wellness Centres (HWC) where initial case identification occurs.
 
 ---
