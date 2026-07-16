@@ -1,4 +1,5 @@
 [[PM in Paediatrics]]
+#new
 **Juvenile delinquency** is a critical social pathology where individuals under the age of majority exhibit behavior that deviates from legal and social norms. In the context of Community Medicine, it is viewed not just as a legal issue but as a reflection of the social and psychological health of the community.
 
 ---
