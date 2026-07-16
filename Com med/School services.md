@@ -17,6 +17,13 @@ The ultimate goal is to ensure that children are healthy enough to participate e
 5. **Mental Well-being:** To identify ==emotional and behavioral== problems through a supportive teacher-pupil environment.
 
 ---
+### **IV. Brief Functions of the Programme**
+
+1. **Conducting regular Wellness Check-ups** followed by advice and treatment.
+2. **Provision of free referral and surgical services** for complex conditions (e.g., congenital heart defects) at tertiary centers.
+3. **Active surveillance** for infectious conditions like tuberculosis and leprosy in children.
+4. **Maintaining health records** to monitor the longitudinal progress of each child.
+---
 
 ### **II. Components of the School Health Programme**
 
@@ -74,12 +81,6 @@ The program operates through a decentralized, integrated mechanism.
 
 ---
 
-### **IV. Brief Functions of the Programme**
-
-1. **Conducting regular Wellness Check-ups** followed by advice and treatment.
-2. **Provision of free referral and surgical services** for complex conditions (e.g., congenital heart defects) at tertiary centers.
-3. **Active surveillance** for infectious conditions like tuberculosis and leprosy in children.
-4. **Maintaining health records** to monitor the longitudinal progress of each child.
 
 ---
 
