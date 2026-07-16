@@ -24,7 +24,7 @@ The ultimate goal is to reduce the ==burden of cancer== by preventing its occurr
 
 **Core Objectives:** ★ Important Exam Point
 
-1. **Primary Prevention:** To prevent cancer by controlling ==risk factors== (e.g., tobacco, alcohol) and promoting healthy lifestyles.
+1. **Primary Prevention:** To prevent cancer by controlling ==risk factors== (e.g., tobacco, alcohol) and ==health education,promoting healthy lifestyles.==
 2. **Secondary Prevention:** To ==detect and treat== cancer at an early, pre-malignant, or in situ stage through screening.
 3. **Tertiary Prevention:** To provide ==comprehensive treatment== and palliative care to those with advanced disease.
 4. **Strengthen Infrastructure:** To develop and expand the network of *==Regional Cancer Centres (RCCs) and oncology wings==* in medical colleges.
