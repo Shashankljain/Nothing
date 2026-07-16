@@ -26,12 +26,13 @@ The primary **aim** of IDSP is to strengthen the disease surveillance system f
 ---
 
 ### **III. Strategy and Reporting Mechanism** ★ Important Exam Point
+## Surveillance methods
 
 The IDSP relies on a systematic reporting structure involving different "forms" to capture data from various levels of the healthcare system.
 
-- **P Form (Presumptive):** Used for reporting cases based on ==clinical suspicion== by medical officers.
-- **L Form (Laboratory):** Used for reporting cases that have been confirmed by ==laboratory tests.==
-- **S Form (Syndromic):** _(Contextually implied in surveillance)_ Used by paramedical staff/health workers for reporting based on ==symptoms==.
+- **P Form (Presumptive):** Used for reporting cases based on ==clinical suspicion== by *medical officers.*
+- **L Form (Laboratory):** Used for reporting cases that have been confirmed by ==laboratory tests.== 
+- **S Form (Syndromic):** _(Contextually implied in surveillance)_ Used by *paramedical staff/health workers* for reporting based on ==symptoms==.
 
 **Weekly Fever Alerts:** The project is particularly vital for malaria control, where it provides weekly fever alerts that act as early warning signals for potential outbreaks.
 
