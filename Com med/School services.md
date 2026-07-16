@@ -1,7 +1,8 @@
 [[PM in Paediatrics]]
+[[RBSK]]
 The **School Health Programme**, primarily implemented in India under the **Rashtriya Bal Swasthya Karyakram (RBSK)** and as part of the broader **National Health Mission (NHM)**, is a specialized health service designed to promote, protect, and restore the health of school-age children.
 
-The school years (6–18 years) are a period of rapid physical and mental development, making schools an ideal setting for health interventions that have lifelong benefits.
+The school years (6–18 years) are a period of rapid ==physical== and ==mental development==, making schools an ideal setting for health interventions that have lifelong benefits.
 
 ---
 
@@ -13,7 +14,7 @@ The ultimate goal is to ensure that children are healthy enough to participate e
 2. **Prevention of Disease:** To prevent common childhood illnesses through immunization and nutritional interventions.
 3. **Early Detection:** To screen for the "4Ds": **D**efects at birth, **D**eficiencies, **D**iseases, and **D**evelopmental delays.
 4. **Early Intervention:** To provide timely management and referral for detected conditions, preventing long-term disability.
-5. **Mental Well-being:** To identify emotional and behavioral problems through a supportive teacher-pupil environment.
+5. **Mental Well-being:** To identify ==emotional and behavioral== problems through a supportive teacher-pupil environment.
 
 ---
 
