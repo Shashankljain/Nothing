@@ -1,6 +1,6 @@
 [[Health programmes in India]]
 #new 
-The **National Cancer Control Programme (NCCP)** is a vital public health initiative in India aimed at reducing the morbidity and mortality associated with cancer through primary prevention, early detection, and improved treatment facilities.
+The **National Cancer Control Programme (NCCP)** is a vital public health initiative in India aimed at **==reducing the morbidity==** and ==mortality== associated with cancer through primary prevention, early detection, and improved treatment facilities.
 
 ---
 
@@ -20,15 +20,15 @@ The NCCP was first launched by the Government of India in **1975–76**. Over t
 
 ### **II. Aim and Objectives**
 
-The ultimate goal is to reduce the burden of cancer by preventing its occurrence and improving survival rates.
+The ultimate goal is to reduce the ==burden of cancer== by preventing its occurrence and improving survival rates.
 
 **Core Objectives:** ★ Important Exam Point
 
-1. **Primary Prevention:** To prevent cancer by controlling risk factors (e.g., tobacco, alcohol) and promoting healthy lifestyles.
-2. **Secondary Prevention:** To detect and treat cancer at an early, pre-malignant, or in situ stage through screening.
-3. **Tertiary Prevention:** To provide comprehensive treatment and palliative care to those with advanced disease.
-4. **Strengthen Infrastructure:** To develop and expand the network of Regional Cancer Centres (RCCs) and oncology wings in medical colleges.
-5. **Surveillance:** To maintain a database through Cancer Registries (Hospital and Population-based).
+1. **Primary Prevention:** To prevent cancer by controlling ==risk factors== (e.g., tobacco, alcohol) and promoting healthy lifestyles.
+2. **Secondary Prevention:** To ==detect and treat== cancer at an early, pre-malignant, or in situ stage through screening.
+3. **Tertiary Prevention:** To provide ==comprehensive treatment== and palliative care to those with advanced disease.
+4. **Strengthen Infrastructure:** To develop and expand the network of *==Regional Cancer Centres (RCCs) and oncology wings==* in medical colleges.
+5. **Surveillance:** To maintain a database through ==Cancer Registries== (Hospital and Population-based).
 
 ---
 
