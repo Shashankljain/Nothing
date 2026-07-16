@@ -1,12 +1,12 @@
 [[Health programmes in India]]
-#new 
+
 **Swachh Bharat Abhiyan (Clean India Mission)** is a major national health and sanitation initiative launched by the Government of India to address the country's critical challenges in environmental sanitation and hygiene.
 
 ---
 
 ### **I. Introduction**
 
-- **Definition:** Swachh Bharat Abhiyan is a comprehensive national campaign designed to achieve universal sanitation coverage and eliminate the practice of open defecation.
+- **Definition:** Swachh Bharat Abhiyan is a comprehensive national campaign designed to achieve ==universal sanitation coverage== and ==eliminate the practice of open defecation.==
 - **Launch Year:** The programme was officially launched in **2015** (according to the significant events timeline in the sources).
 - **Core Philosophy:** It is aligned with the principle of **"Sabka Saath, Sabka Vikas"** (Together with all, Development for all), emphasizing that the first claim on development belongs to the poor and calling for security and dignity for all, especially women.
 
