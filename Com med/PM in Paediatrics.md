@@ -1,1 +1,1 @@
-[[PpM in geriatrics]]
+[[PM in geriatrics]]
