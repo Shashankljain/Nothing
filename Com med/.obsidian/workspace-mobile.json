@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NCCP.md",
+                "file": "Blood safety.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NCCP"
+              "title": "Blood safety"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "NCCP.md",
+            "file": "Blood safety.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,6 +170,8 @@
   },
   "active": "ea7b331e167a3e89",
   "lastOpenFiles": [
+    "NCCP.md",
+    "Pasted image 20260716102241.png",
     "NMHP.md",
     "IDSP.md",
     "Pasted image 20260716093650.png",
@@ -180,7 +182,6 @@
     "RBSK.md",
     "image 2.jpg",
     "Swachh Bharat.md",
-    "NCCP.md",
     "IMNCI.md",
     "Blood safety.md",
     "Pasted image 20260715125716.png",
@@ -200,7 +201,6 @@
     "Nlep 2.md",
     "Pasted image 20260714200322.png",
     "RNTCP.md",
-    "Pasted image 20260714193647.png",
     "Health programmes in India.md",
     "Untitled.base",
     "2026-07-13.md",

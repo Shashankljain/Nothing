@@ -1,5 +1,5 @@
 [[Health programmes in India]]
-#new 
+
 The **National Cancer Control Programme (NCCP)** is a vital public health initiative in India aimed at **==reducing the morbidity==** and ==mortality== associated with cancer through primary prevention, early detection, and improved treatment facilities.
 
 ---
@@ -44,27 +44,8 @@ The ultimate goal is to reduce the ==burden of cancer== by preventing its occurr
 ---
 
 ### **IV. Strategy and Components**
+![[Pasted image 20260716102241.png]]
 
-#### **1. Primary Prevention (Action before onset)**
-
-This focuses on health promotion and specific protection.
-
-- **Tobacco Control:** Tobacco is the major environmental cause of lung, oral, and laryngeal cancers. Legislation like the **Cigarettes and Other Tobacco Products Act (COTPA) 2003** prohibits advertising and smoking in public places.
-- **Personal Hygiene:** Promoting genital hygiene to reduce the risk of cervical cancer.
-- **Immunization:** Vaccination against **Hepatitis B (HBV)** to prevent liver cancer and **Human Papillomavirus (HPV)** to prevent cervical cancer.
-- **Dietary Modification:** Reducing fat intake and increasing consumption of fruits, vegetables, and dietary fibre.
-
-#### **2. Secondary Prevention (Early Detection and Treatment)**
-
-- **Early Detection Centers:** Utilizing health and wellness centres (HWCs) for initial screening.
-- **Treatment Facilities:** Shifting from single-modality to **multi-modality treatment** (surgery, radiotherapy, chemotherapy).
-
-#### **3. Tertiary Prevention and Palliative Care**
-
-- **Pain Relief:** The WHO has developed specific guidelines for "Freedom from cancer pain," which is now considered a right of cancer patients.
-- **Rehabilitation:** Focusing on the physical and psychological restoration of the patient.
-
----
 
 ### **V. Cancer Screening Strategies** ★ Important Exam Point
 
