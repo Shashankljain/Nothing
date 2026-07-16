@@ -5,7 +5,7 @@
 
 ### **I. Definition of Blood Safety**
 
-Blood safety refers to the entire process of ensuring that blood and its components (like platelets, plasma, and factors) are safe for transfusion. It includes:
+Blood safety refers to the entire process of ensuring that blood and its components (like platelets, plasma, and factors) are ==safe for transfusion.== It includes:
 
 - **Preventing Transfusion-Transmitted Infections (TTIs):** Ensuring blood is free from pathogens like HIV, Hepatitis, and Malaria.
 - **Quality Management:** Implementing rigorous standards for collection, testing, storage, and transport (immuno-hematology and logistics).
