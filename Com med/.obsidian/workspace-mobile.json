@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDSP.md",
+                "file": "NCCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IDSP"
+              "title": "NCCP"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#new",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "IDSP.md",
+            "file": "NCCP.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,6 +170,9 @@
   },
   "active": "ea7b331e167a3e89",
   "lastOpenFiles": [
+    "NMHP.md",
+    "IDSP.md",
+    "Pasted image 20260716093650.png",
     "Pasted image 20260716093630.png",
     "ARSH.md",
     "ICTC.md",
@@ -179,8 +182,6 @@
     "Swachh Bharat.md",
     "NCCP.md",
     "IMNCI.md",
-    "IDSP.md",
-    "NMHP.md",
     "Blood safety.md",
     "Pasted image 20260715125716.png",
     "Pasted image 20260715125656.png",
@@ -200,8 +201,6 @@
     "Pasted image 20260714200322.png",
     "RNTCP.md",
     "Pasted image 20260714193647.png",
-    "Pasted image 20260714193557.png",
-    "Pasted image 20260714193529.png",
     "Health programmes in India.md",
     "Untitled.base",
     "2026-07-13.md",

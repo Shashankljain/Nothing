@@ -1,5 +1,5 @@
 [[Health programmes in India]]
-#new 
+
 The **Integrated Disease Surveillance Project (IDSP)** is a decentralized, state-based surveillance system in India intended to ==detect== and ==respond to disease outbreaks== early. It provides a common platform for the surveillance of various communicable and non-communicable diseases to ensure a timely and effective public health response.
 
 ---
@@ -11,7 +11,7 @@ The **Integrated Disease Surveillance Project (IDSP)** is a decentralized, sta
 - **Public Health Significance:** By identifying early warning signals, the project helps prevent small clusters of cases from turning into large-scale epidemics.
 
 ---
-
+![[Pasted image 20260716093650.png]]
 ### **II. Aim and Objectives**
 
 The primary **aim** of IDSP is to strengthen the disease surveillance system for essential health data to be used in planning, implementing, and evaluating health services.
