@@ -27,7 +27,7 @@ The primary **aim** of IDSP is to strengthen the disease surveillance system f
 
 ### **III. Strategy and Reporting Mechanism** ★ Important Exam Point
 ## Surveillance methods
-
+![[Pasted image 20260716093630.png]]
 The IDSP relies on a systematic reporting structure involving different "forms" to capture data from various levels of the healthcare system.
 
 - **P Form (Presumptive):** Used for reporting cases based on ==clinical suspicion== by *medical officers.*
