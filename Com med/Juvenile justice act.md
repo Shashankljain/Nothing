@@ -26,7 +26,7 @@ The legislative journey of juvenile justice in India has evolved to meet interna
 
 1. **Rehabilitation over Punishment:** To treat the "offended" child rather than punish them like an adult criminal.
 2. **Social Defence:** To defend society against criminality by creating conditions conducive to a healthy and wholesome growth of human life.
-3. **Holistic Care:** To address the "mental deprivation" caused by broken homes or "problem families".
+3. **Holistic Care:** To address the "==*mental deprivation*==" caused by broken homes or "problem families".
 4. **Specialization:** To provide a separate justice system that recognizes the "stormy" psychological transitions of adolescence.
 
 ---

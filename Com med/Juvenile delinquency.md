@@ -1,5 +1,5 @@
 [[PM in Paediatrics]]
-#new
+
 **Juvenile delinquency** is a critical social pathology where individuals under the age of majority exhibit behavior that deviates from legal and social norms. In the context of Community Medicine, it is viewed not just as a legal issue but as a reflection of the social and psychological health of the community.
 
 ---
@@ -16,19 +16,19 @@
 
 The causes of juvenile delinquency are complex and multifactorial, involving an interaction between the individual, their family, and the wider society.
 
-|**Category**|**Specific Factors**|
-|:--|:--|
-|**Family & Social Factors**|**Broken Homes:** Separation or death of parents leads to "mental deprivation," a potent pathogenic factor.  **Problem Families:** Families characterized by poverty, backwardness, and marital disharmony. **Lack of Affection:** Rejection or neglect by parents during the first 5 years of life.|
-|**Environmental Factors**|**Urbanization & Industrialization:** Movement to impersonal city environments and overcrowding. **Slum Living:** Proximity to crime-prone areas and lack of recreational facilities.  **Mass Media:** Exposure to violence and unrealistic economic aspirations through cinema and TV.|
-|**Behavioural Factors**|**Drug Addiction & Alcoholism:** Substance abuse is both a cause and a consequence of delinquency. **Peer Pressure:** Association with "gangs" or antisocial subcultures.|
-|**Psychological Factors**|**Emotional Instability:** Feelings of insecurity, anxiety, or inferiority.  **Failure to adjust:** Inability to cope with the "stormy" psychological transitions of adolescence.|
+| **Category**                | **Specific Factors**                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| :-------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Family & Social Factors** | **Broken Homes:** Separation or death of parents leads to "mental deprivation," a potent pathogenic factor.                                          **Problem Families:** Families characterized by poverty, backwardness, and marital disharmony.                                                                                        **Lack of Affection:** Rejection or neglect by parents during the first 5 years of life.                                |
+| **Environmental  Factors**  | **Urbanization & Industrialization:** Movement to impersonal city environments and overcrowding.                                                             **Slum Living:** Proximity to crime-prone areas and lack of recreational facilities.                                                                                                                 **Mass Media:** Exposure to violence and unrealistic economic aspirations through cinema and TV. |
+| **Behavioural Factors**     | **Drug Addiction & Alcoholism:** Substance abuse is both a cause and a consequence of delinquency.                                                                   **Peer Pressure:** Association with "gangs" or antisocial subcultures.                                                                                                                                                                                                                        |
+| **Psychological Factors**   | **Emotional Instability:** Feelings of insecurity, anxiety, or inferiority.  **Failure to adjust:** Inability to cope with the "stormy" psychological transitions of adolescence.                                                                                                                                                                                                                                                                                  |
 
 ---
 
 ### **III. Preventive and Control Measures** ★ Important Exam Point
 
 Management involves a "Social Defence" approach, which focuses on prevention, therapy, and rehabilitation rather than just punishment.
-
+![[image 3.jpg]]
 #### **1. The Children Act, 1960**
 
 The primary legal framework in India for the prevention and control of juvenile delinquency is **The Children Act, 1960**. It provides a specialized approach to the care, protection, maintenance, and training of delinquent children.
