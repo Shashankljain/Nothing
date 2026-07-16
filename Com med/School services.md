@@ -21,7 +21,7 @@ The ultimate goal is to ensure that children are healthy enough to participate e
 ### **II. Components of the School Health Programme**
 
 The program is comprehensive and multidimensional, involving various aspects of the child's life.
-
+![[Pasted image 20260716123046.png]]
 #### **1. Health Appraisal (Screening for 4Ds)** ★ Important Exam Point
 
 This is the core activity under **RBSK**. Dedicated Mobile Health Teams screen school-age children (6–18 years) for:
