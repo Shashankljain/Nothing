@@ -58,9 +58,23 @@
               "icon": "lucide-file",
               "title": "PEM"
             }
+          },
+          {
+            "id": "c2d02bd1cff5db0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tools"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -151,7 +165,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "PEM.md",
+            "file": "Tools.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -207,8 +221,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "55cda64defbfcd99",
+  "active": "c2d02bd1cff5db0d",
   "lastOpenFiles": [
+    "Tools.md",
     "PEM.md",
     "IDD.md",
     "Pasted image 20260717191851.png",
@@ -245,7 +260,6 @@
     "IDSP.md",
     "Pasted image 20260716093650.png",
     "ICTC.md",
-    "NSSK.md",
     "Untitled.base",
     "New/Untitled",
     "New",
