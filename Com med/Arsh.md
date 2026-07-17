@@ -1,1 +1,1 @@
-#new ![[Pasted image 20260717101934.png]]
+#new [[]]![[Pasted image 20260717101934.png]]
