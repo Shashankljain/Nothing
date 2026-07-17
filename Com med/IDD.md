@@ -1,4 +1,5 @@
 [[NUTRITION]]
+
  Iodine is an essential micronutrient required for human health and development. The **National Iodine Deficiency Disorders Control Programme (NIDDCP)** is the public health response in India to the widespread environmental deficiency of this trace element.
 
 ---
