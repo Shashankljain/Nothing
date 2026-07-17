@@ -25,10 +25,14 @@
             "id": "e98d8070a83e6619",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Com med/ARSH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ARSH"
             }
           }
         ],
@@ -180,6 +184,9 @@
   },
   "active": "e98d8070a83e6619",
   "lastOpenFiles": [
+    "Com med/Health problems of adolescents (girls)..md",
+    "Com med/Geriatrics health edu.md",
+    "Com med/Arsh.md",
     "Com med/PM in Paediatrics.md",
     "Com med/NACP (Different).md",
     "Com med/IDSP.md",
@@ -206,9 +213,6 @@
     "Forensic/drug addiction vs habituation.md",
     "Forensic/COPRA.md",
     "Forensic/CO.md",
-    "Forensic/CN.md",
-    "Forensic/Cardiac poison.md",
-    "Forensic/Bioethics.md",
     "Prompts",
     "Forensic/image 2.jpg",
     "Forensic/image 1.jpg",
