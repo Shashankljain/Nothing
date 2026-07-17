@@ -60,7 +60,7 @@ The programme operates through a multi-pronged strategy focused on supply, monit
 2. **Monitoring and Surveillance:**
     - **Salt Monitoring:** Regular testing of salt samples at the manufacturing, distribution, and consumer levels using **MBI (Methyl Blue Indicator) kits**.
     - **Urinary Iodine Excretion (UIE):** A biological indicator used to assess the current iodine status of a community.
-    - **Goitre Surveys:** Periodic surveys in school-age children (6–12 years) to track the Total Goitre Rate (TGR).
+    - **Goitre Surveys:** Periodic surveys in school-age children (6–12 years) to track the Total Goitre Rate (TGR).![[Pasted image 20260717191851.png]]
 3. **Laboratory Infrastructure:**
     - Establishment of IDD monitoring laboratories at the state level to analyze salt and urine samples.
 4. **Information, Education, and Communication (IEC):**
