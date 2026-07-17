@@ -1,4 +1,5 @@
 [[RCH.canvas]]
+[[Arsh]]
 
 **Adolescent Reproductive and Sexual Health (ARSH)**, now largely implemented under the broader **Rashtriya Kishore Swasthya Karyakram (RKSK)**, is a key strategic component of India’s **RMNCH+A** (Reproductive, Maternal, Newborn, Child and Adolescent Health) framework. It aims to address the unique health needs of the adolescent population (10–19 years), which constitutes a "vulnerable" yet often neglected group.
 
