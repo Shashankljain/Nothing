@@ -11,10 +11,14 @@
             "id": "369576f2caf8fbe1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Arsh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arsh"
             }
           },
           {
@@ -122,6 +126,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Arsh.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -179,6 +184,8 @@
   },
   "active": "369576f2caf8fbe1",
   "lastOpenFiles": [
+    "Pasted image 20260717101934.png",
+    "Pasted image 20260717101811.png",
     "RCH.canvas",
     "Arsh.md",
     "ARSH.md",
@@ -213,7 +220,6 @@
     "Pasted image 20260715125716.png",
     "Pasted image 20260715125656.png",
     "RCH.md",
-    "Pasted image 20260715123450.png",
     "Blindness.md",
     "Untitled.base",
     "New/Untitled",
