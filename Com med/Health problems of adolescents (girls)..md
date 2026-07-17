@@ -1,5 +1,5 @@
 [[PM in Paediatrics]]
-
+[[Arsh]]
 Adolescence is defined by the World Health Organization (WHO) as the period between **10 to 19 years** of age. For girls, this is a critical transitional phase characterized by rapid physical growth, the onset of menstruation (menarche), and significant psychological changes. In university examinations, this topic is often discussed as the **"stormy phase"** of life because of the intense biological and social adjustments required.
 
 ---
