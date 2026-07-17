@@ -44,7 +44,20 @@ The causes of PEM can be divided into primary (dietary) and secondary (condition
 ---
 
 ### **IV. Signs and Symptoms** ★ Important Exam Point
+Table: Comparison of Kwashiorkor and Marasmus
 
+|   |   |   |
+|---|---|---|
+|Feature|Kwashiorkor|Marasmus|
+|Main Cause|Low protein/energy ratio|Inadequate protein AND energy|
+|Edema|Present (Pitting edema)|Absent|
+|Wasting|Present|Severe muscle wasting|
+|Fat|Some subcutaneous fat may remain|Minimal/No subcutaneous fat|
+|Liver|Enlarged (Steatosis)|Normal|
+|Skin/Hair|Depigmentation, "flaky paint" dermatosis|Dry, thin skin|
+|Appearance|"Moon face" (due to edema)|"Old man" face/Extremely emaciated|
+|Mental State|Apathetic, irritable|Usually alert but hungry|
+|Albumin|Low serum albumin|Normal or near-normal|
 The clinical presentation depends on whether the child has Marasmus (energy deficiency) or Kwashiorkor (protein deficiency).
 
 - **Marasmus:** Characterized by severe wasting of muscles and loss of subcutaneous fat. The child appears "skin and bones".
