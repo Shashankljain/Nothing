@@ -61,7 +61,14 @@ Assessing the environment and what people eat.
 - **Dietary Survey:** Can be done at the family or individual level (e.g., 24-hour recall method or food frequency questionnaires).
 - **Food Availability:** Per capita "calorie" availability in a region.
 
-# **3**
+## 3) Dietary intake assessment 
+The nutritional assessment may be complemented by an assessment of food intake, which surveys the quantity and quality of food consumed by individuals or households. Direct assessment of food consumption can be carried out using methods such as:
+
+• Weighment of raw foods.
+
+• Oral questionnaire method, which carries out a diet survey of a large number of people at a short time.
+
+This data can be translated into average intakes (grams) of food, nutrients, and calories per person per day.
 
 ---
 
