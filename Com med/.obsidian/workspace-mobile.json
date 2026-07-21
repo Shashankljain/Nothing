@@ -35,8 +35,7 @@
               "title": "AMB (OLD)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +126,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "AMB (OLD).md",
+            "file": "AMB.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,10 +182,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "6fcb721b7d340a5b",
+  "active": "9005e3f8d26f4ab3",
   "lastOpenFiles": [
-    "AMB.md",
     "AMB (OLD).md",
+    "AMB.md",
     "PEM.md",
     "Food guide pyramid.md",
     "Balanced diet.md",
