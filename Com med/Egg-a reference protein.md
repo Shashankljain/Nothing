@@ -1,5 +1,4 @@
 [[NUTRITION]]
-In Community Medicine and Nutrition, the hen’s egg is considered the gold standard for evaluating the quality of other dietary proteins. It is the primary "reference protein" used by international and national health agencies to assess nutritional adequacy.
 
 ---
 
@@ -14,7 +13,7 @@ In Community Medicine and Nutrition, the hen’s egg is considered the gold stan
 
 The egg is a powerhouse of nutrients, providing high-quality macronutrients and essential vitamins.
 
-- **Protein Content:** A single hen’s egg weighing approximately **60 g** contains **6 g of protein**.
+- **Protein Content:** A single hen’s egg weighing approximately **60 g** contains **6 g of protein,6g of Fat,30mg of Calcium,1.5mg of iron — 70kal energy **
 - **Type of Protein:** The primary protein found in the egg white is **ovalbumin**.
 - **Nutrient Profile:** Egg contains almost all essential nutrients required by the body, with two notable exceptions: **carbohydrates** and **Vitamin C**.
 
