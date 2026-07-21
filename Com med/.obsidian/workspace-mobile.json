@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Balanced diet"
             }
+          },
+          {
+            "id": "4a0edf0626805101",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Food guide pyramid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Food guide pyramid"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -155,7 +169,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Balanced diet.md",
+            "file": "Food guide pyramid.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -211,8 +225,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "8fa334a9d892c96d",
+  "active": "4a0edf0626805101",
   "lastOpenFiles": [
+    "Food guide pyramid.md",
     "Balanced diet.md",
     "Malnutrition.md",
     "Pellagra.md",
@@ -249,7 +264,6 @@
     "Child guidance clinic.md",
     "Strret children.md",
     "Juvenile justice act.md",
-    "Juvenile delinquency.md",
     "Untitled.base",
     "New/Untitled",
     "New",
