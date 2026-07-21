@@ -45,8 +45,7 @@
               "title": "Food adulteration"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Food adulteration.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -193,9 +191,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "10c37a9e417754f2",
+  "active": "82a4fb2cff0573ce",
   "lastOpenFiles": [
     "Food adulteration.md",
+    "Pasted image 20260722002249.png",
     "Food fortification..md",
     "Food toxicity.md",
     "AMB.md",
@@ -229,8 +228,6 @@
     "BFHI.md",
     "PM in geriatrics.md",
     "image 6.jpg",
-    "image 5.jpg",
-    "Health problems of adolescents (girls)..md",
     "RCH.canvas",
     "Untitled.base",
     "New/Untitled",

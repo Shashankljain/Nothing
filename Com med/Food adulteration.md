@@ -24,7 +24,7 @@ The source material highlights that food habits are deeply rooted in culture, ma
 |**Oils/Fats**|Argemone oil, mineral oils|Can lead to "Epidemic Dropsy" [previous Turn 15 context].|
 |**Spices**|Non-permitted colours, lead|Used to make products appear more attractive or higher quality.|
 |**Honey/Jaggery**|Sugar syrup|Added to increase weight/volume in items considered to "generate heat" in the body.|
-
+![[Pasted image 20260722002249.png]]
 ---
 
 ### **III. The Prevention of Food Adulteration (PFA) Act, 1954** ★ Important Exam Point
