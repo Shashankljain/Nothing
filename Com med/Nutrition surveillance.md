@@ -9,6 +9,7 @@
 - **Distinction from Monitoring:**
     - **Monitoring:** The performance and analysis of routine measurements to detect changes in the health status of a population (e.g., periodic weighing in Anganwadis).
     - **Surveillance:** A broader, more sophisticated process requiring professional analysis and judgement of data to make specific recommendations for control activities (e.g., deciding to start a new Vitamin A distribution round based on rising deficiency trends).
+    - ![[Pasted image 20260721201125.png]]
 
 ---
 
