@@ -24,7 +24,7 @@ In Community Medicine, Pellagra is often discussed in the context of gastrointes
 
 1. **Diarrhoea:** Pellagra is characteristically associated with **diarrhoea**.
 2. **Nutritional Context:** It often co-exists with other severe forms of malnutrition, such as **kwashiorkor**, reflecting a generalized protein and vitamin gap in the community.
-
+![[Pasted image 20260721114309.png]]
 ---
 
 ### **IV. Public Health Significance and Prevention**
