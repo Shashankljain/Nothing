@@ -11,10 +11,14 @@
             "id": "224c76ca7e96123d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Nutrition program.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nutrition program"
             }
           },
           {
@@ -74,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,13 +224,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "49a469fa9d62c207",
+  "active": "a5494521353f0c34",
   "lastOpenFiles": [
+    "Nutrition program.md",
+    "Malnutrition.md",
     "PEM.md",
     "IDD.md",
     "Male vs female.md",
-    "Malnutrition.md",
-    "Nutrition program.md",
     "Tools.md",
     "Pasted image 20260717200303.png",
     "Pasted image 20260717200200.png",
