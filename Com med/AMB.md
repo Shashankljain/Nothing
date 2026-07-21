@@ -1,4 +1,5 @@
 [[NUTRITION]]
+
 The **Anemia Mukt Bharat (AMB)** strategy, originally launched in **2018** as part of the POSHAN Abhiyaan, has undergone a major transformation in **June 2026**. It is now formally renamed the **Anemia Mukt Bharat Abhiyaan**, shifting from a purely preventive supplementation model to a comprehensive, case-based management approach centred on **Testing, Treatment, and Digital Tracking**.
 
 ---

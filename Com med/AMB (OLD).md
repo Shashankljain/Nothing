@@ -1,3 +1,4 @@
+#new
 [[AMB]]
 **Anemia Mukt Bharat (AMB)** is an intensified national strategy launched by the Government of India to accelerate the decline of anaemia prevalence across all age groups. It represents a shift from the previous **National Iron Plus Initiative (NIPI)** toward a more comprehensive, life-cycle approach to combat nutritional deficiencies and "hidden hunger".
 
