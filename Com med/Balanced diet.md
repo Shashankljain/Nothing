@@ -50,18 +50,41 @@ Dietary goals are formulated to prevent chronic Non-Communicable Diseases (NCDs)
 #### **3. Recent Updates (2024 Guidelines)**
 
 - **HFSS Foods:** Current policies strongly recommend avoiding foods **High in Fat, Sugar, and Salt** (HFSS) and **Ultra-Processed Foods** to curb the obesity and diabetes epidemic.
-- **Total Energy Balance:** The energy intake should not exceed the energy expenditure required for one's physical activity level.
+- **Total Energy Balance:** The energy intake should not exceed the energy expenditure required for one's physical activity.
+
 
 ---
 
-### **IV. Public Health Significance**
+**II. Medical Conditions Where Prudent Diet is Applied**
 
-- **The First 1,000 Days:** A balanced diet from conception to age two is critical to prevent irreversible physical stunting and mental impairment.
-- **Hidden Hunger:** Even if a person consumes enough calories, a lack of micronutrients (Iodine, Zinc, Iron) can lead to reduced productivity and increased mortality.
-- **Lifecycle Influence:** A balanced diet reduces risks at every stage, from low birth weight in infants to osteoporosis and dementia in the elderly.
+**1. Coronary Heart Disease (CHD)** ★ Important Exam Point
 
+- **Why:** Diet is the principal preventive strategy for CHD.
+- **How:** High levels of serum cholesterol and saturated fats are judged to be causal for myocardial infarction.
+- **Action:** Replacing saturated fats with polyunsaturated fats (like soybean or sunflower oil) and increasing potassium-rich foods helps mitigate risk.
+
+**2. Hypertension**
+
+- **Why:** High salt intake (7–8 g/day) is a major determinant of raised blood pressure.
+- **Action:** The **DASH (Dietary Approaches to Stop Hypertension)** eating plan is a specific form of a prudent diet. It emphasizes fruits, vegetables, and low-fat dairy while reducing sodium.
+- **Impact:** A prudent diet combined with weight reduction can lower systolic BP by **5–20 mmHg per 10 kg** of weight loss.
+
+**3. Type 2 Diabetes Mellitus**
+
+- **Why:** Obesity (especially abdominal adiposity) is the strongest risk factor for insulin resistance.
+- **Action:** High intake of dietary fibre (NSP - Non-starch Polysaccharides) has been shown in randomized controlled trials to reduce blood glucose and insulin levels.
+- **Clinical Goal:** Maintenance of ideal body weight through a balanced diet to prevent microvascular complications like retinopathy.
+
+**4. Obesity**
+
+- **Why:** Obesity is a "health hazard" that increases the risk of gall bladder disease, osteoarthritis, and certain cancers.
+- **Action:** Diets for weight reduction are often based on a **1000 Kcal daily model** for adults, emphasizing low energy density and high fibre to promote satiety.
+
+**5. Cerebrovascular Disease (Stroke)**
+
+- **Why:** Hypertension is the single most important modifiable risk factor for stroke.
+- **Action:** Management focuses on the same prudent dietary principles used for CHD and hypertension to prevent the first TIA (Transient Ischaemic Attack) or full stroke.
 ---
-
 ### **High-Yield Exam Points** ★
 
 - **Reference Calorie:** 2000 Kcal is the current standard used for the "My Plate" concept in India.
