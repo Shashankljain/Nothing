@@ -25,10 +25,12 @@
             "id": "e98d8070a83e6619",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "audio",
+              "state": {
+                "file": "Com med/BGS Road 9.m4a"
+              },
+              "icon": "lucide-file-audio",
+              "title": "BGS Road 9"
             }
           }
         ],
@@ -180,6 +182,9 @@
   },
   "active": "e98d8070a83e6619",
   "lastOpenFiles": [
+    "Com med/Untitled.base",
+    "Com med/Untitled.canvas",
+    "Com med/BGS Road 9.m4a",
     "Com med/ARSH.md",
     "Com med/Pasted image 20260717101934.png",
     "Com med/Pasted image 20260717101811.png",
