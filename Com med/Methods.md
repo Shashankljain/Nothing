@@ -18,7 +18,7 @@ According to the sources, these methods are broadly classified into three catego
     - **Lectures** (Chalk and Talk).
     - **Demonstrations**.
     - **Discussion Methods:** Group discussions, Panel discussions, Symposiums, Workshops, Seminars, and Role plays (Socio-drama).
-- **Description:** Specifically tailored to groups with common interests (e.g., mothers, students, industrial workers).
+- **Description:** Specifically tailored to groups with ==common interests== (e.g., mothers, students, industrial workers).
 
 #### **3. Mass Approach (Mass Media)**
 
