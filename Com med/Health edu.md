@@ -22,8 +22,8 @@ These models explain the "why" and "how" behind the educational process.
 
 #### **2. Motivation Model**
 
-- **Focus:** It emphasizes "motivation" as the inner force driving action.
-- **Stages of Adoption (Mnemonic: AIEDAA):**
+- **Focus:** It emphasizes "motivation" as the inner force for doing action of the health education.
+- **Stages of Adoption (Mnemonic: AI ED AA):**
     - **A**wareness: Learning about the new idea.
     - **I**nterest: Seeking more information.
     - **E**valuation: Mentally weighing pros and cons.
