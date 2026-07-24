@@ -1,2 +1,2 @@
 [[Methods]]
-![[Pasted image 20260724163504.png]]![[Pasted image 20260724163524.png]]![[Pasted image 20260724163549.png]]![[Pasted image 20260724163614.png]]![[Pasted image 20260724163633.png]]
+![[Pasted image 20260724163504.png]]![[Pasted image 20260724163524.png]]![[Pasted image 20260724163549.png]]![[Pasted image 20260724163614.png]]![[Pasted image 20260724163633.png]]![[Pasted image 20260724163650.png]]
