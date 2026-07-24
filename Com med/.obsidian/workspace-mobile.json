@@ -45,8 +45,7 @@
               "title": "Methods"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Methods.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -193,7 +191,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "7b2a7b5b0e6dedf9",
+  "active": "82a4fb2cff0573ce",
   "lastOpenFiles": [
     "Methods.md",
     "Food fortification..md",
