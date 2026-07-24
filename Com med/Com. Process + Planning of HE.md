@@ -24,9 +24,9 @@ According to the **systematic model (Figure 1)**, the process consists of five 
 
 Health education cannot be planned in a vacuum; it must be connected to a specific health service and formulated according to the village’s socio-cultural and economic characteristics.
 
-#### **Mnemonic for Planning Steps: I-I-D-G-R-S-P-I-M-R**
+#### **Mnemonic for Planning Steps: /-I-D-G-R-S-P-/-M-R**
 
-_(**I**ntelligent **I**ndians **D**ecide **G**oals **R**esponsibly, **S**eeking **P**ractical **I**mplementation, **M**onitoring **R**esults)_
+## ( / I Dont GRaSP /MR )
 
 The 10 steps in scientific planning are:
 
