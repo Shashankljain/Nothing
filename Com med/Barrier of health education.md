@@ -11,15 +11,15 @@ According to the provided material, barriers are broadly classified into four ma
 
 These relate to the physical limitations of the sender or the receiver.
 
-- **Difficulties in hearing:** If the audience has hearing impairments or the speaker's voice is too low.
-- **Difficulties in expression:** If the educator has speech impediments or lacks clarity in delivery.
+- **Difficulties in hearing:** If the audience has ==hearing== ==impairments== or the speaker's voice is too low.
+- **Difficulties in expression:** If the educator has speech impediments or ==lacks clarity== in delivery.
 
 #### **2. Psychological Barriers**
 
-These are often the most difficult to overcome as they reside in the minds of the people.
+These are often the most difficult to overcome as they reside in the ==minds== of the people.
 
 - **Emotional Disturbances:** Fear, anxiety, or anger can act as a barrier; for example, a patient "frozen" by fear may not listen to medical advice.
-- **Neurosis:** Deep-seated mental health issues that affect perception.
+- **Neurosis:** Deep-seated mental health issues that affect **==perception==**
 - **Levels of Intelligence:** If the message is too complex for the audience's mental capacity.
 - **Language/Comprehension Difficulties:** Using technical jargon that the audience does not understand.
 
@@ -28,14 +28,14 @@ These are often the most difficult to overcome as they reside in the minds of th
 These relate to the physical setting where communication occurs.
 
 - **Noise:** Physical noise from the surroundings that drowns out the speaker.
-- **Congestion:** Overcrowded rooms or clinics where privacy is lacking.
-- **Invisibility:** Being unable to see the educator or the visual aids clearly.
+- **Congestion:** ==Overcrowded== rooms or clinics where privacy is lacking.
+- **Invisibility:** Being ==unable== to see the educator or the visual aids clearly.
 
 #### **4. Cultural Barriers**
 
 These stem from the social fabric of the community.
 
-- **Illiteracy:** Approximately 25% of the Indian population is illiterate, making printed media ineffective.
+> - **Illiteracy:** Approximately 25% of the Indian population is illiterate, making printed media ineffective.
 - **Customs and Beliefs:** Ancient traditions (e.g., believing chickenpox is "wrath of God") often stand in the way of accepting modern medicine.
 - **Social Distance:** The gap between the sophisticated, well-to-do doctor and the poor, illiterate villager.
 - **Language Variations:** Differences in dialects or meanings even within the same region.
