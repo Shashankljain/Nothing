@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Com. Process + Planning of HE.md",
+                "file": "Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Com. Process + Planning of HE"
+              "title": "Methods"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Com. Process + Planning of HE.md",
+            "file": "Methods.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,8 +170,8 @@
   },
   "active": "403762595cd38d30",
   "lastOpenFiles": [
-    "2026-07-24.md",
     "Com. Process + Planning of HE.md",
+    "2026-07-24.md",
     "image 8.jpg",
     "Health edu.md",
     "Principle of HE.md",
