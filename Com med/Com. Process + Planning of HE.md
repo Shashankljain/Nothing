@@ -5,28 +5,18 @@ Communication is the "life and blood" of health education, acting as a two-way p
 
 ### **I. The Communication Process** ★ Important Exam Point
 
-Communication is defined as a two-way process of exchanging or shaping ideas, feelings, and information. It is more than just a transfer of facts; its ultimate goal is to bring about a change in the receiver’s knowledge (cognitive), attitudes (affective), or skills (psychomotor).
+	Communication is defined as a two-way process of exchanging or shaping ideas, feelings, and information. 
+It is more than just a transfer of facts; its ultimate goal is to bring about a change in the receiver’`s` knowledge (cognitive), attitudes (affective), or skills (psychomotor).
 
 #### **Components of the Communication Process (The 5 Elements)**
 
 According to the **systematic model (Figure 1)**, the process consists of five main components:
-
-1. **Sender (Source):** The originator of the message (e.g., the Medical Officer or ASHA). To be effective, the sender must clearly define their objectives and understand the audience’s interests and limitations.
-2. **Receiver (Audience):** The person or group for whom the message is intended. The audience can be **controlled**(held together by a common interest) or **uncontrolled** (gathered out of curiosity).
-3. **Message (Content):** The "technical know-how" or information transmitted. A good message must be meaningful, based on **"felt needs,"** clear, and culturally appropriate.
+![[image 8.jpg]]
+1. **Sender (Source):** The originator of the message (e.g., the Medical Officer or ASHA). To be effective, the sender must clearly define their ==objectives== and understand the audience’s ==interests and limitations.==
+2. **Receiver (Audience):** The person or group for whom the message is intended. The audience can be **`controlled`**(held together by a common interest) or **`uncontrolled`** (gathered out of curiosity).
+3. **Message (Content):** it is the information /"technical know-how" that is  transmitted. A good message must be ==meaningful==, based on **"==felt== ==needs==,"** ==clear==, and ==culturally appropriate==.
 4. **Channel (Medium):** The "physical bridges" or media used (e.g., face-to-face talk, posters, or folk dramas).
 5. **Feedback (Effect):** The reaction of the audience. It is the most vital element as it allows the sender to modify the message to make it acceptable.
-
-#### **Flowchart of the Communication Process**
-
-```
-graph LR
-    A[SENDER] --> B[MESSAGE]
-    B --> C[CHANNEL]
-    C --> D[RECEIVER]
-    D -.-> E[FEEDBACK]
-    E -.-> A
-```
 
 ---
 
