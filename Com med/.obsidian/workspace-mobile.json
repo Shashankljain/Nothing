@@ -62,8 +62,23 @@
               "icon": "lucide-file",
               "title": "Symposium"
             }
+          },
+          {
+            "id": "50f8600e8ae80129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mass approach.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mass approach"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +169,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Methods.md",
+            "file": "Mass approach.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -210,9 +225,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "403762595cd38d30",
+  "active": "50f8600e8ae80129",
   "lastOpenFiles": [
+    "Mass approach.md",
     "Group approach.md",
+    "image 10.jpg",
+    "Methods.md",
     "Individual approach.md",
     "Symposium.md",
     "Pasted image 20260724164059.png",
@@ -224,8 +242,6 @@
     "Pasted image 20260724163524.png",
     "Pasted image 20260724163504.png",
     "Pasted image 20260724161256.png",
-    "Methods.md",
-    "image 9.jpg",
     "Com. Process + Planning of HE.md",
     "2026-07-24.md",
     "Health edu.md",
