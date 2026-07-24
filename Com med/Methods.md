@@ -2,7 +2,7 @@
 **Health Communication** is the "life and blood" of health education, acting as a two-way process to bridge the gap between scientific knowledge and community health practices. The ultimate goal is to achieve **Learning Objectives** at three levels: **Cognitive** (knowledge), **Affective** (attitudes), and **Psychomotor** (skills/habits).
 
 ---
-
+![[image 9.jpg]]
 ### **I. Classification of Health Communication Methods** ★ Important Exam Point
 
 According to the sources, these methods are broadly classified into three categories based on the size of the audience and the nature of interaction (Figure 3):
