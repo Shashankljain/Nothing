@@ -15,7 +15,7 @@ _(**C**an **I** **P**ractice **M**edicine **C**aringly **R**eaching **L**o
 
 #### **1. Credibility**
 
-The message must be perceived as trustworthy and consistent with scientific facts. It must also be compatible with local culture and social goals.
+The degree to which the message is perceived as trustworthy and consistent with scientific facts. It must also be compatible with local culture and social goals.
 
 - **Example:** A health worker advising on ORS for diarrhoea must use scientific facts that align with the community’s trust in the local clinic.
 
@@ -33,19 +33,19 @@ Health education should encourage people to work actively with health workers to
 
 #### **4. Motivation**
 
-Motivation is the "inner power" that drives a person to learn and change. It involves two types of motives: **Primary**(survival, hunger) and **Secondary** (praise, rewards).
+Motivation is the "inner power" that drives a person to learn and change. It involves two types of motives: **Primary**(sex,survival, hunger) and **Secondary** (praise, rewards).
 
 - **Example:** Telling a woman to lose weight to prevent heart disease (primary motive) may have little effect, but telling her she will look more "charming and beautiful" (secondary motive) might motivate her to follow the advice.
 
 #### **5. Comprehension**
 
-The educator must know the literacy and mental capacity of the audience and use language they understand, avoiding medical jargon.
+The educator must know the ==level of understanding== ,==literacy==== and ==mental== ==capacity== of the audience and use *language* they understand, avoiding medical jargon.
 
 - **Example:** A doctor asking a villager to avoid "starchy foods" may fail if the villager does not know what "starch" is; the doctor should instead name specific local foods like rice or potatoes.
 
 #### **6. Reinforcement**
 
-Because few people can learn everything in one session, repetition at intervals is necessary to prevent the audience from regressing to the "pre-awareness" stage.
+Because few people can learn everything in one session, repetition at intervals is necessary to prevent the audience from regressing to the =="pre-awareness" stage.
 
 - **Example:** During an immunization drive, the importance of the booster dose must be repeated across multiple house visits and posters to ensure the message sticks.
 

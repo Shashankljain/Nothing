@@ -42,12 +42,12 @@ These models explain the "why" and "how" behind the educational process.
 
 These are the methods used to implement programs in a community.
 
-|**Approach**|**Mechanism**|**Merit/Demerit**|
-|:--|:--|:--|
-|**Regulatory**|Use of laws and external control (e.g., Child Marriage Act).|Fails in personal choices like smoking or diet; people must be ready for the law.|
-|**Service**|Providing facilities at the doorstep (e.g., free latrines).|Fails if not based on the **"felt needs"** of the people.|
-|**Health Education**|Planned learning experiences to help people choose healthy lives.|Results are slow but enduring; consistent with democratic philosophy.|
-|**PHC Approach**|Community involvement, self-reliance, and intersectoral coordination.|Most effective; helps individuals become self-reliant in health matters.|
+| **Approach**         | **Mechanism**                                                                                     | **Merit/Demerit**                                                                 |
+| :------------------- | :------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------- |
+| **Regulatory**       | Use of laws and external control (e.g., Child Marriage Act, seat belt).                           | Fails in personal choices like smoking or diet; people must be ready for the law. |
+| **Service**          | Providing facilities at the doorstep (e.g., free latrines).                                       | Fails if not based on the **"felt needs"** of the people.                         |
+| **Health Education** | Planned learning experiences to help people choose healthy lives.focus on children as it is easy. | Results are ==slow== but enduring; consistent with democratic philosophy.         |
+| **PHC Approach**     | Community involvement, self-reliance, and intersectoral coordination.                             | ==Most effective==; helps individuals become self-reliant in health matters.      |
 
 ---
 
@@ -57,7 +57,7 @@ These are the essential "rules" for effective teaching and learning.
 
 #### **Mnemonic: C-I-P M-C-R L-K-S G-F-L**
 
-_(**C**an **I** **P**ractice **M**edicine **C**aringly **R**eaching **L**ocal **K**ind **S**ouls **G**enerating **F**ine **L**eaders?)_
+_(**C**an **I** **P**ractice **M**edicine **C**aringly **R**eaching **L**ocal **K**ind **S**ouls **G**enerating **F**ine **L**eaders)_
 
 1. **C – Credibility:** The message must be trustworthy and consistent with scientific facts and local culture.
 2. **I – Interest:** Teaching must relate to the **"felt needs"** of the people; if they aren't interested, they won't listen.
