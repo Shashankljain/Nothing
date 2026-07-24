@@ -17,7 +17,7 @@ These models explain the "why" and "how" behind the educational process.
 
 #### **1. Medical Model**
 
-- **Focus:** Relies on the transfer of knowledge about the recognition and treatment of disease.
+- **Focus:** Relies on the transfer of knowledge about the ==recognition== and ==treatment== of disease.
 - **Limitation:** It assumes that if people have knowledge, they will change. It failed to bridge the gap between "knowing" and "doing".
 
 #### **2. Motivation Model**
