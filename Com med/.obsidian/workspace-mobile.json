@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cd77424e84770ab7",
+        "id": "388b6ebd4e730d18",
         "type": "tabs",
         "children": [
           {
-            "id": "82a4fb2cff0573ce",
+            "id": "68c39e8a39944862",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Health edu.md",
+                "file": "Com. Process + Planning of HE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Health edu"
-            }
-          },
-          {
-            "id": "83abf45d9ef584b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Principle of HE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Principle of HE"
+              "title": "Com. Process + Planning of HE"
             }
           }
         ]
@@ -126,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Health edu.md",
+            "file": "Com. Process + Planning of HE.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -182,10 +168,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "82a4fb2cff0573ce",
+  "active": "68c39e8a39944862",
   "lastOpenFiles": [
-    "Principle of HE.md",
     "Health edu.md",
+    "Principle of HE.md",
     "Food fortification..md",
     "Methods.md",
     "Com. Process + Planning of HE.md",
