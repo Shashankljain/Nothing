@@ -5,7 +5,7 @@
 
 ### **I. Definitions of Health Education** ★ Important Exam Point
 
-- **Classical Definition:** The translation of what is known about health into desirable individual and community behavior patterns by means of an educational process.
+- The translation of what is known about health into desirable individual and community behavior patterns by means of an educational process.
 - **John M. Last's Definition:** The process by which individuals and groups of people learn to behave in a manner conducive to the promotion, maintenance, or restoration of health.
 - **Alma-Ata Declaration (1978):** A process aimed at encouraging people to **want** to be healthy, to **know how** to stay healthy, to **do what they can** individually and collectively, and to **seek help** when needed.
 
