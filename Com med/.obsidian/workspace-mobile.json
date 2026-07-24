@@ -35,8 +35,7 @@
               "title": "Principle of HE"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +126,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Principle of HE.md",
+            "file": "Health edu.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,13 +182,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "83abf45d9ef584b3",
+  "active": "82a4fb2cff0573ce",
   "lastOpenFiles": [
+    "Principle of HE.md",
     "Health edu.md",
     "Food fortification..md",
     "Methods.md",
     "Com. Process + Planning of HE.md",
-    "Principle of HE.md",
     "Food adulteration.md",
     "DGLV.md",
     "Reference Adult Indian Woman.md",
