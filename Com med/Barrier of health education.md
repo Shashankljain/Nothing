@@ -35,10 +35,10 @@ These relate to the physical setting where communication occurs.
 
 These stem from the social fabric of the community.
 
-> - **Illiteracy:** Approximately 25% of the Indian population is illiterate, making printed media ineffective.
-- **Customs and Beliefs:** Ancient traditions (e.g., believing chickenpox is "wrath of God") often stand in the way of accepting modern medicine.
+- **Illiteracy:** Approximately 25% of the Indian population is illiterate, making printed media ineffective.
+- **Customs and Beliefs:** Ancient ==traditions== (e.g., believing chickenpox is "wrath of God") often stand in the way of accepting modern medicine.
 - **Social Distance:** The gap between the sophisticated, well-to-do doctor and the poor, illiterate villager.
-- **Language Variations:** Differences in dialects or meanings even within the same region.
+- **Language Variations:** *Differences* in dialects or meanings even within the same region.
 
 ---
 
@@ -48,9 +48,9 @@ To ensure effective communication, the educator must systematically address each
 
 #### **Mnemonic: "F-A-C-E the Feedback"**
 
-- **F – Felt Needs:** Base the message on what the people _feel_ they need, not just "health needs" defined by experts.
-- **A – Appropriate Media:** Use a combination of methods (Interpersonal + Mass Media + Folk Media) to reinforce the message.
-- **C – Comprehension:** Use simple, local language. **Example:** Instead of "carbohydrates," say "rice" or "potatoes".
+- **F – Felt Needs:** Base the message on what the ==people _feel_ they need==, not just "health needs" defined by experts.
+- **A – Appropriate Media:** Use a ==combination== of methods (Interpersonal + Mass Media + Folk Media) to reinforce the message.
+- **C – Comprehension:** Use ==simple==, local language. **Example:** Instead of "carbohydrates," say "rice" or "potatoes".
 - **E – Example Setting:** The educator must "practice what they preach" to maintain credibility.
 - **Feedback:** This is the most vital element. It allows the sender to modify the message or channel in real-time to make it acceptable.
 
