@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individual.md",
+                "file": "Group approach.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Individual"
+              "title": "Group approach"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Group.md",
+                "file": "Group approach.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Group"
+              "title": "Group approach"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "Symposium"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Symposium.md",
+            "file": "Methods.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -211,25 +210,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "7672647ba6a0cb55",
+  "active": "403762595cd38d30",
   "lastOpenFiles": [
+    "Group approach.md",
+    "Individual approach.md",
+    "Symposium.md",
     "Pasted image 20260724164059.png",
     "Pasted image 20260724163734.png",
-    "Symposium.md",
-    "Group.md",
     "Pasted image 20260724163650.png",
     "Pasted image 20260724163633.png",
     "Pasted image 20260724163614.png",
     "Pasted image 20260724163549.png",
     "Pasted image 20260724163524.png",
     "Pasted image 20260724163504.png",
-    "Individual.md",
     "Pasted image 20260724161256.png",
     "Methods.md",
     "image 9.jpg",
     "Com. Process + Planning of HE.md",
     "2026-07-24.md",
-    "image 8.jpg",
     "Health edu.md",
     "Principle of HE.md",
     "Food fortification..md",
