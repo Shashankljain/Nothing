@@ -44,9 +44,23 @@
               "icon": "lucide-file",
               "title": "Summon"
             }
+          },
+          {
+            "id": "82ec944d3fd4d948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conduct money.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conduct money"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +151,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Summon.md",
+            "file": "Conduct money.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -191,8 +205,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "d7e3d935890f315b",
+  "active": "82ec944d3fd4d948",
   "lastOpenFiles": [
+    "Conduct money.md",
     "Summon.md",
     "High court.md",
     "Deliriants.md",
@@ -218,7 +233,6 @@
     "War gases.md",
     "Plant irritant(Marking Nut).md",
     "Aconite poisoning.md",
-    "strychnine vs tetanus.md",
     "image 2.jpg",
     "image 1.jpg",
     "image.jpg"
