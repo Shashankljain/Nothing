@@ -1,14 +1,13 @@
 [[NUTRITION]]
-#new 
-**Food fortification** is a critical nutritional intervention in Community Medicine, defined as the process of adding one or more essential nutrients (vitamins or minerals) to a food to improve its nutritional quality and the health of the population.
 
-In the 2024 updates to the ICMR-NIN guidelines, fortification is emphasized as a primary strategy to combat **"Hidden Hunger"**—a form of undernutrition where individuals may consume enough calories but lack the micronutrients necessary for proper physical and mental development.
+defined as the process of adding one or more essential nutrients (vitamins or minerals) to a food to improve its nutritional quality and the health of the population.
 
+![[Pasted image 20260724194818.png]]
 ---
 
 ### **I. Importance of Food Fortification** ★ Important Exam Point
 
-Fortification is categorized under **Primary Prevention (Health Promotion)**. Its public health significance includes:
+Fortification is categorized under **==Primary Prevention== (Health Promotion)**. Its public health significance includes:
 
 - **Combating Hidden Hunger:** It addresses the "invisible" effects of micronutrient deficiencies (like Iodine, Iron, Zinc, and Vitamin A) that affect a large share of the population.
 - **Large-Scale Impact:** It is a mass strategy used to reach all segments of society, regardless of socio-economic status, by utilizing universal vehicles like salt or water.

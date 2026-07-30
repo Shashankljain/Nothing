@@ -1,30 +1,38 @@
 {
   "main": {
-    "id": "4a0e24cd454706b0",
+    "id": "3448c7e2bb98e66a",
     "type": "split",
     "children": [
       {
-        "id": "52751e807be462df",
+        "id": "75ab28ebbcae0efa",
         "type": "tabs",
         "children": [
           {
-            "id": "d3ea240de223b576",
+            "id": "d2dc076e8eb02abc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Checklist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Checklist"
             }
           },
           {
-            "id": "594c411b8a25cd99",
+            "id": "a9fd268f92af98ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Checklist.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Checklist"
             }
           }
         ]
@@ -33,24 +41,24 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e8ccbb92640dfccb",
+    "id": "5adb8d8ad8da4f23",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "d796d9d35b2b4fca",
+        "id": "b5341cf5feabba02",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": true
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
         }
       },
       {
-        "id": "12878bf1ee52055f",
+        "id": "2107719c60241d0a",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -67,7 +75,7 @@
         }
       },
       {
-        "id": "5c9a310396511968",
+        "id": "fc799263fb6d4a32",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -82,7 +90,7 @@
         }
       },
       {
-        "id": "2746c9313560bcfa",
+        "id": "a55fed417ffe12fb",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -96,7 +104,7 @@
         }
       },
       {
-        "id": "6b0dd30fb5344b60",
+        "id": "c95bcc3728a7a534",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -106,18 +114,19 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
-    "id": "199b396c048b2968",
+    "id": "70c5b4d797a199e8",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9708d2054976b3d4",
+        "id": "1a62b9a0e5dc23aa",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Checklist.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,12 +140,12 @@
         }
       },
       {
-        "id": "d74be4999ff38ecc",
+        "id": "03105a0354f3aeb6",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ipad.md",
+            "file": "Checklist.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,12 +154,12 @@
         }
       },
       {
-        "id": "f501b8a52ad9eb37",
+        "id": "21de2950ef0733be",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ipad.md",
+            "file": "Checklist.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -173,50 +182,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "d3ea240de223b576",
+  "active": "d2dc076e8eb02abc",
   "lastOpenFiles": [
-    "SDG.md",
-    "MDG.md",
-    "2.md",
-    "Pasted image 20260729181119.png",
-    "Pasted image 20260729181102.png",
-    "Hardy weinberg law.md",
-    "Chromosomal abnormalities..md",
-    "Klinefilter's syndrome.md",
-    "Mendel law.md",
-    "Genetic counselling.md",
-    "image 12.jpg",
-    "Beri beri.md",
-    "Eugenics vs euthenics.md",
-    "Genetic engineering.md",
-    "Down’s syndrome.md",
-    "image 11.jpg",
-    "DNA recombinant technology..md",
-    "Food adulteration.md",
-    "Genetics.md",
-    "Pasted image 20260724195251.png",
-    "Food fortification..md",
-    "Pasted image 20260724194818.png",
-    "DGLV.md",
-    "Pasted image 20260724194133.png",
-    "Nutrition surveillance.md",
-    "AMB (NEW).md",
-    "Methods.md",
-    "Mass approach.md",
-    "Barrier of health education.md",
-    "Health edu vs propaganda.md",
-    "Types of communication.md",
-    "Health edu.md",
-    "Symposium.md",
-    "Pasted image 20260724170446.png",
-    "Pasted image 20260724170357.jpg",
-    "Pasted image 20260724170339.png",
-    "Untitled.base",
-    "BGS Road 9.m4a",
-    "Untitled.canvas",
-    "RCH.canvas",
-    "New/Untitled",
-    "New",
-    "Com med"
+    "Tt.md",
+    "Checklist.md"
   ]
 }

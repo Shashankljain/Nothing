@@ -1,9 +1,8 @@
 [[NUTRITION]]
 #new 
-**Food adulteration** is a significant public health challenge in Community Medicine, often categorized as a "social evil" or "social pathology" because it is primarily driven by economic greed at the expense of consumer health. For an MBBS student, it is essential to understand this topic both as a nutritional hazard and a legal framework within the Indian health system.
 
 ---
-
+![[Pasted image 20260724195251.png]]
 ### **I. Definition and Introduction**
 
 - **Definition:** Food adulteration is the practice of intentionally debasing the quality of food offered for sale, either by the addition of inferior or harmful substances or by the removal of a valuable ingredient.
