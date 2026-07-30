@@ -66,7 +66,7 @@ A **Dying Declaration** is a statement made by a person who is dying, relating t
 #### **2. Principles of Recording**
 To be valid in court, the following principles must be followed:
 *   **Compos Mentis:** The doctor must certify that the patient is of "sound disposing mind" (conscious and coherent) before recording.
-*   **Language:** The statement must be recorded **verbatim** in the victim's own language.
+*   **Language:** The statement must be recorded **verbally** in the victim's own language.
 *   **Leading Questions:** No leading questions or suggestions should be given.
 *   **Witnesses:** Once complete, it should be signed by the person recording it and **two witnesses**. The investigating police officer should **not** be present during the recording.
 *   **Oath:** No oath is administered because it is believed that "a person will not meet his Maker with a lie in his mouth".
