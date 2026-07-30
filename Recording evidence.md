@@ -55,7 +55,7 @@ Witnesses are questioned in the following order:
 
 #### **1. Basic Concepts**
 **Definition**  
-A **Dying Declaration** is a statement made by a person who is dying as a result of an unlawful act, relating to the circumstances or causes which lead to their condition.
+A **Dying Declaration** is a statement made by a person who is dying, relating to the circumstances or causes which lead to their condition.
 
 **Relevant Law**
 *   **Section 26(1) BSA, 2023** (Formerly Section 32 of the Indian Evidence Act).
