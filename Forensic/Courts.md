@@ -5,7 +5,7 @@
 
 #### **Basic Concepts**
 
-**Introduction** The Indian judicial system is a hierarchical structure of courts that interpret and apply the law. For a medical practitioner, understanding this hierarchy is essential for knowing the legal weight of their testimony and the priority of court summons.
+**Introduction** The Indian judicial system is a ==hierarchical structure== of courts that interpret and apply the law. For a medical practitioner, understanding this hierarchy is essential for knowing the legal weight of their testimony and the priority of court summons.
 
 **Classification of Courts** Courts are primarily classified into:
 
