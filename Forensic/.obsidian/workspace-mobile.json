@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Supreme court.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -191,7 +190,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "9d05e5c7540f7281",
+  "active": "446d5b808c979c2f",
   "lastOpenFiles": [
     "Supreme court.md",
     "Courts.md",
