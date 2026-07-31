@@ -8,8 +8,8 @@ This is your **3-week balanced preparation to-do list** (July 30 – August 19, 
     - [x] **CM (Lengthy):** Principles of Epidemiology (Part 1) — *Focus: Case-control vs. Cohort studies* [1]
     - [x] **FM (Easy):** Ch 1: Introduction to Forensic Medicine [2]
 - [ ] **July 31**
-    - [ ] **CM (Lengthy):** Principles of Epidemiology (Part 2) — *Focus: Randomized Controlled Trials (RCT)* [1]
-    - [ ] **FM (Easy):** Ch 2: Legal Procedure — *Focus: Dying Declaration (RS4)* [2, 3]
+    - [x] **CM (Lengthy):** Principles of Epidemiology (Part 2) — *Focus: Randomized Controlled Trials (RCT)* [1]
+    - [x] **FM (Easy):** Ch 2: Legal Procedure — *Focus: Dying Declaration (RS4)* [2, 3]
 - [ ] **Aug 01**
     - [ ] **FM (Lengthy):** Ch 3: Medical Law & Ethics — *Focus: Medical Negligence & Consent (RS4)* [4, 5]
     - [ ] **CM (Easy):** Ch 2: Concept of Health & Disease — *Focus: Indicators of Health* [1]
