@@ -13,10 +13,10 @@ It is based on the legal maxim _“Nemo moriturus praesumitur mentiri,”_ whi
 
 **Medico-Legal Importance**
 
-- **Substantive Evidence:** It is admissible in court as direct evidence even without the person being present for cross-examination [Previous History].
-- **Proof of Crime:** It helps establish the identity of the assailant and the manner of the crime [Previous History].
-- **Exception to Hearsay:** While generally "hearsay" evidence is not valid, a dying declaration is a major legal exception [Previous History].
-- **Survivorship:** If the person survives, the statement is no longer a "Dying Declaration" but can be used as **corroborative evidence** in court.
+- **Substantive Evidence:** It is admissible in court as ==direct evidence== even without the person being present for cross-examination [Previous History].
+- **Proof of Crime:** It helps establish the identity of the ==assailant== and the ==manner== of the crime [Previous History].
+- **`Exception` to `Hearsay`:** While generally "hearsay" evidence is not valid, a dying declaration is a major legal exception [Previous History].
+- **Survivorship:** If the person survives, the statement is no longer a "Dying Declaration" but can be used as **==corroborative evidence==** in court.
 
 ★ **Important Exam Point:** The doctor’s primary role is to certify the **mental fitness** of the patient to make the statement.
 
@@ -46,7 +46,7 @@ Before recording begins, the doctor must examine the patient and certify that th
 - **Format:** No oath is administered.
 - **Leading Questions:** The person recording must **not** ask leading questions (questions suggesting a "Yes" or "No" answer).
 - **Signatures:** Once finished, it should be read over to the victim. It must be signed or thumb-printed by the **victim**and signed by the **person recording** it and **two witnesses**.
-- **Police Presence:** The investigating officer should not be present during the recording to avoid the suspicion of coaching the victim [Previous History].
+- **Police Presence:** The investigating officer should ==not== be present during the recording to avoid the suspicion of coaching the victim [Previous History].
 
 ---
 
