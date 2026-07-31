@@ -4,10 +4,10 @@ This is your **3-week balanced preparation to-do list** (July 30 – August 19, 
 ### **Week 1: Legal Framework & Fundamental Epidemiology**
 *Goal: Master the legal duties in Forensic Medicine and the core logic of Community Medicine.*
 
-- [ ] **July 30**
+- [x] **July 30**
     - [x] **CM (Lengthy):** Principles of Epidemiology (Part 1) — *Focus: Case-control vs. Cohort studies* [1]
     - [x] **FM (Easy):** Ch 1: Introduction to Forensic Medicine [2]
-- [ ] **July 31**
+- [x] **July 31**
     - [x] **CM (Lengthy):** Principles of Epidemiology (Part 2) — *Focus: Randomized Controlled Trials (RCT)* [1]
     - [x] **FM (Easy):** Ch 2: Legal Procedure — *Focus: Dying Declaration (RS4)* [2, 3]
 - [ ] **Aug 01**
