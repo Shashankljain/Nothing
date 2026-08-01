@@ -110,7 +110,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "e0a84a5ce32d5e2b",
@@ -175,7 +175,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "c890f00979c23163",
+  "active": "5fc7af29faf6d414",
   "lastOpenFiles": [
     "Chain of custody.md",
     "Courts.md",
