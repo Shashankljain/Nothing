@@ -31,8 +31,7 @@
               "title": "Chain of custody"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Chain of custody.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -177,7 +175,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "8bb51065380b8b47",
+  "active": "c890f00979c23163",
   "lastOpenFiles": [
     "Chain of custody.md",
     "Courts.md",
