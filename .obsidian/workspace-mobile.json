@@ -63,10 +63,14 @@
             "id": "a9b8184a697ae57f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "TT/Checklist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Checklist"
             }
           }
         ],
@@ -219,8 +223,8 @@
   },
   "active": "a9b8184a697ae57f",
   "lastOpenFiles": [
-    "Forensic/Cardiac poison.md",
     "TT/Checklist.md",
+    "Forensic/Cardiac poison.md",
     "Forensic/Conduct in court.md",
     "Forensic/Recording evidence.md",
     "Forensic/legal procedure.md",
