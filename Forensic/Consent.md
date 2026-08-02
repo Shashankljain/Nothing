@@ -19,7 +19,7 @@
 |**30 BNS**|**Doctrine of Emergency**|No consent is required for acts done in good faith for the benefit of a person in a life-threatening emergency.|
 
 #### **3. Types of Consent**
-
+![[Pasted image 20260802124618.png]]
 1. **Implied Consent:** Deduced from the patient's gestures or body language (e.g., a patient sitting in the dental chair or offering an arm for a BP check).
 2. **Expressed Consent:** Given in words, either **Verbal** or **Written**. Written consent is always legally superior.
 3. **Informed Consent (★ Important Exam Point):** The doctor must explain the nature of the disease, the procedure, risks involved, and alternatives. The patient must have all information to make a choice.
