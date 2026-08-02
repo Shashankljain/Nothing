@@ -47,7 +47,9 @@
 #### **1. Basic Concepts**
 
 - **Introduction:** The Consumer Protection Act was originally passed in 1986 and was replaced by the **2019 Act**, which came into effect on **July 20, 2020**.
-- **Objective:** To provide for better protection of the interests of consumers and to establish authorities for timely and effective settlement of consumer disputes.
+- **Objective:** 
+	- To protect the interests of consumers 
+	- to establish authorities for timely and effective settlement of consumer disputes.
 - **Applicability:** Medical services provided for a fee fall under "services" as defined by the act.
 
 #### **2. Redressal Commission Hierarchy (Pecuniary Jurisdiction)**
@@ -57,7 +59,7 @@
 |**District Commission**|Up to **₹1 Crore**.|
 |**State Commission**|**₹1 Crore to ₹10 Crore**.|
 |**National Commission**|**>₹10 Crore**.|
-
+![[image 9.jpg]]
 #### **3. Key Features and Time Limits**
 
 - **Filing a Case:** A consumer can file a complaint within **2 years** of the incident (Res Indicata).
@@ -66,36 +68,3 @@
     - State $\rightarrow$ National: Within **30 days**.
     - National $\rightarrow$ **Supreme Court**: Final level of appeal.
 - **Modern Provisions:** The 2019 Act introduced **E-filing** of complaints and provisions against **misleading advertisements**.
-
----
-
-### **High-Yield Exam Points**
-
-- ★ **Section 30 BNS:** The "Life-saving" section where no consent is needed in emergencies.
-- ★ **Section 28 BNS:** Defines when consent is legally "invalid" (fear, intoxication, etc.).
-- ★ **72-Hour Rule:** Under NMC guidelines, a doctor must provide medical records to the patient within 72 hours of a request.
-- ★ **CPA Time Limit:** 2 years is the limitation period for filing a case.
-
----
-
-### **Viva Questions**
-
-1. **Can a 13-year-old consent to a major surgery?**
-    - _Ans:_ No. While they can consent to a physical exam (>12 years), surgery requires the patient to be >18 years old.
-2. **Is consent needed for a "Brought Dead" autopsy?**
-    - _Ans:_ No, medico-legal autopsies are conducted on official orders and do not require family consent.
-3. **To which court do you appeal a ₹15 Crore judgment?**
-    - _Ans:_ The Supreme Court, as the case would have originated in the National Commission.
-4. **What happens if you treat a patient against their will?**
-    - _Ans:_ It is considered Assault under Section 131 BNS.
-
----
-
-### **Quick Revision Summary**
-
-- **Consent:** Agreement of two minds (ICA Sec 13).
-- **Assault:** Treatment without consent (BNS 131).
-- **Emergency:** No consent needed (BNS 30).
-- **Age:** 12 for exam, 18 for surgery.
-- **CPA 2019:** District (<1Cr), State (1-10Cr), National (>10Cr).
-- **CPA Deadline:** Case must be filed within 2 years.
