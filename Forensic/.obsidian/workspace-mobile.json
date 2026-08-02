@@ -35,8 +35,7 @@
               "title": "Duties of RMP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +126,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Duties of RMP.md",
+            "file": "Medical negligence.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,10 +180,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "0bc19d5301e5c9a7",
+  "active": "5c79c1b76c4cd514",
   "lastOpenFiles": [
-    "Medical negligence.md",
     "Duties of RMP.md",
+    "Medical negligence.md",
     "image 7.jpg",
     "image 6.jpg",
     "image 5.jpg",
