@@ -253,12 +253,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "33d165aaf16d2905",
+  "active": "fa50dfcbbd81332b",
   "lastOpenFiles": [
-    "NMC.md",
-    "Infamous conduct.md",
-    "Medical law.md",
-    "Medical negligence.md",
+    "Forensic/Medical law.md",
+    "Forensic/NMC.md",
+    "Forensic/Infamous conduct.md",
+    "Forensic/Medical negligence.md",
     "Forensic/Toxicology.md",
     "Forensic/CNS depressents.md",
     "TT/Checklist.md",
