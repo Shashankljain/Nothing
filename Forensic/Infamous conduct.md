@@ -6,14 +6,17 @@
 #### **Basic Concepts**
 
 **Definition**  
-**Infamous Conduct**, also known as **Professional Misconduct**, is defined as any act done by a Registered Medical Practitioner (RMP) which would be reasonably regarded as disgraceful or dishonourable by their professional brethren of good repute and competency [1-p66, 41].
+**Infamous Conduct**, also known as **Professional Misconduct**, is defined as any act done by a Registered Medical Practitioner (RMP) which would be regarded as disgraceful or dishonourable by their professional member of good repute and competency [1-p66, 41].
 
 **Introduction**  
 A medical practitioner is expected to maintain a high standard of ethics and etiquette. When a doctor deviates from these standards in their professional capacity, it constitutes professional misconduct [1-p65, 41]. These guidelines are enforced by the **State Medical Council (SMC)** and the **National Medical Commission (NMC)** [1-p65, 66].
 
-**Importance in Medico-Legal Practice**  
-*   **Professional Standards:** Ensures that the trust of the public in the medical profession is maintained.
-*   **Penal Erasure (★ Important Exam Point):** Serious misconduct can lead to the "Professional Death Sentence," where a doctor’s name is removed from the medical register, ending their legal right to practice [1-p65, 42].
+### Punishment for professional misconduct.
+
+- If a doctor is found guilty of any of the above offence:
+1. He/she may be,warned if offence is of lesser degree
+2. Penal Erasure: Name is erased from the medical register temporarily.
+3. Professional Death Sentence: Name is erased from the medical register permanently. Doctor loses all his/her privileges to practice medicine.
 
 ---
 
@@ -58,6 +61,10 @@ The SMC exercises "Disciplinary Control" over all RMPs registered within the sta
 3.  **Formal Enquiry:** A formal hearing is held where the doctor is given a chance to defend themselves (Principles of Natural Justice) [1-p65].
 4.  **Conclusion:** Based on findings, the doctor may be **acquitted** (if not proven) or punished [1-p65].
 
+
+Fig. - 21.1
+![[image 4.jpg]]
+
 **Types of Punishment:**
 *   **Warning:** A formal caution not to repeat the act [1-p65, 42].
 *   **Temporary Suspension:** Removal of the doctor's name from the register for a specific period [1-p65, 42].
@@ -67,32 +74,3 @@ The SMC exercises "Disciplinary Control" over all RMPs registered within the sta
 If a doctor is not satisfied with the SMC’s decision, they can appeal to the **Ethics and Medical Registration Board (EMRB)** of the National Medical Commission (NMC). Further appeals may be taken to the National Medical Commission itself [1-p65].
 
 ---
-
-#### **High-Yield Exam Points**
-
-*   ★ **Penal Erasure:** This is the ultimate disciplinary action and is permanent unless a restoration of name is granted later.
-*   ★ **The 72-Hour Rule:** Refusal to provide medical records within 72 hours is now classified as professional misconduct.
-*   ★ **Dichotomy:** This is another term for "fee-splitting" or "cut practice".
-*   ★ **Suo-moto:** The power of the council to start an enquiry without a formal complaint from a victim [1-p65].
-
----
-
-#### **Viva Questions**
-
-1.  **What is the "Professional Death Sentence"?**  
-    *   *Ans:* It refers to **Penal Erasure**, the permanent removal of a doctor’s name from the medical register for serious misconduct [1-p65, 42].
-2.  **Can a doctor advertise their clinic?**  
-    *   *Ans:* Generally, no. Direct advertising to obtain patients is considered professional misconduct, although a simple change of address or starting of practice notice is permitted.
-3.  **What is Dichotomy?**  
-    *   *Ans:* It is fee-splitting, where a doctor receives a commission from another doctor or diagnostic center for referring a patient.
-4.  **How long must a doctor keep indoor patient records?**  
-    *   *Ans:* They must be maintained for **3 years**.
-
----
-
-#### **Quick Revision Summary**
-*   **Definition:** Disgraceful/dishonourable act by a doctor [1-p66, 41].
-*   **Examples (6 As):** Adultery, Addiction, Advertisement, Abortion (Criminal), Association with quacks, Assisting (Bribery/Dichotomy) [1-p66, 41].
-*   **Regulatory Body:** State Medical Council (SMC) performs the enquiry [1-p65].
-*   **Punishments:** Warning $\rightarrow$ Suspension $\rightarrow$ Penal Erasure [1-p65, 42].
-*   **Important Law:** Section 234 BNS for false certificates.

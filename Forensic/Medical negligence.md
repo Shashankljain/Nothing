@@ -6,9 +6,8 @@
 #### **Basic Concepts**
 
 **Definition**  
-**Medical Negligence** is defined as the absence of reasonable skill and care, or the commission of a wrongful act by a medical practitioner during the treatment of a patient, which results in ill-health, injury, or death [1, 69; 2, 16]. 
+**Medical Negligence** is defined as the absence of reasonable skill and care, or the willful negligence by a medical practitioner during the treatment of a patient, which results in ill-health, injury, or death [1, 69; 2, 16]. 
 
-**Introduction**  
 Negligence can occur in two ways:
 1.  **Omission:** Failing to do something that a reasonable and prudent doctor would do (e.g., not performing a sensitivity test before injecting penicillin).
 2.  **Commission:** Doing something that a reasonable and prudent doctor would not do (e.g., performing a major surgery in a poorly equipped clinic).
@@ -29,18 +28,9 @@ To prove a case of medical negligence in a court of law, the following four esse
 
 ---
 
+![[image 5.jpg]]![[image 6.jpg]]
 #### **Civil vs. Criminal Negligence**
-
-| **Feature** | **Civil Negligence (Tort)** | **Criminal Negligence** |
-| :--- | :--- | :--- |
-| **Nature of Act** | Simple lack of skill or care [1, 69; 2, 16]. | Gross, willful, or "utter" recklessness [1, 69; 2, 16]. |
-| **Presiding Court** | Civil Court or Consumer Court [1, 69; 2, 16]. | Criminal Court [1, 69; 2, 16]. |
-| **Parties** | Patient vs. Doctor [1, 69; 2, 16]. | State (Prosecution) vs. Doctor [1, 69; 2, 16]. |
-| **Burden of Proof** | Lies on the Plaintiff (Patient) [1, 69; 2, 16]. | Lies on the Prosecution. |
-| **Standard of Evidence** | **Probability of evidence** (Preponderance) [1, 69; 2, 16]. | Proof **"Beyond reasonable doubt"** [1, 69; 2, 16]. |
-| **Punishment** | Monetary compensation/damages [1, 69; 2, 16]. | Imprisonment, fine, or both [1, 69; 2, 16]. |
-| **Example** | Wrong dose in a non-fatal prescription. | Operating while intoxicated; leaving a swab/instrument inside the body. |
-
+![[image 7.jpg]]
 ---
 
 #### **Relevant Law (BNS & BNSS, 2023)**
