@@ -59,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Witness ",
+            "query": "Legal",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -177,6 +177,7 @@
   },
   "active": "5fc7af29faf6d414",
   "lastOpenFiles": [
+    "strychnine vs tetanus.md",
     "Chain of custody.md",
     "Courts.md",
     "Recording evidence.md",
@@ -202,7 +203,6 @@
     "ESIC.md",
     "Bioethics.md",
     "Paracetamol poisoning.md",
-    "THOTA.md",
     "image 2.jpg",
     "image 1.jpg",
     "image.jpg"

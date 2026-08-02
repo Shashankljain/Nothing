@@ -31,8 +31,7 @@
               "title": "Checklist"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,9 +178,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "a9fd268f92af98ab",
+  "active": "d2dc076e8eb02abc",
   "lastOpenFiles": [
-    "Tt.md",
-    "Checklist.md"
+    "Checklist.md",
+    "Tt.md"
   ]
 }
