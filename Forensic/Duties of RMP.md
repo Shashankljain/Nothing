@@ -68,43 +68,14 @@ Understanding these duties is critical to:
 
 ### **Privileged Communication**
 
-**Definition:** A communication made in good faith on a subject in which the doctor has a duty (legal, social, or moral) to protect the interests of the community or the State.
+**Definition:** A communication made in ==good faith== on a subject in which the doctor has a duty (legal, social, or moral) to protect the ==interests== of the community or the State.
 
 **Exceptions to Professional Secrecy:**
 
-1. **Suspected Crime:** Reporting an assault or poisoning (Sec 33 BNSS).
-2. **Civic Benefit:** Informing authorities about a pilot with color blindness or a driver with epilepsy.
-3. **Infectious Diseases:** Notifying partners in case of venereal disease or health departments in case of TB/Cholera.
+1. **Suspected Crime:** Reporting an assault,rape,murder,or poisoning (Sec 33 BNSS).
+2. **Civic Benefit:** Informing authorities about a pilot with ==color blindness== or a driver with ==epilepsy==.
+3. **Infectious Diseases:** Notifying partners in case of venereal disease or health departments in case of TB/Cholera,STD.
 4. **Court Orders:** Disclosing information when ordered by a judge.
 
 ---
 
-### **High-Yield Exam Points**
-
-- ★ **Sec 106 BNS:** Replaces 304A IPC; specific to death by medical negligence.
-- ★ **6 As of Professional Misconduct:** Adultery, Addiction, Advertising, Abortion (criminal), Association (with quacks), Assisting (Bribery/Dichotomy).
-- ★ **Dichotomy:** Fee-splitting or "cut practice," which is professional misconduct.
-- ★ **Compos Mentis:** The mental state a doctor must certify before recording a **Dying Declaration**.
-
----
-
-### **Viva Questions**
-
-1. **How long must you keep indoor patient records?**
-    - _Ans:_ 3 years.
-2. **Can you refuse to treat a patient in an emergency?**
-    - _Ans:_ No. It is an ethical and humanitarian duty (Sec 30 BNS).
-3. **What is "Penal Erasure"?**
-    - _Ans:_ It is the permanent removal of a doctor’s name from the medical register due to serious professional misconduct (the "professional death sentence").
-4. **Is a doctor bound to inform the police in all poisoning cases?**
-    - _Ans:_ Private practitioners are bound in homicidal cases; government doctors must report all cases (accidental, suicidal, or homicidal).
-
----
-
-### **Quick Revision Summary**
-
-- **Records:** 3 years indoor; 72-hour copy rule.
-- **Ethics:** Moral guidance; **Etiquette:** Courtesy to colleagues.
-- **Negligence (4 Ds):** Duty, Dereliction, Direct Cause, Damage.
-- **Law:** BNS 106 (Negligence), BNSS 33 (Reporting), BSA 39 (Expert).
-- **Conduct:** No advertising, no fee-splitting (Dichotomy).
