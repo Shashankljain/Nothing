@@ -49,7 +49,7 @@ Understanding these duties is critical to:
 - **Exercise Reasonable Skill and Care:** A practitioner (MBBS) is expected to exercise a "reasonable" degree of skill; they are liable if they attempt a procedure beyond their competence.
 - **Informed Consent:** Must obtain written informed consent for major procedures, explaining risks and alternatives (BNS 25-30).
 - **Attendance:** Once a patient is accepted, the doctor is obligated to attend to them as long as required. Withdrawal requires reasonable notice.
-- **Professional Secrecy:** Doctors are obliged to keep patient information confidential. Breach of secrecy can lead to legal action.
+- **Professional Secrecy:** Doctors are obliged to keep patient information ==confidential==. Breach of secrecy can lead to legal action.
 - **Emergency Cases:** Doctors have a moral and ethical duty to provide life-saving treatment in emergencies, even without immediate consent (Sec 30 BNS).
 
 #### **3. Duties toward the State**
