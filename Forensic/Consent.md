@@ -26,6 +26,8 @@
 4. **Surrogate/Proxy Consent:** Given by a parent or guardian when the patient is unable to give consent (child/unconscious).
 5. **Blanket/Open Consent:** A single consent for all possible procedures during admission. This is **invalid in India**.
 
+
+![[image 8.jpg]]
 #### **4. Age Limits for Consent**
 
 - **General Physical Examination:** Valid at **>12 years**.
