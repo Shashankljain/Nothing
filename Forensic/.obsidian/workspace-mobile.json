@@ -11,10 +11,14 @@
             "id": "5c79c1b76c4cd514",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Infamous conduct.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Infamous conduct"
             }
           },
           {
@@ -136,6 +140,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Infamous conduct.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
