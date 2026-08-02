@@ -6,10 +6,10 @@
 #### **Basic Concepts**
 
 **Definition**
-The **National Medical Commission (NMC)** is the statutory regulatory body in India that oversees medical education, medical professionals, and ethical standards in medical practice.
+The **National Medical Commission (NMC)** is the regulatory body in India that regulates medical education, medical professionals, and ethical standards in medical practice.
 
 **Introduction**
-The NMC was constituted to replace the erstwhile **Medical Council of India (MCI)** to provide a more transparent and high-quality medical education system. It acts as the apex body, while the **State Medical Councils (SMC)** operate at the provincial level under its guidance.
+The NMC was constituted to replace the erstwhile **Medical Council of India (MCI)** to provide a more ==transparent== and ==high-quality medical education== system. It acts as the apex body, while the **State Medical Councils (SMC)** operate at the provincial level under its guidance.
 
 **Objectives**
 *   To improve access to quality and affordable medical education.
@@ -44,37 +44,11 @@ The NMC performs its functions through four specialized autonomous boards:
 **3. Disciplinary Control (Appellate Authority)**
 *   If a doctor is found guilty of misconduct, the SMC can take actions like warnings, temporary suspension, or **Penal Erasure** (permanent removal of name).
 *   ★ **Important Exam Point:** If a doctor is not satisfied with the disciplinary action taken by the SMC, they can **appeal** to the Ethics and Medical Registration Board (EMRB) of the NMC. A further appeal can be made to the NMC itself.
+*    **Disciplinary Chain:** Complaint $\rightarrow$ SMC Enquiry $\rightarrow$ SMC Punishment $\rightarrow$ **Appeal to NMC**.
 
 **4. Oversight of Medical Education**
 *   Ensuring that medical institutions meet faculty and infrastructural requirements through periodic assessments by the MARB.
 *   Implementing modern systems like the **Aadhar Enabled Biometric Attendance System (AEBAS)** for faculty and residents to check absenteeism.
 
 ---
-
-#### **High-Yield Exam Points**
-
-*   ★ **Replacement:** NMC replaced the MCI in 2020.
-*   ★ **EMRB:** The board specifically responsible for ethics and the National Medical Register.
-*   ★ **Appellate Body:** The NMC is the final administrative authority for a doctor to appeal against a "Professional Death Sentence" (Penal Erasure) issued by a state council.
-*   ★ **Professional Misconduct:** NMC periodically updates the "Warning Notice" listing infamous conduct for all RMPs.
-
----
-
-#### **Viva Questions**
-
-1.  **Who maintains the National Medical Register?**
-    *   *Ans:* The Ethics and Medical Registration Board (EMRB) of the National Medical Commission.
-2.  **Which board grants permission to start a new medical college?**
-    *   *Ans:* The Medical Assessment and Rating Board (MARB).
-3.  **What can a doctor do if their name is erased from the register by the State Medical Council?**
-    *   *Ans:* They can file an appeal with the Ethics and Medical Registration Board (EMRB) of the NMC. If still not satisfied, they can appeal to the NMC itself.
-4.  **What is the difference between Medical Ethics and Medical Etiquette?**
-    *   *Ans:* **Ethics** are the moral principles guiding the doctor-patient relationship, while **Etiquette** refers to the conventional laws of courtesy and conduct between colleagues in the profession.
-
----
-
-#### **Quick Revision Summary**
-*   **Apex Body:** NMC (replaces MCI).
-*   **4 Boards:** UGMEB (UG Education), PGMEB (PG Education), MARB (Permits/Rating), EMRB (Ethics/Registration).
-*   **Key Duty:** Maintain the National Medical Register and enforce ethical standards.
-*   **Disciplinary Chain:** Complaint $\rightarrow$ SMC Enquiry $\rightarrow$ SMC Punishment $\rightarrow$ **Appeal to NMC**.
+![[image 3.jpg]]
