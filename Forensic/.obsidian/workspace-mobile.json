@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Hair.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Hair"
             }
           }
         ],
@@ -197,7 +197,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "Hair.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
   },
   "active": "e254f6a65ee629b6",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Hair.md",
     "Scars.md",
     "image 10.jpg",
     "Footprints.md",
