@@ -67,10 +67,14 @@
             "id": "631b4cafa43a21f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ],
@@ -165,6 +169,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -220,6 +225,7 @@
   },
   "active": "631b4cafa43a21f7",
   "lastOpenFiles": [
+    "Untitled.md",
     "Gustafson.md",
     "Pasted image 20260803102913.png",
     "Infamous conduct.md",
