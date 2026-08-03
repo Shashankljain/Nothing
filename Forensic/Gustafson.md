@@ -25,7 +25,7 @@
 |**R - Root Resorption**|The loss of cementum and dentin from the root apex, which is considered the least reliable parameter [4-p37].|
 |**T - Transparency (Root)**|The sclerosis of dentinal tubules, making the root appear translucent; this is the **most reliable**parameter [1-p108, 2-p12, 4-p37].|
 |**C - Cementum Apposition**|The gradual increase in the thickness of cementum around the root due to continuous deposition [4-p37].|
-
+![[Pasted image 20260803102913.png]]
 ---
 
 #### **Procedure and Scoring**
