@@ -62,9 +62,19 @@
               "icon": "lucide-file",
               "title": "Gustafson"
             }
+          },
+          {
+            "id": "631b4cafa43a21f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -155,7 +165,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Gustafson.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -209,10 +218,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "f85ee4bfa205d6bd",
+  "active": "631b4cafa43a21f7",
   "lastOpenFiles": [
-    "Pasted image 20260803102913.png",
     "Gustafson.md",
+    "Pasted image 20260803102913.png",
     "Infamous conduct.md",
     "Medical negligence.md",
     "Consent.md",
@@ -245,7 +254,6 @@
     "Laws.md",
     "Asphyxiants.md",
     "Cardiac poison.md",
-    "image 2.jpg",
-    "image 1.jpg"
+    "image 2.jpg"
   ]
 }
