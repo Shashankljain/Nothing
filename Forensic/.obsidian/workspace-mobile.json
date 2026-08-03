@@ -48,8 +48,23 @@
               "icon": "lucide-file",
               "title": "Consent"
             }
+          },
+          {
+            "id": "f85ee4bfa205d6bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,8 +209,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c79c1b76c4cd514",
+  "active": "f85ee4bfa205d6bd",
   "lastOpenFiles": [
+    "Untitled.md",
     "Infamous conduct.md",
     "Medical negligence.md",
     "Consent.md",
