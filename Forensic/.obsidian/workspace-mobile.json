@@ -11,10 +11,14 @@
             "id": "6f12234a2a66adb7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -108,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,6 +168,7 @@
   },
   "active": "6f12234a2a66adb7",
   "lastOpenFiles": [
+    "Untitled.md",
     "Infamous conduct.md",
     "Duties of RMP.md",
     "Consent.md",
@@ -197,7 +203,6 @@
     "High court.md",
     "Summon.md",
     "Conduct money.md",
-    "Dying declaration.md",
     "image 2.jpg"
   ]
 }
