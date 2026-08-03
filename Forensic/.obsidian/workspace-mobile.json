@@ -4,109 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "32cd25c2ec796e32",
+        "id": "6bd9a0e2f943b3f6",
         "type": "tabs",
         "children": [
           {
-            "id": "6f12234a2a66adb7",
+            "id": "975ad621ed1f437b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Superimposition.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Superimposition"
-            }
-          },
-          {
-            "id": "f63af6a5bed7b98c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bite marks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bite marks"
-            }
-          },
-          {
-            "id": "193c76be32d20276",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Age.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Age"
-            }
-          },
-          {
-            "id": "d5ea94e7932679f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hasse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hasse"
-            }
-          },
-          {
-            "id": "d024f054adc1d635",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Footprints.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Footprints"
-            }
-          },
-          {
-            "id": "8f01973302335e5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scars.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scars"
-            }
-          },
-          {
-            "id": "e254f6a65ee629b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hair.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hair"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Legal",
+            "query": "Identi",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -197,7 +108,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Hair.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -251,16 +161,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "e254f6a65ee629b6",
+  "active": "5fc7af29faf6d414",
   "lastOpenFiles": [
+    "Age.md",
     "Hair.md",
     "Scars.md",
-    "image 10.jpg",
     "Footprints.md",
     "Hasse.md",
-    "Age.md",
     "Bite marks.md",
     "Superimposition.md",
+    "image 11.jpg",
+    "image 10.jpg",
     "Infamous conduct.md",
     "Duties of RMP.md",
     "Consent.md",
@@ -283,11 +194,9 @@
     "Chain of custody.md",
     "Medical law.md",
     "NMC.md",
-    "image 3.jpg",
     "strychnine vs tetanus.md",
     "Courts.md",
     "Recording evidence.md",
-    "Supreme court.md",
-    "Juvenile court.md"
+    "Supreme court.md"
   ]
 }
