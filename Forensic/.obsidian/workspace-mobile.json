@@ -16,6 +16,20 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "573268f243eef2b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abrasion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abrasion"
+            }
           }
         ]
       }
@@ -33,7 +47,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -161,14 +177,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "5fc7af29faf6d414",
+  "active": "975ad621ed1f437b",
   "lastOpenFiles": [
-    "Age.md",
+    "Abrasion.md",
+    "Aspirin.md",
+    "Examination of mutilated body.md",
+    "Viscera preservation in poisoning.md",
+    "Technique of organ removal.md",
+    "ML autopsy.md",
+    "Medicolegal vs clinical autopsy.md",
+    "Exhumation.md",
+    "image 15.jpg",
+    "image 14.jpg",
     "Hair.md",
+    "Hasse.md",
+    "CN.md",
+    "Intersex.md",
+    "Age.md",
+    "image 13.jpg",
+    "image 12.jpg",
     "Scars.md",
     "Footprints.md",
-    "Hasse.md",
     "Bite marks.md",
+    "CI.md",
     "Superimposition.md",
     "image 11.jpg",
     "image 10.jpg",
@@ -180,23 +211,9 @@
     "Cheiloscopy and poroscopy.md",
     "Tattoo.md",
     "Anthropometry.md",
-    "CI.md",
-    "Intersex.md",
     "Pasted image 20260803102913.png",
-    "Medical negligence.md",
     "image 9.jpg",
     "image 8.jpg",
-    "Pasted image 20260802124618.png",
-    "image 7.jpg",
-    "image 6.jpg",
-    "image 5.jpg",
-    "image 4.jpg",
-    "Chain of custody.md",
-    "Medical law.md",
-    "NMC.md",
-    "strychnine vs tetanus.md",
-    "Courts.md",
-    "Recording evidence.md",
-    "Supreme court.md"
+    "Pasted image 20260802124618.png"
   ]
 }

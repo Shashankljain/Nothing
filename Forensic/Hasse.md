@@ -1,5 +1,5 @@
 [[Identification]]
-#new 
+
 ### **Rule of Hasse**
 
 ---

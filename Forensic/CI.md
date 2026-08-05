@@ -1,6 +1,6 @@
 [[Identification]]
 ### **Cephalic Index**
-#new 
+
 
 ---
 
@@ -8,7 +8,7 @@
 
 **Definition** The **Cephalic Index (CI)**, also known as the **Index of Breadth** or **Cranial Index**, is the percentage of the breadth of the skull to its length.
 
-**Introduction** Identified by the Swedish anatomist **Anders Retzius**, it is a fundamental tool used in forensic anthropology to determine racial differences and individual identity based on skull shape.
+**Introduction** Identified by the Swedish anatomist **Anders Retzius**, it is a fundamental tool used in forensic anthropology to determine ==racial differences== and individual ==identity== based on skull shape.
 
 **Formula (★ Important Exam Point)** The measurements (length and breadth) are taken using **calipers**. The index is calculated as follows: $$CI = \frac{\text{Maximum transverse breadth of skull}}{\text{Maximum anteroposterior length of skull}} \times 100$$.
 

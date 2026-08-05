@@ -1,2 +1,2 @@
 [[Identification]]
-#new ![[image 11.jpg]]
+![[image 11.jpg]]

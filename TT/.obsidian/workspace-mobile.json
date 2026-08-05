@@ -31,7 +31,8 @@
               "title": "Checklist"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -47,7 +48,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -178,7 +181,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "d2dc076e8eb02abc",
+  "active": "a9fd268f92af98ab",
   "lastOpenFiles": [
     "Checklist.md",
     "Tt.md"

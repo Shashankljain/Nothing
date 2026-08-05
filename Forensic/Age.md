@@ -1,14 +1,14 @@
 [[Identification]]
-#new 
+
 ### **Medico-Legal Importance of Age**
 
 ---
 
 #### **Basic Concepts**
 
-**Definition** In forensic medicine, **Age Estimation** is the determination of the chronological age of an individual (living or dead) based on physical, dental, and skeletal development.
+**Definition** In forensic medicine, **Age Estimation** is the determination of the chronological age of an individual (living or dead) based on ==physical==, ==dental==, and ==skeletal== development.
 
-**Introduction** Age is considered one of the **"Primary Characteristics"** of identification (along with sex and stature) because it remains relatively stable and can be determined even after death until skeletonization is complete. Establishing age is a mandatory step in any medico-legal examination to determine legal rights, responsibilities, and liabilities.
+**Introduction** Age is considered one of the **"Primary Characteristics"** of identification (along with sex and stature) because it remains relatively stable and can be determined even after death until skeletonization is complete. Establishing age is a mandatory step in any medico-legal examination to determine ==legal rights, responsibilities, and liabilities.==
 
 ---
 
@@ -17,6 +17,8 @@
 Age dictates a person's standing before the law. The importance can be broadly classified into criminal, civil, and social aspects.
 
 ★ **Important Exam Point:** The determination of "Majority" (18 years) is the most frequent request in medico-legal practice.
+![[image 12.jpg]]
+![[image 13.jpg]]
 
 ---
 

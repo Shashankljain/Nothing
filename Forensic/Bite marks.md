@@ -1,5 +1,5 @@
 [[Identification]]
-#new 
+
 ### **Bite Marks**
 
 ---
@@ -46,8 +46,8 @@ Bite marks are highly individualistic due to variations in dental alignment, mis
 
 **2. Types of Scenarios**
 
-- **Sexual Assault:** Often includes "sucking" action, which produces multiple petechial hemorrhages in the center due to negative pressure (Hickey).
-- **Self-Inflicted:** Found on accessible parts like shoulders or arms; often seen in psychiatric patients or fabricated cases.
+- **Sexual Assault:** Often includes "sucking" action, which produces ==multiple petechial hemorrhages== in the center due to negative pressure (==Hickey==).
+- **Self-Inflicted:** Found on accessible parts like ==shoulders or arms==; often seen in psychiatric patients or fabricated cases.
 - **Accidental:** May occur during fits (tongue/lip biting) or falls.
 
 ---
