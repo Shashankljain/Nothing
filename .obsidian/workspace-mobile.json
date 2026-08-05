@@ -102,8 +102,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "ffefdf4690825c86",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -252,8 +263,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "83c9460f1b0632f5",
+  "active": "ffefdf4690825c86",
   "lastOpenFiles": [
+    "Forensic/Food poisoning (botulism ).md",
+    "Untitled.md",
+    "TT/Checklist.md",
+    "Forensic/Tattoo.md",
+    "Forensic/Superimposition.md",
+    "Forensic/Scars.md",
+    "Forensic/Pasted image 20260803102913.png",
     "Forensic/Pasted image 20260802124618.png",
     "Forensic/image 9.jpg",
     "Forensic/image 8.jpg",
@@ -271,7 +289,6 @@
     "Forensic/Medical negligence.md",
     "Forensic/Toxicology.md",
     "Forensic/CNS depressents.md",
-    "TT/Checklist.md",
     "Forensic/Cardiac poison.md",
     "Forensic/Conduct in court.md",
     "Forensic/Recording evidence.md",
@@ -285,12 +302,6 @@
     "Com med/Types of communication.md",
     "Com med/SDG.md",
     "Com med/Pasted image 20260729181119.png",
-    "Com med/Pasted image 20260729181102.png",
-    "Com med/Pasted image 20260724195251.png",
-    "Com med/Mendel law.md",
-    "Com med/MDG.md",
-    "Com med/Klinefilter's syndrome.md",
-    "Com med/Hardy weinberg law.md",
     "Com med/Untitled.base",
     "Com med/BGS Road 9.m4a",
     "Com med/Untitled.canvas",
