@@ -5,7 +5,7 @@ For an MBBS student, understanding **lacerated wounds** is essential as they a
 
 ### **Basic Concepts**
 
-**Definition** A **laceration** is the tearing or splitting of the skin, mucous membranes, muscles, or internal organs produced by the application of a **blunt force** to a broad area of the body.
+**Definition** A **laceration** is the tearing or splitting of the ==skin, mucous membranes, muscles, or internal organs== produced by the application of a **blunt force** to a broad area of the body.
 
 **Mechanism of Production**
 
