@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hypostasis vs.md",
+                "file": "Hypostasis vs bruise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hypostasis vs"
+              "title": "Hypostasis vs bruise"
             }
           }
         ],
@@ -157,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Hypostasis vs.md",
+            "file": "Hypostasis vs bruise.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
   },
   "active": "dd59f751e7a2749b",
   "lastOpenFiles": [
-    "Hypostasis vs.md",
+    "Hypostasis vs bruise.md",
     "Entry wound vs exit wound.md",
     "Contact and distant firearm.md",
     "Choking + refiling.md",
