@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lacerated wounds.md",
+            "file": "Pattered injuries.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "c1caa57bb28e71c3",
+  "active": "43d2aa5d79a1574e",
   "lastOpenFiles": [
     "Lacerated wounds.md",
     "Pattered injuries.md",
