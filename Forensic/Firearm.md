@@ -55,7 +55,7 @@ A shot fired from **8 cm (approx. 3 inches)** falls into the **Close Shot** 
 
 ### **3. Rifling: Purpose and Medico-Legal Importance**
 
-**Definition:** Rifling consists of shallow spiral grooves cut into the internal bore of the barrel, leaving projecting ridges called **lands**,.
+**Definition:** Rifling consists of shallow ==spiral grooves== cut into the internal bore of the barrel, leaving projecting ridges called **lands**,.
 
 #### **Purpose of Rifling**
 
