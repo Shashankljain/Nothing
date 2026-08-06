@@ -27,7 +27,7 @@ Lacerations are classified based on the nature of the force and the mechanism of
 | **Tears**              | Produced by localized impact against an ==irregular or jagged blunt object==.                       | Impacts from car door handles or radiator mascots.              |
 | **Cut Laceration**     | Caused by a heavy, moderately sharp-edged weapon.                                                   | Produced by axes, hatchets, or choppers.                        |
 
-★ **Important Exam Point: Incised-looking Lacerated Wound** When skin is closely applied to bone (like the scalp or forehead) and is struck by a blunt object, it may split in a linear fashion that resembles an incised wound. It must be differentiated using a magnifying lens to look for **tissue bridges** and **crushed hair bulbs**.
+★ **Important Exam Point: Incised-looking Lacerated Wound** When skin is closely applied to bone (like the scalp or forehead) and is struck by a blunt object, it may split in a linear fashion that resembles an incised wound. It must be differentiated using a magnifying lens to look for **==tissue bridges** and **crushed hair bulbs==**.
 
 ---
 
@@ -54,11 +54,11 @@ Lacerations are classified based on the nature of the force and the mechanism of
 ### **Characteristics of a Lacerated Wound**
 
 - **Margins:** Ragged, irregular, and uneven.
-- **Tissue Bridging:** **★ Important Exam Point.** Unlike incised wounds, lacerations show bridges of irregularly torn fibrous tissue, blood vessels, and nerves across the depths of the wound.
+- **Tissue Bridging:** **★ Important Exam Point.** Unlike incised wounds, lacerations show ==bridges of irregularly== torn fibrous tissue, blood vessels, and nerves across the depths of the wound.
 - **Hemorrhage:** Usually less than incised wounds because the blunt force crushes and tears the vessels, allowing them to retract and clot more easily.
 - **Hair Bulbs:** Found to be **crushed** rather than cleanly cut.
 - **Swallow Tail:** Tearing of the extremities at diverging angles may be seen (especially in split lacerations).
-
+![[image 17.jpg]]
 ---
 
 ### **High-Yield Exam Points**
