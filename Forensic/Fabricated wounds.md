@@ -5,7 +5,7 @@
 
 ### **1. Basic Concepts**
 
-**Definition** Fabricated wounds are injuries intentionally produced by an individual on their own body (self-inflicted) or by another person with their consent (self-suffered) to simulate a criminal offence.
+**Definition** Fabricated wounds are injuries intentionally produced by an individual on their own body (self-inflicted) or by another person with their consent (self-suffered) to ==simulate== a ==criminal offence==.
 
 **Classification**
 
