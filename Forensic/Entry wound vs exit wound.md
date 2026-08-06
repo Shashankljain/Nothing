@@ -1,5 +1,4 @@
 [[Firearm]]
-Differentiating between entry and exit wounds in a rifled firearm injury, especially in a shot through the head, is a fundamental task in forensic medicine. This distinction helps determine the range of fire, the direction of the shot, and the manner of death (suicide vs homicide).
 
 ---
 
