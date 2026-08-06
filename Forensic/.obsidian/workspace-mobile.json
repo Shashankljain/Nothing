@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,7 +185,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Puppes rule.md",
+            "file": "Ricochet bullet.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -239,12 +239,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "1cf01a50f3e5617c",
+  "active": "1a95e6401bab0eb2",
   "lastOpenFiles": [
+    "Puppes rule.md",
+    "IMG_2094.jpeg",
     "Incised wound.md",
     "Entry wound vs exit wound.md",
     "Pasted image 20260806175940.png",
-    "Puppes rule.md",
     "Bore of shotgun.md",
     "Fabricated wounds.md",
     "Hesitation cuts.md",
@@ -274,7 +275,6 @@
     "image 13.jpg",
     "image 12.jpg",
     "image 11.jpg",
-    "image 10.jpg",
-    "Pasted image 20260803102913.png"
+    "image 10.jpg"
   ]
 }

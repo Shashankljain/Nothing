@@ -26,7 +26,7 @@ If a skull shows two intersecting linear fractures:
 - **Fracture A** is a long, continuous line.
 - **Fracture B** runs toward Fracture A but stops exactly where it meets it.
 - **Conclusion:** Fracture A occurred first, and Fracture B occurred second.
-
+![[IMG_2094.jpeg]]
 ---
 
 ### **High-Yield Exam Points**
