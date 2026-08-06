@@ -24,6 +24,7 @@ When a bullet strikes the skull, it produces characteristic changes on the two t
 |**Fracture Lines**|Fissured fractures may radiate from the hole.|Often more extensive shattering if the bullet has deformed.|
 
 #### **B. Comparison of General Characteristics**
+![[Pasted image 20260806175940.png]]
 
 |**Feature**|**Entry Wound**|**Exit Wound**|
 |:--|:--|:--|
