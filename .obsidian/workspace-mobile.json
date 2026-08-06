@@ -107,10 +107,14 @@
             "id": "ffefdf4690825c86",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "TT/Checklist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Checklist"
             }
           }
         ],
@@ -265,6 +269,9 @@
   },
   "active": "ffefdf4690825c86",
   "lastOpenFiles": [
+    "Forensic/Hesitation cuts.md",
+    "Forensic/Fabricated wounds.md",
+    "Forensic/Choking + rifling.md",
     "Forensic/Untitled.md",
     "Forensic/Stab injury.md",
     "Forensic/Pattered injuries.md",
@@ -298,9 +305,6 @@
     "Forensic/Infamous conduct.md",
     "Forensic/Medical negligence.md",
     "Forensic/Toxicology.md",
-    "Forensic/CNS depressents.md",
-    "Forensic/Cardiac poison.md",
-    "Forensic/Conduct in court.md",
     "TT",
     "Com med/Untitled.base",
     "Com med/BGS Road 9.m4a",
