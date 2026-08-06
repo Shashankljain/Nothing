@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Entry wound vs exit wound.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Entry wound vs exit wound"
             }
           }
         ],
@@ -143,7 +143,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled 1.md",
+            "file": "Entry wound vs exit wound.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
   },
   "active": "d00efb1c97b6c6d9",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Entry wound vs exit wound.md",
     "Contact and distant firearm.md",
     "Choking + refiling.md",
     "Abrasion.md",
