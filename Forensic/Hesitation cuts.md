@@ -49,14 +49,14 @@ For a beginner MBBS student, **Hesitation Cuts** are one of the most significa
 
 In university exams, you will often be asked to differentiate between suicidal and homicidal cut-throat injuries.
 
-|**Feature**|**Suicidal Cut-throat (with Hesitation Cuts)**|**Homicidal Cut-throat**|
-|:--|:--|:--|
-|**Hesitation Cuts**|**Present** (multiple, shallow, parallel).|**Absent**.|
-|**Number of Wounds**|Multiple (20–30 superficial cuts merging with one deep cut).|Few; usually one or two deep, clean-cut wounds.|
-|**Depth**|Varies; starts shallow (hesitation) and becomes deep.|Usually deep throughout.|
-|**Site**|Accessible parts (e.g., front of neck).|Often on the sides of the neck.|
-|**Defense Wounds**|Absent.|**Present** (on palms or forearms).|
-|**Clothes**|Usually not damaged (pulled aside first).|Often cut or torn during struggle.|
+| **Feature**          | **Suicidal Cut-throat (with Hesitation Cuts)**               | **Homicidal Cut-throat**                        |
+| :------------------- | :----------------------------------------------------------- | :---------------------------------------------- |
+| **Hesitation Cuts**  | **Present** (multiple, shallow, parallel).                   | **Absent**.                                     |
+| **Number of Wounds** | Multiple (20–30 superficial cuts merging with one deep cut). | Few; usually one or two deep, clean-cut wounds. |
+| **Depth**            | Varies; starts shallow (hesitation) and becomes deep.        | Usually deep throughout.                        |
+| **Site**             | Accessible parts (e.g., front of neck).                      | Often on the sides of the neck.                 |
+| **Defense Wounds**   | Absent.                                                      | **Present** (on palms or forearms).             |
+| **Clothes**          | Usually not damaged (pulled aside first).                    | Often cut or torn during struggle.              |
 
 ---
 
