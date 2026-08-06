@@ -42,7 +42,7 @@ A cut-throat injury is a deep **incised wound** across the ==front== or ==side
 - **Section 39:** Admissibility of **Expert Opinion** (the medical officer's autopsy findings in court).
 
 ---
-
+![[image 16.jpg]]
 ### **Difference Between Suicidal and Homicidal Cut-throat**
 
 |**Feature**|**Suicidal Cut-throat**|**Homicidal Cut-throat**|
