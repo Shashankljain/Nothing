@@ -5,11 +5,11 @@ For a beginner MBBS student, **Hesitation Cuts** are one of the most significa
 
 ### **Basic Concepts**
 
-**Definition** **Hesitation cuts** (also known as **tentative cuts**, **trial cuts**, **intentional cuts**, or **feeler's strokes**) are multiple, small, shallow, and superficial incised wounds seen at the beginning or commencement of a deeper, often fatal, incised wound.
+**Definition** **Hesitation cuts** (also known as **tentative cuts**, **trial cuts**, **intentional cuts**, or **feeler's strokes**) are self inflicted,multiple, small, shallow, and superficial incised wounds seen at the beginning or commencement of a deeper, often fatal, incised wound.
 
 **Introduction** In cases of sharp force trauma, the doctor must decide if the wound was self-inflicted or caused by an assailant. Hesitation marks are the hallmark of suicidal intent, representing the victim's psychological state during the act.
 
-**Mechanism (The "Why")** These marks occur because a person attempting suicide often lacks the initial courage or resolve to make a deep, fatal cut. They make several "trial" or "probing" strokes—presumably hesitating while gaining the courage to make the final decisive, deep cut.
+**Mechanism (The "Why")** These marks occur because a person attempting suicide often lacks the ==initial== courage or resolve to make a deep, fatal cut. They make several "trial" or "probing" strokes—presumably hesitating while gaining the courage to make the final decisive, deep cut.
 
 ---
 

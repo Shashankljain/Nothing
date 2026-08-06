@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +185,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Incised wound.md",
+            "file": "Fabricated wounds.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -239,14 +239,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "37ec39c9c7300c86",
+  "active": "6721208c00633e66",
   "lastOpenFiles": [
+    "Hesitation cuts.md",
     "Incised wound.md",
     "Ricochet bullet.md",
     "Puppes rule.md",
     "Bore of shotgun.md",
     "Fabricated wounds.md",
-    "Hesitation cuts.md",
     "Hypostasis vs bruise.md",
     "Entry wound vs exit wound.md",
     "Contact and distant firearm.md",
