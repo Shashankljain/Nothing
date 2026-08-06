@@ -49,7 +49,7 @@ A shot fired from **8 cm (approx. 3 inches)** falls into the **Close Shot** 
 6. **Zone of Blackening** (Soot/Smoke)
 7. **Zone of Tattooing** (Widest area of stippling)
 
-★ **Important Exam Point:** Tattooing is an **antemortem phenomenon**, indicating the victim was alive when the shot was fired.
+★ **Important Exam Point:** Tattooing is an **==antemortem phenomenon==**, indicating the victim was alive when the shot was fired.
 
 ---
 
