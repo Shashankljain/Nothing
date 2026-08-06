@@ -5,9 +5,9 @@ In university examinations, differentiating between a **Bruise (Contusion)** a
 
 ### **Basic Concepts**
 
-**Definition of Postmortem Hypostasis (Livor Mortis)** Hypostasis is the bluish or purplish-red discoloration that results from the gravitational settling of blood in the toneless capillaries and venules of the dependent parts of a dead body. It is an early sign of death.
+**Definition of Postmortem Hypostasis (Livor Mortis)** Hypostasis is the bluish or purplish-red discoloration that results from the ==gravitational settling== of blood in the ==toneless capillaries== and venules of the dependent parts of a dead body. It is an early sign of death.
 
-**Definition of Bruise (Contusion)** A bruise is the extravasation of blood into the subcutaneous or subepithelial tissues due to the rupture of blood vessels (usually capillaries) as a result of blunt force injury or pressure.
+**Definition of Bruise (Contusion)** A bruise is the extravasation of blood into the ==subcutaneous== or ==subepithelial== tissues due to the rupture of blood vessels (usually capillaries) as a result of blunt force injury or pressure.
 
 ---
 
