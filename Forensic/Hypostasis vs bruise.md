@@ -5,9 +5,9 @@ In university examinations, differentiating between a **Bruise (Contusion)** a
 
 ### **Basic Concepts**
 
-**Definition of Postmortem Hypostasis (Livor Mortis)** Hypostasis is the bluish or purplish-red discoloration that results from the gravitational settling of blood in the toneless capillaries and venules of the dependent parts of a dead body. It is an early sign of death.
+**Definition of Postmortem Hypostasis (Livor Mortis)** Hypostasis is the bluish or purplish-red discoloration that results from the ==gravitational settling== of blood in the ==toneless capillaries== and venules of the dependent parts of a dead body. It is an early sign of death.
 
-**Definition of Bruise (Contusion)** A bruise is the extravasation of blood into the subcutaneous or subepithelial tissues due to the rupture of blood vessels (usually capillaries) as a result of blunt force injury or pressure.
+**Definition of Bruise (Contusion)** A bruise is the extravasation of blood into the ==subcutaneous== or ==subepithelial== tissues due to the rupture of blood vessels (usually capillaries) as a result of blunt force injury or pressure.
 
 ---
 
@@ -15,10 +15,10 @@ In university examinations, differentiating between a **Bruise (Contusion)** a
 
 Distinguishing between these two is critical for a forensic expert because:
 
-- **Manner of Death:** A bruise indicates that mechanical violence was applied to the victim while they were alive (antemortem). Hypostasis is merely a postmortem change.
-- **Posture of Body:** Hypostasis indicates the posture of the body at the time of death and whether the body was moved subsequently.
+- **Manner of Death:** A bruise indicates that mechanical violence was applied to the victim while they were alive (==antemortem==). Hypostasis is merely a postmortem change.
+- **Posture of Body:** Hypostasis indicates the posture of the body ==at== the time of death and whether the body was moved subsequently.
 - **Time Since Death:** The development and fixation of hypostasis provide a rough estimate of the postmortem interval.
-- **Cause of Death:** The color of hypostasis can sometimes suggest specific poisonings (e.g., cherry-red in carbon monoxide or bright red in cyanide).
+- **Cause of Death:** The ==color== of hypostasis can sometimes suggest specific poisonings (e.g., cherry-red in carbon monoxide or bright red in cyanide).
 
 ★ **Important Exam Point:** Distinguishing these is the only way to prove whether a mark on a dead body was caused by an assault before death or is simply a natural settling of blood after death.
 
@@ -37,17 +37,17 @@ Distinguishing between these two is critical for a forensic expert because:
 
 The following comparison table is essential for university theory and viva examinations:
 
-|**Feature**|**Postmortem Hypostasis**|**Bruise (Contusion)**|
-|:--|:--|:--|
-|**Cause**|Gravitational settling of blood in toneless vessels.|Rupture of vessels due to blunt force trauma.|
-|**Nature of Change**|Postmortem change.|Antemortem (inflicted during life).|
-|**Situation/Site**|Only on **dependent parts** of the body.|Can occur **anywhere** on the body.|
-|**Margins**|Usually **sharp and clearly defined**.|Usually **diffuse** and merge with surroundings.|
-|**Surface**|**Not elevated** above skin level.|**Often swollen** due to edema and blood.|
-|**Color Changes**|Uniform color; disappears with putrefaction.|Shows **sequential color changes** (Red \(\rightarrow\) Blue \(\rightarrow\) Green \(\rightarrow\) Yellow).|
-|**Effect of Pressure**|"Thumb pressure" causes **blanching** (if not fixed).|**No blanching** occurs when pressure is applied.|
-|**Incision Test**|**★ Most Diagnostic Point.** Blood is inside vessels; can be washed away with water.|Blood is **clotted in tissues** (extravasation); cannot be washed away.|
-|**Microscopically**|Capillaries are engorged; blood is **within** the vessels.|Blood is found **outside** the vessels with signs of inflammation.|
+| **Feature**            | **Postmortem Hypostasis**                                                            | **Bruise (Contusion)**                                                                                                      |
+| :--------------------- | :----------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
+| **Cause**              | Gravitational settling of blood in toneless vessels.                                 | Rupture of vessels due to blunt force trauma.                                                                               |
+| **Nature of Change**   | Postmortem change.                                                                   | Antemortem (inflicted during life).                                                                                         |
+| **Situation/Site**     | Only on **dependent parts** of the body.                                             | Can occur **anywhere** on the body.                                                                                         |
+| **Margins**            | Usually **sharp and clearly defined**.                                               | Usually **diffuse** and merge with surroundings.                                                                            |
+| **Surface/swelling**   | **Not elevated** above skin level.                                                   | **Often swollen** due to edema and blood.                                                                                   |
+| **Color Changes**      | Uniform color; disappears with ==putrefaction==.                                     | Shows **sequential color changes** (==Red== \(\rightarrow\) ==Blue== \(\rightarrow\) ==Green== \(\rightarrow\) ==Yellow==). |
+| **Effect of Pressure** | "Thumb pressure" causes **blanching** (if not fixed).                                | **No blanching** occurs when pressure is applied.                                                                           |
+| **Incision Test**      | **★ Most Diagnostic Point.** Blood is inside vessels; can be washed away with water. | Blood is **clotted in tissues** (extravasation); cannot be washed away.                                                     |
+| **Microscopically**    | Capillaries are engorged; blood is **within** the vessels.                           | Blood is found **outside** the vessels with signs of inflammation.                                                          |
 
 ---
 
