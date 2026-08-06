@@ -25,13 +25,13 @@ Patterned injuries can be classified based on the type of mechanical force appli
 
 #### **1. Tramline Bruise (Rail-line Bruise)**
 
-This is a classic example of a patterned bruise produced by a long, hard, cylindrical object like a stick, rod, or cane.
+This is a classic example of a patterned bruise produced by a ==long, hard, cylindrical object== like a stick, rod, or cane.
 
 - **Mechanism:** When a rod strikes the body, the skin directly under the rod is compressed, and blood is forced out into the adjacent tissues at the margins of the point of impact.
 - **Appearance:** It consists of two parallel, linear bruises with a pale (unbruised) central area between them. The pale area represents the actual point of contact where the blood vessels were compressed but not ruptured.
 - **Medico-Legal Importance:**
     - **Identification of Weapon:** The presence of tramline bruises specifically indicates the use of a cylindrical weapon like a lathi or rod.
-    - **Degree of Force:** The intensity and extent of the bruising can help the medical officer estimate the degree of violence used.
+    - **Degree of Force:** The ==intensity and extent== of the bruising can help the medical officer estimate the degree of violence used.
     - **Manner of Injury:** Multiple tramline bruises on non-accessible parts (like the back) often suggest homicidal assault.
 
 ★ **Important Exam Point:** Tramline bruises are distinctive because the central area of impact is pale, while the margins are bruised.
