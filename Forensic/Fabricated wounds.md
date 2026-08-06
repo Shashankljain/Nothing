@@ -9,8 +9,8 @@
 
 **Classification**
 
-1. **Self-inflicted wounds:** Inflicted by the person on their own body. Without suicidal intent, this is a form of self-mutilation.
-2. **Self-suffered wounds:** Inflicted by another person on the alleged victim with the latter's consent.
+1. **Self-inflicted wounds:** Inflicted by the person on their ==own== body. Without suicidal intent, this is a form of ==self-mutilation==.
+2. **Self-suffered wounds:** Inflicted by ==another== person on the alleged victim with the latter's ==consent==.
 
 **Medico-Legal Importance**
 
@@ -45,8 +45,8 @@ A medical officer must look for specific "classic" features to distinguish these
 - **Severity:** Usually **multiple, shallow, and non-penetrating** (limited to the skin).
 - **Site (Sites of Election):** Found on **accessible parts** of the body that the individual can easily reach, such as the top of the head, forehead, neck, outer left arm, front of thighs, or chest.
 - **Direction and Arrangement:** Often **grouped, parallel, or in a criss-cross** pattern. They are uniform in shape and follow a linear or slightly curved course.
-- **Avoidance of Pain:** Wounds typically **avoid pain-sensitive or vital areas** like the eyes, nose, mouth, ears, or genitals.
-- **Clothing:** Usually, the **clothes are not damaged** or the damage does not correspond to the site of the injury (as the person moves clothes aside before inflicting the wound).
+- **Avoidance of Pain:** Wounds typically **==avoid pain-sensitive or vital areas==** like the eyes, nose, mouth, ears, or genitals.
+- **Clothing:** Usually, the **clothes are ==not== damaged** or the damage does not correspond to the site of the injury (as the person moves clothes aside before inflicting the wound).
 - **Defense Wounds:** These are characteristically **absent**.
 
 ---

@@ -6,7 +6,7 @@
 ### **1. Basic Concepts**
 
 - **Definition:** Puppe’s rule states that when two or more fracture lines intersect on the skull, the fracture line from a subsequent (later) impact will never cross a pre-existing fracture line from an earlier impact.
-- **Mechanism:** When the first impact occurs, it creates a fracture line that relieves the stress in the bone. When a second impact occurs, the resulting stress wave travels through the bone but stops (terminates) at the existing gap or discontinuity created by the first fracture, as there is no continuous medium to carry the energy further.
+- **Mechanism:** When the first impact occurs, it creates a fracture line that relieves the stress in the bone. When a second impact occurs, the resulting stress wave travels through the bone but stops (terminates) at the existing gap or discontinuity created by the first fracture, as there is ==no continuous medium to carry the energy further.==
 
 ---
 
