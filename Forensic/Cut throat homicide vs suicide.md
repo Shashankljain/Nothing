@@ -16,7 +16,7 @@ A cut-throat injury is a deep **incised wound** across the ==front== or ==side
 
 - **Manner of Death:** Differentiating between suicide and homicide is the most important legal question.
 - **Weapon Identification:** Characteristics of the wound can indicate if a single-edged or double-edged weapon was used.
-- **Position of Assailant:** The direction of tailing and the presence of **bevelling** (undermined edges) can help determine the relative positions of the victim and the assailant.
+- **Position of Assailant:** The direction of tailing and the presence of **bevelling** (undermined edges) can help determine the ==relative positions== of the victim and the assailant.
 - **Volitional Activity:** Determining if the victim could have performed any physical activity (e.g., walking, shouting) after the injury.
 
 ★ **Important Exam Point:** The presence of **cadaveric spasm** (weapon firmly grasped in the hand) is strong presumptive evidence of suicide.
