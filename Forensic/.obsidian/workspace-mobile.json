@@ -63,8 +63,7 @@
               "title": "Hypostasis vs bruise"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +156,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Hypostasis vs bruise.md",
+            "file": "Choking + refiling.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -211,7 +210,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "dd59f751e7a2749b",
+  "active": "06c1f44b3152c6e8",
   "lastOpenFiles": [
     "Hypostasis vs bruise.md",
     "Entry wound vs exit wound.md",
