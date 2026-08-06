@@ -34,7 +34,7 @@
 
 ### **3. Choking: Detailed Study**
 
-**Mechanism:** Choking involves narrowing the diameter of the shotgun barrel near the muzzle. This constriction usually occurs in the last 7–10 cm of the barrel.
+**Mechanism:** Choking involves narrowing the diameter of the shotgun barrel near the muzzle. This constriction usually occurs in the last ==7–10 cm== of the barrel.
 
 #### **Classification (Degrees of Choking)**
 
@@ -53,7 +53,7 @@ The range of a shotgun increases with the degree of choking:
 
 #### **Medico-Legal Importance of Choking**
 
-- **Estimation of Range:** In smooth-bore weapons, the **spread of pellets** is used to calculate the distance. As a "rule of thumb," the diameter of the pellet spread in inches is approximately equal to the distance in yards (for a full choke).
+- **Estimation of Range:** In smooth-bore weapons, the **spread of pellets** is used to calculate the distance. As a "==rule of thumb==," the diameter of the pellet spread in inches is approximately equal to the distance in yards (for a full choke).
 - **Weapon Identification:** The type of **Wad** (felt, plastic, or cardboard) found in the body can indicate the bore and gauge of the shotgun used.
 - **Paradox Gun:** This is a hybrid weapon—a shotgun with rifling near the muzzle to increase range and accuracy while still firing pellets.
 
