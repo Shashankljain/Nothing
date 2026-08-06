@@ -1,5 +1,5 @@
 [[Mechanical injuries]]
-In forensic medicine, a **patterned injury** is an injury that, by its shape, size, and configuration, indicates the nature of the weapon or the object that produced it. These injuries essentially "reproduce" the surface features of the causative agent upon the body.
+In forensic medicine, a **patterned injury** is an injury that, by its shape, size, and configuration, indicates the ==*nature of the weapon or the object*== that produced it. These injuries essentially "reproduce" the surface features of the causative agent upon the body.
 
 ### **Examples of Patterned Injuries**
 
