@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Choking + refiling"
             }
+          },
+          {
+            "id": "e0faf0154cd8f819",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contact and distant firearm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contact and distant firearm"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Choking + refiling.md",
+            "file": "Contact and distant firearm.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,10 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "06c1f44b3152c6e8",
+  "active": "e0faf0154cd8f819",
   "lastOpenFiles": [
-    "Abrasion.md",
+    "Contact and distant firearm.md",
     "Choking + refiling.md",
+    "Abrasion.md",
     "Pattered injuries.md",
     "Stab injury.md",
     "Lacerated wounds.md",
@@ -201,7 +217,6 @@
     "Scars.md",
     "Footprints.md",
     "Bite marks.md",
-    "CI.md",
     "image 11.jpg",
     "image 10.jpg",
     "Pasted image 20260803102913.png",
