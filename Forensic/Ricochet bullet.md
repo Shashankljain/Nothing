@@ -7,14 +7,14 @@ For an MBBS student, understanding the **Ricochet Bullet** is essential for in
 
 **Definition** A **ricochet bullet** is a projectile that ==rebounds, deviates, or is deflected== from its straight course after striking an ==intermediate== surface (such as a wall, floor, road, or water) before hitting the victim.
 
-**Introduction** When a bullet ricochets, it loses its gyroscopic stability. Instead of hitting the target "nose-first," it often strikes sideways or at an angle, leading to wounds that do not look like "textbook" entry wounds.
+**Introduction** When a bullet ricochets, it loses its ==gyroscopic== stability. Instead of hitting the target "nose-first," it often strikes sideways or at an angle, leading to wounds that do not look like "textbook" entry wounds.
 
----
+![[Pasted image 20260806180617.png]]
 
 ### **Mechanism & Dynamics**
 
-1. **Critical Ricochet Angle:** The angle of incidence below which a bullet will ricochet rather than penetrate the intermediate surface is generally considered to be **30 degrees**.
-2. **Secondary Movements:** Upon striking an intermediate object, the bullet loses its smooth spin and rotation. It begins to exhibit atypical movements:
+1. **Critical Ricochet Angle:** The angle of incidence below which a bullet will ricochet rather than penetrate the intermediate surface is generally considered to be ==**30 degrees**.==
+2. **Secondary Movements:** Upon striking an intermediate object, the bullet loses its ==smooth spin and rotation==. It begins to exhibit atypical movements:
     - **Yawing:** Deviation between the long axis of the bullet and its path.
     - **Wobbling:** Unsteady, irregular movement.
     - **Tumbling:** The bullet rotates end-over-end.

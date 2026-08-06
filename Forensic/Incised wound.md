@@ -65,7 +65,7 @@ A medical officer must note these features to differentiate an incision from a l
 
 1. **Margins:** They are **clean-cut**, well-defined, and usually **everted**.
 2. **Dimensions:** The **length** is the maximum dimension; it is always greater than the width or depth.
-3. **Gaping:** The wound gapes more if it is perpendicular to **Langer’s lines** (cleavage lines of the skin).
+3. **Gaping:** The wound gapes more if it is perpendicular to **==Langer’s== lines** (cleavage lines of the skin).
 4. **Hemorrhage:** Usually **profuse** because blood vessels are cut cleanly and cannot retract as easily as in blunt trauma.
 5. **Tissue Bridging:** **Absent.** This is a critical diagnostic point—nerves and vessels are cut cleanly.
 6. **Hair Bulbs:** Found to be **cleanly cut**.

@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -185,7 +185,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ricochet bullet.md",
+            "file": "Incised wound.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -239,8 +239,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "1a95e6401bab0eb2",
+  "active": "37ec39c9c7300c86",
   "lastOpenFiles": [
+    "Ricochet bullet.md",
+    "Pasted image 20260806180617.png",
     "Puppes rule.md",
     "IMG_2094.jpeg",
     "Incised wound.md",
@@ -249,7 +251,6 @@
     "Bore of shotgun.md",
     "Fabricated wounds.md",
     "Hesitation cuts.md",
-    "Ricochet bullet.md",
     "Hypostasis vs bruise.md",
     "Contact and distant firearm.md",
     "Choking + rifling.md",
@@ -274,7 +275,6 @@
     "image 14.jpg",
     "image 13.jpg",
     "image 12.jpg",
-    "image 11.jpg",
-    "image 10.jpg"
+    "image 11.jpg"
   ]
 }
