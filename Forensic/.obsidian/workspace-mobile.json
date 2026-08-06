@@ -90,19 +90,9 @@
               "icon": "lucide-file",
               "title": "Incised wound"
             }
-          },
-          {
-            "id": "8f20ed6d30822371",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,6 +185,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Puppes rule.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -248,15 +239,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "8f20ed6d30822371",
+  "active": "1cf01a50f3e5617c",
   "lastOpenFiles": [
+    "Incised wound.md",
     "Entry wound vs exit wound.md",
     "Pasted image 20260806175940.png",
     "Puppes rule.md",
     "Bore of shotgun.md",
     "Fabricated wounds.md",
     "Hesitation cuts.md",
-    "Incised wound.md",
     "Ricochet bullet.md",
     "Hypostasis vs bruise.md",
     "Contact and distant firearm.md",
