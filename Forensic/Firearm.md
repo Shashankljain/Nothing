@@ -23,7 +23,7 @@ Firearms are primarily classified based on the internal nature of their barrel,:
 
 ---
 
-### **2. Entry Wound at a Distance of 8 cm (Close Range)**
+### **2. Entry Wound at a Distance of 8 cm (Close Range)- rifled firearm**
 
 A shot fired from **8 cm (approx. 3 inches)** falls into the **Close Shot** or **Flame Range** category. At this distance, all the constituents of the discharge (flame, smoke, soot, and unburnt powder) strike the body.
 
