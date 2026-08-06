@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "Contact and distant firearm"
             }
+          },
+          {
+            "id": "d00efb1c97b6c6d9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +139,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Contact and distant firearm.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,7 +192,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "e0faf0154cd8f819",
+  "active": "d00efb1c97b6c6d9",
   "lastOpenFiles": [
     "Contact and distant firearm.md",
     "Choking + refiling.md",
