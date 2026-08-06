@@ -16,7 +16,7 @@ Patterned injuries can be classified based on the type of mechanical force appli
     
     - **Tramline (Rail-line) bruise:** Caused by a rod, stick, lathi, or whip.
     - **Six-penny bruises:** Caused by the pressure of fingertip pulps, often seen on the neck in manual strangulation (throttling).
-    - **Doughnut bruise:** Produced by a spherical object like a cricket ball.
+    - **Doughnut bruise:** Produced by a spherical object like a ==cricket ball.==
     - **Butterfly bruise:** Seen in pinching (associated with Battered Baby Syndrome).
 
 ---
