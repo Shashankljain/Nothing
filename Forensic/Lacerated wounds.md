@@ -15,17 +15,17 @@ For an MBBS student, understanding **lacerated wounds** is essential as they a
 
 ---
 
-### **Classification (Types) of Lacerated Wounds**
+### **Classification (Types) of Lacerated Wounds(CATS)**
 
 Lacerations are classified based on the nature of the force and the mechanism of the tear:
 
-|**Type**|**Mechanism**|**Common Features/Sites**|
-|:--|:--|:--|
-|**Split Laceration**|Tissues are crushed/sandwiched between two hard structures (e.g., a weapon and an underlying bone).|Scalp, forehead, chin, and shins (where skin is close to bone).|
-|**Stretch Laceration**|Produced by a heavy frictional impact that overstretches fixed skin until it flaps/tears.|Seen in "run-over" motor accidents or kicking with boots.|
-|**Avulsion (Flaying)**|Shearing force delivered at an angle, detaching a large area of skin from its deeper attachments.|Commonly occurs on the legs in road traffic accidents.|
-|**Tears**|Produced by localized impact against an irregular or jagged blunt object.|Impacts from car door handles or radiator mascots.|
-|**Cut Laceration**|Caused by a heavy, moderately sharp-edged weapon.|Produced by axes, hatchets, or choppers.|
+| **Type**               | **Mechanism**                                                                                       | **Common Features/Sites**                                       |
+| :--------------------- | :-------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------- |
+| **Split Laceration**   | Tissues are crushed/sandwiched between two hard structures (e.g., a weapon and an underlying bone). | Scalp, forehead, chin, and shins (where skin is close to bone). |
+| **Stretch Laceration** | Produced by a heavy frictional impact that ==overstretches== fixed skin until it flaps/tears.       | Seen in "run-over" motor accidents or kicking with boots.       |
+| **Avulsion (Flaying)** | Shearing force delivered at an angle, detaching a large area of skin from its deeper attachments.   | Commonly occurs on the legs in road traffic accidents.          |
+| **Tears**              | Produced by localized impact against an ==irregular or jagged blunt object==.                       | Impacts from car door handles or radiator mascots.              |
+| **Cut Laceration**     | Caused by a heavy, moderately sharp-edged weapon.                                                   | Produced by axes, hatchets, or choppers.                        |
 
 ★ **Important Exam Point: Incised-looking Lacerated Wound** When skin is closely applied to bone (like the scalp or forehead) and is struck by a blunt object, it may split in a linear fashion that resembles an incised wound. It must be differentiated using a magnifying lens to look for **tissue bridges** and **crushed hair bulbs**.
 
