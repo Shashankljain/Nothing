@@ -57,17 +57,17 @@ A shot fired from **8 cm (approx. 3 inches)** falls into the **Close Shot** 
 
 **Definition:** Rifling consists of shallow ==spiral grooves== cut into the internal bore of the barrel, leaving projecting ridges called **lands**,.
 
-#### **Purpose of Rifling**
+#### **Purpose of Rifling**(PQRS)
 
-1. **Gyroscopic Stability:** It imparts a rotational spin to the bullet along its longitudinal axis.
-2. **Accuracy:** The spin prevents the bullet from wobbling or tumbling end-over-end in the air.
-3. **Range:** It increases the effective distance the projectile can travel.
-4. **Penetration:** Provides greater power of penetration upon hitting the target.
+S1. **Gyroscopic Stability:** It imparts a ==rotational spin== to the bullet along its longitudinal axis.
+Q1. **Accuracy:** The spin prevents the bullet from ==wobbling== or ==tumbling== end-over-end in the air.
+R1. **Range:** It increases the effective distance the projectile can travel.
+P1. **Penetration:** Provides greater power of penetration upon hitting the target.
 
 #### **Medico-Legal Importance**
 
-1. **Bullet Fingerprinting (Class Characteristics):** Rifling leaves "signature markings" on the bullet. By counting the number and measuring the width of lands and grooves, experts can identify the **make and model** of the firearm,.
-2. **Individual Identification:** Imperfections inside the barrel (metallic fouling) create unique **secondary markings** on the bullet. These allow a forensic expert to link a specific bullet to a specific gun using a comparison microscope,.
+1. **Bullet Fingerprinting (Class Characteristics):** Rifling leaves "==signature markings==" on the bullet. By counting the number and measuring the width of lands and grooves, experts can identify the **make and model** of the firearm,.
+2. **Individual Identification:** Imperfections inside the barrel (metallic fouling) create unique **==secondary markings==** on the bullet. These allow a forensic expert to link a specific bullet to a specific gun using a comparison microscope,.
 3. **Determination of Direction of Fire:** The shape of the **Abrasion Collar** (concentric vs. eccentric) helps determine the angle at which the bullet struck the body,.
 4. **Proof of Entry Wound:** The presence of abrasion and grease collars (which result from the bullet's rotation and friction) are definitive proof of an **entry wound**.
 5. **Puppe's Rule:** In head injuries, the sequence of multiple shots can be determined as subsequent fracture lines do not cross pre-existing ones,.
