@@ -15,13 +15,13 @@ This is your **3-week balanced preparation to-do list** (July 30 – August 19, 
     - [ ] **CM (Easy):** Ch 2: Concept of Health & Disease — *Focus: Indicators of Health* [1]
 - [ ] **Aug 02**
     - [ ] **FM (Lengthy):** Ch 4: Identification — *Focus: Dactylography & Gustafson's Method (RS4)* [6, 7]
-    - [ ] **CM (Easy):** Ch 4: Screening for Disease — *Focus: Sensitivity & Specificity* [1]
-- [ ] **Aug 03**
-    - [ ] **CM (Lengthy):** Ch 15: Environment & Health — *Focus: Water Purification & Air Pollution* [1]
-    - [ ] **FM (Easy):** Ch 5: Medicolegal Autopsy — *Focus: HIV Autopsy Precautions* [8]
-- [ ] **Aug 04**
-    - [ ] **FM (Lengthy):** Ch 8: Mechanical Injuries — *Focus: Firearm entry vs. exit (RS4)* [9]
-    - [ ] **CM (Easy):** Ch 12: Medicine & Social Sciences — *Focus: Socio-economic status scales* [1]
+    - [x] **CM (Easy):** Ch 4: Screening for Disease — *Focus: Sensitivity & Specificity* [1]
+- [x] **Aug 03**
+    - [x] **CM (Lengthy):** Ch 15: Environment & Health — *Focus: Water Purification & Air Pollution* [1]
+    - [x] **FM (Easy):** Ch 5: Medicolegal Autopsy — *Focus: HIV Autopsy Precautions* [8]
+- [x] **Aug 04**
+    - [x] **FM (Lengthy):** Ch 8: Mechanical Injuries — *Focus: Firearm entry vs. exit (RS4)* [9]
+    - [x] **CM (Easy):** Ch 12: Medicine & Social Sciences — *Focus: Socio-economic status scales* [1]
 - [ ] **Aug 05: Revision Day**
     - [ ] Solve RS4 MCQs for Week 1 chapters [1, 4, 6]
     - [ ] Practice Diagrams: Firearm wounds and "Rule of 9" [9, 10]
