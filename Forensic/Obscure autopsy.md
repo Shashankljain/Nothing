@@ -32,7 +32,7 @@ The reasons why a cause of death may be obscure can be broadly categorized as fo
 
 Obscure autopsies are legally significant for several reasons:
 
-1. **Role in Criminal Investigation:** They ensure that "hidden" crimes, such as subtle poisoning or vagal inhibition during an assault, are not missed.
+1. **Role in Criminal Investigation:** They ensure that "hidden" crimes, such as subtle p==oisoning or vagal inhibition== during an assault, are not missed.
 2. **Protection of Rights:** As per the Gautam Biswas text, a complete autopsy (opening all cavities) is mandatory to protect the rights of citizens in suspicious or unnatural deaths.
 3. **Insurance Claims:** Determining whether a death was natural, accidental, or suicidal is vital for life insurance payouts, which are often void if the death is proven to be suicidal.
 4. **Avoiding Error:** It prevents the medical officer from making a "guess" at the cause of death, which could mislead the police or the court.
