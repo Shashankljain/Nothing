@@ -48,7 +48,7 @@ These are conditions that often leave no demonstrable pathology even under a mic
 - **Functional Heart Disorders:** Such as certain arrhythmias or Brugada syndrome.
 
 ---
-
+![[image 18.jpg]]
 ### **Medico-Legal Importance**
 
 - **Role in Criminal Investigation:** Meticulous examination ensures that "hidden" homicides (like subtle poisoning) are not missed.
