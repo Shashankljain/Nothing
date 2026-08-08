@@ -99,7 +99,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": true
+            "autoReveal": true,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -162,7 +164,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "199b396c048b2968",
@@ -229,7 +231,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "12878bf1ee52055f",
+  "active": "d796d9d35b2b4fca",
   "lastOpenFiles": [
     "FP, FN.md",
     "Lead time.md",
