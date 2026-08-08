@@ -111,7 +111,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Commun",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -229,7 +229,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "d3ea240de223b576",
+  "active": "12878bf1ee52055f",
   "lastOpenFiles": [
     "FP, FN.md",
     "Lead time.md",
