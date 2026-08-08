@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Brainstem reflex"
             }
+          },
+          {
+            "id": "b128ff63f37fb1ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +143,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Brainstem reflex.md",
+            "file": "Untitled 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,8 +197,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "8e3276f6e692c872",
+  "active": "b128ff63f37fb1ca",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Brainstem reflex.md",
     "Brainstem death.md",
     "Incised wound.md",
@@ -215,7 +230,6 @@
     "Examination of mutilated body.md",
     "Viscera preservation in poisoning.md",
     "Technique of organ removal.md",
-    "ML autopsy.md",
     "image 15.jpg",
     "image 14.jpg",
     "image 13.jpg",
