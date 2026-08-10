@@ -39,7 +39,7 @@ The "Classical Triad" of **Algor Mortis, Livor Mortis, and Rigor Mortis** is m
 
 #### **I. Algor Mortis (Cooling of the Body)**
 
-Algor mortis is considered the most useful indicator of TSD during the first 24 hours in temperate climates.
+Algor mortis is considered the ==most useful== indicator of TSD during the first 24 hours in temperate climates.
 
 - **Mechanism:** The body temperature falls after death until it equilibrates with the environment.
 - **The Curve:** It follows a **sigmoid** or inverted 'S' shaped pattern:
