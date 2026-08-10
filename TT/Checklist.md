@@ -32,8 +32,8 @@ This is your **3-week balanced preparation to-do list** (July 30 – August 19, 
 *Goal: Manage the heavy volume of disease epidemiology while mastering technical trauma sections.*
 
 - [ ] **Aug 06**
-    - [ ] **CM (Lengthy):** Ch 5: Communicable Diseases (Respiratory) — *Focus: TB/DOTS & Measles* [1]
-    - [ ] **FM (Easy):** Ch 6: Death & its Cause — *Focus: Brainstem Death* [11]
+    - [x] **CM (Lengthy):** Ch 5: Communicable Diseases (Respiratory) — *Focus: TB/DOTS & Measles* [1]
+    - [x] **FM (Easy):** Ch 6: Death & its Cause — *Focus: Brainstem Death* [11]
 - [ ] **Aug 07**
     - [ ] **CM (Lengthy):** Ch 5: Communicable Diseases (Intestinal/Surface) — *Focus: Polio & HIV/AIDS* [1]
     - [ ] **FM (Easy):** Ch 7: Postmortem Changes — *Focus: Rigor Mortis & Adipocere* [11, 12]
