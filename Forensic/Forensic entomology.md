@@ -23,7 +23,7 @@ The most common insects involved are **Blowflies** (Calliphoridae), **Flesh flie
 |**Adult Fly**|7–14 days,|The adult fly emerges from the pupa to start the cycle again.|
 
 ★ **Important Exam Point:** The rate of this cycle is highly dependent on **environmental temperature**. Heat hastens the cycle, while cold slows it down.
-
+![[IMG_2122.png]]
 ---
 
 **Medico-Legal Importance (Significance)**
