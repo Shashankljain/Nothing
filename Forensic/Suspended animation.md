@@ -5,11 +5,11 @@ For an MBBS student, understanding **Suspended Animation** (also known as **A
 
 ### **Basic Concepts**
 
-**Definition** **Suspended animation** is a condition in which the vital signs of life (specifically heartbeat and respiration) are reduced to such a minimum that they are not detectable by routine clinical methods.
+**Definition** **Suspended animation** is a condition in which the ==vital signs of life== (specifically heartbeat and respiration) are reduced to such a minimum that they are ==not== detectable by routine clinical methods.
 
 **Introduction**
 
-- It is also known as **Apparent Death** or **Cryptobiosis**.
+- It is also known as **Apparent Death** or **==Cryptobiosis==**
 - In this state, the person appears dead, but life is still present and can often be restored through timely resuscitation.
 - It is frequently confused with **Somatic Death** (clinical death), but unlike somatic death, the condition is not yet irreversible.
 
@@ -19,10 +19,10 @@ For an MBBS student, understanding **Suspended Animation** (also known as **A
 
 ### **Medico-Legal Importance**
 
-★ **Important Exam Point:** The primary legal concern with suspended animation is the **premature declaration of death**and the subsequent issuance of a false death certificate.
+★ **Important Exam Point:** The primary legal concern with suspended animation is the **==premature declaration of death==**and the subsequent issuance of a false death certificate.
 
 - **Avoidance of Error:** Doctors must diligently diagnose systemic death because individuals in suspended animation have been wrongly declared dead on multiple occasions.
-- **Civil Rights:** Declaring a person dead while they are in this state can lead to premature burial, inappropriate organ harvesting, or legal complications regarding inheritance and insurance.
+- **Civil Rights:** Declaring a person dead while they are in this state can lead to ==premature burial==, inappropriate organ harvesting, or legal complications regarding inheritance and insurance.
 - **Resuscitation Duty:** Since the condition is reversible, the medical officer has a duty to attempt resuscitation using cardiac massage and artificial respiration.
 
 ---
@@ -51,14 +51,14 @@ Suspended animation is classified into two types:
 
 The causes leading to apparent death are summarized by the clinical mnemonic **AEIOU**:
 
-|**Category**|**Specific Causes**|
-|:--|:--|
-|**A**|**Alcohol** intoxication, **Anemia** (severe), **Anoxemia**.|
-|**E**|**Electrocution**, **Epilepsy**, **Exhaustion**.|
-|**I**|**Injury** (severe head injury/concussion), **Insanity**, **Insulin** shock.|
-|**O**|**Opium**, **Barbiturates**, **Anesthetics**, or other narcotic poisons.|
-|**U**|**Uremia** (metabolic coma), **Under-cooling** (Hypothermia).|
-|**Others**|**Drowning**, **Heat stroke**, **Cholera**, **Newborns**, and **Shock**.|
+| **Category** | **Specific Causes**                                                          |
+| :----------- | :--------------------------------------------------------------------------- |
+| **A**        | **Alcohol** intoxication, **Anemia** (severe), **Anoxemia**.**Anesthetics**  |
+| **E**        | **Electrocution**, **Epilepsy**, **Exhaustion**.                             |
+| **I**        | **Injury** (severe head injury/concussion), **Insanity**, **Insulin** shock. |
+| **O**        | **Opium**, **Barbiturates**, or other narcotic poisons.                      |
+| **U**        | **Uremia** (metabolic coma), **Under-cooling** (Hypothermia).                |
+| **Others**   | **Drowning**, **Heat stroke**, **Cholera**, **Newborns**, and **Shock**.     |
 
 ---
 
