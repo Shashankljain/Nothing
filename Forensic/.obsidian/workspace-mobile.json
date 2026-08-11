@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Algor mortis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Algor mortis"
             }
           }
         ],
@@ -157,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled 1.md",
+            "file": "Algor mortis.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
   },
   "active": "d84277c975e9dd32",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Algor mortis.md",
     "TSD estimation.md",
     "image 22.jpg",
     "image 21.jpg",
