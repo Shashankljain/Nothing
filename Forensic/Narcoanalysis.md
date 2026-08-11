@@ -7,12 +7,12 @@
 
 #### **Definition**
 
-Narcoanalysis is a scientific procedure designed to obtain information from an individual while they are in a natural, sleep-like state induced by specific medications.
+Narcoanalysis is a scientific procedure designed to obtain information from an individual while they are in a ==natural==, ==sleep-like state== induced by specific medications.
 
 #### **Introduction**
 
 - **Synonym:** The "Truth Serum" test.
-- **Objective:** To bypass the subject’s conscious filtering and willpower to lie, allowing the investigator to access facts that the subject is already aware of but might be intentionally withholding.
+- **Objective:** To ==bypass== the subject’s ==conscious== filtering and willpower to lie, allowing the investigator to access facts that the subject is already aware of but might be intentionally withholding.
 - **Historical Background:** **Robert Ernest House** is regarded as the "Father of Truth Serum".
 
 #### **Principles**

@@ -35,8 +35,7 @@
               "title": "Locard principal of exchange"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Locard principal of exchange.md",
+            "file": "Narcoanalysis.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,7 +182,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "2acbc65cfe0afb6a",
+  "active": "40433d0902eb0a07",
   "lastOpenFiles": [
     "Locard principal of exchange.md",
     "Narcoanalysis.md",
