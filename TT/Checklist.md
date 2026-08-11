@@ -38,7 +38,7 @@ This is your **3-week balanced preparation to-do list** (July 30 – August 19, 
     - [ ] **CM (Lengthy):** Ch 5: Communicable Diseases (Intestinal/Surface) — *Focus: Polio & HIV/AIDS* [1]
     - [x] **FM (Easy):** Ch 7: Postmortem Changes — *Focus: Rigor Mortis & Adipocere* [11, 12]
 - [ ] **Aug 08**
-    - [ ] **FM (Lengthy):** Ch 13: Mechanical Asphyxia — *Focus: Hanging vs. Strangulation & Drowning* [10, 13]
+    - [x] **FM (Lengthy):** Ch 13: Mechanical Asphyxia — *Focus: Hanging vs. Strangulation & Drowning* [10, 13]
     - [ ] **CM (Easy):** Ch 14: Sustainable Development Goals (MDGs) [1]
 - [ ] **Aug 09**
     - [ ] **CM (Lengthy):** Ch 5: Comm. Diseases (Arthropod/Zoonotic) — *Focus: Malaria & Dengue Control* [1]
