@@ -109,7 +109,7 @@ In tropical climates like India, RM follows a standard timeline:
 |**Primary Relaxation**|**Present** (Precedes RM).|**Absent**.|
 |**Muscles Involved**|All muscles of the body.|Selected groups (usually hands).|
 |**MLI**|Indicates **Time Since Death**.|Indicates **Manner of Death** (e.g., drowning victim grasping weeds).|
-
+![[image 23.jpg]]
 ---
 
 ### **High-Yield Exam Points**
