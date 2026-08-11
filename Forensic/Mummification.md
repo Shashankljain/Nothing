@@ -5,15 +5,15 @@
 
 ### **Basic Concepts**
 
-**Definition** **Mummification** is a state of modified putrefaction characterized by the rapid dehydration, desiccation, and shriveling of the dead body due to the evaporation of water, resulting in the preservation of natural appearances and features.
+**Definition** **Mummification** is a state of modified putrefaction characterized by the rapid ==dehydration, desiccation, and shriveling== of the dead body due to the evaporation of water, resulting in the ==preservation== of ==natural appearances== and features.
 
-**Introduction** Under typical conditions, a body undergoes liquefactive putrefaction. However, in specific environmental conditions (extreme heat and dryness), the body loses its moisture so quickly that bacterial growth is retarded, and the body "dries out" instead of rotting.
+**Introduction** Under typical conditions, a body undergoes liquefactive putrefaction. However, in specific environmental conditions (extreme heat and dryness), the body loses its moisture so quickly that bacterial growth is ==retarded==, and the body "dries out" instead of rotting.
 
 **Principles of Formation**
 
 - **Dehydration/Desiccation:** The primary process is the loss of body fluids.
-- **Bacterial Inhibition:** The lack of moisture prevents saprophytic microorganisms from breaking down tissues.
-- **Preservation:** Unlike normal putrefaction, the entire body loses weight and becomes thin and stiff, but the features remain identifiable.
+- **Bacterial Inhibition:** The lack of ==moisture== prevents saprophytic microorganisms from breaking down tissues.
+- **Preservation:** Unlike normal putrefaction, the entire body loses weight and becomes **==thin and stiff==**, but the features remain identifiable.
 
 **Medico-Legal Importance (MLI)**
 
@@ -54,9 +54,9 @@
 ### **Clinical Features (Examination Findings)**
 
 - **Appearance:** Shrunken, contracted, and shriveled.
-- **Skin:** Dry, brittle, leathery, and **rusty-brown** in color.
-- **Weight:** Significant loss of weight; the body becomes very light.
-- **Odor:** The body is generally **odorless**.
+- **Skin:** Dry, brittle, leathery, and **==rusty-brown==** in color.
+- **Weight:** Significant loss of weight; the body becomes very ==light==.
+- **Odor:** The body is generally **==odorless==**.
 - **Internal Organs:** Hard, shrunken, and mass-like.
 
 ---
