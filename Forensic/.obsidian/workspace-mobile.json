@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Traumatic asphyxia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Traumatic asphyxia"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled 1.md",
+            "file": "Traumatic asphyxia.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
   },
   "active": "cedf8eed665ea86a",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Traumatic asphyxia.md",
     "Ligature vs hanging.md",
     "Throttling.md",
     "Hanging.md",
