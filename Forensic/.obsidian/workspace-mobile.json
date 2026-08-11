@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Forensic entomology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Forensic entomology"
             }
           }
         ],
@@ -213,7 +213,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled 1.md",
+            "file": "Forensic entomology.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -269,7 +269,7 @@
   },
   "active": "1255c8dbbc37329f",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Forensic entomology.md",
     "Embalming.md",
     "Suspended animation.md",
     "Mummification.md",
