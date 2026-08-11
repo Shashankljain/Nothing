@@ -7,20 +7,20 @@
 
 #### **Definition**
 
-Narcoanalysis is a scientific procedure designed to obtain information from an individual while they are in a natural, sleep-like state induced by specific medications.
+Narcoanalysis is a scientific procedure designed to obtain information from an individual while they are in a ==natural==, ==sleep-like state== induced by specific medications.
 
 #### **Introduction**
 
 - **Synonym:** The "Truth Serum" test.
-- **Objective:** To bypass the subject’s conscious filtering and willpower to lie, allowing the investigator to access facts that the subject is already aware of but might be intentionally withholding.
+- **Objective:** To ==bypass== the subject’s ==conscious== filtering and willpower to lie, allowing the investigator to access facts that the subject is already aware of but might be intentionally withholding.
 - **Historical Background:** **Robert Ernest House** is regarded as the "Father of Truth Serum".
 
 #### **Principles**
 
-The procedure dwells upon the effect of bio-molecules on the bioactivity and cognition of an individual.
+The procedure based  upon the ==effect== of bio-molecules on the ==bioactivity== and ==cognition== of an individual.
 
 - **Neutralizing Imagination:** A person normally requires imagination to construct a lie. In a semi-conscious state induced by narco-analysis, the subject’s imagination is neutralized.
-- **Restricted Responses:** Because the subject is in a trance-like state, it becomes extremely difficult for them to lie; their answers are typically restricted to facts they are already aware of.
+- **Restricted Responses:** Because the subject is in a trance-like state, it becomes extremely difficult for them to lie; their answers are typically ==restricted== to facts they are already aware of.
 - **Probative Truth:** The goal is to obtain the "probative truth" regarding a crime.
 
 ---
@@ -48,10 +48,10 @@ To ensure safety and scientific accuracy, the test must be conducted by a multi-
 
 ### **Medico-Legal Importance**
 
-- **Role in Criminal Investigation:** Used by investigators to cross-check findings or to make a suspect reveal facts pertaining to a complex case.
+- **Role in Criminal Investigation:** Used by investigators to ==cross-check findings== or to make a suspect reveal facts pertaining to a complex case.
 - **Medical Utility:**
-    - **Restoring Speech:** It can be used for patients suffering from mutism.
-    - **Amnesia:** It helps in reviving the memory of a person suffering from amnesia.
+    - **Restoring Speech:** It can be used for patients suffering from ==mutism==.
+    - **Amnesia:** It helps in ==reviving== the memory of a person suffering from amnesia.
     - **Psychological Conflict:** It can be used to help a patient express suppressed or repressed thoughts.
 
 ---
@@ -65,8 +65,8 @@ To ensure safety and scientific accuracy, the test must be conducted by a multi-
 
 #### **Supreme Court Guidelines**
 
-- **Consent:** The Supreme Court of India has declared that narco-analysis, polygraph tests, and brain mapping **cannot be done without the consent** of the individual.
-- **Admissibility (Bharatiya Sakshya Adhiniyam - BSA):** Even if the subject consents to the test, the results obtained from narco-analysis are **not admissible as direct evidence** in a court of law. However, any information or material discovered _following_ a revelation made during the test (e.g., the location of a murder weapon) may be admissible.
+- **Consent:** The Supreme Court of India has declared that narco-analysis, polygraph tests, and brain mapping **==cannot== be done without the consent** of the individual.
+- **Admissibility (Bharatiya Sakshya Adhiniyam - BSA):** Even if the subject consents to the test, the results obtained from narco-analysis are **==not== admissible as direct evidence** in a court of law. However, any information or material discovered _following_ a revelation made during the test (e.g., the location of a murder weapon) may be admissible.
 
 ---
 
