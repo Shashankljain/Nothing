@@ -18,7 +18,7 @@ For an MBBS student, **Locard’s Principle of Exchange** is the most fundamen
 2. The **Suspect**
 3. The **Crime Scene**
 
-When these three interact, a transfer of physical or digital evidence occurs, creating a link that forensic experts use to reconstruct the event.
+When these three interact, a transfer of physical or digital hevidence occurs, creating a link that forensic experts use to reconstruct the event.
 
 ---
 
