@@ -43,8 +43,8 @@ Drowning is the process of respiratory impairment from submersion or immersion i
 
 **A. Typical Drowning (Wet Drowning)** Water or fluid is inhaled into the lungs (seen in 80–90% of cases).
 
-1. **Freshwater Drowning:** Hypotonic water enters the blood, causing **hemodilution**, hemolysis, and hyperkalemia, leading to **ventricular fibrillation**. Fatal period: ~5 minutes.
-2. **Saltwater Drowning:** Hypertonic water draws fluid out of the blood, causing **hemoconcentration** and fulminant pulmonary edema, leading to **cardiac arrest/asystole**. Fatal period: 8–12 minutes.
+1. **Freshwater Drowning:** Hypotonic water enters the blood, causing **hemodilution**, hemolysis, and hyperkalemia, leading to **==ventricular== ==fibrillation==**. Fatal period: ~5 minutes.
+2. **Saltwater Drowning:** Hypertonic water draws fluid out of the blood, causing **hemoconcentration** and fulminant pulmonary edema, leading to **cardiac ==arrest==/asystole**. Fatal period: 8–12 minutes.
 
 **B. Atypical Drowning**
 
@@ -62,16 +62,17 @@ Drowning is the process of respiratory impairment from submersion or immersion i
 - **Froth:** Presence of fine, copious, white, **'shaving lather-like' froth** at the mouth and nostrils.
     - ★ **Important Exam Point:** This is a **vital phenomenon**, meaning the person was alive when they entered the water.
 - **Cadaveric Spasm:** Clenching of weeds, mud, or sand in the hands is **vital proof** of antemortem drowning.
-- **Washerwoman's Hand:** Skin of the palms/soles becomes wrinkled, sodden, and bleached.
+- **Washerwoman's Hand:** Skin of the palms/soles becomes ==wrinkled==, ==sodden==, and ==bleached==.
 - **Cutis Anserina (Goose Skin):** Puckered skin due to contraction of erector pilorum muscles (non-specific).
 - **Position:** A submerged body typically floats **face down** with extremities hanging.
 - **Tête de Nègre:** In putrefaction, the skin of the head and neck becomes dark/bronze.
+- Body and cloths are wet
 
 #### **Internal Findings**
 
 - **Lungs (Emphysema Aquosum):** Lungs are voluminous, heavy, and **ballooned**, bulging out when the sternum is removed.
 - **Paltauf's Hemorrhages:** Subpleural petechiae found in the lower lobes (characteristic of antemortem drowning).
-- **Stomach & Intestines:** Presence of the drowning medium (e.g., muddy water) and micro-ruptures of the gastric mucosa (**Sehrt’s sign**).
+- **Stomach & Intestines:** Presence of the drowning medium (e.g., muddy water) and micro-ruptures of the gastric mucosa (**==Sehrt’s sign==**).
 - **Middle Ear:** Presence of water and hemorrhage (**Ueno's sign**).
 - **Wydler's Sign:** Gastric contents in a beaker separate into three layers (foam, liquid, sediment).
 
