@@ -42,7 +42,7 @@ This is your **3-week balanced preparation to-do list** (July 30 – August 19, 
     - [ ] **CM (Easy):** Ch 14: Sustainable Development Goals (MDGs) [1]
 - [ ] **Aug 09**
     - [ ] **CM (Lengthy):** Ch 5: Comm. Diseases (Arthropod/Zoonotic) — *Focus: Malaria & Dengue Control* [1]
-    - [ ] **FM (Easy):** Ch 21: Artefacts; Ch 22: Forensic Science Lab [14]
+    - [x] **FM (Easy):** Ch 21: Artefacts; Ch 22: Forensic Science Lab [14]
 - [ ] **Aug 10**
     - [ ] **FM (Lengthy):** Ch 18: Sexual Offences — *Focus: Rape (Sec 375 IPC) & POCSO (RS4)* [15, 16]
     - [ ] **CM (Easy):** Ch 20: Mental Health — *Focus: Warning signs of poor mental health* [1]
