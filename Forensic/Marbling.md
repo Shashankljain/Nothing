@@ -39,7 +39,7 @@ The development of marbling follows a specific chemical and biological sequence:
 2. **Definitive Sign of Death:** Its presence confirms that the body has entered the stage of molecular death and putrefaction.
 3. **Proof of Putrefaction:** It helps the medical officer categorize the state of the body (e.g., "early decomposition") for the inquest report under **Section 194 BNSS, 2023**.
 4. **Differential Diagnosis:**
-    - ★ **Important Exam Point:** It must be differentiated from **Lightning marks** (Filigree burns/Lichtenberg figures). Lightning marks are pink, erythematous, and do not follow the vascular pattern, whereas marbling is greenish-brown and follows the veins.
+    - ★ **Important Exam Point:** It must be differentiated from **==Lightning marks*==* (Filigree burns/Lichtenberg figures). Lightning marks are pink, erythematous, and do not follow the vascular pattern, whereas marbling is greenish-brown and follows the veins.
     - It should not be confused with postmortem staining (livor mortis), which is a uniform gravitational settling of blood, not a branching pattern.
 
 ---
