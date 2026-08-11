@@ -1,3 +1,4 @@
+[[FSL]]
 For an MBBS student, the study of **Artefacts** is critical because these findings can mimic injuries or diseases, potentially leading to a "miscarriage of justice" if misinterpreted by the medical officer.
 
 ---
