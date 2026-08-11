@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Adipocere"
             }
+          },
+          {
+            "id": "e8c74b4517fd626b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mummification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mummification"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,7 +171,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Adipocere.md",
+            "file": "Mummification.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -211,8 +225,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "77bbc4ac0c3e0277",
+  "active": "e8c74b4517fd626b",
   "lastOpenFiles": [
+    "Mummification.md",
     "Adipocere.md",
     "Marbling.md",
     "Putrefaction.md",
@@ -247,7 +262,6 @@
     "Choking + rifling.md",
     "Abrasion.md",
     "Pattered injuries.md",
-    "Stab injury.md",
     "image 17.jpg"
   ]
 }
