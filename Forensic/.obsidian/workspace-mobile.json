@@ -11,10 +11,14 @@
             "id": "c51c9421386d8e2c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Drowning.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Drowning"
             }
           }
         ]
@@ -110,6 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Drowning.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,6 +170,7 @@
   },
   "active": "c51c9421386d8e2c",
   "lastOpenFiles": [
+    "Drowning.md",
     "Locard principal of exchange.md",
     "Narcoanalysis.md",
     "Artifact.md",
@@ -197,7 +203,6 @@
     "Incised wound.md",
     "Ricochet bullet.md",
     "Puppes rule.md",
-    "Bore of shotgun.md",
     "Pasted image 20260806180617.png",
     "IMG_2094.jpeg",
     "Pasted image 20260806175940.png"
