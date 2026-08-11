@@ -47,15 +47,15 @@ For an MBBS student, the study of **Artefacts** is critical because these find
 
 #### **2. Thermal (Heat) Artefacts**
 
-- **Pugilistic Attitude:** Muscles exposed to heat (>\(65^\circ\text{C}\)) undergo protein coagulation and stiffening, causing the limbs to flex like a "boxer". This is an artefact and not a sign of a struggle.
-- **Heat Rupture:** Skin exposed to heat dries and splits; these can look like **incised wounds** but lack vital reactions and show intact nerves/vessels in the floor.
-- **Heat Hematoma:** Blood in the extradural space following fire; it appears chocolate-brown and honeycomb-like, unlike the firm clotted blood of a traumatic **extradural hemorrhage**.
+- **Pugilistic Attitude:** Muscles exposed to heat (>\(65^\circ\text{C}\)) undergo protein coagulation and stiffening, causing the limbs to flex like a "boxer". This is an artefact and ==not== a sign of a struggle.
+- **Heat Rupture:** Skin exposed to heat dries and splits; these can look like **==incised wounds==** but **lack** vital reactions and show intact nerves/vessels in the floor.
+- **Heat Hematoma:** Blood in the extradural space following fire; it appears ==chocolate-brown and honeycomb-like==, unlike the firm clotted blood of a traumatic **extradural hemorrhage**.
 
 #### **3. Putrefactive Artefacts**
 
-- **Swiss Cheese Liver:** Also called "Honeycomb liver," it is caused by gas-forming bacteria (_C. perfringens_) creating holes in the organ.
-- **Postmortem Purge:** Oozing of blood-stained fluid from the nose/mouth due to gas pressure in the abdomen; often mistaken for internal injury or trauma.
-- **Gas Stiffening:** Accumulation of gases causes the body to become rigid, mimicking **Rigor Mortis**.
+- **Swiss Cheese Liver:** Also called "Honeycomb liver," it is caused by gas-forming bacteria (_C. perfringens_) creating ==holes== in the organ.
+- **Postmortem Purge:** Oozing of ==blood==-stained fluid from the nose/mouth due to gas pressure in the abdomen; often mistaken for internal injury or trauma.
+- **Gas Stiffening:** Accumulation of gases causes the body to become ==rigid, mimicking **==Rigor Mortis**.
 
 #### **4. Iatrogenic (Medical) Artefacts**
 
