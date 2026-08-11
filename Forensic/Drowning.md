@@ -37,7 +37,7 @@ Asphyxial deaths are classified based on the etiology and the level of obstructi
 
 #### **Definition**
 
-Drowning is the process of experiencing respiratory impairment from submersion or immersion in a liquid medium. A liquid-air interface at the entrance to the airway prevents the individual from breathing oxygen.
+Drowning is the process of respiratory impairment from submersion or immersion in a liquid medium. A liquid-air interface at the entrance to the airway prevents the individual from breathing oxygen.
 
 #### **Classification of Drowning**
 
