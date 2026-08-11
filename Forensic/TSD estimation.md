@@ -49,6 +49,8 @@ Algor mortis is considered the ==most useful== indicator of TSD during the first
 - **Estimation Formula:** \[\text{TSD in hours} = \frac{\text{Normal rectal temp} - \text{Measured rectal temp}}{\text{Rate of fall per hour}}\].
 - **Rule of Thumb:** The temperature typically falls at about **1.5°F/hour**.
 
+
+![[image 22.jpg]]
 #### **II. Livor Mortis (Postmortem Staining)**
 
 Lividity gives a rough idea of TSD and indicates whether the body was moved after death.
