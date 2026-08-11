@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Liver mortis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Liver mortis"
             }
           }
         ],
@@ -171,7 +171,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled 1.md",
+            "file": "Liver mortis.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
   },
   "active": "2cf257e3813d290e",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Liver mortis.md",
     "Algor mortis.md",
     "TSD estimation.md",
     "image 22.jpg",
