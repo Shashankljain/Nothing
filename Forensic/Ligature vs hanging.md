@@ -5,7 +5,7 @@ In Forensic Medicine, the examination of the **ligature mark** (also known as 
 
 ### **1. Basic Concepts**
 
-**Definition of Ligature Mark** A ligature mark is a **pressure abrasion** produced on the neck by the application of a constricting material (rope, wire, cloth). It bears the imprint of the material used and provides vital clues about the manner of death.
+**Definition of Ligature Mark** A ligature mark is a **pressure abrasion** produced on the neck by the application of a constricting ==material== (rope, wire, cloth). It bears the ==imprint== of the material used and provides vital clues about the manner of death.
 
 **Significance in Medico-Legal Practice**
 
