@@ -35,7 +35,7 @@ This is your **3-week balanced preparation to-do list** (July 30 – August 19, 
     - [x] **CM (Lengthy):** Ch 5: Communicable Diseases (Respiratory) — *Focus: TB/DOTS & Measles* [1]
     - [x] **FM (Easy):** Ch 6: Death & its Cause — *Focus: Brainstem Death* [11]
 - [ ] **Aug 07**
-    - [ ] **CM (Lengthy):** Ch 5: Communicable Diseases (Intestinal/Surface) — *Focus: Polio & HIV/AIDS* [1]
+    - [ ] **CM (Lengthy):** Ch 5: Communicable Diseases (Intestinal + ==Surface==) — *Focus: Polio & HIV/AIDS* [1]
     - [x] **FM (Easy):** Ch 7: Postmortem Changes — *Focus: Rigor Mortis & Adipocere* [11, 12]
 - [ ] **Aug 08**
     - [x] **FM (Lengthy):** Ch 13: Mechanical Asphyxia — *Focus: Hanging vs. Strangulation & Drowning* [10, 13]
