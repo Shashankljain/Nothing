@@ -107,10 +107,14 @@
             "id": "ffefdf4690825c86",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "TT/Checklist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Checklist"
             }
           }
         ],
@@ -207,7 +211,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "NMC.md",
+            "file": "TT/Checklist.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
