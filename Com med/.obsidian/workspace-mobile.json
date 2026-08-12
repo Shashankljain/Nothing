@@ -11,17 +11,14 @@
             "id": "d3ea240de223b576",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "RCH.canvas",
-                "viewState": {
-                  "x": -338.5,
-                  "y": 521.2657722611556,
-                  "zoom": 0
-                }
+                "file": "IMNCI.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "RCH"
+              "icon": "lucide-file",
+              "title": "IMNCI"
             }
           }
         ]
@@ -174,6 +171,8 @@
   },
   "active": "d3ea240de223b576",
   "lastOpenFiles": [
+    "RCH.md",
+    "RCH.canvas",
     "IMG_2171.jpeg",
     "Pasted image 20260812160727.png",
     "RNTCP.md",
@@ -198,7 +197,6 @@
     "Klinefilter's syndrome.md",
     "Mendel law.md",
     "Genetic counselling.md",
-    "image 12.jpg",
     "Beri beri.md",
     "Eugenics vs euthenics.md",
     "Genetic engineering.md",
@@ -213,7 +211,6 @@
     "Untitled.base",
     "BGS Road 9.m4a",
     "Untitled.canvas",
-    "RCH.canvas",
     "New/Untitled",
     "New",
     "Com med"
