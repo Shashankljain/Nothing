@@ -75,31 +75,13 @@ This is the **Gold Standard** for diagnosis in adults.
 #### **3. Diagnostic Algorithm**
 
 - If two smears are negative but the cough persists for 10–14 days despite antibiotics, a repeat smear and X-ray are performed.
-
+![[Pasted image 20260813122349.png]]
 ---
 
 ### **V. Categorization and Treatment Regimens**
 
-RNTCP categorizes patients based on the site of disease, severity, and previous treatment history to determine the appropriate regimen.
+Write new one
 
-|Category|Patient Type|Initial Phase (IP)|Continuation Phase (CP)|Total Duration|
-|:--|:--|:--|:--|:--|
-|**Category I**|New smear-positive; Seriously ill smear-negative or extra-pulmonary|2 $H_3R_3Z_3E_3$|4 $H_3R_3$|6 Months|
-|**Category II**|Relapse; Failure; Defaulters|2 $H_3R_3Z_3E_3S_3$ + 1 $H_3R_3Z_3E_3$|5 $H_3R_3E_3$|8 Months|
-|**Category III**|New smear-negative (not seriously ill); Less severe extra-pulmonary|2 $H_3R_3Z_3$|4 $H_3R_3$|6 Months|
-### OBSELETE NOW…
-[Source: 173]
-
-**Key Abbreviations:**
-
-- **H:** Isoniazid (600 mg)
-- **R:** Rifampicin (450 mg)
-- **Z:** Pyrazinamide (1500 mg)
-- **E:** Ethambutol (1200 mg)
-- **S:** Streptomycin (750 mg)
-- _The subscript '3' indicates thrice-weekly administration under DOTS_.
-
----
 
 ### **VI. Organizational Structure**
 
