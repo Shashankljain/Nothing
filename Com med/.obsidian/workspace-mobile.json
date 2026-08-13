@@ -11,10 +11,14 @@
             "id": "d32cb6320a55a412",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Case finding tool.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Case finding tool"
             }
           }
         ],
@@ -111,6 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Case finding tool.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,6 +174,7 @@
   "active": "d32cb6320a55a412",
   "lastOpenFiles": [
     "NLEP.md",
+    "Nlep 2.md",
     "Pasted image 20260813195457.png",
     "Pasted image 20260813195408.jpg",
     "Pasted image 20260813195350.jpg",
@@ -204,7 +210,6 @@
     "Chromosomal abnormalities..md",
     "Klinefilter's syndrome.md",
     "Mendel law.md",
-    "Genetic counselling.md",
     "Untitled.base",
     "BGS Road 9.m4a",
     "Untitled.canvas",
