@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NACP.md",
+                "file": "Malaria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NACP"
+              "title": "Malaria"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "NACP.md",
+            "file": "Malaria.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -172,6 +172,7 @@
   },
   "active": "d32cb6320a55a412",
   "lastOpenFiles": [
+    "NACP.md",
     "Pasted image 20260813153017.png",
     "Pasted image 20260813152947.jpg",
     "Pasted image 20260813152900.jpg",
@@ -192,7 +193,6 @@
     "IMNCI.md",
     "RCH.md",
     "RCH.canvas",
-    "IMG_2171.jpeg",
     "FP, FN.md",
     "Lead time.md",
     "Screening vs diagnostic.md",
