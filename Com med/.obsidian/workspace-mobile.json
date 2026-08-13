@@ -51,7 +51,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Commun",
+            "query": "Dots",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -102,7 +102,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "199b396c048b2968",
@@ -170,7 +170,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "d3ea240de223b576",
+  "active": "12878bf1ee52055f",
   "lastOpenFiles": [
     "NVBDCP.md",
     "IDSP.md",
