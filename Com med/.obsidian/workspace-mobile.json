@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDSP.md",
+                "file": "NVBDCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IDSP"
+              "title": "NVBDCP"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "IDSP.md",
+            "file": "NVBDCP.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -172,6 +172,7 @@
   },
   "active": "d3ea240de223b576",
   "lastOpenFiles": [
+    "IDSP.md",
     "Arsh.md",
     "ICDS.md",
     "image 14.jpg",
@@ -208,7 +209,6 @@
     "Genetic engineering.md",
     "Down’s syndrome.md",
     "DNA recombinant technology..md",
-    "Food adulteration.md",
     "Untitled.base",
     "BGS Road 9.m4a",
     "Untitled.canvas",
