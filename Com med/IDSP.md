@@ -14,7 +14,7 @@ The **Integrated Disease Surveillance Project (IDSP)** is a decentralized, sta
 ![[Pasted image 20260716093650.png]]
 ### **II. Aim and Objectives**
 
-The primary **aim** of IDSP is to strengthen the disease surveillance system for essential health data to be used in planning, implementing, and evaluating health services.
+The primary **aim** of IDSP is to ==strengthen== the disease ==surveillance== system for essential health data to be used in planning, implementing, and evaluating health services.
 
 **Core Objectives:**
 
