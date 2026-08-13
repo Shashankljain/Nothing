@@ -17,6 +17,7 @@ The current vision of the programme, as outlined in the **Global Leprosy Strate
 - **Medium-term Goal:** The elimination of leprosy, defined as the interruption of transmission.
 
 ---
+![[Pasted image 20260813195350.jpg]]
 
 ### **Objectives**
 
