@@ -46,43 +46,6 @@ DOTS is the heart of RNTCP. It is a community-based strategy that combines the b
 
 ---
 
-### **IV. Diagnosis under RNTCP**
-
-RNTCP relies on **Passive Case Finding**, meaning it depends on symptomatic patients visiting health facilities.
-
-#### **1. Sputum Smear Microscopy**
-
-This is the **Gold Standard** for diagnosis in adults.
-
-- **Criteria:** Any person with a persistent productive cough for **$\ge$ 2 weeks** is a TB suspect.
-- **Samples:** Two samples are required (**Spot-Morning-Spot**).
-    - **Day 1:** Spot sample collected when the patient first visits.
-    - **Day 2:** Early morning sample collected at home (secretions build up overnight, increasing the chances of detecting bacilli).
-- **Method:** Ziehl-Neelsen (ZN) staining is used to identify Acid-Fast Bacilli (AFB).
-
-#### **2. Grading of Sputum Smears**
-
-|If slide has|Result|Grading|
-|:--|:--|:--|
-|>10 AFB per field|Positive|+++|
-|1–10 AFB per field|Positive|++|
-|10–99 AFB per 10 fields|Positive|+|
-|1–99 AFB per 100 fields|Positive|Scanty|
-|0 AFB in 100 fields|Negative|—|
-
-[Source: 333]
-
-#### **3. Diagnostic Algorithm**
-
-- If two smears are negative but the cough persists for 10–14 days despite antibiotics, a repeat smear and X-ray are performed.
-![[Pasted image 20260813122349.png]]
----
-
-### **V. Categorization and Treatment Regimens**
-
-Write new one
-
-
 ### **VI. Organizational Structure**
 
 RNTCP has a decentralized, 5-tier organizational setup.
@@ -95,61 +58,5 @@ RNTCP has a decentralized, 5-tier organizational setup.
 ![[Pasted image 20260714193557.png]]
 ---
 
-### **VII. Role of Health Workers (ASHA/DOTS Agents)**
+![[Pasted image 20260813123626.jpg]]
 
-ASHAs and other community workers are the backbone of RNTCP.
-
-- **Job Responsibilities:** Direct observation of patients swallowing drugs, motivating patients to complete treatment, and maintaining records.
-- **Incentives:** ₹1,000 for Category I, ₹1,500 for Category II, and ₹5,000 for drug-resistant TB completion. ★ Important Exam Point
-![[Pasted image 20260714193647.png]]
----
-
-### **VIII. Epidemiological Definitions** ★ Important Exam Point
-
-- **New Case:** A patient who has never had TB treatment or has taken drugs for < 4 weeks.
-- **Relapse:** A patient declared cured but returns with positive sputum.
-- **Failure:** A patient who was smear-positive and remained or became positive again at 5 months or later during treatment.
-- **Defaulter:** A patient who interrupts treatment for 2 consecutive months or more.
-
----
-
-### **IX. Achievements and Challenges**
-
-**Achievements:**
-
-- Case detection rate improved to **79%** (2011).
-- DOTS cure rate is approximately **88%** (2011).
-- Drastic reduction in TB-related mortality to 17 per lakh population.
-
-**Challenges:**
-
-- **MDR-TB:** Multi-drug resistant TB requires more complex "DOTS-Plus" regimens.
-- **HIV-TB Co-infection:** TB is the most common opportunistic infection in HIV patients in India.
-- **Social Stigma:** Misconceptions often prevent early diagnosis.
-
----
-
-### **High-Yield Exam Points**
-
-- **World TB Day:** Celebrated on **March 24th**.
-- **Annual Risk of Infection (ARI):** In developing countries, 1% ARI corresponds to 50 sputum smear-positive cases per 100,000 population.
-- **Treatment Phase:** Intensive phase (IP) aims to kill bacilli rapidly (2–3 months); Continuation phase (CP) eliminates remaining bacilli to prevent relapse (4–6 months).
-
----
-
-### **Frequently Asked Viva Questions**
-
-- **Q: Why is sputum microscopy preferred over X-ray in RNTCP?**
-    - **A:** It is cheaper, more reliable, confirms infectiousness, and is 98% specific.
-- **Q: What is the "Rule of 2" for vaccine administration?**
-    - **A:** Left upper arm: BCG and JE; Right upper arm: Measles/MR.
-- **Q: What is the colour of the patient-wise box for Category I?**
-    - **A:** Red.
-
----
-
-### **Common Mistakes Students Make**
-
-- **Confusion between ARI and Prevalence:** ARI measures the "attacking force" of the disease, while prevalence reflects the total case load in the community.
-- **Mixing up Daily vs. Thrice-weekly dosing:** RNTCP historically used thrice-weekly dosing (indicated by subscripts like $H_3$), whereas the 2010 WHO guidelines recommended daily therapy.
-- **Ignoring Sputum Induction in Children:** Students often forget that children cannot always cough up sputum, and techniques like gastric aspiration or nebulized saline induction are needed.
