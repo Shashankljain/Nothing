@@ -22,3 +22,16 @@
 - **State Level:** State RCH Cell.
 - **District Level:** District Health Society and Adolescent Health Coordinator.
 - **Peripheral Level:** **Adolescent Friendly Health Clinics (AFHCs)** and involvement of ASHAs and Anganwadi Workers (AWWs) for community mobilisation.
+
+
+**Components of the Programme (RMNCH+A Strategy)** ★ Important Exam Point
+
+The strategy focuses on a "Life-Cycle Approach," targeting adolescents through five primary pillars:
+
+|**Pillar**|**Interventions**|
+|---|---|
+|**Nutrition**|Weekly Iron and Folic Acid Supplementation (WIFS); Screening for BMI.|
+|**Sexual & Reproductive Health**|Counselling on puberty, contraception, and safe abortion; STI/RTI management.|
+|**Mental Health**|Counselling for anxiety, depression, and prevention of self-harm/suicide.|
+|**Substance Abuse**|Education and clinical interventions to curb tobacco, alcohol, and drug use.|
+|**Injuries & Violence**|Addressing gender-based violence and road traffic safety.|
