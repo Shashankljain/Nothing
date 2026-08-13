@@ -36,6 +36,8 @@ DOTS is the heart of RNTCP. It is a community-based strategy that combines the b
 
 #### **Five Components of DOTS:** ★ Important Exam Point (PADDS)
 
+> Explain these 5 points in detail based on Communicable disease `chapter
+
 1. **Political and Administrative Commitment:** Ensuring sustained funding (e.g., the US $142 million World Bank loan in 1997).
 2. **Good Quality Diagnosis by Microscopy:** Shifting from X-ray-based diagnosis to sputum smear microscopy as the primary tool.
 3. **Adequate Supply of Quality Drugs:** Providing free, patient-wise boxes (colour-coded) to ensure uninterrupted supply.
