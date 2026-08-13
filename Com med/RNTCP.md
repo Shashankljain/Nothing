@@ -34,7 +34,7 @@ The basic goal of RNTCP is to decrease the incidence of TB to such a low level t
 
 DOTS is the heart of RNTCP. It is a community-based strategy that combines the benefits of supervised treatment with community support.
 
-#### **Five Components of DOTS:** ★ Important Exam Point
+#### **Five Components of DOTS:** ★ Important Exam Point (PADDS)
 
 1. **Political and Administrative Commitment:** Ensuring sustained funding (e.g., the US $142 million World Bank loan in 1997).
 2. **Good Quality Diagnosis by Microscopy:** Shifting from X-ray-based diagnosis to sputum smear microscopy as the primary tool.
