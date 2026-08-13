@@ -37,7 +37,7 @@ The NVBDCP is implemented in States and UTs under the overall umbrella of the *
 
 #### **1. Aim**
 
-To reduce morbidity and mortality due to vector-borne diseases and to achieve elimination targets for specific diseases like Malaria, Kala-azar, and Lymphatic Filariasis.
+To reduce ==morbidity== and ==mortality== due to vector-borne diseases and to achieve ==elimination== targets for specific diseases like Malaria, Kala-azar, and Lymphatic Filariasis.
 
 #### **2. Three-Pronged Strategy**
 
