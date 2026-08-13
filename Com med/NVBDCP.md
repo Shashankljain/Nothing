@@ -56,7 +56,7 @@ The core activities of the programme are divided into three main strategies:
 - **Anti-Larval Measures:** Use of **larvivorous fish** (Gambusia/Poecilia) in water bodies and chemical larvicides in urban areas.
 - **Source Reduction:** Minor environmental engineering to eliminate breeding sites (stagnant water collection).
 
-**C. Supportive Interventions**
+**C. Supportive Interventions** (HM BP)
 
 - **Behaviour Change Communication (BCC):** Creating awareness through IPC (Inter-Personal Communication) and mass media to ensure community participation.
 - **Public-Private Partnership (PPP):** Involving private practitioners and NGOs in diagnosis and treatment.

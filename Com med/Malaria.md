@@ -7,13 +7,13 @@ The current strategic focus has shifted from mere "control" to **Malaria Elimin
 
 ### **Evolution of Malaria Strategy in India**
 
-|Year|Milestone|
-|:--|:--|
-|**1953**|National Malaria Control Programme (NMCP) launched.|
-|**1958**|Converted to National Malaria Eradication Programme (NMEP).|
-|**2002**|Renamed National Vector Borne Disease Control Programme (NVBDCP).|
-|**2016**|National Framework for Malaria Elimination (2016-2030) launched.|
-|**2023**|National Strategic Plan (NSP) for Malaria Elimination (2023-2027) launched.|
+| Year     | Milestone                                                                   |
+| :------- | :-------------------------------------------------------------------------- |
+| **1953** | National Malaria Control Programme (NMCP) launched.                         |
+| **1958** | Converted to National Malaria Eradication Programme (NMEP).                 |
+| **2002** | Renamed National Vector Borne Disease Control Programme (NVBDCP).           |
+| **2016** | National Framework for Malaria Elimination (2016-2030) launched.            |
+| **2023** | National Strategic Plan (NSP) for Malaria Elimination (2023-2027) launched. |
 
 ---
 
@@ -25,7 +25,7 @@ The program adopts a **three-pronged strategy**:
 
 #### **1. Disease Management (Early Case Detection and Complete Treatment - EDCT)**
 
-- **Diagnosis:** Use of **Rapid Diagnostic Kits (RDTs)**—specifically bivalent RDTs to detect both _P. vivax_ and _P. falciparum_—especially in remote areas where microscopy is unavailable. Microscopy remains the "gold standard" for its high sensitivity and specificity.
+- **Diagnosis:** Use of **Rapid Diagnostic Kits (RDTs)**—specifically bivalent RDTs to detect both _P. vivax_ and _P. falciparum_—especially in remote areas where microscopy is unavailable. Microscopy remains the "==gold standard==" for its high sensitivity and specificity.
 - **Treatment:** No scope for "presumptive treatment".
     - **P. vivax:** Chloroquine (3 days) + Primaquine (14 days) to prevent relapse by killing hypnozoites.
     - **P. falciparum:** **Artemisinin-based Combination Therapy (ACT)** is used. In most of India, it is Artesunate + Sulfadoxine-Pyrimethamine (AS+SP). In the North-Eastern states, due to resistance, Artemether + Lumefantrine (AL) is used.
@@ -35,11 +35,11 @@ The program adopts a **three-pronged strategy**:
 
 IVM aims to reduce the ==transmission== risk through biological, chemical, and environmental methods.
 
-- **Indoor Residual Spraying (IRS):** Spraying walls with insecticides like **DDT**, Malathion, or Synthetic Pyrethroids. It is primarily used in rural settings with high transmission.
+- **Indoor Residual Spraying (IRS):** Spraying walls with insecticides like **DDT**, ==Malathion==, or Synthetic Pyrethroids. It is primarily used in rural settings with high transmission.
 - **Personal Protection:** Massive distribution of **Long-Lasting Insecticidal Nets (LLINs)** or Insecticide Treated Bed Nets (ITNs). LLINs are the preferred method for areas with an API ≥ 5.
 - **Anti-larval Measures:**
-    - **Chemical:** Use of larvicides like Temephos or Paris Green.
-    - **Biological:** Use of **larvivorous fish** such as _Gambusia affinis_ and _Poecilia reticulata_ in stagnant water bodies.
+    - **Chemical:** Use of larvicides like ==Temephos== or Paris Green.
+    - **Biological:** Use of **larvivorous fish** such as ==_Gambusia== ==affinis==_ and _==Poecilia== ==reticulata==_ in stagnant water bodies.
 - **Source Reduction:** Environmental engineering like minor drainage, filling pits, and intermittent irrigation to eliminate breeding sites.
 
 #### **3. Supportive Interventions**
