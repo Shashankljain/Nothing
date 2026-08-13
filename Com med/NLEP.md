@@ -19,6 +19,7 @@ The current vision of the programme, as outlined in the **Global Leprosy Strate
 ---
 ![[Pasted image 20260813195350.jpg]]
 ![[Pasted image 20260813195408.jpg]]
+![[Pasted image 20260813195457.png]]
 ### **Objectives**
 
 The objectives have evolved from simple control to a roadmap for a "Leprosy Free India".
