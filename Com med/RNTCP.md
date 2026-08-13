@@ -61,3 +61,4 @@ RNTCP has a decentralized, 5-tier organizational setup.
 ![[Pasted image 20260813123626.jpg]]
 
 ![[Pasted image 20260813123649.png]]
+![[Pasted image 20260813123716.png]]

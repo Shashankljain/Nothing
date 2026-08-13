@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "52751e807be462df",
+        "id": "a7291a8225e3b2d9",
         "type": "tabs",
         "children": [
           {
-            "id": "d3ea240de223b576",
+            "id": "d32cb6320a55a412",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RNTCP.md",
+                "file": "NACP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RNTCP"
+              "title": "NACP"
             }
           }
         ]
@@ -170,8 +170,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "d3ea240de223b576",
+  "active": "d32cb6320a55a412",
   "lastOpenFiles": [
+    "RNTCP.md",
+    "Pasted image 20260813123716.png",
     "Pasted image 20260813123649.png",
     "Pasted image 20260813123626.jpg",
     "Pasted image 20260813122349.png",
@@ -188,7 +190,6 @@
     "RCH.canvas",
     "IMG_2171.jpeg",
     "Pasted image 20260812160727.png",
-    "RNTCP.md",
     "FP, FN.md",
     "Lead time.md",
     "Screening vs diagnostic.md",
@@ -196,8 +197,6 @@
     "Health programmes in India.md",
     "Pasted image 20260803183351.png",
     "Pasted image 20260803175223.jpg",
-    "Pasted image 20260803175211.jpg",
-    "Pasted image 20260803175157.jpg",
     "SDG.md",
     "MDG.md",
     "2.md",
