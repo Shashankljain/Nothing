@@ -3,6 +3,10 @@
 
 The examination of a child requires a different approach than that of an adult because of anatomical differences and the nature of the assault.
 
+![[Pasted image 20260814155500.png]]
+
+
+
 **1. Penetration and Micro-trauma**
 
 - **Slight Penetration:** Under the law, even the slightest penetration of the penis within the vulva (labia majora) is sufficient to constitute rape; full penetration or rupture of the hymen is not required.
