@@ -1,5 +1,6 @@
 [[Sexual offence]]
-The **Protection of Children from Sexual Offences (POCSO) Act, 2012**, is a comprehensive law enacted to provide a robust legal framework for the protection of children from offences of sexual assault, sexual harassment, and pornography. For an MBBS student, understanding this Act is vital as it mandates specific duties for medical practitioners and interacts closely with the **Bharatiya Nyaya Sanhita (BNS), 2023**.
+The **Protection of Children from Sexual Offences (POCSO) Act, 2012**, is a  law enacted to provide a ==legal framework== for the ==protection== of children from offences of -
+sexual assault, sexual harassment, and pornography. 
 
 ---
 
@@ -12,8 +13,8 @@ The **Protection of Children from Sexual Offences (POCSO) Act, 2012**, is a com
 
 **Objectives**
 
-- To protect the best interests of the child at every stage of the legal process.
-- To ensure child-friendly reporting, recording of evidence, investigation, and speedy trial of offences.
+- To ==protect== the best interests of the child at every stage of the legal process.
+- To ensure ==child-friendly== reporting, recording of evidence, investigation, and speedy trial of offences.
 
 **Classification of Offences under POCSO** The Act categorizes sexual abuse into specific types:
 
