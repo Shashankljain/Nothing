@@ -6,18 +6,18 @@ The examination of a child requires a different approach than that of an adult b
 **1. Penetration and Micro-trauma**
 
 - **Slight Penetration:** Under the law, even the slightest penetration of the penis within the vulva (labia majora) is sufficient to constitute rape; full penetration or rupture of the hymen is not required.
-- **Micro-injuries:** Fresh micro-injuries in the genitalia may not be visible to the naked eye and can be detected using **Toluidine-blue dye**.
+- **Micro-injuries:** Fresh micro-injuries in the genitalia may ==not== be visible to the naked eye and can be detected using **==Toluidine==-blue dye**.
 
 **2. Condition of the Hymen**
 
-- ★ **Important Exam Point:** In young children, the hymen is typically **unruptured**.
-- **Reasoning:** This is because the hymen in children is situated **deeply** and is **highly elastic**, often allowing for some penetration without tearing.
+- ★ **Important Exam Point:** In young children, the hymen is typically **==unruptured==**.
+- **Reasoning:** This is because the hymen in children is situated **==deeply==** and is **highly ==elastic==**, often allowing for some penetration without tearing.
 - If a tear does occur, it most commonly happens postero-laterally between the **5 and 7 o’clock positions**.
 
 **3. Physical and Non-Genital Findings**
 
-- **Abrasions and Bruises:** General signs of physical violence such as **butterfly bruises**, **coin-shaped/six-penny bruises**, or pinch marks may be present on the thighs, breasts, or neck.
-- **Characteristic Lesion:** A **tear inside the upper lip near the frenulum** is a highly characteristic sign of manual violence in child abuse.
+- **Abrasions and Bruises:** General signs of physical violence such as **==butterfly bruises**, **coin-shaped/six-penny bruises==**, or pinch marks may be present on the thighs, breasts, or neck.
+- **Characteristic Lesion:** A **==tear inside the upper lip near the frenulum==** is a highly characteristic sign of ==manual== violence in child abuse.
 - **Battered Baby Syndrome:** This may be suspected if there are discrepancies between the history provided and the injuries found, or if injuries are in different stages of healing.
 
 ---
