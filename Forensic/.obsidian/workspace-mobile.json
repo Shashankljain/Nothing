@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "Sodomy"
             }
+          },
+          {
+            "id": "27c24f0ec23f5b00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sodomy in child.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sodomy in child"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -185,7 +199,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Sodomy.md",
+            "file": "Sodomy in child.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -239,11 +253,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "279eb75227f60b73",
+  "active": "27c24f0ec23f5b00",
   "lastOpenFiles": [
+    "Sodomy in child.md",
+    "Sodomy.md",
     "image 25.jpg",
     "image 24.jpg",
-    "Sodomy.md",
     "Unnatural sexual offence.md",
     "POCSO.md",
     "Exam. Of accused.md",
@@ -275,7 +290,6 @@
     "image 21.jpg",
     "image 20.jpg",
     "image 19.jpg",
-    "image 18.jpg",
-    "Pasted image 20260806180617.png"
+    "image 18.jpg"
   ]
 }
