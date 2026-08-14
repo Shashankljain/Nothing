@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Case finding tool.md",
+                "file": "NRHM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Case finding tool"
+              "title": "NRHM"
             }
           }
         ],
@@ -115,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Case finding tool.md",
+            "file": "NRHM.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,15 +173,20 @@
   },
   "active": "d32cb6320a55a412",
   "lastOpenFiles": [
-    "NLEP.md",
+    "Pasted image 20260814110850.png",
+    "NRHM.md",
+    "NRHM.md",
     "Nlep 2.md",
+    "NLEP.md",
+    "NACP.md",
+    "NACP (Different).md",
+    "Case finding tool.md",
     "Pasted image 20260813195457.png",
     "Pasted image 20260813195408.jpg",
     "Pasted image 20260813195350.jpg",
     "ICTC.md",
     "Malaria.md",
     "NVBDCP.md",
-    "NACP.md",
     "Pasted image 20260813153017.png",
     "Pasted image 20260813152947.jpg",
     "Pasted image 20260813152900.jpg",
@@ -205,11 +210,6 @@
     "Health programmes in India.md",
     "SDG.md",
     "MDG.md",
-    "2.md",
-    "Hardy weinberg law.md",
-    "Chromosomal abnormalities..md",
-    "Klinefilter's syndrome.md",
-    "Mendel law.md",
     "Untitled.base",
     "BGS Road 9.m4a",
     "Untitled.canvas",
