@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "POCSO"
             }
+          },
+          {
+            "id": "c85c10f32ccdcaba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unnatural sexual offence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unnatural sexual offence"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,7 +171,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "POCSO.md",
+            "file": "Unnatural sexual offence.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -211,8 +225,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "0ff1dbfb6b90fb13",
+  "active": "c85c10f32ccdcaba",
   "lastOpenFiles": [
+    "Unnatural sexual offence.md",
     "POCSO.md",
     "Exam. Of accused.md",
     "Genital exam + evidentiary for child rape.md",
@@ -241,7 +256,6 @@
     "Rigor mortis.md",
     "IMG_2122.png",
     "image 23.jpg",
-    "Liver mortis.md",
     "image 22.jpg",
     "image 21.jpg",
     "image 20.jpg",
