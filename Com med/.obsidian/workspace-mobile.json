@@ -36,7 +36,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -186,10 +185,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "d32cb6320a55a412",
+  "active": "ffe274211cc49278",
   "lastOpenFiles": [
-    "Vision 2020.md",
     "Blindness.md",
+    "Vision 2020.md",
     "Untitled.md",
     "NCCP.md",
     "IMG_2186.jpeg",
