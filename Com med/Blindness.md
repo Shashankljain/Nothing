@@ -32,7 +32,8 @@ According to the National Survey on Blindness (2015–19), the prevalence of bli
 
 The **ultimate goal** of the program is to reduce the prevalence of blindness to **0.3%**.
 
-**Core Objectives:** ★ Important Exam Point
+**Core Objectives:** ★ Important Exam Point 
+(HARIS)
 
 1. **Reduce Backlog:** ==Identify== and ==treat== blind persons to clear the existing backlog of curable blindness.
 2. **Institutional Capacity:** Develop and strengthen eye care infrastructure at primary, secondary, and tertiary levels.
@@ -44,7 +45,7 @@ The **ultimate goal** of the program is to reduce the prevalence of blindness 
 
 ### **III. Strategy: The 4-Tier Infrastructure (Vision 2020)**
 
-Adopted by India in 2004, **Vision 2020: The Right to Sight** is a global initiative to eliminate avoidable blindness by the year 2020. It operates through a 4-tier system:
+Adopted by India in 2004, **Vision 2020: The Right to Sight** is a global initiative to ==eliminate== ==avoidable== blindness by the year 2020. It operates through a 4-tier system:
 
 1. **Tier 1: Vision Centres (20,000):** Located at the primary level. They provide refractive services (prescription of glasses), school screening, and primary eye care.
 2. **Tier 2: Service Centres (2,000):** Secondary level (Sub-district/District). They focus on cataract surgery and other common eye surgeries.
