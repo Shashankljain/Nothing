@@ -55,6 +55,7 @@ Adopted by India in 2004, **Vision 2020: The Right to Sight** is a global init
 ---
 
 ### **IV. Major Components and Activities**
+![[Pasted image 20260814124256.jpg]]
 
 #### **1. Cataract Surgery**
 
