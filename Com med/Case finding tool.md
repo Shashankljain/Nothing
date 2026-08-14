@@ -42,7 +42,7 @@ A pulmonary TB suspect should submit **two sputum samples**.
 
 ### **II. Modern Upfront Tool: Rapid Molecular Tests (NAAT)**
 
-The program has shifted to offering **upfront Nucleic Acid Amplification Testing (NAAT)**, such as **CBNAAT (GeneXpert)** or **Truenat**, for prioritized groups (PLHIV, children, extra-pulmonary cases, and smear-negative suspects).
+The program has shifted to offering **upfront Nucleic Acid Amplification Testing (NAAT)**, such as **CBNAAT (GeneXpert)** or **Truenat**, for ==prioritized groups== (PLHIV, children, extra-pulmonary cases, and smear-negative suspects).
 
 - **Function:** It detects DNA sequences specific to _M. tuberculosis_ and tests for **Rifampicin resistance**simultaneously.
 - **Turnaround Time:** Results are available in approximately 90 minutes.
