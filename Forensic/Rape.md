@@ -8,7 +8,7 @@ For an MBBS student, the topic of **Rape** is a critical component of Forensic
 **Definition (Section 63 BNS, 2023)** A man is said to commit rape if he penetrates his penis, or any object/body part, into the **vagina, oral cavity, anal canal, or urethra** of a woman, or makes her do so with him or another person, under specific circumstances.
 
 **The Seven Conditions of Rape** Under Section 63 BNS, an act is considered rape if it occurs under any of these conditions:
-
+==(I IDC WAU)==
 1. **Against her will.**
 2. **Without her consent.**
 3. **Consent obtained by fear:** Putting her or someone she cares about in fear of death or hurt.
