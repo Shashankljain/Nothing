@@ -37,11 +37,17 @@ For an MBBS student, the topic of **Rape** is a critical component of Forensic
 ---
 
 ### **Recent Amendments and Legal Concepts**
+**Major Recent Amendments in BNS, 2023**
 
-- **Statutory Rape Age:** If a girl is under **18 years**, her consent is legally irrelevant; the act is always rape.
-- **Deceitful Promise of Marriage:** Section 69 BNS specifically punishes sexual intercourse by "deceitful means" or false promise of marriage with up to **10 years** of imprisonment.
-- **Presumption of Absence of Consent (Section 120 BSA):** If the victim states in her evidence before the court that she did not consent, the court **shall presume** that she did not consent.
-- **The "Two-Finger Test" Ban:** Conducting the "two-finger test" to assess vaginal laxity is strictly prohibited and is considered **professional misconduct**.
+★ **Important Exam Point: The sections for rape have changed from IPC 375/376 to BNS 63/64****.**
+
+|**Change/Amendment**|**Description**|
+|---|---|
+|**Section Consolidation**|Unnatural sexual offences (formerly IPC 377) have been largely deleted or integrated into the broader definition of rape under BNS 63.|
+|**False Promise of Marriage**|**Section 69 BNS** now specifically punishes sexual intercourse by "deceitful means" or a false promise of marriage with up to 10 years of imprisonment.|
+|**Statutory Age**|The minimum age for valid sexual consent remains **18 years**; any act below this age is rape regardless of consent.|
+|**Aggravated Punishment**|Introduction of the death penalty for the rape of a girl **under 12 years** and for certain **gang rape** cases.|
+|**Vegetative State**|**Section 66 BNS** provides for 20 years to life imprisonment or death if the rape causes the victim to be in a persistent vegetative state.|
 
 ---
 
