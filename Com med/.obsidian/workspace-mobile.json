@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NCCP.md",
+                "file": "Blindness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NCCP"
+              "title": "Blindness"
             }
           }
         ],
@@ -173,6 +173,7 @@
   },
   "active": "d32cb6320a55a412",
   "lastOpenFiles": [
+    "NCCP.md",
     "IMG_2186.jpeg",
     "NRHM.md",
     "Pasted image 20260814111031.png",
@@ -192,7 +193,6 @@
     "Malaria.md",
     "NVBDCP.md",
     "Pasted image 20260813153017.png",
-    "Pasted image 20260813152947.jpg",
     "RNTCP.md",
     "IDSP.md",
     "Arsh.md",
