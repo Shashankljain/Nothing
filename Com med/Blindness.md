@@ -34,7 +34,7 @@ The **ultimate goal** of the program is to reduce the prevalence of blindness 
 
 **Core Objectives:** ★ Important Exam Point
 
-1. **Reduce Backlog:** Identify and treat blind persons to clear the existing backlog of curable blindness.
+1. **Reduce Backlog:** ==Identify== and ==treat== blind persons to clear the existing backlog of curable blindness.
 2. **Institutional Capacity:** Develop and strengthen eye care infrastructure at primary, secondary, and tertiary levels.
 3. **Human Resource Development:** Train eye surgeons, ophthalmic assistants, and other personnel.
 4. **Awareness:** Enhance community awareness regarding eye care and reduce the stress on preventive measures.
