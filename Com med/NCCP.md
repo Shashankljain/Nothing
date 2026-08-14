@@ -44,7 +44,7 @@ The ultimate goal is to reduce the ==burden of cancer== by preventing its occurr
 ---
 
 ### **IV. Strategy and Components**
-![[Pasted image 20260716102241.png]]
+![[IMG_2186.jpeg]]
 
 
 ### **V. Cancer Screening Strategies** ★ Important Exam Point
