@@ -63,7 +63,7 @@ This is your **3-week balanced preparation to-do list** (July 30 – August 19, 
     - [ ] **FM (Easy):** Ch 24: General Toxicology — *Focus: Gastric Lavage & Duties of Doctor* [18]
 - [ ] **Aug 14**
     - [ ] **FM (Lengthy):** Ch 25: Agricultural Poisons — *Focus: Organophosphate Poisoning (RS4)* [18]
-    - [ ] **CM (Easy):** Ch 21: Health Info & Statistics — *Focus: Mean, Median, Standard Deviation* [1]
+    - [x] **CM (Easy):** Ch 21: Health Info & Statistics — *Focus: Mean, Median, Standard Deviation* [1]
 - [ ] **Aug 15**
     - [ ] **CM (Lengthy):** Ch 8: Demography & Family Planning — *Focus: Contraceptive methods* [1]
     - [ ] **FM (Easy):** Ch 11: Thermal Deaths — *Focus: Rule of 9 & Scalds* [10, 17]
