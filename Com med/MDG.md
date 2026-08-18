@@ -8,7 +8,7 @@ These goals represented a global commitment to ==reduce poverty and hunger==, an
 ### **I. The Eight Millennium Development Goals** ★ Important Exam Point
 
 To remember these, use the mnemonic: **"P-E-G-C-M-D-E-D"**
-
+(PEG COMMANDED)
 1. **P** – Eradicate extreme **P**overty and hunger.
 2. **E** – Achieve universal primary **E**ducation.
 3. **G** – Promote **G**ender equality and empower women.
@@ -32,7 +32,7 @@ In India, the progress towards MDGs was "impressive in many ways," yet many targ
 - **Indicators Used:** Under-five mortality rate, Infant mortality rate (IMR), and proportion of 1-year-old children immunized against measles.
 - **India's Achievement:**
     - India saw a significant decline in mortality. By 2020, the national IMR dropped to **28 per 1,000 live births**.
-    - **The Disparity Gap:** A critical analysis reveals sharp regional inequalities. For instance, **Kerala** achieved an IMR of **6**, which is comparable to developed nations, while the national average lagged at 28.
+    - **The ==Disparity Gap==:** A critical analysis reveals sharp regional inequalities. For instance, **Kerala** achieved an IMR of **6**, which is comparable to developed nations, while the national average lagged at 28.
     - **Tribal Health:** Tribal children (Scheduled Tribes) still face a higher burden, with an IMR of **41.7** and a U5MR of **50.3**, significantly higher than the general population.
     - **Success Story:** The **Universal Immunization Programme (UIP)** and **Pulse Polio** (India was declared polio-free in 2014) were major drivers of success in reducing child deaths.
 

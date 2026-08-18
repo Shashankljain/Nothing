@@ -39,13 +39,13 @@ This is your **3-week balanced preparation to-do list** (July 30 – August 19, 
     - [x] **FM (Easy):** Ch 7: Postmortem Changes — *Focus: Rigor Mortis & Adipocere* [11, 12]
 - [ ] **Aug 08**
     - [x] **FM (Lengthy):** Ch 13: Mechanical Asphyxia — *Focus: Hanging vs. Strangulation & Drowning* [10, 13]
-    - [ ] **CM (Easy):** Ch 14: Sustainable Development Goals (MDGs) [1]
+    - [x] **CM (Easy):** Ch 14: Sustainable Development Goals (MDGs) [1]
 - [ ] **Aug 09**
     - [ ] **CM (Lengthy):** Ch 5: Comm. Diseases (Arthropod/Zoonotic) — *Focus: Malaria & Dengue Control* [1]
     - [x] **FM (Easy):** Ch 21: Artefacts; Ch 22: Forensic Science Lab [14]
 - [ ] **Aug 10**
     - [x] **FM (Lengthy):** Ch 18: Sexual Offences — *Focus: Rape (Sec 375 IPC) & POCSO (RS4)* [15, 16]
-    - [ ] **CM (Easy):** Ch 20: Mental Health — *Focus: Warning signs of poor mental health* [1]
+    - [x] **CM (Easy):** Ch 20: Mental Health — *Focus: Warning signs of poor mental health* [1]
 - [ ] **Aug 11**
     - [x] **CM (Lengthy):** Ch 7: Health Programs in India — *Focus: NHM & RCH Objectives* [1]
     - [ ] **FM (Easy):** Ch 9: Regional Injuries — *Focus: Skull Fractures* [17]

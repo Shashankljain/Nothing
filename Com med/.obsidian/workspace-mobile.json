@@ -110,7 +110,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "NRHM.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,10 +167,13 @@
   },
   "active": "ffe274211cc49278",
   "lastOpenFiles": [
+    "2.md",
+    "MDG.md",
+    "SDG.md",
+    "Untitled.md",
     "Blindness.md",
     "Vision 2020.md",
     "Pasted image 20260814124256.jpg",
-    "Untitled.md",
     "NCCP.md",
     "IMG_2186.jpeg",
     "NRHM.md",
@@ -202,8 +204,6 @@
     "RCH.canvas",
     "FP, FN.md",
     "Lead time.md",
-    "Screening vs diagnostic.md",
-    "Screening test.md",
     "Untitled.base",
     "BGS Road 9.m4a",
     "Untitled.canvas",
