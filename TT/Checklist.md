@@ -69,7 +69,7 @@ This is your **3-week balanced preparation to-do list** (July 30 – August 19, 
     - [ ] **FM (Easy):** Ch 11: Thermal Deaths — *Focus: Rule of 9 & Scalds* [10, 17]
 - [ ] **Aug 16**
     - [ ] **FM (Lengthy):** Ch 27: Metallic Poisons — *Focus: Lead (Plumbism) & Arsenic (RS4)* [19]
-    - [ ] **CM (Easy):** Ch 22: Comm.; Ch 23: Health Planning [1]
+    - [x] **CM (Easy):** Ch 22: Comm.; Ch 23: Health Planning [1]
 - [ ] **Aug 17**
     - [ ] **CM (Lengthy):** Ch 10: Health Care of the Community — *Focus: PHC Functions & ASHA* [1]
     - [ ] **FM (Easy):** Ch 32: Deliriant Poisons — *Focus: Datura & Cannabis* [20]
