@@ -39,7 +39,8 @@ Forensically and legally, surrogacy is classified into two primary types based o
 
 #### **I. Surrogacy (Regulation) Act, 2021 & 2022**
 
-This is the principal legislation governing surrogacy in India. It lays down strict eligibility and penalty frameworks [Marrow Ed 8, Page 136, 137]:
+This is the principal legislation governing surrogacy in India. 
+It lays down strict ==eligibility== and ==penalty== frameworks [Marrow Ed 8, Page 136, 137]:
 
 ##### **1. Eligibility Criteria for the Intending Couple**
 
@@ -123,72 +124,4 @@ Husband's Sperm + Wife's Ovum     Donor's Sperm + Wife's Ovum       Donor's Sper
 
 ---
 
-### **Viva Questions & Model Answers**
-
-**Q1: What is the main difference between altruistic and commercial surrogacy?**  
-**Answer:** Altruistic surrogacy involves no monetary payment to the surrogate mother except for direct medical/hospital expenses and 3 years of health insurance [Marrow Ed 8, Page 136]. Commercial surrogacy involves paying the surrogate mother a fee or buying/selling the child, which is strictly banned in India [Marrow Ed 8, Page 136].
-
-**Q2: What is the age limit for a surrogate mother in India?**  
-**Answer:** The surrogate mother must be married, a close relative of the couple, have at least one healthy child of her own, and be between **25 to 35 years** of age [Marrow Ed 8, Page 136, 137].
-
-**Q3: Can an NRI (Non-Resident Indian) or a live-in couple opt for surrogacy in India?**  
-**Answer:** No. Under the Surrogacy Regulation Act, live-in couples, NRIs, and foreign nationals are strictly **not eligible**for surrogacy arrangements in India [Marrow Ed 8, Page 137].
-
----
-
-### **Common Mistakes Students Make**
-
-- **Writing that Commercial Surrogacy is legal:** Students often confuse past laws with current ones. Under the 2021/2022 Acts, **commercial surrogacy is 100% illegal** [Marrow Ed 8, Page 136].
-- **Confusing Age Limits:** Mixing up the age limits of the intending couple (Female: 23–50 yrs, Male: 26–55 yrs) with that of the surrogate mother (25–35 yrs) [Marrow Ed 8, Page 136, 137].
-- **Forgetting the Relational Clause:** Failing to mention that the surrogate mother **must be a close relative** of the intending couple [Marrow Ed 8, Page 137].
-
----
-
-### **Mnemonics**
-
-#### **Surrogate Mother's Criteria: M-A-R-C**
-
-- **M** - **M**arried with at least one healthy child [Marrow Ed 8, Page 136].
-- **A** - **A**ge between **25 to 35 years** [Marrow Ed 8, Page 136].
-- **R** - **R**elative (must be a **close relative** of the couple) [Marrow Ed 8, Page 137].
-- **C** - **C**an only act as a surrogate **once** in her lifetime [Marrow Ed 8, Page 137].
-
----
-
-### **End With: One-Page University Exam Summary**
-
-- **Definition:** Carrying a pregnancy for another infertile couple [Marrow Ed 8, Page 136].
-- **Permitted Type:** Altruistic surrogacy only (no monetary payment, max 3 attempts, 3 years insurance) [Marrow Ed 8, Page 136].
-- **Banned Type:** Commercial surrogacy (punishable with 10 years imprisonment and 10 lakhs fine) [Marrow Ed 8, Page 136, 137].
-- **Intending Couple:** Married Indian couple (>5 years infertility), Female: 23-50 yrs, Male: 26-55 yrs [Marrow Ed 8, Page 137].
-- **Surrogate Mother:** Close relative, married, has 1 healthy child, 25-35 yrs, only once in a lifetime [Marrow Ed 8, Page 137].
-- **BNS Application:** **Section 93 BNS** applies if the couple abandons the child [Marrow Ed 8, Page 137].
-- **BSA Application:** **Section 116 BSA** protects the child's legitimacy [Marrow Ed 8, Page 137].
-
----
-
-### **Model University Answers**
-
-#### **2 Marks: Define Altruistic Surrogacy.**
-
-Altruistic surrogacy is a legal surrogacy arrangement where the surrogate mother receives no monetary compensation or financial gain [Marrow Ed 8, Page 136]. The intending couple is only permitted to pay for her actual medical/hospitalization expenses, complications, and provide health insurance for up to 3 years [Marrow Ed 8, Page 136]. It is the only form of surrogacy permitted in India [Marrow Ed 8, Page 136].
-
-#### **5 Marks: Discuss the eligibility criteria for a surrogate mother under the Surrogacy Regulation Act.**
-
-_(List the 5 essential eligibility criteria: relationship [close relative], age [25–35 years], marital status [married with at least 1 healthy child], frequency [only once in a lifetime], and fitness [certified mentally and physically fit] [Marrow Ed 8, Page 136, 137].)_
-
-#### **10 Marks: Write an exam-oriented essay on Surrogacy, its types, clinical modes, and medico-legal aspects in India.**
-
-1. **Introduction & Definition:** Define surrogacy and differentiate between Altruistic (legal) and Commercial (banned) surrogacy [Marrow Ed 8, Page 136].
-2. **Biological Modes:** Explain the three clinical modes of surrogacy (using Sperm and Ovum variations) [Marrow Ed 8, Page 137].
-3. **Surrogacy Regulation Act Criteria:**
-    - Detail the criteria for the **Intending Couple** [Marrow Ed 8, Page 137].
-    - Detail the criteria for the **Surrogate Mother** [Marrow Ed 8, Page 136, 137].
-4. **Medico-legal & Forensic Importance:**
-    - Presumption of Legitimacy under **Section 116 BSA, 2023** [Marrow Ed 8, Page 137].
-    - Child abandonment under **Section 93 BNS, 2023** [Marrow Ed 8, Page 137].
-5. **Penalties & Punishments:** Outline the punishments for commercial surrogacy, general violations, and the cancellation of a doctor's registration [Marrow Ed 8, Page 137].
-
----
-
-🧠 _I can generate an interactive quiz testing your knowledge on different parts of Medical Jurisprudence (Consent, MTP, PCPNDT, and Surrogacy Acts) to help you practice before your exam._
+._
