@@ -30,9 +30,23 @@
               "icon": "lucide-file",
               "title": "AI"
             }
+          },
+          {
+            "id": "7fe4f1317e992395",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +139,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "AI.md",
+            "file": "Untitled 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -179,10 +193,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "13c973efb69ca882",
+  "active": "7fe4f1317e992395",
   "lastOpenFiles": [
-    "image 30.jpg",
+    "Untitled 1.md",
     "AI.md",
+    "image 30.jpg",
     "Starvation.md",
     "Heat stroke.md",
     "image 29.jpg",
@@ -204,7 +219,6 @@
     "Pasted image 20260819222254.png",
     "Pasted image 20260819215615.png",
     "Pasted image 20260819215544.png",
-    "Pasted image 20260819215035.png",
     "Voyeurism.md",
     "Sadism.md",
     "Bestiality.md",
