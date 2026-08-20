@@ -26,7 +26,7 @@
 - **Heat Transfer:** Moist heat transfers thermal energy to the skin, causing **coagulative necrosis** of the epidermal and dermal cells34.
 - **Gravity-Dependent Flow (Dripping):** Liquids naturally flow downward under the influence of gravity [Image 5]. Hence, scald injuries show a **"trickle mark" or "dripping pattern"** pointing downwards, indicating the direction of liquid flow56.
 - **Role of Clothing:** Scalding can occur through clothes [Image 5]. Clothes actually **worsen the damage** because they absorb and retain the boiling liquid against the skin, prolonging thermal contact and preventing rapid cooling [Image 5].
-
+![[Pasted image 20260820103210.png]]
 ---
 
 **Clinical Features & Local Examination Findings**
