@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,7 +199,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Scalds.md",
+            "file": "Dry vs moist vs chemical burns.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -253,10 +253,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "5761bf129626a9c7",
+  "active": "2962a3157488cc6f",
   "lastOpenFiles": [
-    "Pasted image 20260820103210.png",
     "Scalds.md",
+    "Pasted image 20260820103210.png",
     "Joule burns.md",
     "Thermal deaths.md",
     "Dry vs moist vs chemical burns.md",
@@ -285,7 +285,6 @@
     "Rape.md",
     "image 25.jpg",
     "image 24.jpg",
-    "Pasted image 20260814155500.png",
     "Bloodless dissection.md",
     "Café coronary syndrome.md",
     "Lynching.md",
