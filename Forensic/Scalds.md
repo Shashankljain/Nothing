@@ -6,8 +6,8 @@
 - Unlike dry burns caused by flames, scalds do ==not== involve actual combustion or charring of tissue [Image 5].
 - The severity of a scald is primarily determined by the 
 1. **==temperature of the liquid==**, 
-2. the **duration of contact**, and 
-3. **surface area** involved.
+2. the **==duration of contact==**, and 
+3. **==surface area==** involved.
 - A minimum temperature of $44^\circ\text{C}$ **for 5–6 hours** is required to cause tissue damage, while hot liquids at $60^\circ\text{C}$ cause immediate tissue injury, and $70^\circ\text{C}$ causes a full-thickness scald [Image 5].
 
 ---
@@ -17,9 +17,9 @@
 **Etiology (Causes)**
 
 1. **Hot Water:** Most common cause in domestic settings (cooking accidents, bathing).
-2. **Hot Oils/Fats:** Produce deeper and more severe injuries than water because oil has a higher boiling point and adheres tenaciously to the skin.
+2. **Hot Oils/Fats:** Produce deeper and more severe injuries than water because oil has a ==higher== boiling point and ==adheres== tenaciously to the skin.
 3. **Steam:** Causes severe, deep scalds, often involving the respiratory tract if inhaled.
-4. **Molten Tar/Asphalt:** Adheres tightly to the skin, causing prolonged heat transfer and deep tissue destruction.
+4. **Molten Tar/Asphalt:** Adheres ==tightly== to the skin, causing ==prolonged heat transfer== and ==deep tissue destruction==.
 
 **Mechanism of Injury**
 
