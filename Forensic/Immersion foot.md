@@ -3,7 +3,7 @@
 
 #### **Definition**
 
-**Immersion Foot** (classically known as **Trench Foot**) is a localized, non-freezing cold injury produced by prolonged exposure of the feet to **moist cold** (water, mud, or damp socks) at temperatures ranging between **\(5^\circ\text{C}\) to \(8^\circ\text{C}\)**.
+**Immersion Foot** (classically known as **Trench Foot**) is a ==localized==, ==non-freezing cold injury== produced by prolonged exposure of the feet to **moist cold** (water, mud, or damp socks) at temperatures ranging between **5 to 8 degree celcus**.
 
 #### **Introduction & Historical Background**
 
