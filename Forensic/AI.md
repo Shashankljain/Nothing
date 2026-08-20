@@ -80,3 +80,34 @@ The forensic and legal implications of artificial insemination are extensive and
 - **Sex selection is strictly prohibited** and legally punishable.
 
 ---
+
+**Precautions to be Taken by the Doctor** ⚠️
+
+When conducting Artificial Insemination (especially **AI-Donor**), the doctor must adhere to strict clinical, ethical, and legal safeguards to avoid catastrophic legal disputes or professional misconduct charges.
+
+As detailed in **FMT Marrow Page 136 (Impotence, Virginity & Delivery)**, the primary precautions are:
+
+**1. Consent Requirements**
+
+- ★ **Important Exam Point (The Signature Rule):**
+    - For **AI-Homologous (AIH)**, written informed consent must be obtained from **both the Husband and Wife**.
+    - For **AI-Donor (AID)**, written informed consent is absolutely mandatory from **four parties**: the **Wife**, the **Husband**, the **Semen Donor**, and the **Donor's Wife**. The consent of the donor's wife is essential to prevent future disputes regarding matrimonial discord or inheritance claims.
+
+**2. Donor Selection & Health Screening**
+
+- **Physical & Mental Health:** The donor must be thoroughly screened and certified as **mentally and physically healthy**.
+- **Age Limit:** The donor must be young, with **no risk of genetic disease**, and his age must be **under 40 years**.
+- **Consanguinity Exclusion:** The donor must **not be a relative** of either spouse to prevent congenital and genetic abnormalities in the offspring.
+
+**3. Biological & Phenotypic Matching**
+
+- **Race & Physical Characteristics:** The donor’s race, complexion, and physical characteristics must **resemble the husband's** as closely as possible to maintain familial harmony and avoid suspicion regarding the child's origin.
+- **Blood Group Matching:** The donor’s **blood group must be the same as the husband’s** (or compatible) to prevent Rh incompatibility issues and to maintain the legal presumption of the husband's paternity.
+
+**4. Limiting Offspring (Avoiding Incest Risk)**
+
+- ★ **Important Exam Point (The Single Donor Cap):** Semen from a **single donor must be used to produce a maximum of 10 children**. Exceeding this number increases the risk of accidental consanguineous marriages (incest) among half-siblings in the future.
+
+**5. Professional Boundaries (Role Segregation)**
+
+- **Obstetric Care Restriction:** The **physician administering the artificial insemination must not deliver the child**. The delivery must be handled by another independent obstetrician to prevent allegations of fraud, conflict of interest, or illegal paternity claims against the inseminating doctor.
