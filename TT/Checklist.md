@@ -66,7 +66,7 @@ This is your **3-week balanced preparation to-do list** (July 30 – August 19, 
     - [x] **CM (Easy):** Ch 21: Health Info & Statistics — *Focus: Mean, Median, Standard Deviation* [1]
 - [ ] **Aug 15**
     - [ ] **CM (Lengthy):** Ch 8: Demography & Family Planning — *Focus: Contraceptive methods* [1]
-    - [ ] **FM (Easy):** Ch 11: Thermal Deaths — *Focus: Rule of 9 & Scalds* [10, 17]
+    - [x] **FM (Easy):** Ch 11: Thermal Deaths — *Focus: Rule of 9 & Scalds* [10, 17]
 - [ ] **Aug 16**
     - [ ] **FM (Lengthy):** Ch 27: Metallic Poisons — *Focus: Lead (Plumbism) & Arsenic (RS4)* [19]
     - [x] **CM (Easy):** Ch 22: Comm.; Ch 23: Health Planning [1]
