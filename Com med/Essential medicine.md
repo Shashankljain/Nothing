@@ -40,7 +40,7 @@ The NLEM is divided according to the level of healthcare because treatment facil
 ### **IV. Criteria for Inclusion of a Drug in NLEM** ★ Important Exam Point
 
 For a drug to be included in the NLEM, it must satisfy the following strict criteria:
-## AsPECTS
+## AsPECTS TSH
 
 ```
 										[Approved/Licensed in India] ──> [Useful for Public Health Problems] ──>.            [Proven Efficacy & Safety]                                                                           │
@@ -58,55 +58,3 @@ For a drug to be included in the NLEM, it must satisfy the following strict crit
 9. **Healthcare Level Fit:** It must align with the appropriate level of healthcare (Primary, Secondary, Tertiary).
 
 ---
-
-### **V. Public Health and Global Significance**
-
-- **Right to Health:** The United Nations Committee on Economic, Social and Cultural Rights identifies the supply of essential drugs as a "core content" of the minimum essential level of the right to health.
-- **Sustainable Development Goals (SDG Target 3.8):** Commits nations to achieving universal health coverage, including access to safe, effective, quality, and affordable essential medicines and vaccines for all.
-- **TRIPS and Public Health (Doha Declaration):** Affirms that developing nations have the flexibility to protect public health and ensure "access to medicines for all".
-
----
-
-### **High-Yield Exam Points** ★
-
-- **NLEM revisions:** Note down the years **1996, 2003, 2011, 2015, and 2022**.
-- **Levels of Care:** Memorize the **P, S, and T (Primary, Secondary, Tertiary)** categorization.
-- **FDC Inclusion Policy:** FDCs are excluded by default unless they show clear clinical advantages in efficacy, safety, or compliance over individual drugs.
-- **Core Content:** Remember that access to essential drugs is a fundamental component of the **Right to Health**.
-
----
-
-### **Frequently Asked Viva Questions**
-
-- **Q: What is the main difference between NLEM and the WHO Model List of Essential Medicines?**
-    - **A:** While India adopts the WHO concept, the NLEM is customized to India's unique disease burden, national health programmes, and domestic clinical circumstances.
-- **Q: Why does NLEM categorize drugs by Primary, Secondary, and Tertiary levels?**
-    - **A:** Because diagnostic facilities, provider training, and healthcare infrastructure differ across these three tiers of the health system.
-- **Q: Why does the inclusion criteria look at "Total Treatment Cost" instead of "Unit Price"?**
-    - **A:** A drug might have a cheap unit cost but require a long duration of treatment or complex monitoring, making the overall therapy more expensive than a drug with a higher unit price but shorter treatment duration.
-
----
-
-### **Common Mistakes Students Make**
-
-- **Writing that essential medicines are "cheap" drugs:** Essential medicines must be _affordable_, but they are not selected simply because they are cheap; they must have proven safety and efficacy.
-- **Confusing NLEM with a static, unchangeable list:** Students often forget that it is dynamically revised (such as the inclusion of COVID-19 management drugs in the 2022 list) to match evolving epidemiological profiles.
-- **Forgetting the FDC exception rule:** Stating that FDCs are completely banned from the list. They can be included if they show verified clinical superiority over loose drugs.
-
----
-
-### **Mnemonic to Remember the Criteria for Inclusion in NLEM**
-
-> **"A-P-E-C-A-S-T"**
-
-- **A** – **A**pproved and licensed in India
-- **P** – **P**ublic health relevance (treats domestic health problems)
-- **E** – **E**fficacy and safety profile proven
-- **C** – **C**ost-effective (based on total treatment cost)
-- **A** – **A**ligned with current treatment guidelines
-- **S** – **S**table under Indian storage conditions
-- **T** – **T**iered healthcare alignment (Primary, Secondary, Tertiary level of care)
-
----
-
-📊 I can generate a comparison chart of the key differences in criteria and management between essential medicines and non-essential/specialised drugs under the NLEM.
