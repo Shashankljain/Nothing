@@ -45,8 +45,7 @@
               "title": "Counterfeit medicines"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +194,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "70cba6ea231fb06b",
+  "active": "ffe274211cc49278",
   "lastOpenFiles": [
     "Counterfeit medicines.md",
     "Essential medicine.md",
