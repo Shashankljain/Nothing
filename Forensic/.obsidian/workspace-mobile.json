@@ -103,7 +103,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Narcoana",
+            "query": "Toxicology ",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -220,8 +220,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "b4686cb0ba84ee8c",
+  "active": "5fc7af29faf6d414",
   "lastOpenFiles": [
+    "Toxicology.md",
     "Laws.md",
     "Pattered injuries.md",
     "Puppes rule.md",
@@ -256,7 +257,6 @@
     "Pasted image 20260819215544.png",
     "Voyeurism.md",
     "Sadism.md",
-    "Bestiality.md",
-    "Tribadism.md"
+    "Bestiality.md"
   ]
 }

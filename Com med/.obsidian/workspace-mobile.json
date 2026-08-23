@@ -75,7 +75,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Dots",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -193,7 +193,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "ffe274211cc49278",
+  "active": "12878bf1ee52055f",
   "lastOpenFiles": [
     "ICDS.md",
     "Counterfeit medicines.md",
