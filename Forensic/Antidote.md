@@ -36,17 +36,17 @@ Antidotes are systematically classified into four main categories based on their
 
 #### **1. Mechanical or Physical Antidotes** 🛡️
 
-These substances neutralize the poison purely by mechanical action—either by adsorbing the toxin onto their surface or by coating the stomach wall to prevent absorption into the bloodstream.
+These substances neutralize the poison purely by ==mechanical== ==action==—either by ==adsorbing== the toxin onto their surface or by ==coating== the stomach wall to prevent absorption into the bloodstream.
 
-- **Multiple-dose Activated Charcoal (MDAC):** A fine, black, odorless powder produced by destructive distillation of wood pulp.
-    - _Mechanism:_ It acts mechanically by adsorbing and retaining toxins within its highly porous network, creating a charcoal-toxin complex that is excreted safely in the stool.
+1. **Multiple-dose Activated Charcoal (MDAC):** A fine, black, odorless powder produced by ==destructive distillation== of wood pulp.
+    - _Mechanism:_ It acts mechanically by adsorbing and retaining toxins within its highly porous network, creating a ==charcoal-toxin complex== that is excreted safely in the stool.
     - _Dose:_ \(0.5\text{ to }1\text{ g/kg}\) of body weight (usually \(40\text{ to }80\text{ g}\) mixed with \(200\text{ mL}\) of water to form a soup-like suspension).
-    - _Uses:_ Highly effective for alkaloids (strychnine, morphine, atropine, nicotine), phenobarbital, salicylates, and paracetamol.
+    - _Uses:_ Highly effective for ==alkaloids== (strychnine, morphine, atropine, nicotine), phenobarbital, salicylates, and paracetamol.
     - _Limitations:_ Does not bind well to highly ionized chemicals such as mineral acids, alkalis, iron, lithium, or alcohol.
-- **Demulcents:** Substances that form a protective coating over the gastric mucous membrane to prevent the absorption of irritant or corrosive poisons.
+2. -**Demulcents:** Substances that form a protective coating over the gastric mucous membrane to prevent the absorption of irritant or corrosive poisons.
     - _Examples:_ Milk, egg-white (albumin), starch water, mineral oil, and aluminum hydroxide gel.
     - _Contraindications:_ **Fats and oils must never be used** for oil-soluble/lipophilic poisons (such as phosphorus, organophosphates, kerosene, phenol, turpentine, or aniline) because they will dissolve the poison and _accelerate_ its absorption.
-- **Bulky Foods:** Foodstuffs that mechanically imprison sharp particles within their meshwork.
+3. -**Bulky Foods:** Foodstuffs that mechanically imprison sharp particles within their meshwork.
     - _Example:_ Eating mashed potatoes or bulky vegetables can trap ingested **glass powder** or small sharp foreign bodies, preventing them from perforating the gut wall.
 
 ---
