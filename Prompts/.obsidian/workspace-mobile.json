@@ -45,8 +45,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,7 +61,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -137,7 +138,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Com med.md",
+            "file": "Forensic.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -191,7 +192,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "97df13313f38017e",
+  "active": "57dfcc87943ac2e7",
   "lastOpenFiles": [
     "Singi.md",
     "Com med.md",
