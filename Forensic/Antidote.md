@@ -108,7 +108,7 @@ Chelating agents are specialized chemical antidotes that bind with ==heavy metal
 
 ##### **A. BAL (British Anti-Lewisite / Dimercaprol)**
 
-- **Mechanism:** Contains two unsaturated sulfhydryl (\(-\text{SH}\)) groups that compete with cellular enzymes for binding heavy metals, preventing mitochondrial respiratory blockade.
+- **Mechanism:** Contains ==two== unsaturated sulfhydryl (\(-\text{SH}\)) groups that compete with ==cellular enzymes== for binding heavy metals, preventing **mitochondrial respiratory blockade**.
 - **Route:** Intramuscular (IM) injection only (formulated in a viscous peanut/arachis oil base).
 - **Indications:** Acute poisoning by **Arsenic, Lead, Mercury, Copper, Gold, and Bismuth**.
 - **Contraindications:** Absolutely contraindicated in **Iron and Cadmium poisoning** (the BAL-iron or BAL-cadmium complex is highly toxic to the kidneys), liver damage, and **G-6-PD deficiency**.
