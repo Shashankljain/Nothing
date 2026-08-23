@@ -198,7 +198,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "ce99aef3140d3453",
@@ -266,8 +266,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "d4956e83b84f3118",
+  "active": "fa50dfcbbd81332b",
   "lastOpenFiles": [
+    "Forensic/image 31.jpg",
+    "Forensic/Gen toxicology.md",
+    "Forensic/Antidote.md",
     "TT/Lyrics.md",
     "TT/Checklist.md",
     "Lyrics",
@@ -295,10 +298,7 @@
     "Forensic/Unnatural sexual offence.md",
     "Forensic/Sodomy.md",
     "Forensic/Sodomy in child.md",
-    "Forensic/Rape.md",
-    "Forensic/POCSO.md",
     "Forensic/Pasted image 20260814155500.png",
-    "Forensic/Masochism.md",
     "Forensic/image 25.jpg",
     "Forensic/image 24.jpg",
     "Com med/Pasted image 20260814124256.jpg",
