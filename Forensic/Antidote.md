@@ -3,7 +3,7 @@
 
 #### **Definition**
 
-An **antidote** is defined as any substance that acts specifically to prevent, inhibit, inactivate, counteract, reverse, or relieve the action or poisonous effects of a toxic agent. They are therapeutic remedies used to directly counteract the physiological or chemical damage caused by poisons.
+An **antidote** is defined as any substance that acts specifically to ==prevent, inhibit, inactivate, counteract, reverse, or relieve== the action or poisonous effects of a toxic agent. They are therapeutic remedies used to directly counteract the physiological or chemical damage caused by poisons.
 
 #### **Introduction**
 
@@ -30,8 +30,8 @@ Antidotes are systematically classified into four main categories based on their
          ┌───────────────────┬─────────────┴─────────────┬───────────────────┐
          ▼                   ▼                           ▼                   ▼
    [Mechanical]          [Chemical]               [Physiological]      [Chelating Agents]
- (Physical barrier/    (Direct chemical           (Receptor/Systemic    (Heavy metal complex
-    adsorption)          neutralization)              opponents)            formation)
+ (Physical barrier/    (Direct chemical           (Receptor/Systemic    (Heavy                                                                   metal complex
+    adsorption)          neutralization)              opponents)                                                                                    formation)
 ```
 
 #### **1. Mechanical or Physical Antidotes** 🛡️
