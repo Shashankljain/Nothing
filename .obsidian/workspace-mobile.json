@@ -117,8 +117,7 @@
               "title": "Checklist"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +147,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "[\"cssclasses\"]",
+            "query": "Gastric lavage",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -199,7 +198,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "ce99aef3140d3453",
@@ -267,7 +266,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "fa50dfcbbd81332b",
+  "active": "d4956e83b84f3118",
   "lastOpenFiles": [
     "TT/Lyrics.md",
     "TT/Checklist.md",
