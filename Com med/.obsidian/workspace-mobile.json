@@ -138,7 +138,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Counterfeit medicines.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -196,6 +195,7 @@
   },
   "active": "ffe274211cc49278",
   "lastOpenFiles": [
+    "ICDS.md",
     "Counterfeit medicines.md",
     "Essential medicine.md",
     "2.md",
@@ -226,7 +226,6 @@
     "RNTCP.md",
     "IDSP.md",
     "Arsh.md",
-    "ICDS.md",
     "NSSK.md",
     "RBSK.md",
     "IMNCI.md",
