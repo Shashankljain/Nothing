@@ -53,24 +53,24 @@ These substances neutralize the poison purely by ==mechanical== ==action==—eit
 
 #### **2. Chemical Antidotes** ⚗️
 
-These agents interact directly with the poison in the gastrointestinal tract to chemically neutralize it, convert it into an insoluble harmless compound, or oxidize it into a less toxic form.
+These agents interact directly with the poison in the gastrointestinal tract to chemically neutralize it, convert it into an ==insoluble== ==harmless== compound, or oxidize it into a less toxic form.
 
 - **Potassium Permanganate (\(\text{KMnO}_4\)) (1:5000 solution):** Has powerful oxidizing properties.
     - _Mechanism:_ It oxidizes active alkaloids into inactive compounds.
-    - _Uses:_ Commonly used in gastric lavage for opium (morphine), strychnine, atropine, and barbiturates. The stomach wash must be continued until the returning fluid is a steady **pink color**.
-- **Tannic Acid (4%) or Strong Tea:** Actively precipitates alkaloids and heavy metals.
+    - _Uses:_ Commonly used in gastric lavage for opium (morphine), strychnine, atropine, and barbiturates. The stomach wash must be continued until the returning fluid is a steady **==pink== color**.
+- **Tannic Acid (4%) or Strong Tea:** Actively ==precipitates== alkaloids and heavy metals.
     - _Uses:_ Used to precipitate and neutralize alkaloids, lead, silver, aluminum, cobalt, and copper.
 - **Dilute Alkalis (e.g., Milk of Magnesia):** Neutralize strong corrosive acids in the stomach.
-    - _★ Important Exam Point:_ **Alkaline carbonates or bicarbonates must not be given** to neutralize acids because they liberate massive amounts of Carbon Dioxide (\(\text{CO}_2\)) gas, which can cause sudden **stomach rupture** due to rapid distension. Use non-gas-producing agents like magnesium hydroxide or milk.
-- **Common Salt (Sodium Chloride - \(\text{NaCl}\)):** Acts by direct chemical precipitation.
+    - _★ Important Exam Point:_ **Alkaline carbonates or bicarbonates must not be given** to neutralize acids because they liberate ==massive amounts of Carbon Dioxide== (\(\text{CO}_2\)) gas, which can cause sudden **stomach rupture** due to rapid distension. Use non-gas-producing agents like magnesium hydroxide or milk.
+- **Common Salt (Sodium Chloride - \(\text{NaCl}\)):** Acts by ==direct chemical precipitation==.
     - _Mechanism:_ Directly reacts with Silver Nitrate (\(\text{AgNO}_3\)) to precipitate it as completely insoluble, harmless Silver Chloride (\(\text{AgCl}\)).
-- **Copper Sulfate (\(\text{CuSO}_4\)):** Historically used to precipitate phosphorus as insoluble copper phosphide, but is **no longer recommended** because copper itself is highly toxic and can cause lethal intravascular hemolysis.
+- **Copper Sulfate (\(\text{CuSO}_4\)):** Historically used to precipitate ==phosphorus== as insoluble **==copper phosphide==**, but is **no longer recommended** because copper itself is highly toxic and can cause lethal intravascular hemolysis.
 
 ---
 
 #### **3. Physiological or Pharmacological Antidotes** 🧠
 
-These agents act systemically _after_ the poison has been absorbed into the circulation. They produce physiological effects that are directly opposite to those of the poison. They can compete for the same receptor (pharmacological antagonist) or act on different pathways to reverse the toxic symptoms (physiological antagonist) [Image 22].
+These agents act ==systemically== **_after_** the poison has been ==absorbed== into the circulation. They produce physiological effects that are directly ==opposite== to those of the poison. They can compete for the ==same receptor== (pharmacological antagonist) or act on ==different== ==pathways== to reverse the toxic symptoms (physiological antagonist) [Image 22].
 
 |**Poison / Toxin**|**Specific Physiological Antidote**|**Mechanism of Action**|
 |:--|:--|:--|
@@ -91,7 +91,8 @@ These agents act systemically _after_ the poison has been absorbed into the ci
 
 #### **4. Chelating Agents (Heavy Metal Antidotes)** 🧲
 
-Chelating agents are specialized chemical antidotes that bind with heavy metal ions via polar groups (such as sulfhydryl \(-\text{SH}\), carbonyl, amino, or hydroxyl groups) to form stable, water-soluble, ring-like ligand complexes that are easily excreted through the kidneys or bile.
+Chelating agents are specialized chemical antidotes that bind with ==heavy metal ions via polar groups== (such as sulfhydryl \(-\text{SH}\), carbonyl, amino, or hydroxyl groups) to form stable, water-soluble, ring-like ligand complexes that are easily excreted through the **==kidneys or bile.==**
+![[image 31.jpg]]
 
 ```
                [Free Heavy Metal Ion (Toxic)] + [Chelator Molecule]
