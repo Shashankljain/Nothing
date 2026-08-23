@@ -122,7 +122,7 @@ Chelating agents are specialized chemical antidotes that bind with ==heavy metal
 
 ##### **C. Penicillamine (Cuprimine)**
 
-- **Mechanism:** Hydrolysis product of penicillin containing a stable \(-\text{SH}\) group.
+- **Mechanism:** Hydrolysis product of ==penicillin containing a stable \(-\text{SH}\) group==.
 - **Route:** Oral.
 - **Indications:** **Copper poisoning**, Lead, and Mercury. Classically used long-term in **Wilson's disease**(hepatolenticular degeneration).
 - **Contraindications:** Contraindicated in patients with penicillin allergy and **Arsenic poisoning**.
