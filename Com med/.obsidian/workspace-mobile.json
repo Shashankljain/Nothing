@@ -11,10 +11,14 @@
             "id": "ffe274211cc49278",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "ICDS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ICDS"
             }
           },
           {
@@ -138,7 +142,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Counterfeit medicines.md",
+            "file": "ICDS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
