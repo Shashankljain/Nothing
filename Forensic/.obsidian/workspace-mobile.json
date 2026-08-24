@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sign,symptoms.md",
+                "file": "Sign,symptoms,complication, tx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sign,symptoms"
+              "title": "Sign,symptoms,complication, tx"
             }
           }
         ],
@@ -139,7 +139,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Sign,symptoms.md",
+            "file": "Sign,symptoms,complication, tx.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
   },
   "active": "7df6c25c970617e7",
   "lastOpenFiles": [
-    "Sign,symptoms.md",
+    "Sign,symptoms,complication, tx.md",
     "Vitriolage.md",
     "Corrosive.md",
     "Chelating agent.md",
