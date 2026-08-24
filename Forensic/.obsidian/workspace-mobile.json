@@ -39,17 +39,16 @@
               "state": {
                 "file": "Sign,symptom,feature,tx.canvas",
                 "viewState": {
-                  "x": 58.36856341423686,
-                  "y": 747.7976101112718,
-                  "zoom": -0.12215871524704891
+                  "x": 747.741068857266,
+                  "y": 2990.8885197188365,
+                  "zoom": -1.0311599922771424
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Sign,symptom,feature,tx"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +141,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Sign,symptom,feature,tx.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -196,10 +194,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "7df6c25c970617e7",
+  "active": "16536b717d7e369d",
   "lastOpenFiles": [
-    "Sign,symptoms,complication, tx.md",
     "Sign,symptom,feature,tx.canvas",
+    "Sign,symptoms,complication, tx.md",
     "Sign,symptoms.md",
     "Vitriolage.md",
     "Corrosive.md",
