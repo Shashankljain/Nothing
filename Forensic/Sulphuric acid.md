@@ -104,7 +104,7 @@
 
 - **Blackish Charring of the Stomach:** The gastric mucosa is intensely blackened and extensively destroyed, presenting a characteristic **"==peppery feel"==** on palpation.
 - **Toxic Swelling:** Spleen, liver, and kidneys are heavily congested and may show toxic swelling.
-- ★ **Important Exam Point: ==The Magenstrasse Effect==:** Ingested liquid acid flows rapidly along the lesser curvature of the stomach (forming a path known as _Magenstrasse_) and pools in the pyloric antrum due to acid-induced pylorospasm. This leads to localized, severe corrosion and **stomach perforation** at the pyloric region.
+- ★ **Important Exam Point: The Magenstrasse Effect:** Ingested liquid acid flows rapidly along the lesser curvature of the stomach (forming a path known as _Magenstrasse_) and pools in the pyloric antrum due to acid-induced pylorospasm. This leads to localized, severe corrosion and **stomach perforation** at the pyloric region.
 - ★ **Incision Protocol:** To preserve and demonstrate this pathognomonic _Magenstrasse_ pathology, the autopsy surgeon must apply double ligatures at the cardiac and pyloric ends, excise the stomach, and **open it strictly along the greater curvature** [31, 333, Image 24].
 
 ```
@@ -136,8 +136,71 @@
 
 ---
 
+### **Clinical Correlation**
 
+👩‍⚕️ **Emergency Casualty Scenario:** A 22-year-old male is brought to the emergency department after accidentally drinking a floor cleaner containing concentrated sulphuric acid, which was stored in a water bottle. He has severe oral burns, **chalky white teeth**, and is vomiting **thick, black, charred fluid**.
 
+- **Clinical Action:** The medical officer secures his airway. He **avoids gastric lavage and emetics** to prevent gastric perforation. He immediately gives the patient a glass of milk to dilute the acid. He starts IV fluids and administers Morphine for excruciating pain. Systemic Prednisolone is initiated to prevent esophageal stricture. Because it is a case of suspected poisoning, the doctor preserves the first vomitus sample and informs the police under **Section 33 BNSS, 2023** [250, Image 22].
+
+---
+
+### **High-Yield Exam Points** 🎓
+
+- ★ **Sulphuric Acid Color:** It is commercially known as "Oil of Vitriol".
+- ★ **Blackish Charring:** Due to extreme dehydration, leaving a **"peppery feel"** in the stomach.
+- ★ **Teeth Sign:** Teeth become **chalky white and brittle**.
+- ★ **Incision Protocol:** Always ligate both ends and open the stomach along the **greater curvature** to preserve the _Magenstrasse_ pathology [31, 333, Image 24].
+- ★ **Preservative of Choice:** **Absolute Alcohol or Rectified Spirit** [333, Image 22].
+
+---
+
+### **Viva Questions & Model Answers**
+
+**Q1: Why are gastric lavage and emetics absolutely contraindicated in Sulphuric Acid poisoning?**  
+**Answer:** Sulphuric acid causes severe, thinned coagulative necrosis of the gastric wall, making the tissues structurally weak. Inserting a lavage tube or forcing vomiting risks immediate, catastrophic esophageal or gastric perforation [269, 331, Image 24].
+
+**Q2: What is the "Magenstrasse" and why does it affect the pylorus?**  
+**Answer:** _Magenstrasse_ is the path along the lesser curvature of the stomach. Ingested liquid acid flows rapidly along this path under gravity and pools in the pyloric antrum, where reactive acid-induced pylorospasm traps the acid, causing localized severe perforation.
+
+**Q3: Can we use Sodium Bicarbonate to neutralize acid in the stomach?**  
+**Answer:** No. Bicarbonate reacts with acid to release massive amounts of \(CO_2\) gas. This gas rapidly distends the weakened stomach, leading to gastric rupture. It also produces exothermic heat, worsening tissue damage.
+
+---
+
+### **Common Mistakes Students Make** ❌
+
+- **Writing "Gastric Lavage" under Treatment:** Students often write lavage as a routine treatment for all poisons. Lavage is **absolutely contraindicated** in \(H_2SO_4\) poisoning [269, 331, Image 24].
+- **Confusing Preservatives:** Preserving the viscera in saturated salt (the default for most poisons) instead of **Absolute Alcohol/Rectified Spirit**, which is the specific standard for inorganic acids [333, Image 22].
+- **Confusing Section 124(1) and 124(2) BNS:** Writing Section 124 BNS generally. Remember: **124(1)** is for the completed act, and **124(2)** is for the attempt [336, Image 24].
+
+---
+
+### **Mnemonics** 🧠
+
+#### **Preservative Contraindications for Rectified Spirit: P-A-P-P-A**
+
+_(For Sulphuric acid, spirit is highly indicated. However, remember the **PAPPA** mnemonic for poisons where spirit is **strictly contraindicated**)_ [42, Image 22]:
+
+- **P** - **P**henol (Carbolic Acid)
+- **A** - **A**lcohols
+- **P** - **P**araldehyde
+- **P** - **P**hosphorus
+- **A** - **A**cetic Acid
+
+---
+
+### **Quick Revision Notes**
+
+1. **Properties:** Colorless, oily, odorless, non-fuming liquid.
+2. **Action:** Intense coagulative necrosis.
+3. **Fatal Dose & Period:** 5-10 mL; 12-18 hours.
+4. **Classic Signs:** Black trickle marks, chalky white brittle teeth, black charred vomitus, profound shock.
+5. **Treatment:** NPO, dilution (milk/water), demulcents, tracheostomy if glottic edema. **NO LAVAGE, NO EMETICS, NO BICARBONATE**.
+6. **Autopsy:** Open along the greater curvature to preserve _Magenstrasse_ pyloric pooling [333, Image 24]. Preserve viscera in **Absolute Alcohol / Rectified Spirit** [333, Image 22].
+
+---
+
+### **Model University Answers** 📝
 
 #### **2 Marks: Define Magenstrasse and its forensic importance.**
 

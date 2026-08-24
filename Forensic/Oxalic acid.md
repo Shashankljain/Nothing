@@ -11,7 +11,7 @@
 
 #### **Introduction**
 
-- **Physical Properties:** It occurs as **colorless, transparent, prismatic crystals** that physically resemble Magnesium Sulfate (\(MgSO_4\)) and Zinc Sulfate (\(ZnCl_2\)).
+- **Physical Properties:** It occurs as **colorless, transparent, ==prismatic crystals==** that physically resemble Magnesium Sulfate (\(MgSO_4\)) and Zinc Sulfate (\(ZnSO4\)).
 - **Natural Sources:** It is a naturally occurring component of plants and is found in high levels in **dark-green leafy vegetables** (e.g., spinach, rhubarb, parsley, beet leaves, and purslane).
 - **Commercial Uses:** It forms soluble chelates with iron, making it highly useful for:
     - Removing bloodstains and rust stains.
@@ -22,7 +22,7 @@
 #### **The "6-W" Analytical Framework** ❓
 
 1. **What?** An organic corrosive poison that causes tissue destruction locally and hypocalcemia and renal failure systemically.
-2. **Why?** Ingested most commonly by accident due to its close physical resemblance to common salts like Epsom salt (\(MgSO_4\)) or sodium bicarbonate.
+2. **Why?** Ingested most commonly by accident due to its close physical resemblance to common salts like ==Epsom salt (\(MgSO_4\)) or sodium bicarbonate.==
 3. **How?** It destroys tissue locally through corrosive action and systemically by **chelating serum calcium**, forming insoluble calcium oxalate crystals that block renal tubules.
 4. **When?** Symptoms manifest immediately (within minutes) in large doses (fulminating form) or over days in chronic/delayed forms.
 5. **Where?** Local damage occurs in the mouth, esophagus, and stomach; systemic effects target the cardiovascular, neuromuscular, and renal systems (specifically the proximal convoluted tubules of the kidneys).
@@ -45,13 +45,13 @@
     blackish stomach mucosa                                │
                                          ┌─────────────────┴─────────────────┐
                                          ▼                                   ▼
-                             [Severe Hypocalcemia]               [Calcium Oxalate Crystals]
+                             [Severe Hypocalcemia]               [Calcium                                                                  Oxalate Crystals]
                                          │                                   │
                                          ▼                                   ▼
-                             [Tetany & Cardiotoxicity]           [PCT Tubule Blockade]
+                             [Tetany & Cardiotoxicity]           [PCT Tubule                                                                         Blockade]
                                          │                                   │
                                          ▼                                   ▼
-                               [Ventricular Fibrillation]         [Acute Renal Failure]
+                               [Ventricular Fibrillation]         [Acute Renal                                                                     Failure]
 ```
 
 1. **Local Corrosive Action:** Causes moderate coagulative necrosis, protein precipitation, and mucosal bleaching of the upper gastrointestinal tract.
@@ -105,11 +105,11 @@ The clinical presentation is divided into three highly testable clinical forms:
          ┌────────────────────────┴────────────────────────┐
          ▼                                                 ▼
   [Oral Antidotes]                                [Systemic Treatment]
-• Administer Limewater,                           • IV Calcium Gluconate (10% soln)
-  Calcium Lactate, or                               (Repeated doses to reverse tetany)
-  Calcium Chloride (150 mg/kg)                    • IM Parathyroid Extract (100 units)
-         │                                        • Hemodialysis / Exchange Transfusion
-         ▼                                          (Highly useful in renal failure)
+• Administer Limewater,                           • IV Calcium Gluconate (10%                                                               soln)
+  Calcium Lactate, or                               (Repeated doses to reverse                                                                tetany)
+  Calcium Chloride (150 mg/kg)                    • IM Parathyroid Extract                                                           (100 units)
+         │                                        • Hemodialysis / Exchange                                                              Transfusion
+         ▼                                          (Highly useful in renal                                                             failure)
 [Precipitates insoluble, non-toxic
   calcium oxalate in gut for excretion]
 ```
