@@ -16,7 +16,7 @@ In clinical toxicology, while preventing further absorption (such as via gastric
 - **What?** Specialized medical techniques to actively clear absorbed toxins from the body.
 - **Why?** To reduce the systemic "body burden" of a poison, minimizing cellular injury and decreasing mortality.
 - **How?** By manipulating urinary pH, flushing the gastrointestinal tract, or using artificial blood-filtering circuits.
-- **When?** Indicated under specific clinical conditions:
+- **When?** `Indicated under specific clinical conditions:`
     1. Severe, life-threatening envenomation or poisoning.
     2. The poison is distributed primarily in the extracellular fluid and has low protein binding.
     3. The patient's condition progressively deteriorates despite optimal supportive care.
@@ -92,7 +92,7 @@ When systemic toxicity is critical or renal function is completely compromised, 
 #### **B. Cathartics (Laxatives)**
 
 - **Mechanism:** Administering osmotic agents like **Sorbitol** (\(1\text{–}2\text{ g/kg}\)) or Magnesium Sulfate (\(\text{MgSO}_4\)) to accelerate defecation and reduce the transit time of toxins in the gut.
-- **Contraindications:** Ingestion of corrosives (danger of perforation) or pre-existing diarrhea. Magnesium cathartics are strictly contraindicated in renal failure.
+- **Contraindications:** Ingestion of ==corrosives== (danger of perforation) or pre-existing ==diarrhea==. Magnesium cathartics are strictly contraindicated in ==renal== failure.
 
 ---
 
