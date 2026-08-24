@@ -110,8 +110,8 @@ Chelating agents are specialized chemical antidotes that bind with ==heavy metal
 
 - **Mechanism:** Contains ==two== unsaturated sulfhydryl (\(-\text{SH}\)) groups that compete with ==cellular enzymes== for binding heavy metals, preventing **mitochondrial respiratory blockade**.
 - **Route:** Intramuscular (IM) injection only (formulated in a viscous peanut/arachis oil base).
-- **Indications:** Acute poisoning by **Arsenic, Lead, Mercury, Copper, Gold, and Bismuth**.
-- **Contraindications:** Absolutely contraindicated in **Iron and Cadmium poisoning** (the BAL-iron or BAL-cadmium complex is highly toxic to the kidneys), liver damage, and **G-6-PD deficiency**.
+- **Indications (MAL):** Acute poisoning by **Arsenic, Lead, Mercury, Copper, Gold, and Bismuth**.
+- **Contraindications (MICA):** Absolutely contraindicated in **Iron and Cadmium poisoning** (the BAL-iron or BAL-cadmium complex is highly toxic to the kidneys), liver damage, and **G-6-PD deficiency**.
 
 ##### **B. CaNa₂ EDTA (Calcium Disodium Versenate)**
 
@@ -131,7 +131,7 @@ Chelating agents are specialized chemical antidotes that bind with ==heavy metal
 
 - **Mechanism:** Water-soluble analogue of BAL.
 - **Route:** Oral.
-- **Indications:** **Lead, Mercury, and Arsenic**.
+- **Indications:** (MAL)**Lead, Mercury, and Arsenic**.
 - **Advantages:** Far less toxic than EDTA, does not redistribute lead to the brain, and can be safely administered to **G-6-PD deficient patients**.
 
 ##### **E. Deferoxamine (Desferrioxamine)**
@@ -144,8 +144,8 @@ Chelating agents are specialized chemical antidotes that bind with ==heavy metal
 
 ### **Historical Concept: The Universal Antidote** 🏺
 
-- **Definition:** Historically, this was a combined physical and chemical preparation administered when the exact nature of the ingested poison was completely unknown.
-- **Composition (Mnemonic: "T-A-M" - Ratio 2:1:1):** [298, Image 22]
+- **Definition:** Historically, this was a combined ==physical== and ==chemical== preparation administered when the exact nature of the ingested poison was completely ==unknown==.
+- **Composition (Mnemonic: "T-A-M" - Ratio 1:2:1):** [298, Image 22]
     - **T**annic Acid (1 part - strong tea): Precipitates alkaloids, glycosides, and metals.
     - **A**ctivated Charcoal (2 parts - burnt toast): Adsorbs alkaloid and organic poisons.
     - **M**agnesia / Magnesium Oxide (1 part - milk of magnesia): Neutralizes strong acids.
