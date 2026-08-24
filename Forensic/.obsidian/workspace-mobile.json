@@ -18,63 +18,35 @@
             }
           },
           {
-            "id": "d798bb2a69487552",
+            "id": "6cf600467a2d3b6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Antidote.md",
+                "file": "Gastric lavage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Antidote"
+              "title": "Gastric lavage"
             }
           },
           {
-            "id": "7376b2191f134c73",
+            "id": "1975fe95c2e661a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Role of Dr.md",
+                "file": "Classify posion and factors affecting it.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Role of Dr"
-            }
-          },
-          {
-            "id": "30ebd1680cfad84a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elimination of absorbed poison.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elimination of absorbed poison"
-            }
-          },
-          {
-            "id": "34d3f0a8fd4d0a3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Household poison + preservation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Household poison + preservation"
+              "title": "Classify posion and factors affecting it"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,7 +139,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Household poison + preservation.md",
+            "file": "Classify posion and factors affecting it.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -221,15 +193,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "34d3f0a8fd4d0a3d",
+  "active": "1975fe95c2e661a9",
   "lastOpenFiles": [
-    "Drug dependance.md",
-    "Household poison + preservation.md",
-    "Elimination of absorbed poison.md",
-    "image 33.jpg",
-    "Role of Dr.md",
-    "image 32.jpg",
+    "image 36.jpg",
+    "image 35.jpg",
+    "image 34.jpg",
+    "Classify posion and factors affecting it.md",
+    "Gastric lavage.md",
     "Antidote.md",
+    "Role of Dr.md",
+    "Elimination of absorbed poison.md",
+    "Household poison + preservation.md",
+    "Drug dependance.md",
+    "image 33.jpg",
+    "image 32.jpg",
     "image 31.jpg",
     "Toxicology.base",
     "Surrogate mother.md",
@@ -253,12 +230,7 @@
     "Immersion foot.md",
     "Scalds.md",
     "Joule burns.md",
-    "Dry vs moist vs chemical burns.md",
-    "PM in burns.md",
-    "Thermal injuries.md",
     "Pasted image 20260820103210.png",
-    "image 27.jpg",
-    "Pasted image 20260820093147.png",
-    "image 26.jpg"
+    "image 27.jpg"
   ]
 }
