@@ -81,7 +81,9 @@ For an MBBS student, understanding the medical and legal responsibilities of a d
 
 #### **A. Clinical & Medical Responsibilities**
 
-1. **Patient Stabilization (The ABCDs):**
+   
+1. ![[image 32.jpg]]
+2. **Patient Stabilization (The ABCDs):**
     - **A**irway: Ensure a patent airway.
     - **B**reathing: Assist ventilation if needed.
     - **C**irculation: Monitor blood pressure and perfusion.
@@ -91,7 +93,7 @@ For an MBBS student, understanding the medical and legal responsibilities of a d
     - _Contraindications (starts with 'C'):_ Corrosives (except carbolic acid), Convulsants, Comatose patients, and Hydrocarbons.
 3. **Preservation of Samples:**
     - Preserve the **first gastric aspirate/washout** (500 mL) and **urine** (100 mL) for toxicological analysis.
-    - Never add chemical preservatives to clinical samples; simply seal and label them.
+    - ==Never== add chemical ==preservatives== to clinical samples; simply seal and label them.
 
 #### **B. Legal & Administrative Responsibilities**
 
