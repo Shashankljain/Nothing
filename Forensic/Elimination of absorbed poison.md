@@ -68,9 +68,9 @@ When systemic toxicity is critical or renal function is completely compromised, 
 
 ★ **Important Exam Point: Dialysis-Friendly vs. Dialysis-Unfriendly Poisons**:
 
-|**Dialysis is USEFUL (Dialyzable)**|**Dialysis is NOT Useful (Non-dialyzable)**|
-|:--|:--|
-|• **M**ethanol / Ethylene Glycol• **A**lcohol (Ethanol, Isopropyl alcohol)• **S**alicylates• **B**arbiturates (Long-acting)• **L**ithium / Heavy metals• Bromide / Acetone|• **K**erosene / Hydrocarbons• **O**rganophosphorus Compounds (OPC)• **B**enzodiazepines• **A**mphetamines• **D**igoxin / Digitalis / Copper Sulfate|
+| **Dialysis is USEFUL (Dialyzable)**                                                                                                                                                         | **Dialysis is NOT Useful (Non-dialyzable)**                                                                                                          |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
+| • ![[image 33.jpg]]**M**ethanol / Ethylene Glycol• **A**lcohol (Ethanol, Isopropyl alcohol)• **S**alicylates• **B**arbiturates (Long-acting)• **L**ithium / Heavy metals• Bromide / Acetone | • **K**erosene / Hydrocarbons• **O**rganophosphorus Compounds (OPC)• **B**enzodiazepines• **A**mphetamines• **D**igoxin / Digitalis / Copper Sulfate |
 
 #### **Hemoperfusion**
 
@@ -122,73 +122,5 @@ If a doctor is actively managing a patient undergoing elimination therapy for po
 
 ---
 
-### **Viva Questions & Model Answers**
 
-**Q1: Why is hemodialysis not useful in Organophosphate (OPC) or Digoxin poisoning?**  
-**Answer:** Because both OPC and Digoxin have a **high volume of distribution** (\(V_d\)) and are highly lipid-soluble, meaning they bind rapidly to tissues (fat and muscle) and are not present in high concentrations in the extracellular blood fluid to be filtered by a dialyzer.
 
-**Q2: What is the fluid of choice for Whole-Bowel Irrigation, and what is its rate?**  
-**Answer:** Polyethylene Glycol (PEG) electrolyte solution. It is administered at a rate of **\(2\text{ L/h}\) for adults** and **\(0.5\text{ L/h}\) for children**.
-
-**Q3: Which heavy metal poisoning is an absolute contraindication for BAL therapy?**  
-**Answer:** **Iron and Cadmium poisoning**, because the BAL-metal complex formed is highly toxic to the kidneys.
-
----
-
-### **Common Mistakes Students Make**
-
-- **Recommending Acidic Diuresis:** Students often list acidic diuresis as a routine treatment for amphetamine or cocaine poisoning. They must specify that it is **obsolete and dangerous**.
-- **Confusing Dialysis Indications:** Writing that dialysis is useful for Benzodiazepines or Heroin. It is **not useful** for these drugs.
-
----
-
-### **Mnemonics**
-
-#### **Alkaline Diuresis Indications: "Alka in PSM Class"**
-
-- **Alka** - **Alka**line Diuresis
-- **P** - **P**henobarbitone
-- **S** - **S**ulphonamides
-- **M** - **M**ethotrexate
-- **Class** - **C**hlorpropamide / Salicylates (NSAIDs)
-
----
-
-### **Quick Revision Notes (Last-minute Points)**
-
-1. **Forced Alkaline Diuresis:** IV \(\text{NaHCO}_3\), targets urine pH \(>7.5\), traps Phenobarbital and Salicylates.
-2. **Forced Acidic Diuresis:** Obsolete due to metabolic acidosis and renal failure risks.
-3. **Whole-Bowel Irrigation:** Uses PEG (\(2\text{ L/h}\)); ideal for body packers and sustained-release drugs.
-4. **Hemodialysis:** Highly effective for Methanol, Salicylates, Lithium, and Ethanol.
-5. **Hemoperfusion:** Directly filters blood through charcoal; ideal for Paraquat.
-
----
-
-### **Model University Answers**
-
-#### **2 Marks: State the mechanism of Ion Trapping in toxicology.**
-
-Ion trapping is a method where altering the pH of urine causes an absorbed drug to become ionized (charged) within the renal tubules. Since ionized molecules cannot passively diffuse across lipid membranes, they become "trapped" in the tubular lumen and are excreted rapidly in the urine.
-
-#### **5 Marks: Differentiate between the clinical utility of Hemodialysis and Hemoperfusion in poisoning.**
-
-_(Draw a comparison focusing on parameters like filtering mechanism, preferred toxins, and clinical examples, highlighting that **Hemodialysis** is best for water-soluble, low-volume-of-distribution molecules like Methanol, while **Hemoperfusion** uses an adsorbent column ideal for clearing highly protein-bound or lipid-soluble toxins like Paraquat.)_
-
-#### **10 Marks: Describe the various treatment methods for the elimination of absorbed poisons, their indications, and contraindications.**
-
-1. **Introduction & Definition:** Define enhanced elimination of absorbed poisons.
-2. **Indications:** List the four clinical prerequisites for enhanced elimination.
-3. **Renal Methods:**
-    - Detail **Forced Alkaline Diuresis** (mechanism, target pH, and the _"Alka in PSM Class"_ drugs).
-    - Discuss **Forced Acidic Diuresis** and explain why it is clinically obsolete.
-4. **Gastrointestinal Methods:**
-    - Explain **Whole-Bowel Irrigation** (PEG dosing, use in body packers).
-    - Discuss **Cathartics** (Sorbitol) and their contraindications.
-5. **Extracorporeal Methods:**
-    - Recreate the **Dialysis Suitability Table** comparing dialyzable vs. non-dialyzable toxins.
-    - Explain the role of **Hemoperfusion** in Paraquat poisoning.
-6. **Legal Framework:** Explain the doctor's duties under **Section 33 BNSS, 2023** and **Section 238 BNS, 2023**.
-
----
-
-📊 _I can generate a structured bento-grid infographic illustrating the comparative renal and extracorporeal workflows for acute toxic ingestions if you would like a visual aid for your exams._
