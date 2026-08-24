@@ -7,7 +7,8 @@
 
 #### **Definition**
 
-A **Corrosive Poison** (or **Caustic**) is a highly reactive chemical substance that produces rapid functional, histologic, and structural damage immediately upon contact with any tissue surface. They act locally by chemically destroying, inflating, or ulcerating the skin, mucous membranes, and gastrointestinal tract (GIT).
+A **Corrosive Poison** (or **Caustic**) is a highly reactive chemical substance that produces rapid ==functional, histologic, and structural damage== immediately upon contact with any tissue surface. 
+They act locally by chemically destroying, inflating, or ulcerating the skin, mucous membranes, and gastrointestinal tract (GIT).
 
 ```
                              [CORROSIVE POISONS]
@@ -74,12 +75,13 @@ Forms hard, dry eschar / scab                         Dissolves tissue proteins
          │                                                     │
          ▼                                                     ▼
 Limits deep, lateral penetration                       Causes deep, liquefying,
-                                                      uncontrolled tissue damage
+                                                      uncontrolled tissue                                                                        damage
 ```
 
 - **Acids (Coagulative Necrosis):** Acids act as proton donators. On tissue contact, they extract water and rapidly **coagulate and precipitate cellular proteins**, forming a hard, dry, leathery eschar or scab. This eschar acts as a physical barrier, which often protects the deeper muscular layers of the organ from further lateral or deep penetration.
 - **Alkalis (Liquefactive Necrosis):** Alkalis act as proton acceptors. They do **not** form a protective eschar. Instead, they liquefy proteins, extract water, and **saponify tissue fats and lipids**. This results in a soft, wet, gelatinous, and liquefying necrosis that allows the chemical to penetrate deeply, extensively, and uncontrollably into the submucosal and muscular coats, leading to a high rate of immediate organ perforation.
-- ★ **The Only Exception (Hydrofluoric Acid - HF):** HF is the only acid that causes **both liquefactive and coagulative necrosis**, enabling extremely deep, bone-destroying tissue injuries [Image "24. CORROSIVES POISONS"].
+
+- ★ **The Only Exception (==Hydrofluoric Acid - HF==):** HF is the only acid that causes **both liquefactive and coagulative necrosis**, enabling extremely deep, bone-destroying tissue injuries [Image "24. CORROSIVES POISONS"].
 
 ---
 
@@ -89,9 +91,9 @@ When a corrosive is ingested, the clinical presentation is immediate and distres
 
 #### **1. General Symptoms of Corrosive Ingestion**
 
-- **Oropharyngeal:** Intense, immediate burning pain in the mouth, throat, and retrosternal region.
-- **Gastrointestinal:** Severe abdominal pain (epigastric distress), marked difficulty in swallowing (**dysphagia**), and inability to speak (**dysphonia**).
-- **Vomiting:** Persistent, painful vomiting. The vomitus contains altered blood, mucus, and mucosal shreds. It classically has a **"coffee-ground" appearance** due to the conversion of hemoglobin to acid-hematin by gastric acid.
+- **Oropharyngeal:** Intense, immediate ==burning== pain in the mouth, throat, and retrosternal region.
+- **Gastrointestinal:** Severe abdominal pain (==epigastric distress==), marked difficulty in swallowing (**==dysphagia==**), and inability to speak (**==dysphonia==**).
+- **Vomiting:** Persistent, painful vomiting. The vomitus contains altered blood, mucus, and mucosal shreds. It classically has a **"==coffee-ground" appearance==** due to the conversion of ==hemoglobin to acid-hematin== by gastric acid.
 - **Systemic Shock:** Cold, clammy skin, a rapid, feeble pulse, and profound hypotension due to severe pain and intravascular fluid loss.
 - **Respiratory Distress:** Hoarseness, stridor, and immediate **dyspnea** due to laryngeal spasm or edema of the glottis caused by the inhalation of fumes or accidental aspiration.
 
