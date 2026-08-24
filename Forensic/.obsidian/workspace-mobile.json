@@ -30,9 +30,23 @@
               "icon": "lucide-file",
               "title": "Corrosive"
             }
+          },
+          {
+            "id": "9a29c3bb37073d43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +139,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Corrosive.md",
+            "file": "Untitled 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -179,8 +193,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "80a8b3269758cae7",
+  "active": "9a29c3bb37073d43",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Corrosive.md",
     "Chelating agent.md",
     "Drug automatism.md",
@@ -216,7 +231,6 @@
     "Starvation.md",
     "Heat stroke.md",
     "image 29.jpg",
-    "image 28.jpg",
-    "Starvational death.md"
+    "image 28.jpg"
   ]
 }
