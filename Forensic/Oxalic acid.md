@@ -139,9 +139,9 @@ The clinical presentation is divided into three highly testable clinical forms:
 
 #### **II. Internal Findings**
 
-1. **Upper GIT:** Mucosa of the mouth, tongue, pharynx, and esophagus appears bleached, white, and corroded.
+1. **Upper GIT:** Mucosa of the mouth, tongue, pharynx, and esophagus appears ==bleached==, white, and ==corroded==.
 2. **Stomach:**
-    - Mucosa is intensely congested, reddened, and punctate due to erosions, giving it a characteristic **velvety-red or blackish appearance**.
+    - Mucosa is intensely congested, reddened, and punctate due to erosions, giving it a characteristic ==**velvety-red or blackish appearance**.==
     - The gastric wall is softened and thinned, but **no perforation** is typically seen.
     - Contains gelatinous, dark-brown material due to **acid-hematin** formation.
 3. **Kidneys:**
@@ -183,36 +183,6 @@ The clinical presentation is divided into three highly testable clinical forms:
 
 ---
 
-### **Viva Questions & Model Answers** 💬
-
-**Q1: Why are oral calcium salts considered specific antidotes in Oxalic Acid poisoning?**  
-**Answer:** Calcium salts (lactate, gluconate, chloride, or limewater) react directly with unabsorbed oxalic acid in the gastrointestinal tract to form **calcium oxalate**. Because calcium oxalate is completely insoluble and non-absorbable, it prevents systemic absorption of the toxin and is safely excreted in the feces.
-
-**Q2: What is "oxaluria" and what is the characteristic shape of the crystals under a microscope?**  
-**Answer:** Oxaluria is the excretion of oxalic acid crystals in the urine. Under light microscopy, they appear as highly diagnostic, birefringent, **envelope-shaped (or octahedral) calcium oxalate crystals**.
-
-**Q3: Can we perform gastric lavage in Oxalic Acid poisoning?**  
-**Answer:** Yes. While gastric lavage is absolutely contraindicated in strong mineral acids (like \(H_2SO_4\) or \(HNO_3\)) due to perforation risks, a cautious gastric lavage is indicated in oxalic acid poisoning. It is performed using a **1% to 3% calcium lactate** solution to precipitate and remove the toxin.
-
----
-
-### **Common Mistakes Students Make** ❌
-
-- **Writing "Gastric Lavage is Contraindicated":** Students often write that lavage is banned because oxalic acid is a corrosive. They must remember that **cautious lavage with calcium lactate is indicated** because the stomach wall is softened but rarely perforates.
-- **Preserving Viscera in Saturated Salt:** Oxalic acid is an organic acid; therefore, the viscera should be preserved in **Absolute Alcohol or Rectified Spirit**, not common salt.
-- **Confusing the Spot Urine Crystals:** Describing the crystals as needle-shaped. (Needle-shaped crystals are associated with Phenol or Calcium Sulfate; Oxalic acid produces **envelope-shaped** crystals).
-
----
-
-### **Mnemonics** 🧠
-
-#### **Clinical Triad of Oxalic Acid: "C-A-N"**
-
-- **C** - **C**orrosive local action (velvety-red stomach, coffee-ground vomitus).
-- **A** - **A**cute hypocalcemic tetany (carpopedal spasm, Trousseau's sign).
-- **N** - **N**ephrotic delayed damage (PCT necrosis, envelope crystals in urine).
-
----
 
 ### **End With** ⏱️
 
@@ -238,47 +208,3 @@ The clinical presentation is divided into three highly testable clinical forms:
 
 ---
 
-### **Model University Answers** 📝
-
-#### **2 Marks: Define Oxaluria and state its diagnostic significance.**
-
-**Answer:** Oxaluria refers to the excretion of oxalic acid crystals in the urine. On microscopic examination of the urine sediment, they appear as pathognomonic, birefringent, **envelope-shaped calcium oxalate crystals**. This is highly diagnostic of the delayed phase of Oxalic Acid poisoning.
-
-#### **5 Marks: Describe the clinical features of acute and delayed Oxalic Acid poisoning.**
-
-**Answer:**
-
-1. **Acute Phase (Hypocalcemic Tetany):**
-    - Caused by systemic calcium chelation, leading to profound hypocalcemia.
-    - Features include tingling and numbness of limbs, paresthesia, and muscle weakness.
-    - **Carpopedal spasm** (Accoucheur's hand/Trousseau sign) and hyperirritability of motor nerves (Chvostek sign) are highly characteristic.
-    - Can progress to convulsions, dilated pupils, metabolic acidosis, ventricular fibrillation, coma, and death.
-2. **Delayed Phase (Nephritis/Uremia):**
-    - Occurs 2 days to 2 weeks post-ingestion due to renal tubular crystal deposition.
-    - Characterized by scanty urine (oliguria), hematuria, albuminuria, and **oxaluria** (envelope crystals under the microscope).
-
-#### **10 Marks: Define Oxalic Acid. Describe its mechanism of action, clinical features, specific antidotes, and postmortem findings, including relevant 2023 criminal laws.**
-
-**Answer:**
-
-- **Definition & Action:** Define Oxalic acid. Explain local coagulative necrosis, systemic calcium chelation (hypocalcemia), and mechanical PCT tubular blockage.
-- **Clinical Features:**
-    - _Fulminating:_ Sour taste, burning GIT pain, coffee-ground vomitus, shock.
-    - _Acute:_ Hypocalcemic tetany, carpopedal spasm, Chvostek/Weiss sign, convulsions.
-    - _Delayed:_ Scanty urine, hematuria, uremia, oxaluria.
-- **Antidotes & Management:**
-    - _Gastric Lavage:_ 1–3% calcium lactate solution.
-    - _Oral Precipitants:_ Limewater, calcium lactate/gluconate (150 mg/kg) to form insoluble calcium oxalate.
-    - _Systemic:_ IV Calcium Gluconate (10 mL of 10%); IM Parathyroid Extract (100 units); Hemodialysis.
-- **Postmortem Findings:**
-    - Bleached upper GIT mucosa.
-    - Stomach: Velvet-red/blackish mucosa, thinned but unperforated wall, containing dark-brown fluid.
-    - Kidneys: Congested with proximal convoluted tubules (PCT) showing extensive necrosis and **calcium oxalate crystals** under polarization.
-    - _Preservation:_ Saturated common salt is contraindicated; preserve in **Rectified Spirit / Absolute Alcohol**.
-- **Relevant 2023 Law:**
-    - **Section 123 BNS:** Voluntarily causing hurt by means of poison.
-    - **Section 33 BNSS:** Mandatory duty of RMP to report the poisoning case to the police.
-
----
-
-🧠 _I can generate an interactive quiz testing your memory of specific toxicological antidotes (including chelating agents, metals, and organic acids) to help you prepare for your upcoming university viva!_
