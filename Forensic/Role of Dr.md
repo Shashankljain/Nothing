@@ -102,10 +102,11 @@ For an MBBS student, understanding the medical and legal responsibilities of a d
 3. **Handling Custody and Records:**
     - Maintain inpatient records for **3 years**; refusing to share them with the patient or legal authorities within 72 hours constitutes professional misconduct.
     - **Never hand over original MLC records** to the police; only provide attested photocopies and obtain a written receipt.
-4. **In Case of Death:**
+4. **In patient condition is serious**- can arrange for **DYING DECLARATION ** 
+5. **In Case of Death:**
     - **Do not issue a death certificate** in suspected or unnatural poisoning cases.
     - Send the body for a **forensic autopsy** to establish the cause of death.
-
+5. 
 ---
 
 ### **Viscera Preservation During Autopsy** 🧪
