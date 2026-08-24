@@ -44,9 +44,23 @@
               "icon": "lucide-file",
               "title": "Role of Dr"
             }
+          },
+          {
+            "id": "30ebd1680cfad84a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elimination of absorbed poison.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elimination of absorbed poison"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +153,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Role of Dr.md",
+            "file": "Elimination of absorbed poison.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -193,10 +207,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "7376b2191f134c73",
+  "active": "30ebd1680cfad84a",
   "lastOpenFiles": [
-    "image 32.jpg",
+    "Elimination of absorbed poison.md",
     "Role of Dr.md",
+    "image 32.jpg",
     "Antidote.md",
     "image 31.jpg",
     "Toxicology.base",
@@ -230,7 +245,6 @@
     "image 27.jpg",
     "Pasted image 20260820093147.png",
     "image 26.jpg",
-    "Pasted image 20260819222254.png",
-    "Pasted image 20260819215615.png"
+    "Pasted image 20260819222254.png"
   ]
 }
