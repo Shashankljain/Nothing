@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Vitriologe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Vitriologe"
             }
           }
         ],
@@ -139,7 +139,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled 1.md",
+            "file": "Vitriologe.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
   },
   "active": "9a29c3bb37073d43",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Vitriologe.md",
     "Corrosive.md",
     "Chelating agent.md",
     "Drug automatism.md",
