@@ -14,6 +14,28 @@
 - **Twilight Delirium:** The drug induces a state of partial wakefulness characterized by mental confusion and **anterograde amnesia** (the patient forgets they have already taken the pill).
 - **The Repetitive Cycle:** Believing they have not taken the medication, they ingest another dose. This cycle repeats automatically until a lethal concentration of the drug accumulates in the body, leading to fatal cardiorespiratory depression.
 
+**Pathophysiology / Mechanism** ⚙️
+
+The progression of drug-induced automatism occurs through the following physiological stages:
+
+```
+              [Ingestion of Initial Therapeutic Dose]
+                                │
+                                ▼
+         [Failure of Rapid Onset of Sleep / Delayed Action]
+                                │
+                                ▼
+         [Drug-Induced Twilight State / Toxic Delirium] [1]
+                                │
+                                ▼
+         [Anterograde Amnesia (Patient forgets the dose taken)] [1, 2]
+                                │
+                                ▼
+         [Repeated Ingestion of Pills to "Get to Sleep"] [1]
+                                │
+                                ▼
+      [Systemic Toxicity -> Respiratory Depression & Coma] [8]
+```
 ---
 
 #### **3. Medico-Legal Importance (MLI)** ⚖️
