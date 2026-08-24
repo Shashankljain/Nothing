@@ -102,11 +102,11 @@ For an MBBS student, understanding the medical and legal responsibilities of a d
 3. **Handling Custody and Records:**
     - Maintain inpatient records for **3 years**; refusing to share them with the patient or legal authorities within 72 hours constitutes professional misconduct.
     - **Never hand over original MLC records** to the police; only provide attested photocopies and obtain a written receipt.
-4. **In patient condition is serious**- can arrange for **DYING DECLARATION ** 
+4. **In patient condition is serious**- can record the **DYING DECLARATION ** 
 5. **In Case of Death:**
     - **Do not issue a death certificate** in suspected or unnatural poisoning cases.
     - Send the body for a **forensic autopsy** to establish the cause of death.
-5. 
+ 
 ---
 
 ### **Viscera Preservation During Autopsy** 🧪
@@ -131,74 +131,3 @@ If the patient dies, the autopsy surgeon must preserve the following viscera for
 
 ---
 
-### **Clinical Correlation**
-
-👩‍⚕️ **Hospital Scenario:** An unconscious 25-year-old male is brought to the emergency department by his neighbors, who found him collapsed in his room. The patient has **pinpoint pupils**, **shallow respiration**, and a **sweet/fruity odor** in his breath.
-
-- **Doctor's Action:** The doctor immediately secures the airway (ABCD) and suspects **opioid/morphine poisoning**. He administers **Naloxone** as a physiological antagonist. He performs a gastric wash, preserving the first sample without preservatives. Because the patient is critical, he arranges to record a **Dying Declaration** under **Section 26 BSA, 2023** [Image 15, Passage 230]. He notifies the police immediately under **Section 33 BNSS, 2023** [Image 15].
-
----
-
-### **Viva Questions & Model Answers**
-
-**Q1: What are the absolute contraindications for gastric lavage?**  
-**Answer:** Lavage is absolutely contraindicated in corrosive acid or alkali poisoning (due to the risk of esophageal/gastric perforation). The only exception is **carbolic acid (phenol)** poisoning because it hardens the stomach mucosa, making it less prone to perforation [250, 333, Image 22].
-
-**Q2: Can a doctor hand over original medical records to the police?**  
-**Answer:** No. Original hospital records of a medico-legal case (MLC) are hospital property and must never be handed over to the police. Only attested photocopies should be supplied, and a receipt must be obtained.
-
-**Q3: Why is sodium fluoride added to preserved blood samples?**  
-**Answer:** Sodium fluoride is added to prevent glycolysis (glucose breakdown) and to inhibit the growth of micro-organisms that can metabolize and produce alcohol in postmortem samples.
-
----
-
-### **Common Mistakes Students Make**
-
-- **Confusing Section 33 BNSS with BNS:** Writing that notifying the police is under the BNS. Police reporting is an administrative/procedure law, hence under **Section 33 BNSS, 2023** (formerly Sec 39 CrPC) [Image 15].
-- **Formalin as Preservative:** Writing that tissues for toxicological analysis are preserved in formalin. This is incorrect; formalin is only used for histopathology, as it makes chemical extraction of non-volatile organic compounds difficult. Saturated salt is used for toxicology.
-- **Failing to cite new 2023 laws:** Writing old IPC/CrPC sections instead of BNS, BNSS, and BSA equivalents.
-
----
-
-### **Mnemonic**
-
-Remember the core legal responsibilities of a doctor using the word **R-E-P-O-R-T**:
-
-- **R** - **R**esuscitation and stabilization first (ABCD).
-- **E** - **E**vidence preservation (vomitus, first lavage sample, urine).
-- **P** - **P**olice intimation under Section 33 BNSS [Image 15, Passage 227].
-- **O** - **O**pinion reserved until FSL/chemical examiner's report is received.
-- **R** - **R**ecords maintained safely for 3 years.
-- **T** - **T**ake Dying Declaration if death is imminent (Section 26 BSA) [Image 15, Passage 230].
-
----
-
-### **Quick Revision Notes (Last-minute Points)**
-
-1. **Primary duty:** Medical treatment to save life.
-2. **Homicide Reporting:** Mandatory under **Sec 33 BNSS, 2023** [Image 15, Passage 227].
-3. **Suicide/Accident Reporting:** Private practitioners not strictly bound, but advised to report to rule out abetment.
-4. **Record keeping:** Indoor MLC cases must be kept for **3 years**.
-5. **Evidence:** Collect 500 mL vomit/lavage and 100 mL urine.
-6. **Preservative:** Saturated common salt is the gold standard.
-7. **Destruction of evidence:** Punishable with 7 years under **Section 238 BNS, 2023** [Image 5, Passage 226].
-
----
-
-### **Model University Answers**
-
-#### **2 Marks: State the penalty for a doctor who fails to report homicidal poisoning.**
-
-A private practitioner who is convinced a patient is suffering from homicidal poisoning but fails to report it to the police is liable under **Section 211 BNS, 2023** (formerly Sec 176 IPC), punishable with simple imprisonment of 1 month, a fine, or both [Image 15, Passage 227].
-
-#### **5 Marks: Describe the contraindications and complications of gastric lavage.**
-
-_(Explain the absolute and relative contraindications using the 'C' rule and list the common complications like aspiration, esophageal perforation, and laryngeal spasm.)_
-
-#### **10 Marks: Write an exam-oriented essay on the medical and legal responsibilities of a doctor in a case of suspected poisoning.**
-
-_(Structure your essay using the detailed headings provided in the response above. Incorporate the Viscera Preservation Table and reference all relevant BNS, BNSS, and BSA provisions [74, Image 15, Passage 227, 230].)_
-
----
-
-📊 _I can create a structured bento-grid infographic outlining the step-by-step diagnostic and decontamination workflow for an emergency toxicology patient if you would like a visual clinical guide._
