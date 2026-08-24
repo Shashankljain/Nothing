@@ -140,19 +140,19 @@ Stomach & Intestines      Liver & Kidneys               Urine
 1. **Bottle 1: Stomach and Intestines**
     - _Stomach:_ Preserved **entirely** along with its total contents. It must be opened along the greater curvature to inspect the gastric mucosal folds.
     - _Intestines:_ Upper **15 to 30 cm** of the small intestine (jejunum) along with its contents.
-    - _Significance:_ Confirms oral ingestion, maps the route of administration, and identifies undigested poison before hepatic metabolization.
+    - _Significance:_ ==Confirms== oral ingestion, maps the ==route of administration==, and identifies ==undigested== poison before hepatic metabolization.
 2. **Bottle 2: Liver and Kidneys**
     - _Liver:_ A segment of at least **500 grams** along with the **entire gallbladder**. The right lobe is preferred to avoid postmortem diffusion from the stomach.
     - _Kidneys:_ Longitudinal **half of each kidney**.
-    - _Significance:_ The liver is the primary metabolic repository concentrating absorbed poisons; kidneys are major excretion pathways, highly diagnostic in metal and ethylene glycol/oxalic acid toxicities.
+    - _Significance:_ The liver is the primary metabolic repository concentrating absorbed poisons; kidneys are major ==excretion== pathways, highly diagnostic in metal and ethylene glycol/oxalic acid toxicities.
 3. **Bottle 3: Urine**
     - At least **100 mL** of urine (harvested via suprapubic catheterization or bladder puncture).
-    - _Significance:_ Excellent medium for qualitative drug screening and metabolite isolation.
+    - _Significance:_ Excellent medium for ==qualitative== drug screening and metabolite isolation.
 4. **Vial 4: Blood**
     - At least **10 mL** of blood, ideally drawn from the **femoral vein**.
-    - _Significance:_ The gold standard for quantitative toxicology. Blood must never be pooled from chest cavities due to the risk of postmortem diffusion from the stomach.
+    - _Significance:_ The **gold** **standard** for ==quantitative== toxicology. Blood must never be pooled from chest cavities due to the risk of postmortem diffusion from the stomach.
 5. **Bottle 5: Preservative Control**
-    - A **100 mL** sample of the clean, batch-matched chemical preservative used.
+    - A **100 mL** sample of the clean, batch-matched ==chemical preservative== used.
     - _Significance:_ A legal control submitted to the chemical examiner to rule out background contamination in the preserving medium.
 
 ---
@@ -241,16 +241,7 @@ Stomach & Intestines      Liver & Kidneys               Urine
 
 ---
 
-### **Clinical Correlation**
 
-👨‍⚕️ **Emergency Room Scenario:** A 22-year-old female is brought dead-on-arrival (DOA) to the hospital. Neighbors reported she had been crying out in intense abdominal pain, vomiting blackish "coffee-ground" fluid, and suffered severe muscle spasms (carpopedal spasms) before collapsing.
-
-- **Clinical Diagnosis:** The vomiting of coffee-ground material and systemic tetanic muscle spasms strongly indicate acute **Oxalic Acid poisoning**.
-- **Doctor's Legal Mandate:** Since it is an unnatural death, the medical officer **must not issue a death certificate**. He must immediately notify the police under **Section 33 BNSS, 2023**, fill out the death report under **Form 2**, and dispatch the body for a mandatory **forensic autopsy** to preserve the viscera.
-
----
-
-### **High-Yield Exam Points** 🎓
 
 - ★ **First Cavity Opened:** The **Cranium (Skull)** in all suspected poisoning autopsies.
 - ★ **The PAPPA Rule:** Absolutely prohibits using rectified spirit for Phenol, Alcohol, Paraldehyde, Phosphorus, or Acetic acid.
@@ -260,81 +251,3 @@ Stomach & Intestines      Liver & Kidneys               Urine
 
 ---
 
-### **Viva Questions & Model Answers** 💬
-
-**Q1: Why is formalin contraindicated as a preservative for toxicological analysis?**  
-**Answer:** Formalin chemically binds and hardens tissue proteins. This makes the chemical extraction and isolation of non-volatile organic poisons (especially alkaloids) in the laboratory extremely difficult.
-
-**Q2: What is the "double-condom" sign?**  
-**Answer:** A radiolucent rim of air trapped between multiple layers of packaging surrounding swallowed drug packets in "body packers" or "mules" transporting illicit drugs, visible on abdominal X-rays.
-
-**Q3: Why can we perform gastric lavage in Carbolic Acid poisoning, but not in Sulphuric Acid poisoning?**  
-**Answer:** Carbolic acid causes coagulation necrosis which hardens and thickens the stomach wall (leathery stomach), making it resistant to perforation. Sulphuric acid causes severe, liquefactive thinning, placing the patient at extreme risk of immediate gastric perforation if a tube is introduced.
-
----
-
-### **Common Mistakes Students Make** ❌
-
-- **PAPPA Mnemonic Failure:** Writing that rectified spirit is used to preserve Phenol. This is a critical error; Phenol dissolves in spirit, completely destroying the sample. Saturated salt must be used.
-- **Sec 302 vs. Sec 123 BNS:** Confusing BNS sections. Remember, voluntarily poisoning someone with criminal intent is prosecuted under **Section 123 BNS, 2023**, not simple hurt.
-- **Formalin for Viscera:** Stating that viscera for chemical analysis are preserved in 10% formalin. Formalin is strictly for **histopathology**, not toxicology.
-
----
-
-### **Mnemonics** 🧠
-
-#### **PAPPA Rule (Spirit Contraindications):**
-
-- **P** - **P**henol (Carbolic Acid)
-- **A** - **A**lcohols
-- **P** - **P**araldehyde
-- **P** - **P**hosphorus
-- **A** - **A**cetic Acid
-
----
-
-### **Diagram References in Sources**
-
-- **Chapter 7, Page 135 (Figure 7.10):** Shows "Routine viscera preservation: (A) Stomach along with its contents; (B) Upper part of small intestines; (C) Part of liver along with gallbladder; (D) Half of each kidney; (E) Blood; (F) Urine.".
-- **Chapter 36, Page 554 (Figure 36.4A):** Demonstrates "Carbolic acid poisoning: Grayish-brown corrosions at the angle of the mouth, chin, and lips.".
-
----
-
-### **Quick Revision Notes**
-
-1. **Carbolic Acid:** Disinfectant; leathery stomach; green urine; lavage allowed.
-2. **Oxalic Acid:** Polish/rust remover; calcium chelation/tetany; envelope crystals.
-3. **OPC:** Insecticide; cholinergic SLUDGE crisis; pinpoint pupils; atropine antidote.
-4. **Kerosene:** Fuel; chemical pneumonitis; lavage contraindicated.
-5. **Preservatives:** Salt for PAPPA; spirit for other acids; Fluoride for blood.
-6. **Jars:** Wide-mouth, fill only to 2/3rds capacity.
-
----
-
-### **Model University Answers**
-
-#### **2 Marks: State the "PAPPA" contraindication rule.**
-
-The PAPPA rule lists toxic substances whose harvested viscera must never be preserved in rectified spirit: **P**henol, **A**lcohols, **P**araldehyde, **P**hosphorus, and **A**cetic acid. For these cases, saturated common salt is the mandatory preservative of choice.
-
-#### **5 Marks: Describe the postmortem findings and viscera preservation in a case of fatal Carbolic Acid poisoning.**
-
-1. **External:** Grayish-brown skin corrosions at the angle of the mouth and chin with a distinct phenolic odor. Putrefaction is characteristically retarded.
-2. **Internal:** **Leathery Stomach**—the gastric mucosa is gray/brown, thickened, and hardened. Greenish-black urine (carboluria) is present in the bladder.
-3. **Preservation:** Routinely harvest Stomach/Intestines (Bottle 1), Liver/Kidneys (Bottle 2), Urine (Bottle 3), and Blood (Vial 4). Saturated solution of common salt is the mandatory preservative (Rectified spirit is contraindicated under the PAPPA rule).
-
-#### **10 Marks: Define poison. Name four household poisons and write their toxic features. Outline the detailed forensic protocol for viscera preservation during autopsy under the 2023 legal framework.**
-
-1. **Definitions:** Define poison and clinical vs. forensic toxicology.
-2. **Four Household Poisons:** Detail **Carbolic Acid**, **Oxalic Acid**, **Organophosphates**, and **Kerosene** (Uses, Mechanism, and Classic features).
-3. **Comparison:** Include the **Household Poisons Comparison Table**.
-4. **Autopsy Protocol:**
-    - Open Cranium first to detect odors.
-    - Ligate stomach ends and open along greater curvature.
-    - Detail Bottle allocation (Bottle 1 to 5).
-5. **Preservative Choice:** Explain Saturated Salt vs. Rectified Spirit, highlighting the PAPPA contraindication rule.
-6. **Relevant Law (2023 update):** Cite **Section 123 BNS** (hurt by poison), **Section 33 BNSS** (reporting duty), and **Section 26 BSA** (dying declaration).
-
----
-
-🧠 _I can generate a 10-question practice quiz on toxicological syndromes and autopsy preservation guidelines to help you quickly test your memory before the university exam!_
