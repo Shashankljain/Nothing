@@ -44,13 +44,16 @@ The source material highlights a major shift in nutritional guidance as of **20
 
 ### **V. Dietary Goals of the Guide** ★ Important Exam Point
 
-|**Nutrient**|**Recommended Goal/Action**|
-|:--|:--|
-|**Total Fat**|**20–30%** of total energy.|
-|**Saturated Fat**|**Less than 10%** of total energy.|
-|**Salt (Sodium)**|**5 g or less** per day.|
-|**Dietary Fibre**|Minimum **20 g** daily.|
-|**Free Sugars**|**Less than 10%** (ideally <5%) of energy.|
+| **Nutrient**      | **Recommended Goal/Action**                |
+| :---------------- | :----------------------------------------- |
+| **Total Fat**     | **20–30%** of total energy.                |
+| **Saturated Fat** | **Less than 10%** of total energy.         |
+| **Salt (Sodium)** | **5 g or less** per day.                   |
+| **Dietary Fibre** | Minimum **20 g** daily.                    |
+| **Free Sugars**   | **Less than 10%** (ideally <5%) of energy. |
+| **Protein **      | 10-15% of daily                            |
+| Avoid             | Rich in energy - alcohol,fats.             |
+|                   | Junk food - colas,ketchup, empty calories  |
 
 ---
 
