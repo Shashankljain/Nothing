@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nutrition surveillance.md",
+                "file": "Nutritional assessment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nutrition surveillance"
+              "title": "Nutritional assessment"
             }
           }
         ],
@@ -157,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Nutrition surveillance.md",
+            "file": "Nutritional assessment.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
   },
   "active": "e2cd4b047cc726a5",
   "lastOpenFiles": [
-    "Nutrition surveillance.md",
+    "Nutritional assessment.md",
     "Nutrition surveillance vs growth monitoring.md",
     "Food adulteration.md",
     "AMB (NEW).md",
