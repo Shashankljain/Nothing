@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "PEM.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -195,14 +194,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "621a1cb387cec069",
+  "active": "e2cd4b047cc726a5",
   "lastOpenFiles": [
+    "PEM.md",
     "Pasted image 20260825162638.png",
     "Pasted image 20260825162623.png",
     "Pasted image 20260825162611.png",
     "Pasted image 20260825162548.png",
-    "PEM.md",
-    "PEM.md",
     "Balanced diet.md",
     "Pasted image 20260825161931.png",
     "Tools.md",
@@ -219,7 +217,6 @@
     "image 15.jpg",
     "Pasted image 20260825122953.png",
     "Pasted image 20260825122947.png",
-    "Pasted image 20260825122940.png",
     "Nutrition surveillance vs growth monitoring.md",
     "Food adulteration.md",
     "AMB (NEW).md",
