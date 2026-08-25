@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AMB (NEW).md",
+                "file": "Nutrition surveillance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AMB (NEW)"
+              "title": "Nutrition surveillance"
             }
           },
           {
@@ -142,7 +142,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "AMB (NEW).md",
+            "file": "Nutrition surveillance.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -200,6 +200,9 @@
   },
   "active": "ffe274211cc49278",
   "lastOpenFiles": [
+    "Food adulteration.md",
+    "AMB (NEW).md",
+    "Pasted image 20260825113107.jpg",
     "Nutrition surveillance.md",
     "Counterfeit medicines.md",
     "Gen toxicology.md",
@@ -226,7 +229,6 @@
     "Case finding tool.md",
     "Pasted image 20260813195457.png",
     "Pasted image 20260813195408.jpg",
-    "Pasted image 20260813195350.jpg",
     "ICTC.md",
     "Malaria.md",
     "NVBDCP.md",
@@ -234,8 +236,6 @@
     "IDSP.md",
     "Arsh.md",
     "NSSK.md",
-    "RBSK.md",
-    "IMNCI.md",
     "RCH.canvas",
     "Untitled.base",
     "BGS Road 9.m4a",
