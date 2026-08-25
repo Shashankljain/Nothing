@@ -22,63 +22,21 @@
             }
           },
           {
-            "id": "0177c0006525cfa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Essential medicine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Essential medicine"
-            }
-          },
-          {
-            "id": "70cba6ea231fb06b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Counterfeit medicines.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Counterfeit medicines"
-            }
-          },
-          {
             "id": "e2cd4b047cc726a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Food guide pyramid.md",
+                "file": "Balanced diet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Food guide pyramid"
-            }
-          },
-          {
-            "id": "497d991ef6b4db77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lathyrism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lathyrism"
+              "title": "Balanced diet"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Food guide pyramid.md",
+            "file": "Balanced diet.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -229,7 +187,11 @@
   },
   "active": "e2cd4b047cc726a5",
   "lastOpenFiles": [
+    "Tools.md",
+    "Essential medicine.md",
+    "Counterfeit medicines.md",
     "Lathyrism.md",
+    "Food guide pyramid.md",
     "Pasted image 20260825133629.png",
     "Food toxicity.md",
     "IDD.md",
@@ -247,10 +209,8 @@
     "Food adulteration.md",
     "AMB (NEW).md",
     "Pasted image 20260825113107.jpg",
-    "Counterfeit medicines.md",
     "Gen toxicology.md",
     "ICDS.md",
-    "Essential medicine.md",
     "2.md",
     "MDG.md",
     "SDG.md",
@@ -263,7 +223,6 @@
     "NACP.md",
     "NACP (Different).md",
     "Case finding tool.md",
-    "ICTC.md",
     "RCH.canvas",
     "Untitled.base",
     "BGS Road 9.m4a",

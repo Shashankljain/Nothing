@@ -1,4 +1,4 @@
-[[PEM]]
+[[Nutritional assessment]]
 Nutritional assessment of a community is a systematic process of identifying the nutritional status of individuals or groups to determine their health needs and the magnitude of malnutrition. In Community Medicine, this is essential for "Community Diagnosis" and planning targeted interventions like ICDS.
 ![[Pasted image 20260717195231.png]]
 The methods are broadly classified into **Direct** (Clinical, Anthropometric, Biochemical, and Biophysical) and **Indirect**(Vital Statistics and Ecological factors).
