@@ -3,15 +3,7 @@ A **balanced diet** is a cornerstone of health and disease prevention. In Comm
 
 ---
 
-### **I. Definition and Introduction**
-
-- **Definition:** A balanced diet provides all essential nutrients in the correct proportions to maintain health, promote growth, and protect against disease.
-- **The "Triple Burden":** Failure to maintain a balanced diet leads to malnutrition, which includes undernutrition (deficiencies), micronutrient deficiencies (hidden hunger), and overnutrition (obesity).
-- **Standard Basis:** In India, current recommendations are often based on the **"My Plate for the Day"** concept for a **2000 Kcal** intake, as formulated by ICMR-NIN Hyderabad.
-
----
-
-### **II. Components of a Balanced Diet** ★ Important Exam Point
+![[Pasted image 20260825161931.png]]
 
 The components of a diet are classified as "Nutrient Agents." These are essential for the physiological and metabolic functions of the human body.
 
@@ -55,7 +47,7 @@ Dietary goals are formulated to prevent chronic Non-Communicable Diseases (NCDs)
 
 ---
 
-**II. Medical Conditions Where Prudent Diet is Applied**
+## **II. Medical Conditions Where Prudent Diet is Applied**
 
 **1. Coronary Heart Disease (CHD)** ★ Important Exam Point
 
