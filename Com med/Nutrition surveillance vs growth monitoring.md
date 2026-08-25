@@ -1,5 +1,4 @@
 [[NUTRITION]]  
-. In Community Medicine, it serves as a critical tool for "Community Diagnosis," allowing health administrators to identify high-risk groups and evaluate the impact of interventions like ICDS.
 
 ---
 
