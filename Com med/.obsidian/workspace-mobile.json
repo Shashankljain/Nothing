@@ -53,10 +53,14 @@
             "id": "e2cd4b047cc726a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Food guide pyramid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Food guide pyramid"
             }
           },
           {
@@ -167,6 +171,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Food guide pyramid.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
