@@ -53,12 +53,12 @@ Dietary goals are formulated to prevent chronic Non-Communicable Diseases (NCDs)
 
 - **Why:** Diet is the principal preventive strategy for CHD.
 - **How:** High levels of serum cholesterol and saturated fats are judged to be causal for myocardial infarction.
-- **Action:** Replacing saturated fats with polyunsaturated fats (like soybean or sunflower oil) and increasing potassium-rich foods helps mitigate risk.
+- **Action:** Replacing saturated fats with ==polyunsaturated fats== (like soybean or sunflower oil) and increasing ==potassium-rich== foods helps mitigate risk.
 
 **2. Hypertension**
 
 - **Why:** High salt intake (7–8 g/day) is a major determinant of raised blood pressure.
-- **Action:** The **DASH (Dietary Approaches to Stop Hypertension)** eating plan is a specific form of a prudent diet. It emphasizes fruits, vegetables, and low-fat dairy while reducing sodium.
+- **Action:** The **==DASH== (Dietary Approaches to Stop Hypertension)** eating plan is a specific form of a prudent diet. It emphasizes fruits, vegetables, and low-fat dairy while reducing sodium.
 - **Impact:** A prudent diet combined with weight reduction can lower systolic BP by **5–20 mmHg per 10 kg** of weight loss.
 
 **3. Type 2 Diabetes Mellitus**
