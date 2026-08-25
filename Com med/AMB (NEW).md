@@ -3,16 +3,16 @@
 The **Anemia Mukt Bharat (AMB)** strategy, originally launched in **2018** as part of the POSHAN Abhiyaan, has undergone a major transformation in **June 2026**. It is now formally renamed the **Anemia Mukt Bharat Abhiyaan**, shifting from a purely preventive supplementation model to a comprehensive, case-based management approach centred on **Testing, Treatment, and Digital Tracking**.
 
 ---
-
+![[Pasted image 20260825113107.jpg]]
 ### **I. The Core Shift: From 6x6x6 to 7x7x7 Framework** ★ Important Exam Point
 
 The most significant update is the expansion of the strategic matrix to include a seventh component in each category to address early-life vulnerabilities and improve accountability.
 
-|**Category**|**The Original 6 (2018)**|**The New 7th Addition (2026)**|
-|:--|:--|:--|
-|**Beneficiaries**|1. Children (6–59m)2. Children (5–9y)3. Adolescents (10–19y)4. Women of Reproductive Age (WRA)5. Pregnant Women6. Lactating Mothers|**7. Low Birth Weight (LBW) Infants (0–6 months):** Targeted to break the intergenerational cycle at the earliest stage.|
-|**Interventions**|1. Prophylactic IFA2. Deworming3. BCC (Solid Body, Smart Mind)4. Digital Testing & Treatment5. Food Fortification6. Addressing Non-nutritional causes|**7. "Eating Right" Approach:** Promoting daily consumption of iron-rich, protein-rich, and Vitamin C-rich diversified diets through community mobilization (**Jan Chetna**).|
-|**Institutional Mechanisms**|1. Intra-ministerial coordination2. National AMB Unit3. National Centre of Excellence (NCEAR-A)4. Inter-ministerial Convergence5. Supply Chain Strengthening6. AMB Dashboard|**7. Digitally Integrated M&E Framework:**Convergence of data from JANANI, RBSK, and U-WIN portals into a unified **AMB Abhiyaan Portal**.|
+| **Category**                 | **The Original 6 (2018)**                                                                                                                                                    | **The New 7th Addition (2026)**                                                                                                                                               |
+| :--------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Beneficiaries**            | 1. Children (6–59m)2. Children (5–9y)3. Adolescents (10–19y)4. Women of Reproductive Age (WRA)5. Pregnant Women6. Lactating Mothers                                          | **7. Low Birth Weight (LBW) Infants (0–6 months):** Targeted to break the intergenerational cycle at the earliest stage.                                                      |
+| **Interventions**            | 1. Prophylactic IFA2. Deworming3. BCC (Solid Body, Smart Mind)4. Digital Testing & Treatment5. Food Fortification6. Addressing Non-nutritional causes                        | **7. "Eating Right" Approach:** Promoting daily consumption of iron-rich, protein-rich, and Vitamin C-rich diversified diets through community mobilization (**Jan Chetna**). |
+| **Institutional Mechanisms** | 1. Intra-ministerial coordination2. National AMB Unit3. National Centre of Excellence (NCEAR-A)4. Inter-ministerial Convergence5. Supply Chain Strengthening6. AMB Dashboard | **7. Digitally Integrated M&E Framework:**Convergence of data from JANANI, RBSK, and U-WIN portals into a unified **AMB Abhiyaan Portal**.                                    |
 
 ---
 
@@ -39,8 +39,8 @@ The Abhiyaan has transitioned from the previous T3 approach (Test, Treat, Talk) 
 
 A major recent update in public health policy is the **omission of anaemia prevalence data** from the **NFHS-6 (2023-24)**factsheet.
 
-- **The Reason:** The Health Ministry disputed the previous NFHS-5 data (which showed rising anaemia), arguing that the **capillary blood method (finger-prick)** used in NFHS overestimates anaemia by diluting samples with interstitial fluid.
-- **The New Standard:** Future anaemia estimations will be provided by the **Diet and Biomarkers Survey in India (DABS-I)** conducted by ICMR-NIN, which uses **venous blood sampling** (the global gold standard) for higher diagnostic accuracy.
+- **The Reason:** The Health Ministry disputed the previous NFHS-5 data (which showed rising anaemia), arguing that the **==capillary blood method (finger-prick)==** used in NFHS overestimates anaemia by ==diluting== ==samples== with interstitial fluid.
+- **The New Standard:** Future anaemia estimations will be provided by the **Diet and Biomarkers Survey in India (==DABS-I)*==* conducted by ICMR-NIN, which uses **==venous blood sampling==** (the global gold standard) for higher diagnostic accuracy.
 
 ---
 

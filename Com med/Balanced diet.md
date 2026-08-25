@@ -3,15 +3,7 @@ A **balanced diet** is a cornerstone of health and disease prevention. In Comm
 
 ---
 
-### **I. Definition and Introduction**
-
-- **Definition:** A balanced diet provides all essential nutrients in the correct proportions to maintain health, promote growth, and protect against disease.
-- **The "Triple Burden":** Failure to maintain a balanced diet leads to malnutrition, which includes undernutrition (deficiencies), micronutrient deficiencies (hidden hunger), and overnutrition (obesity).
-- **Standard Basis:** In India, current recommendations are often based on the **"My Plate for the Day"** concept for a **2000 Kcal** intake, as formulated by ICMR-NIN Hyderabad.
-
----
-
-### **II. Components of a Balanced Diet** ★ Important Exam Point
+![[Pasted image 20260825161931.png]]
 
 The components of a diet are classified as "Nutrient Agents." These are essential for the physiological and metabolic functions of the human body.
 
@@ -55,18 +47,18 @@ Dietary goals are formulated to prevent chronic Non-Communicable Diseases (NCDs)
 
 ---
 
-**II. Medical Conditions Where Prudent Diet is Applied**
+## **II. Medical Conditions Where Prudent Diet is Applied**
 
 **1. Coronary Heart Disease (CHD)** ★ Important Exam Point
 
 - **Why:** Diet is the principal preventive strategy for CHD.
 - **How:** High levels of serum cholesterol and saturated fats are judged to be causal for myocardial infarction.
-- **Action:** Replacing saturated fats with polyunsaturated fats (like soybean or sunflower oil) and increasing potassium-rich foods helps mitigate risk.
+- **Action:** Replacing saturated fats with ==polyunsaturated fats== (like soybean or sunflower oil) and increasing ==potassium-rich== foods helps mitigate risk.
 
 **2. Hypertension**
 
 - **Why:** High salt intake (7–8 g/day) is a major determinant of raised blood pressure.
-- **Action:** The **DASH (Dietary Approaches to Stop Hypertension)** eating plan is a specific form of a prudent diet. It emphasizes fruits, vegetables, and low-fat dairy while reducing sodium.
+- **Action:** The **==DASH== (Dietary Approaches to Stop Hypertension)** eating plan is a specific form of a prudent diet. It emphasizes fruits, vegetables, and low-fat dairy while reducing sodium.
 - **Impact:** A prudent diet combined with weight reduction can lower systolic BP by **5–20 mmHg per 10 kg** of weight loss.
 
 **3. Type 2 Diabetes Mellitus**
