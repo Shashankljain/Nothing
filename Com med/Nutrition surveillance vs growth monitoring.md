@@ -1,7 +1,4 @@
-[[NUTRITION]]  refer ONE NOTES
-**Nutritional Surveillance** is a continuous and systematic process of data collection, analysis, and interpretation to monitor the nutritional status of a population and provide a basis for action to improve nutrition. In Community Medicine, it serves as a critical tool for "Community Diagnosis," allowing health administrators to identify high-risk groups and evaluate the impact of interventions like ICDS.
-
----
+[[NUTRITION]]  
 
 ### **I. Definition and Core Concept**
 
