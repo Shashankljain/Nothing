@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,7 +167,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lathyrism.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -223,9 +222,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "497d991ef6b4db77",
+  "active": "e2cd4b047cc726a5",
   "lastOpenFiles": [
     "Lathyrism.md",
+    "Pasted image 20260825133629.png",
     "Food toxicity.md",
     "IDD.md",
     "Pasted image 20260825130853.png",
@@ -251,7 +251,6 @@
     "SDG.md",
     "Blindness.md",
     "Vision 2020.md",
-    "Pasted image 20260814124256.jpg",
     "NCCP.md",
     "NRHM.md",
     "Nlep 2.md",
@@ -260,7 +259,6 @@
     "NACP (Different).md",
     "Case finding tool.md",
     "ICTC.md",
-    "Malaria.md",
     "RCH.canvas",
     "Untitled.base",
     "BGS Road 9.m4a",
