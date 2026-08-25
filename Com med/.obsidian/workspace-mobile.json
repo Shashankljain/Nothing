@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,6 +153,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Vit A.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -208,7 +209,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "e2cd4b047cc726a5",
+  "active": "a1081eb2e5e9e6ec",
   "lastOpenFiles": [
     "Egg-a reference protein.md",
     "Vit A.md",
