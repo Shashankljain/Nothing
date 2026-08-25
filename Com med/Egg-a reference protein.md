@@ -15,7 +15,7 @@ The egg is a powerhouse of nutrients, providing high-quality macronutrients and 
 
 - **Protein Content:** A single hen’s egg weighing approximately **60 g** contains **6 g of protein,6g of Fat,30mg of Calcium,1.5mg of iron — 70kal energy **
 - **Type of Protein:** The primary protein found in the egg white is **ovalbumin**.
-- **Nutrient Profile:** Egg contains almost all essential nutrients required by the body, with two notable exceptions: **carbohydrates** and **Vitamin C**.
+- **Nutrient Profile:** Egg contains ==almost== all essential nutrients required by the body, with two notable exceptions: **==carbohydrates==** and **==Vitamin== C**.
 
 ---
 
