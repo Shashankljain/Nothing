@@ -39,8 +39,8 @@ The Abhiyaan has transitioned from the previous T3 approach (Test, Treat, Talk) 
 
 A major recent update in public health policy is the **omission of anaemia prevalence data** from the **NFHS-6 (2023-24)**factsheet.
 
-- **The Reason:** The Health Ministry disputed the previous NFHS-5 data (which showed rising anaemia), arguing that the **capillary blood method (finger-prick)** used in NFHS overestimates anaemia by diluting samples with interstitial fluid.
-- **The New Standard:** Future anaemia estimations will be provided by the **Diet and Biomarkers Survey in India (DABS-I)** conducted by ICMR-NIN, which uses **venous blood sampling** (the global gold standard) for higher diagnostic accuracy.
+- **The Reason:** The Health Ministry disputed the previous NFHS-5 data (which showed rising anaemia), arguing that the **==capillary blood method (finger-prick)==** used in NFHS overestimates anaemia by ==diluting== ==samples== with interstitial fluid.
+- **The New Standard:** Future anaemia estimations will be provided by the **Diet and Biomarkers Survey in India (==DABS-I)*==* conducted by ICMR-NIN, which uses **==venous blood sampling==** (the global gold standard) for higher diagnostic accuracy.
 
 ---
 
