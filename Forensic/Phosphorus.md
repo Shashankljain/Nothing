@@ -3,7 +3,7 @@
 
 **Basic Concepts & Classification** 📚
 
-**Definition**
+ **Definition**
 
 **Phosphorus poisoning** is the acute or chronic toxicity resulting from the systemic absorption or local tissue exposure to elemental phosphorus, a highly active non-metallic protoplasmic toxicant.
 
@@ -17,9 +17,9 @@ Phosphorus exists in several allotropic forms, primarily **White (Yellow) Phosph
          ┌─────────────────────────────┴─────────────────────────────┐
          ▼                                                           ▼
  [White / Yellow Allotrope]                                  [Red / Amorphous Allotrope]
- • Caxy, waxy, highly toxic [3, 4]                       • Non-luminous, low toxicity [3, 5]
- • Spontaneous ignition in air [3]                         • Ignites only at >260°C [5]
- • Garlic-like odor & taste [3]                            • Odorless & tasteless [5]
+ • Caxy, waxy, highly toxic [3, 4]                       • Non-luminous, low                                                                  toxicity [3, 5]
+ • Spontaneous ignition in air [3]                         • Ignites only at                                                                     >260°C [5]
+ • Garlic-like odor & taste [3]                            • Odorless &                                                                     tasteless [5]
 ```
 
 ---
@@ -28,18 +28,18 @@ Phosphorus exists in several allotropic forms, primarily **White (Yellow) Phosph
 
 ★ **Important Exam Point:** Recreating this classification table in university exams is highly favored by examiners to demonstrate conceptual clarity.
 
-|**Feature**|**White (Yellow) Phosphorus** 🟡|**Red (Amorphous) Phosphorus** 🔴|
-|---|---|---|
-|**Color & Form**|White or yellow; crystalline, waxy, translucent.|Reddish-brown; amorphous or crystalline, opaque.|
-|**Solubility in Water**|Very low (~3 mg/L).|Insoluble.|
-|**Organic Solvents**|Highly soluble.|Insoluble.|
-|**Odor & Taste**|Characteristic garlic-like odor and taste.|Odorless and tasteless.|
-|**Chemiluminescence**|Luminous in the dark.|Non-luminous.|
-|**Ignitability**|Inflammable; spontaneous ignition in air at room temperature.|Non-inflammable; ignites only at temperatures >260°C.|
-|**Reaction with Alkali**|Produces highly toxic phosphine gas.|None.|
-|**Toxicity**|**Highly toxic** (Protoplasmic poison).|Low toxicity.|
-|**Commercial Uses**|Fertilizers, insecticides, rodenticides (e.g., Ratol paste), incendiary bombs, fireworks.|Matchbox striking strips.|
-|**Storage Standard**|Must be kept submerged under water to prevent contact with oxygen.|Stored open in dry containers.|
+| **Feature**              | **White (Yellow) Phosphorus** 🟡                                                          | **Red (Amorphous) Phosphorus** 🔴                     |
+| ------------------------ | ----------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| **Color & Form**         | White or yellow; crystalline, waxy, translucent.                                          | Reddish-brown; amorphous or crystalline, opaque.      |
+| **Solubility in Water**  | Very low (~3 mg/L).                                                                       | Insoluble.                                            |
+| **Organic Solvents**     | Highly soluble.                                                                           | Insoluble.                                            |
+| **Odor & Taste**         | Characteristic garlic-like odor and taste.                                                | Odorless and tasteless.                               |
+| **Chemiluminescence**    | Luminous in the dark.                                                                     | Non-luminous.                                         |
+| **Ignitability**         | Inflammable; spontaneous ignition in air at room temperature.                             | Non-inflammable; ignites only at temperatures >260°C. |
+| **Reaction with Alkali** | Produces highly toxic phosphine gas.                                                      | None.                                                 |
+| **Toxicity**             | **Highly toxic** (Protoplasmic poison).                                                   | Low toxicity.                                         |
+| **Commercial Uses**      | Fertilizers, insecticides, rodenticides (e.g., Ratol paste), incendiary bombs, fireworks. | Matchbox striking strips.                             |
+| **Storage Standard**     | Must be kept submerged under water to prevent contact with oxygen.                        | Stored open in dry containers.                        |
 
 ---
 
@@ -68,11 +68,11 @@ Phosphorus exists in several allotropic forms, primarily **White (Yellow) Phosph
                                    ▼
                  [Acute Periportal Hepatic Necrosis]
                                    │
-         ┌─────────────────────────┴─────────────────────────┐
-         ▼                                                   ▼
+         ┌─────────────────────────┴─────────────────────────┐dueto renal cause
+         ▼                                                   ▼ 
 [Acute Hepatic Insufficiency]                       [Secondary Hypocalcemia]
- • Steatosis & Jaundice [6, 9]                    • Prolonged QT & Arrhythmias [9, 11]
- • Coagulopathy [9]                                 • Carpopedal spasm & tetany [11]
+ • Steatosis & Jaundice [6, 9]                    • Prolonged QT & Arrhythmias 
+ • Coagulopathy [9]                                 • Carpopedal spasm &                                                                tetany [11]
 ```
 
 - **Protoplasmic Toxicity:** Phosphorus interferes directly with cellular oxidation pathways, arresting metabolic processes and leading to cell necrosis (_necrobiosis_), primarily targeting the **periportal region of the liver**.
@@ -94,11 +94,11 @@ The clinical progression of acute phosphorus ingestion follows three distinct st
 
 1. **First Stage (1/2 hour to 6 hours post-ingestion):**
     - Intense burning pain in the mouth, throat, and abdomen, accompanied by severe vomiting and diarrhea.
-    - The breath, vomitus, and feces have a **distinct garlic-like odor**.
+    - The breath, vomitus, and feces (**Smoky stool syndrome**) have a **distinct garlic-like odor**.
     - ★ **Important Exam Point: Luminescent "Smoking" Vomitus:** The vomitus and feces are highly diagnostic because they **glow in the dark (phosphorescence)** and release white fumes ("smoke") on contact with air.
 2. **Second Stage (1 to 4 days):**
     - A deceptive, **symptom-free latent period** where the patient feels clinically better.
-    - However, subclinical toxic hepatitis is silently spreading, marked by progressively elevating liver transaminases.
+    - However, subclinical toxic hepatitis is silently spreading, marked by progressively ==elevating liver transaminases==.
 3. **Third Stage (Multiorgan Failure):**
     - **Gastrointestinal:** Reappearance of severe vomiting, diarrhea, and hematemesis.
     - **Hepatic Failure:** Tender, enlarged hepatomegaly, profound jaundice, and pruritus.
@@ -115,7 +115,7 @@ The clinical progression of acute phosphorus ingestion follows three distinct st
 - Seen after years of industrial exposure to phosphorus fumes.
 - ★ **Phossy Jaw (Lucifer's Jaw / Glass Jaw):**
     - Begins as a severe toothache near a decayed tooth, progressing to swelling of the jaw and loosening of teeth.
-    - Necrosis of the gums ensues, leading to chronic osteomyelitis and sequestration of the mandible.
+    - Necrosis of the gums ensues, leading to chronic ==osteomyelitis== and ==sequestration== of the mandible.
     - Multiple draining sinuses form, discharging highly offensive, **foul-smelling pus**.
 - Constitutional symptoms include severe cachexia, weight loss, anemia, cirrhosis, and jaundice.
 
@@ -134,8 +134,8 @@ The clinical progression of acute phosphorus ingestion follows three distinct st
          ┌──────────────────────────┴──────────────────────────┐
          ▼                                                     ▼
 [Pass Nasogastric Tube Carefully]                        [Skin Burns]
- • Keep tube outer end dipped                           • Wash with soap & water.
-   in water (Prevents explosion/fire) [12]             • Avoid greasy/oily dressings! [13]
+ • Keep tube outer end dipped                           • Wash with soap &                                                                 water.
+   in water (Prevents explosion/fire) [12]             • Avoid greasy/oily                                                              dressings! [13]
                                                         • Debride particles [14].
                                     │
                                     ▼
