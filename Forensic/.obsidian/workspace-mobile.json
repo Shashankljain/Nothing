@@ -31,8 +31,7 @@
               "title": "Phosphorus"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +124,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Phosphorus.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -179,9 +177,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "1b81168c5fd5b8e7",
+  "active": "217b368a85bedf93",
   "lastOpenFiles": [
     "Phosphorus.md",
+    "image 39.jpg",
+    "image 38.jpg",
     "Non metallic.md",
     "Sodomy.md",
     "Untitled 1.md",
@@ -215,9 +215,6 @@
     "Toxicology.base",
     "Surrogate mother.md",
     "MLI of impotence and sterility.md",
-    "Male infertility.md",
-    "AI.md",
-    "image 30.jpg",
-    "image 29.jpg"
+    "Male infertility.md"
   ]
 }

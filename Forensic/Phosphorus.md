@@ -114,6 +114,7 @@ The clinical progression of acute phosphorus ingestion follows three distinct st
 
 - Seen after years of industrial exposure to phosphorus fumes.
 - ★ **Phossy Jaw (Lucifer's Jaw / Glass Jaw):**
+- ![[image 38.jpg]]
     - Begins as a severe toothache near a decayed tooth, progressing to swelling of the jaw and loosening of teeth.
     - Necrosis of the gums ensues, leading to chronic ==osteomyelitis== and ==sequestration== of the mandible.
     - Multiple draining sinuses form, discharging highly offensive, **foul-smelling pus**.
@@ -136,11 +137,11 @@ The clinical progression of acute phosphorus ingestion follows three distinct st
 [Pass Nasogastric Tube Carefully]                        [Skin Burns]
  • Keep tube outer end dipped                           • Wash with soap &                                                                 water.
    in water (Prevents explosion/fire) [12]             • Avoid greasy/oily                                                              dressings! [13]
-                                                        • Debride particles [14].
-                                    │
+                                                        • Debride particles 
+                                    │                   Wash with CuSO4,AgNO3
                                     ▼
                       [Specific Gastrointestinal Wash]
- • Gastric Lavage: 0.2% Copper Sulfate (No longer routine due to Cu toxicity) [12].
+ • Gastric Lavage: 
  • KMnO4 (1:5000): Washes to oxidize phosphorus (No longer recommended) [12].
  • Modern Standard: Multiple-Dose Activated Charcoal [13].
                                     │
@@ -181,3 +182,4 @@ The clinical progression of acute phosphorus ingestion follows three distinct st
 **III. Viscera Preservation**
 
 - ★ **Important Exam Point: PAPPA Mnemonic:** Elemental phosphorus is highly soluble in organic solvents. Under the **PAPPA** rule, **Rectified Spirit is strictly contraindicated** as a preservative. The harvested viscera must be preserved solely in a **Saturated solution of common salt**
+![[image 39.jpg]]
