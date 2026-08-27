@@ -217,12 +217,12 @@ Stomach & Intestines      Longitudinal half          Urine
 
 1. **Immediate Cessation:** Completely remove the patient from the source of mercury contamination or occupational exposure.
 2. **Specific Chelation Therapy:**
-    - ★ **N-Acetyl Penicillamine:** The **chelator of choice** for chronic mercury poisoning. It successfully mobilizes and clears heavy metals from the nervous tissues and kidneys.
+    - ★ **==N-Acetyl Penicillamine==:** The **chelator of choice** for chronic mercury poisoning. It successfully mobilizes and clears heavy metals from the nervous tissues and kidneys.
     - **DMPS (Dimerval):** A highly effective, water-soluble analogue of BAL, given IV or orally to improve neurological features.
-    - **DMSA (Succimer):** An orally effective hydrophilic chelating agent (10 mg/kg every 8 hours) that enhances urinary excretion with minimal nephrotoxicity.
-    - _Warning on BAL:_ BAL (British Anti-Lewisite) is the traditional chelator for _acute_ inorganic mercury envenomation. However, it is **avoided in chronic organic mercury poisoning** because it can redistribute mercury to the brain, worsening neurotoxicity.
-3. **Adsorbent Resins:** **Polythiol resins** are administered orally to bind excreted methyl mercury in the bile, preventing enterohepatic recirculation.
-4. **Supportive Care:** Maintain strict oral hygiene to treat gingivostomatitis, administer demulcent drinks, and utilize saline purgatives.
+    - **DMSA (Succimer):** An ==orally== effective hydrophilic chelating agent (10 mg/kg every 8 hours) that enhances urinary excretion with minimal nephrotoxicity.
+    - _==Warning on BAL:==_ BAL (British Anti-Lewisite) is the traditional chelator for _acute_ inorganic mercury envenomation. However, it is **avoided in chronic organic mercury poisoning** because it can redistribute mercury to the brain, worsening neurotoxicity.
+3. **Adsorbent Resins:** **==Polythiol resins==** are administered orally to bind excreted methyl mercury in the bile, preventing enterohepatic recirculation.
+4. **Supportive Care:** Maintain strict ==oral hygien==e to treat gingivostomatitis, administer demulcent drinks, and utilize saline purgatives.
 
 ---
 
@@ -237,8 +237,8 @@ Stomach & Intestines      Longitudinal half          Urine
 #### **II. Internal Findings**
 
 - **The Brain (Organic Mercury Target):**
-    - The brain is predominantly affected, showing marked **cerebral edema and localized gyral atrophy**.
-    - ★ **Histopathology:** Marked atrophy of both cerebral hemispheres, selectively involving the **calcarine cortex (explaining tunnel vision)** and the pre- and post-central gyri (explaining sensory-motor ataxia).
+    - The brain is predominantly affected, showing marked **cerebral edema and localized ==gyral atrophy==**.
+    - ★ **Histopathology:** Marked atrophy of both cerebral hemispheres, selectively involving the **==calcarine cortex== (explaining tunnel vision)** and the ==pre- and post-central gyri== (explaining sensory-motor ataxia).
 - **The Kidneys (Inorganic Mercury Target):**
     - Swollen, congested, and pale.
     - ★ **Histopathology:** Extensive **acute proximal tubular damage** (ATN), glomerular degeneration, or membranous glomerulopathy.
@@ -283,76 +283,5 @@ Stomach & Intestines      Longitudinal half          Urine
 
 ---
 
-### **Diagram References in Sources** 🎨
 
-- **Gautam Biswas, Chapter 38, Page 564 (Figure 38.1A & B):** Demonstrates:
-    - _Figure A:_ **Elemental mercury** as a heavy, waxy, silvery liquid.
-    - _Figure B:_ **Mercuric sulfide** as a bright red, non-poisonous crystalline powder (vermilion).
-- **Gautam Biswas, Chapter 38, Page 566 (Specific Box):** Illustrates the **"H-G-M-E-R-C-U-R-I" clinical diagnostic mnemonic** and Kussmaul's original mirror-making firm neuropsychiatric descriptions.
 
----
-
-### **Viva Questions & Model Answers** 💬
-
-**Q1: Why is BAL avoided in the treatment of chronic organic mercury poisoning?**  
-**Answer:** BAL (Dimercaprol) is highly lipophilic. In chronic organic mercury poisoning, administering BAL forms unstable complexes that easily cross the Blood-Brain Barrier, **redistributing heavy mercury into the brain parenchyma**and catastrophically worsening neurotoxicity. Therefore, N-acetyl penicillamine, DMSA, or DMPS are preferred.
-
-**Q2: What is "Mercurialentis" and what is its effect on vision?**  
-**Answer:** Mercurialentis is a bilateral eye change seen in chronic mercury vapor exposure, characterized by a brownish deposit of mercury on the anterior lens capsule, giving a **malt-brown reflex** under a slit-lamp. It is highly diagnostic but has **no effect on visual acuity**.
-
-**Q3: How do you differentiate a mercury-induced blue line on the gums from a lead-induced Burtonian line?**  
-**Answer:** While both present as blue-gray lines, the mercury line is typically more prominent along the **lower jaw gingival margin**, whereas the lead-induced Burtonian line is classically found on the **upper jaw gingival margin** near dirty or carious teeth.
-
----
-
-### **Common Mistakes Students Make** ❌
-
-- **Writing "Perform Gastric Lavage" for elemental mercury:** Students often recommend lavage or emetics when a patient swallows a thermometer. Elemental mercury is **not absorbed from the GIT**, so lavage is completely unnecessary.
-- **Using BAL as the chronic chelator:** Writing BAL as the default chelator. Remember, **N-acetyl penicillamine is the specific chelator of choice for chronic mercury**.
-- **Using Rectified Spirit for Hair Samples:** Writing that hair or nail clippings are preserved in spirit. These keratinized samples **must be sent dry** with no preservative.
-
----
-
-### **End With** ⏱️
-
-#### **A. Quick Revision Notes**
-
-1. **Mercury Forms:** Elemental (vapor toxic), Inorganic (kidney toxic), Organic (brain toxic).
-2. **The Triad:** Coarse **Intention Tremors** \(\rightarrow\) **Erethism** (shyness/rage) \(\rightarrow\) **Gingivitis** (blue gum line).
-3. **Pink Disease:** Idiosyncratic child allergy to mercury, peeling palms/soles.
-4. **Minamata:** Fish-borne methyl mercury; ataxia, paresthesia, **tunnel vision**.
-5. **Antidote:** **N-Acetyl Penicillamine**.
-6. **Preservation:** Organs in **Saturated Salt**; hair/nails **dry**.
-
-#### **B. One-Page University Exam Summary**
-
-- **Pathophysiology:** Inactivates cellular enzymes by covalently binding to **sulfhydryl (-SH) groups**.
-- **Clinical Picture:** Summarized by the **HG MERCURI mnemonic**. Highlights include Danbury tremors (concussion mercurilis), Kussmaul's erethism, acrodynia in children, and Minamata disease in seafood consumers.
-- **Autopsy Findings:** Cerebral hemisphere atrophy (calcarine cortex necrosis), **leathery slate-colored stomach**, and acute proximal tubular necrosis.
-- **Diagnostics:** **Neutron Activation Analysis (NAA)** of hair is the gold standard.
-- **Legislation (2023):** **Section 123 BNS** (poison hurt), **Section 286 BNS** (negligent storage), and **Section 33 BNSS**(mandatory reporting) [Image 22].
-
----
-
-### **Model University Answers** 📝
-
-#### **2 Marks: Define Mercurialentis.**
-
-Mercurialentis is a bilateral eye change caused by chronic exposure to mercury vapor, characterized by a brownish deposit of mercury through the cornea onto the anterior lens capsule. It presents as a pathognomonic **malt-brown reflex** under slit-lamp examination and has **no effect on visual acuity**.
-
-#### **5 Marks: Describe "Mercurial Erethism".**
-
-1. **Definition:** A specific neuropsychiatric syndrome seen in chronic inorganic mercury toxicity, first described by Kussmaul in mirror-making workers.
-2. **Clinical Symptoms:**
-    - _Anxiety and Timidity:_ Marked shyness, loss of confidence, shunning of public spaces, and a persistent feeling of embarrassment.
-    - _Autonomic Dysfunction:_ Characterized by **frequent, intense blushing**.
-    - _Behavioral changes:_ Sudden, uncontrollable attacks of explosive rage and irritability.
-    - _Cognitive features:_ Progressive amnesia, insomnia, and terminal delusions or suicidal melancholia.
-
-#### **10 Marks: Discuss Chronic Mercurial Poisoning (Hydrargyrism) under the following headings: Pathophysiology, Clinical Features, Specific Chelation Therapy, and Autopsy Findings including relevant 2023 legal codes.**
-
-_(Utilize the detailed headings, the **HG MERCURI Mnemonic**, the calcarine cortex brain pathology, the use of **N-acetyl penicillamine**, and the **BNS 123 / BNSS 33** codes provided in this guide to write a comprehensive, high-scoring 10-mark essay.)_
-
----
-
-📊 _I can generate a 10-question practice quiz focusing on heavy metal toxicities (Mercury, Arsenic, and Lead) to help you test your memory before the university exam!_
