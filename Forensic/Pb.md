@@ -110,7 +110,7 @@ To confirm chronic lead exposure, the following high-yield tests must be ordered
     - **Cabot's Rings:** Bluish-purple thread-like mitotic spindle remnants in RBCs.
     - **Ringed Sideroblasts:** Visible in bone marrow aspirates, showing iron-laden mitochondria forming a ring around erythroblast nuclei.
 2. **Blood Lead Levels (BLL):**
-    - **The Gold Standard for recent exposure:** Diagnostic toxicity is confirmed at blood lead levels **>10 ug/dL in adults** and **>5 ug/dL in children**. Severe toxicity is defined as BLL **>70 ug/dL**.
+    - **The ==Gold Standard== for recent exposure:** Diagnostic toxicity is confirmed at blood lead levels **>10 ug/dL in adults** and **>5 ug/dL in children**. Severe toxicity is defined as BLL **>70 ug/dL**.
 3. **Urine Biochemistry:**
     - Coproporphyrin III levels in urine **>15 ug/dL**.
     - Elevated **\(\delta\)-aminolevulinic acid (\(\delta\)-ALA)** in urine **>5 mg/L**.
