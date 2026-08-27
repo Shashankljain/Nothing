@@ -168,7 +168,7 @@ Chelation is mandatory for adults with BLL **>70 ug/dL** and children with enc
 
 - **Encephalopathy Crisis:** Administer **IV Calcium Gluconate (10 mL of 10%)** or Calcium Chloride to shift circulating lead from the blood into bone storage, reducing active brain exposure.
 - **Cerebral Edema:** Administer **IV Mannitol** to lower intracranial pressure.
-- _Warning:_ A **spinal tap is strictly contraindicated** in patients with lead encephalopathy, as sudden decompression can precipitate fatal cerebral herniation.
+- _Warning:_ A **==spinal tap is strictly contraindicated==** in patients with lead encephalopathy, as sudden decompression can precipitate fatal cerebral herniation.
 - **Active Mobilization:** In chronic recovery phases, **Ammonium Chloride (1 g daily)** is administered to intentionally mobilize lead from bone stores back into the blood for rapid urinary chelation and excretion.
 
 ---
@@ -183,8 +183,8 @@ Chelation is mandatory for adults with BLL **>70 ug/dL** and children with enc
 
 #### **II. Internal Findings**
 
-- **Stomach & Intestines:** Mucosa is swollen, thinned, heavily congested, and grayish in color.
-    - _Note:_ Ingestion of **lead tetraoxide (red lead)** leaves a characteristic **reddish color** on the gastric mucosa.
+- **Stomach & Intestines:** Mucosa is ==swollen==, thinned, heavily congested, and ==grayish== in color.
+    - _Note:_ Ingestion of **lead tetraoxide (red lead)** leaves a characteristic **==reddish== color** on the gastric mucosa.
 - **Brain:** Characteristically pale, severely swollen with flattened gyri and narrowed sulci due to severe edema.
     - _Histopathology:_ **PAS-positive pink homogenous material** in the perivascular spaces along with cell necrosis.
 - **Liver & Kidneys:** Shrunken, contracted, and extremely hard.

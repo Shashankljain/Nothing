@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chelating agent.md",
+                "file": "Acute arsenic poison.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chelating agent"
+              "title": "Acute arsenic poison"
             }
           },
           {
@@ -48,9 +48,18 @@
               "icon": "lucide-file",
               "title": "Pb"
             }
+          },
+          {
+            "id": "99caa6ed095b95b3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +152,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Pb.md",
+            "file": "Acute arsenic poison.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -197,10 +206,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "8021d06397010966",
+  "active": "217b368a85bedf93",
   "lastOpenFiles": [
     "Chelating agent.md",
-    "Pb.md",
     "Pb.md",
     "Phosphorus.md",
     "image 39.jpg",
