@@ -34,10 +34,10 @@
 ★ **Important Exam Point: Manner of Exposure**
 
 - **Occupational Hazard:** Common in painters (**Painter's Colic**), plumbers, glass blowers, battery workers, and printers.
-- **Accidental:** In children who put lead-containing items in their mouths (**Pica**) or ingest lead paint dust.
+- qqqqq**Accidental:** In children who put lead-containing items in their mouths (**Pica**) or ingest lead paint dust.
 - **Homicidal/Suicidal:** Rare, due to the slow onset of symptoms.
 - **Abortifacient:** Lead oleate or red lead is sometimes used locally to procure criminal abortion.
-- **Cattle Poison:** Used alone or mixed with arsenic to kill livestock.
+- **Cattle Poison:** Used alone or mixed with q to  killlivestock.
 
 ---
 
