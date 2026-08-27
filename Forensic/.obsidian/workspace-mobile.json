@@ -49,8 +49,7 @@
               "title": "Chronic arsenic poison"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +142,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Chelating agent.md",
+            "file": "Hg.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -197,8 +196,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "1b81168c5fd5b8e7",
+  "active": "217b368a85bedf93",
   "lastOpenFiles": [
+    "Chelating agent.md",
     "Phosphorus.md",
     "Hg.md",
     "Chronic arsenic poison.md",
@@ -209,7 +209,6 @@
     "Pasted image 20260827215719.png",
     "Pasted image 20260827215200.png",
     "Pasted image 20260827194300.png",
-    "Chelating agent.md",
     "image 39.jpg",
     "image 38.jpg",
     "Non metallic.md",
