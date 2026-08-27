@@ -35,9 +35,24 @@ In India, rodenticide poisoning is a major medical and forensic concern due to i
 
 #### **B. Zinc Phosphide**
 
-- **Properties:** A dark gray powder used as a common household rodenticide.
-- **Action:** Similar to AlPhos, it releases phosphine gas in acidic conditions.
-- **Features:** Metallic taste, vomiting, and garlicky smell.
+**Mechanism & Pathophysiology**
+
+On contact with water and hydrochloric acid ($HCl$) inside the stomach, Zinc Phosphide undergoes rapid chemical breakdown to release **highly toxic phosphine gas (**$PH_3$**)**18more_horiz.
+
+$$\text{Zn}_3\text{P}_2 + 6\text{HCl} \rightarrow 3\text{ZnCl}_2 + 2\text{PH}_3\uparrow$$
+
+Phosphine blocks mitochondrial cellular respiration, leading to systemic metabolic acidosis, profound hypotension, and ARDS.
+
+**Clinical Features** 🩺
+
+- Intense, painful gastrointestinal irritation, vomiting, and diarrhea25.
+- ★ **Special Smell:** The breath and vomitus have a highly diagnostic **musty, fishy, or garlic-like odor** [304, 305, 308, Image 22].
+- Progressive metabolic acidosis, refractory shock, laryngeal edema, cardiac arrhythmias, convulsions, and terminal coma26.
+
+**Management** 🏥
+
+- **Lavage:** Stomach wash using an **alkaline solution (Sodium Bicarbonate)** to reduce the acid-catalyzed release of phosphine gas9.
+- **Supportive:** IV fluids, vasopressors, and correction of acidosis.
 
 #### **C. Yellow Phosphorus (Ratol Paste)**
 
