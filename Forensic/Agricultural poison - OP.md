@@ -90,7 +90,7 @@ The clinical features are dominated by the **Cholinergic Toxidrome** and can b
     - **Plasma Cholinesterase (Butyrylcholinesterase):** Rapidly declines but is less specific.
     - **Red Blood Cell Acetylcholinesterase (True AChE):** Highly specific; a reduction below 30% of baseline levels confirms severe poisoning.
 3. **Chemical Screening:**
-    - ★ **Furfuraldehyde Test:** Performed as a bedside screen on gastric aspirates to detect the presence of carbamates or organophosphates.
+    - ★ **==Furfuraldehyde Test==:** Performed as a bedside screen on ==gastric aspirates== to detect the presence of carbamates or organophosphates.
     - Thin-Layer Chromatography (TLC) and GC-MS are used to identify and quantify the specific compound.
 
 ---
@@ -111,10 +111,10 @@ The clinical features are dominated by the **Cholinergic Toxidrome** and can b
                                      │
          ┌───────────────────────────┴───────────────────────────┐
          ▼                                                       ▼
- [ATROPINE (Muscarinic Blocker)]                         [OXIMES (Reactivators)]
-• Competitively blocks ACh at receptors.                 • Breaks covalent phosphorus bond.
-• Dilates pupils, dries secretions.                      • Restores active AChE enzymes.
-• Dose: 2-5 mg IV repeating for Atropinisation.          • Dose: Pralidoxime (PAM) 1-2 g IV.
+ [ATROPINE (Muscarinic Blocker)]                         [OXIMES                                                                      (Reactivators)]
+• Competitively blocks ACh at receptors.                 • Breaks covalent                                                               phosphorus bond.
+• Dilates pupils, dries secretions.                      • Restores active                                                                  AChE enzymes.
+• Dose: 2-5 mg IV repeating for Atropinisation.          • Dose: Pralidoxime                                                                (PAM) 1-2 g IV.
 ```
 
 1. ★ **Atropine (Pharmacological Antagonist):** [Image 13]
