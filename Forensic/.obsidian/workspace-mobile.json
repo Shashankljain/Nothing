@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chronic arsenic poison.md",
+                "file": "Hg.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chronic arsenic poison"
+              "title": "Hg"
             }
           },
           {
@@ -152,7 +152,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Chronic arsenic poison.md",
+            "file": "Hg.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -208,8 +208,9 @@
   },
   "active": "217b368a85bedf93",
   "lastOpenFiles": [
-    "Pasted image 20260827194300.png",
+    "Hg.md",
     "Chronic arsenic poison.md",
+    "Pasted image 20260827194300.png",
     "Chelating agent.md",
     "Pb.md",
     "Phosphorus.md",
@@ -243,7 +244,6 @@
     "Drug dependance.md",
     "image 33.jpg",
     "image 32.jpg",
-    "image 31.jpg",
     "Toxicology.base",
     "Surrogate mother.md"
   ]
