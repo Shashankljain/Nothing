@@ -203,8 +203,8 @@ Stomach & Intestines      Longitudinal half          Urine
 
 ### **Investigations & Diagnostics** 🔬
 
-1. **Neutron Activation Analysis (NAA):** The **gold standard and most sensitive method** to detect, identify, and measure trace levels of mercury sequestered in the hair and nail keratin matrix.
-2. **Atomic Absorption Spectroscopy (AAS):** Used to quantitatively measure and confirm mercury concentrations in blood, urine, and parenchyma samples.
+1. **Neutron Activation Analysis (NAA):** The **==gold standard and most sensitive== method** to detect, identify, and measure trace levels of mercury sequestered in the hair and nail keratin matrix.
+2. **Atomic Absorption Spectroscopy (AAS):** Used to quantitatively measure and ==confirm== mercury concentrations in blood, urine, and parenchyma samples.
 3. **Diagnostic Thresholds:**
     - **Blood Mercury:** Levels **>10 ug/dL** indicate significant toxicity.
     - **24-Hour Urine Excretion:** Levels **>20 ug/L** (or >50 ug/L as per US federal biological exposure index) are diagnostic of chronic toxicity.
