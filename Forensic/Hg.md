@@ -100,7 +100,7 @@ Mercury binds covalently to cell membrane and mitochondrial **sulfhydryl (\(-\t
     - **Skin:** Pinkish, morbilliform acral rashes accompanied by painful, extensive **desquamation (peeling) of the palms and soles**.
     - **Vasomotor Changes:** Flushing, intense itching, and localized swelling.
     - **Systemic:** Profound weakness, extreme irritability, photophobia, insomnia, persistent tachycardia, and **sustained hypertension**.
-
+![[Pasted image 20260827215200.png]]
 #### **II. Minamata Disease**
 
 - **Etiology:** Chronic **organic mercury poisoning** caused by the ingestion of fish and shellfish heavily contaminated with methyl mercury.
