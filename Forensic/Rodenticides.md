@@ -67,6 +67,48 @@ Phosphine blocks mitochondrial cellular respiration, leading to systemic metabol
 - **Symptoms:** Choking sensation, **Risus sardonicus** (evil grin), and **Opisthotonus** (arch-like hyperextension of the body).
 - **Key Feature:** The patient remains **fully conscious** during convulsions.
 
+## E.Thallium
+**THALLIUM POISONING (THALLIUM SULFATE / ACETATE)** 🧬🩹
+
+**Mechanism & Pathophysiology**
+
+Thallium is a highly toxic heavy metal10. It acts as a **potassium (**$K^+$**) analog** (due to its identical atomic radius), entering cells via active transport and disrupting potassium-dependent enzyme systems, denaturing ribosomal structures, and halting aerobic cellular respiration11.
+
+**Clinical Features: The Diagnostic Pentad** 🩺
+
+- **Gastrointestinal:** Painful gastroenteritis, with **obstinate constipation** being more characteristic than diarrhea27.
+- **Neurological:** Wallerian "dying-back" painful sensory-motor neuropathy (severe burning pain and hyperesthesia in the feet)1112.
+- ★ **Dermatological (Alopecia):** Rapid **loss of head, body, and axillary hair** starting 10–14 days after exposure12.
+    - ★ **Pathognomonic Eyebrow Sign:** There is complete **sparing of the medial part of the eyebrows** because these hair follicles are in a ==resting phase== and ==resist thallium uptake==1213.
+- ★ **Nail Changes:** Transverse **white lines of opacity** across the nails (**Aldrich-Mees' lines**)40.
+- ★ **Hair Root Banding:** Microscopic exam of the hair shows a characteristic **brownish-black pigment band** close to the root1241.
+
+**Management & Antidotes** 🏥
+
+```
+                           [THALLIUM INGESTION]
+                                    │
+                                    ▼
+                [Specific Gastrointestinal Decontamination]
+               • Lavage with 1% Sodium / Potassium Iodide
+                 (Precipitates insoluble thallium iodide)
+                                    │
+                                    ▼
+                    [★ SPECIFIC CHEMICAL ANTIDOTE]
+               • Administer **PRUSSIAN BLUE** (Berlin Blue)
+                 (250 mg/kg/day orally in divided doses)
+                                    │
+         ┌──────────────────────────┴──────────────────────────┐
+         ▼                                                     ▼
+ [Prussian Blue Mechanism]                            [★ CRITICAL WARNING]
+Sequesters thallium in the gut                       **BAL & EDTA are                                                                     strictly**
+and blocks enterohepatic absorption.                **CONTRAINDICATED**                                                            (Worsens brain deposition).
+```
+
+- **Lavage:** Lavage with **1% Sodium or Potassium Iodide** to precipitate thallium as completely insoluble, non-absorbable thallium iodide14.
+- ★ **Prussian Blue (Antidote of Choice):** Binds thallium in the gastrointestinal tract, preventing its enterohepatic reabsorption and safely excreting it in feces1314.
+- ★ **Contraindication:** **BAL and EDTA are strictly contraindicated** as they redistribute thallium into the brain, catastrophically worsening neurotoxicity14.
+
 ---
 
 #### **3. Medico-Legal Importance**
