@@ -1,5 +1,5 @@
 ### **Rodenticides (Rat Poisons)**
-[[Agricultural poison]]
+[[Agricultural poison - OP]]
 ---
 
 #### **1. Basic Concepts**
