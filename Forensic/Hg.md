@@ -109,6 +109,7 @@ Mercury binds covalently to cell membrane and mitochondrial **sulfhydryl (\(-\t
     - **Paresthesia** of the lips, hands, and feet.
     - ★ **Constriction of visual fields (tunnel vision)**.
     - Marked **ataxia (unsteady gait)**, tremors, dysarthria (slurred speech), deafness, and global intellectual deterioration.
+- 
 
 #### **III. Mercurialentis**
 
