@@ -11,10 +11,14 @@
             "id": "217b368a85bedf93",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Chelating agent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chelating agent"
             }
           },
           {
@@ -195,6 +199,7 @@
   },
   "active": "8021d06397010966",
   "lastOpenFiles": [
+    "Chelating agent.md",
     "Pb.md",
     "Pb.md",
     "Phosphorus.md",
@@ -214,7 +219,6 @@
     "Sign,symptoms,complication, tx.md",
     "Sign,symptoms.md",
     "Corrosive.md",
-    "Chelating agent.md",
     "Drug automatism.md",
     "Dilate + constrict.md",
     "Classify posion and factors affecting it.md",
