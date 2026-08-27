@@ -131,7 +131,7 @@ Chronic arsenic poisoning is divided into four distinct, progressive clinical st
 #### **Stage 4: Neurological & Systemic Disturbances**
 
 - **Peripheral Neuropathy:** Symmetrical ==sensory-motor polyneuritis== presenting in a **"glove-and-stocking" distribution** (causes paresthesia, tingling, and motor weakness). It mimics _Guillain-Barré syndrome_.
-- ★ **Erythromelalgia:** Painful swelling, burning, and redness of the face and four limbs.
+- ★ **Erythromelalgia:** ==Painful== swelling, burning, and redness of the ==face== and four ==limbs==.
 - ★ **Blackfoot Disease:** ==Symmetrical== peripheral ==vascular== ==insufficiency== and vasospasm, leading to dry gangrene and spontaneous amputation of the lower limbs.
 - **Cirrhosis:** Hepatomegaly progressing to portal fibrosis and liver failure.
 - **Hematological:** Bone marrow suppression causing microcytic hypochromic anemia, thrombocytopenia, and leukemia.
