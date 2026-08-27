@@ -11,14 +11,10 @@
             "id": "217b368a85bedf93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pb.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pb"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -34,8 +30,23 @@
               "icon": "lucide-file",
               "title": "Phosphorus"
             }
+          },
+          {
+            "id": "8021d06397010966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pb.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pb"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,8 +193,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "217b368a85bedf93",
+  "active": "8021d06397010966",
   "lastOpenFiles": [
+    "Pb.md",
+    "Pb.md",
     "Phosphorus.md",
     "image 39.jpg",
     "image 38.jpg",
@@ -219,7 +232,6 @@
     "image 31.jpg",
     "Toxicology.base",
     "Surrogate mother.md",
-    "MLI of impotence and sterility.md",
-    "Male infertility.md"
+    "MLI of impotence and sterility.md"
   ]
 }
