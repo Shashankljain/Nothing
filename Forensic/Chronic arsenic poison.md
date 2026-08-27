@@ -88,7 +88,7 @@
 
 #### **Mechanism of Action**
 
-Arsenic is a **cellular protoplasmic poison**. It uncouples mitochondrial oxidative phosphorylation and actively binds to the **sulfhydryl (\(-SH\)) groups** of cellular enzymes, especially **pyruvate dehydrogenase**. This decreases the conversion of pyruvate to acetyl CoA, halts the citric acid cycle, and severely depletes the production of cellular adenosine triphosphate (ATP).
+Arsenic is a **cellular protoplasmic poison**. It uncouples mitochondrial oxidative phosphorylation and actively binds to the **sulfhydryl (\(-SH\)) groups** of cellular enzymes, especially **==pyruvate dehydrogenase==**. This decreases the conversion of pyruvate to acetyl CoA, halts the citric acid cycle, and severely depletes the production of cellular adenosine triphosphate (ATP).
 
 #### **Etiological Classification of Chronic Exposure**
 
