@@ -1,4 +1,4 @@
-### **Acute Arsenic Poisoning**
+
 [[Metallic poisoning]]
 ---
 

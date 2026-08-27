@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acute arsenic poison.md",
+                "file": "Chronic arsenic poison.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Acute arsenic poison"
+              "title": "Chronic arsenic poison"
             }
           },
           {
@@ -152,7 +152,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Acute arsenic poison.md",
+            "file": "Chronic arsenic poison.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
