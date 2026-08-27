@@ -11,10 +11,14 @@
             "id": "217b368a85bedf93",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Difference between arsenic poisoningand cholera..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Difference between arsenic poisoningand cholera."
             }
           },
           {
@@ -138,6 +142,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Difference between arsenic poisoningand cholera..md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -193,6 +198,7 @@
   },
   "active": "217b368a85bedf93",
   "lastOpenFiles": [
+    "Hatters shakes.md",
     "Hg.md",
     "Chelating agent.md",
     "Phosphorus.md",
