@@ -11,14 +11,10 @@
             "id": "217b368a85bedf93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hg.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hg"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -142,7 +138,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Hg.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -198,8 +193,8 @@
   },
   "active": "217b368a85bedf93",
   "lastOpenFiles": [
-    "Chelating agent.md",
     "Hg.md",
+    "Chelating agent.md",
     "Phosphorus.md",
     "Chronic arsenic poison.md",
     "Pb.md",
