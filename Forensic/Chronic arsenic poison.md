@@ -22,7 +22,8 @@
 
 1. **Inorganic Arsenic:**
     - _Arsenic Trioxide (White Arsenic):_ Most toxic form, used in rodenticides, weed-killers, and insecticides.
-    - _Copper Arsenite (Scheele's Green) / Copper Acetoarsenite (Paris Green):_ Used as coloring agents.
+    - _Copper Arsenite (Scheele's Green) 
+    - Copper Acetoarsenite (Paris Green): Used as coloring agents.(painting )
     - _Sodium and Potassium Arsenate:_ Agricultural pesticides.
 2. **Organic Arsenic / Sulfides:**
     - _Yellow Orpiment (Hartal / Arsenic Trisulfide)_ and _Red Realgar (Arsenic Disulfide):_ Used as depilatories and pigments.
