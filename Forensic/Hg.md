@@ -70,8 +70,8 @@ Mercury binds covalently to cell membrane and mitochondrial **sulfhydryl (\(-\t
 - **Progression:** Tremors begin first in the **hands**, then gradually progress to the **lips and tongue**, and finally involve the **arms and legs**.
 - **Characteristics:** The tremor is moderately coarse and interspersed by sudden, jerky movements every few minutes.
 - **Intention Phenomenon:** A patient may show minimal or no tremors while performing a routine, accustomed job. However, the moment they realize they are being observed, they begin to **shake violently**.
-- **Clinical Impact:** In advanced stages, the patient cannot dress themselves, write legibly, or walk properly.
-- **Terminology:** Also called **hatter's shakes** or **glass blower's shakes** due to historical industrial exposures. The most severe, violent form of these tremors is clinically termed **concussion mercurilis**.
+- **Clinical Impact:** In advanced stages, the patient cannot dress themselves, write legibly, or walk properly. (**==Concussio mercuralis==**)
+- **Terminology:** Also called **==hatter's shakes** or **glass blower's shakes==** due to historical industrial exposures. The most severe, violent form of these tremors is clinically termed **concussion mercurilis**.
 
 #### **2. Mercurial Erethism (Neuropsychiatric Syndrome)**
 
