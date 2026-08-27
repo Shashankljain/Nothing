@@ -122,7 +122,7 @@ Chronic arsenic poisoning is divided into four distinct, progressive clinical st
 
 - ★ **==Raindrop Pigmentation (Melanosis)==:** Muddy-brown, speckled pigmentation on the skin flexures, temples, neck, and chest, resembling "raindrops on dust".
 - **Leucomelanosis:** Macular areas of depigmentation (white spots) appearing on a hyperpigmented skin base.
-- ★ **Hyperkeratosis:** Thickening, hardening, and scaling of the skin on the **palms and soles**.
+- ★ **==Hyperkeratosis==:** Thickening, hardening, and scaling of the skin on the **palms and soles**.
 - ★ **Aldrich-Mees' Lines:** Pathognomonic transverse **white bands or lines of opacity** running across the finger and toe nails.
 - Alopecia (loss of hair) and brittle nails.
 
