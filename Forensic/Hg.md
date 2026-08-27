@@ -89,7 +89,7 @@ Mercury binds covalently to cell membrane and mitochondrial **sulfhydryl (\(-\t
 - ★ **Gingival Pigment Line:** Deposition of bluish-gray sulfide granules along the gum margins of the lower jaw, forming a characteristic **blue-gray line**.
 
 ---
-
+![[Pasted image 20260827220430.png]]
 ### **Other Specific Mercury Syndromes & Diseases** 🚨
 
 #### **I. Acrodynia (Pink Disease / Feer's Disease)**
@@ -115,8 +115,8 @@ Mercury binds covalently to cell membrane and mitochondrial **sulfhydryl (\(-\t
 
 - A unique ophthalmic marker of chronic exposure to mercury vapor.
 - Characterized by a bilateral, **brownish-colored deposit of mercury** through the cornea onto the anterior lens capsule.
-- ★ **Diagnostic Sign:** Slit-lamp examination reveals a pathognomonic **malt-brown reflex** from the anterior lens capsule.
-- _Note:_ It has **no effect on visual acuity**.
+- ★ **Diagnostic Sign:** Slit-lamp examination reveals a pathognomonic **==malt-brown reflex==** from the anterior lens capsule.
+- _==Note:_ It has **no effect on visual acuity**.==
 
 ---
 

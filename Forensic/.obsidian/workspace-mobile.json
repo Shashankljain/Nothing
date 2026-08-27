@@ -36,27 +36,17 @@
             }
           },
           {
-            "id": "8021d06397010966",
+            "id": "99caa6ed095b95b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pb.md",
+                "file": "Chronic arsenic poison.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pb"
-            }
-          },
-          {
-            "id": "99caa6ed095b95b3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Chronic arsenic poison"
             }
           }
         ]
@@ -208,16 +198,17 @@
   },
   "active": "217b368a85bedf93",
   "lastOpenFiles": [
+    "Chronic arsenic poison.md",
+    "Pb.md",
+    "Phosphorus.md",
+    "Hg.md",
+    "Pasted image 20260827220430.png",
     "Pasted image 20260827215758.png",
     "Pasted image 20260827215747.png",
     "Pasted image 20260827215719.png",
     "Pasted image 20260827215200.png",
-    "Hg.md",
-    "Chronic arsenic poison.md",
     "Pasted image 20260827194300.png",
     "Chelating agent.md",
-    "Pb.md",
-    "Phosphorus.md",
     "image 39.jpg",
     "image 38.jpg",
     "Non metallic.md",
@@ -238,8 +229,6 @@
     "Dilate + constrict.md",
     "Classify posion and factors affecting it.md",
     "Pasted image 20260824145517.png",
-    "image 36.jpg",
-    "image 35.jpg",
     "Antidote.md",
     "Role of Dr.md",
     "Elimination of absorbed poison.md",
