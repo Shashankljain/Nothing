@@ -13,40 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Difference between arsenic poisoningand cholera..md",
+                "file": "Agricultural poison.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Difference between arsenic poisoningand cholera."
-            }
-          },
-          {
-            "id": "1b81168c5fd5b8e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chelating agent.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chelating agent"
-            }
-          },
-          {
-            "id": "99caa6ed095b95b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chronic arsenic poison.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chronic arsenic poison"
+              "title": "Agricultural poison"
             }
           }
         ]
@@ -142,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Difference between arsenic poisoningand cholera..md",
+            "file": "Agricultural poison.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -198,11 +170,12 @@
   },
   "active": "217b368a85bedf93",
   "lastOpenFiles": [
+    "Difference between arsenic poisoningand cholera..md",
+    "Chelating agent.md",
+    "Chronic arsenic poison.md",
     "Hatters shakes.md",
     "Hg.md",
-    "Chelating agent.md",
     "Phosphorus.md",
-    "Chronic arsenic poison.md",
     "Pb.md",
     "Pasted image 20260827220430.png",
     "Pasted image 20260827215758.png",
@@ -234,7 +207,6 @@
     "Role of Dr.md",
     "Elimination of absorbed poison.md",
     "Household poison + preservation.md",
-    "Drug dependance.md",
     "Toxicology.base"
   ]
 }
