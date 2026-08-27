@@ -126,11 +126,13 @@ Chronic arsenic poisoning is divided into four distinct, progressive clinical st
 - ★ **Aldrich-Mees' Lines:** Pathognomonic transverse **white bands or lines of opacity** running across the finger and toe nails.
 - Alopecia (loss of hair) and brittle nails.
 
+![[Pasted image 20260827194300.png]]
+
 #### **Stage 4: Neurological & Systemic Disturbances**
 
-- **Peripheral Neuropathy:** Symmetrical sensory-motor polyneuritis presenting in a **"glove-and-stocking" distribution** (causes paresthesia, tingling, and motor weakness). It mimics _Guillain-Barré syndrome_.
+- **Peripheral Neuropathy:** Symmetrical ==sensory-motor polyneuritis== presenting in a **"glove-and-stocking" distribution** (causes paresthesia, tingling, and motor weakness). It mimics _Guillain-Barré syndrome_.
 - ★ **Erythromelalgia:** Painful swelling, burning, and redness of the face and four limbs.
-- ★ **Blackfoot Disease:** Symmetrical peripheral vascular insufficiency and vasospasm, leading to dry gangrene and spontaneous amputation of the lower limbs.
+- ★ **Blackfoot Disease:** ==Symmetrical== peripheral ==vascular== ==insufficiency== and vasospasm, leading to dry gangrene and spontaneous amputation of the lower limbs.
 - **Cirrhosis:** Hepatomegaly progressing to portal fibrosis and liver failure.
 - **Hematological:** Bone marrow suppression causing microcytic hypochromic anemia, thrombocytopenia, and leukemia.
 - **Carcinomas:** Predisposes to squamous cell carcinoma, basal cell carcinoma, Bowen's disease of the skin, and transitional cell bladder cancer.
