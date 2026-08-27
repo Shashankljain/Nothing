@@ -75,25 +75,25 @@ Lead exerts its cellular toxicity through three primary metabolic pathways:
 ★ **Important Exam Point:** Recreating this classic textbook mnemonic guarantees maximum marks in long-answer university questions.
 
 - **A – Anemia / Anorexia / Arthralgia / Abortion / Atrophy (Optic):**
-    - _Anemia:_ Characterized by normocytic-normochromic or microcytic-hypochromic anemia with karyorrhexis (nuclear rupture) and Cabot's rings. RBC count falls to **3.5 million/dL** and hemoglobin to **6.5 g%**.
-    - _Abortion:_ Lead causes spasmodic contractions of the uterus and uterine atrophy, leading to spontaneous abortions in pregnant females.
-    - _Optic Atrophy:_ Widespread demyelination can cause permanent blindness.
+    - _Anemia:_ Characterized by normocytic-normochromic or microcytic-hypochromic anemia with ==karyorrhexis== (nuclear rupture) and ==Cabot=='==s== ==rings==. RBC count falls to **3.5 million/dL** and hemoglobin to **6.5 g%**.
+    - _Abortion:_ Lead causes spasmodic contractions of the uterus and uterine ==atrophy==, leading to spontaneous abortions in pregnant females.
+    - _Optic Atrophy:_ Widespread ==demyelination== can cause permanent blindness.
 - **B – Basophilic Stippling / Burton's Line:**
     - ★ **Punctate Basophilia (Basophilic Stippling):** Dark blue, pinhead-sized spots in the cytoplasm of RBCs representing aggregated ribosomes. Visible in **25% of patients**.
-    - ★ **Burton's Gingival Line:** A distinctive **stippled blue line on the gingival surface** near dirty/carious teeth. It is formed when circulating lead reacts with hydrogen sulfide (\(\text{H}_2\text{S}\)) produced by oral bacteria to deposit insoluble lead sulfide granules. (Other metals causing blue lines: Mercury, copper, silver, bismuth, iron).
+    - ★ **Burton's Gingival Line:** A distinctive **==stippled blue line on the gingival surface==** near dirty/carious teeth. It is formed when circulating lead reacts with hydrogen sulfide (\(\text{H}_2\text{S}\)) produced by oral bacteria to deposit insoluble lead sulfide granules. (Other metals causing blue lines: Mercury, copper, silver, bismuth, iron **MICL**).
 - **C – Colic / Constipation / Cerebral Edema:**
-    - **Saturnine Colic:** Agonizing, spasmodic, paroxysmal abdominal pain, classically worse at night. The abdomen is rigid; **pain is characteristically relieved by applying deep pressure**.
+    - **Saturnine Colic:** Agonizing, spasmodic, paroxysmal abdominal pain, classically ==worse at night==. The abdomen is rigid; **pain is characteristically relieved by applying ==deep pressure==**.
     - **Constipation:** Common and almost always precedes colic.
 - **D – Drop (Wrist drop / Foot drop):**
-    - ★ **Lead Palsy:** A late motor neuropathy affecting heavily fatigued muscles, selectively demyelinating motor nerves while **sparing sensory fibers**. It causes bilateral **wrist drop** (extensor digitorum paralysis) or **foot drop** (anterior tibial paralysis).
+    - ★ **Lead Palsy:** A late motor neuropathy affecting heavily fatigued muscles, selectively ==demyelinating motor== nerves while **sparing sensory fibers**. It causes bilateral **wrist drop** (extensor digitorum paralysis) or **foot drop** (anterior tibial paralysis).
 - **E – Encephalopathy / Emaciation / Erectile Dysfunction:**
-    - **Lead Encephalopathy:** Highly common in children. Due to monoamine oxidase (MAO) inactivation by lead binding to its -SH radical. Presents as projectile vomiting, ataxia, raised intracranial pressure (ICP), papilledema, delirium, convulsions, coma, and death due to massive cerebral edema.
+    - **Lead Encephalopathy:** Highly common in children. Due to ==monoamine oxidase (MAO) inactivation== by lead binding to its -SH radical. Presents as projectile vomiting, ataxia, raised intracranial pressure (ICP), papilledema, delirium, convulsions, coma, and death due to massive cerebral edema.
     - _Erectile Dysfunction:_ Widespread gonadal dysfunction and loss of libido in males.
 - **F – Facial Pallor / Foul Breath / Fanconi Syndrome:**
     - **Facial Pallor:** The **earliest clinical sign**, visible primarily around the mouth, caused by capillary vasospasm.
-    - **Fanconi Syndrome:** Acute lead nephropathy characterized by proximal renal tubular damage leading to abnormal excretion of glucose, phosphates, and amino acids **without protein** in the urine.
+    - **Fanconi Syndrome:** Acute lead nephropathy characterized by proximal renal tubular damage leading to abnormal excretion of ==glucose, phosphates, and amino acids== **without protein** in the urine.
 - **G – Gonadal Dysfunction / Gout-like Picture (Saturnine Gout):**
-    - Chronic tubulointerstitial nephritis impairs uric acid excretion, causing hyperuricemia and **Saturnine Gout**.
+    - Chronic tubulointerstitial nephritis impairs ==uric acid excretion==, causing hyperuricemia and **Saturnine Gout**.
 - **H – Hypertension / Headache / Hallucinations:**
     - Lead causes vascular constriction and arteriolar degeneration, leading to sustained hypertension.
 - **I – Infertility / Insomnia / Irritability:**
