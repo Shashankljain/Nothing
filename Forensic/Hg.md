@@ -77,7 +77,7 @@ Mercury binds covalently to cell membrane and mitochondrial **sulfhydryl (\(-\t
 
 - First described by **Kussmaul** in workers in mirror-manufacturing firms exposed to inorganic mercury.
 - It refers to a specific constellation of neuropsychiatric symptoms:
-    - **Emotional Instability:** Sudden, uncontrollable attacks of explosive anger and irritability.
+    - **Emotional Instability:** Sudden, uncontrollable attacks of explosive anger and irritability. (**==Mad hatters disease==**)
     - **Social Withdrawal:** Extreme **shyness, timidity, shunning of public spaces, and a constant feeling of embarrassment** or loss of confidence.
     - **Autonomic Features:** Frequent, intense **blushing** at the slightest provocation.
     - **Cognitive & Mood Changes:** Insomnia, severe anxiety, progressive **amnesia (memory loss)**, suicidal melancholia, and terminal delusions or hallucinations.
