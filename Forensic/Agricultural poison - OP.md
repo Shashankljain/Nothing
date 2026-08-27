@@ -97,6 +97,9 @@ The clinical features are dominated by the **Cholinergic Toxidrome** and can b
 
 ### **Management & Treatment Protocol** 🏥
 
+
+![[Pasted image 20260828004034.png]]
+
 #### **I. Immediate Resuscitation & Decontamination**
 
 1. **Airway & Breathing (Highest Priority):** Secure a patent airway. Continuous suctioning of excessive bronchorrhea is vital before initiating mechanical ventilation.
