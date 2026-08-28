@@ -78,7 +78,7 @@ Cyanide is a classic protoplasmic poison that produces **Histotoxic Anoxia**.
                                    │
          ┌─────────────────────────┼─────────────────────────┐
          ▼                         ▼                         ▼
- [Step 1: Amyl Nitrite]     [Step 2: Sodium Nitrite]  [Step 3: Sodium Thiosulphate]
+ [Step 1: Amyl Nitrite] [Step 2: Sodium Nitrite]  [Step 3: Sodium Thiosulphate]
 • Inhaled physiological     • Administered IV to      • Administered IV to
   antagonist.           induce methemoglobin.     promote renal clearance.
 • Pulls cyanide away        • Creates methemoglobin   • Converts cyanide to
@@ -86,8 +86,8 @@ Cyanide is a classic protoplasmic poison that produces **Histotoxic Anoxia**.
 ```
 
 1. **Amyl Nitrite (Physiological Antagonist)**: Administered via inhalation (ampoules crushed in gauze held under the patient's nose) [342, Image 22]. It oxidizes hemoglobin to **methemoglobin**, which binds to circulating cyanide, freeing mitochondrial cytochromes.
-2. **Sodium Nitrite**: Administered as a 3% IV solution to sustain methemoglobin levels.
-3. **Sodium Thiosulphate**: Administered as a 25% IV solution. It acts as a sulfur donor for the mitochondrial enzyme _rhodanese_, which chemically converts toxic cyanide into non-toxic **thiocyanate**, safely excreted in the urine.
+2. **Sodium Nitrite**: Administered as a 3% IV solution to sustain ==methemoglobin== levels.
+3. **Sodium Thiosulphate**: Administered as a 25% IV solution. It acts as a sulfur donor for the mitochondrial enzyme _==rhodanese==_, which chemically converts toxic cyanide into non-toxic **thiocyanate**, safely excreted in the urine.
 4. ★ **The Best/Modern Antidote**: **Vitamin B12 (Hydroxocobalamin)** is considered the **best and safest antidote**[Image 22]. It directly binds to cyanide to form non-toxic **cyanocobalamin**, which is rapidly excreted by the kidneys, completely avoiding the risks of induced methemoglobinemia.
 
 ---
