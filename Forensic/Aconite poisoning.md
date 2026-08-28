@@ -10,7 +10,7 @@
 - **Active Principles:** The most potent alkaloids are **aconitine**, pseudoaconitine, and mesaconitine.
 - **Toxicokinetics (Mechanism):**
     - **Action:** It acts on **voltage-sensitive sodium channels**, first stimulating and then paralyzing the peripheral terminations of sensory and secretory nerves, the Central Nervous System (CNS), and the myocardium.
-    - ★ **Important Exam Point:** It does **not** affect the higher centers of the brain; therefore, the victim remains **fully conscious** until the very end.
+    - ★ **Important Exam Point:** It does **==not==** affect the higher centers of the brain; therefore, the victim remains **fully conscious** until the very end.
 
 ---
 
