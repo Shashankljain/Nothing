@@ -58,13 +58,7 @@ Cyanide is a classic protoplasmic poison that produces **Histotoxic Anoxia**.
 
 ### **Clinical Features (Signs & Symptoms)** 🩺
 
-- **Speed of Onset**: Fulminant or acute; symptoms appear within seconds to minutes.
-- ★ **Important Exam Point: Smell**: A highly characteristic **Bitter Almond odor** on the patient's breath and vomitus [352, 372, Image 22].
-- ★ **Important Exam Point: Pupillary Changes**: Widespread sympathetic stimulation causes **Mydriasis (dilated pupils)** [309, 373, Image 22].
-- **Skin and Mucosa**: Appearance of a distinctive **pink or bright red/brick red coloration** of the skin and mucous membranes [Image 22].
-- **Respiratory Distress**: Dyspnea, hyperventilation, gasping, and rapid respiratory failure due to paralysis of the respiratory center.
-- **CNS Manifestations**: Rapid transition from headache, giddiness, and confusion to tetanic convulsions, deep coma, and cardiorespiratory arrest.
-- **Frothy Secretions**: Fine, white, or pink frothy discharge from the mouth and nostrils [Image 22].
+![[image 41.jpg]]
 
 ---
 
@@ -73,9 +67,9 @@ Cyanide is a classic protoplasmic poison that produces **Histotoxic Anoxia**.
 #### **I. Decontamination & Stabilization Guidelines**
 
 1. **Airway & Breathing**: Administer **100% supplemental oxygen (6–8 L/min)**.
-2. ★ **Important Exam Point: Contraindication of Emetics**: Inducing vomiting is **strictly contraindicated** due to the rapid onset of CNS depression and seizures, which pose a high risk of lethal aspiration.
+2. ★ **Important Exam Point: Contraindication of Emetics**: Inducing vomiting is **strictly contraindicated** due to the rapid onset of CNS depression and seizures, which pose a high risk of lethal ==aspiration==.
 3. **Gastric Lavage**: Gastric lavage can be performed cautiously using **Potassium Permanganate (1:5000)**, which acts as a chemical antidote by oxidizing cyanide into less toxic cyanate.
-4. _Note on Charcoal_: Ionized cyanide salts are **poorly adsorbed** by activated charcoal, making standard charcoal of limited use unless co-ingestants are suspected.
+4. _Note on Charcoal_: ==Ionized cyanide== salts are **poorly adsorbed** by activated charcoal, making standard charcoal of limited use unless co-ingestants are suspected.
 
 #### **II. Specific Antidote Therapy (Lilly's Antidote / Triple Antidote)** [Image 22]
 
