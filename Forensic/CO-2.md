@@ -54,7 +54,7 @@ Decreases O2 carrying                            Increases affinity of          
 
 In a living patient, the clinical features of CO poisoning depend entirely on the percentage of Carboxyhemoglobin (COHb) in the blood:
 
-#### **I. Mild Exposure (10% to 20% COHb)**
+#### **I.Mild Exposure (10% to 20% COHb)**
 
 - Mild, dull frontal headache (often confused with tension headache or flu).
 - Lightheadedness, dizziness, nausea, vomiting, and generalized fatigue.
@@ -100,12 +100,12 @@ In a living patient, the clinical features of CO poisoning depend entirely on th
                                       │
          ┌────────────────────────────┴────────────────────────────┐
          ▼                                                         ▼
-  [Normobaric Oxygen (NBO)]                               [Hyperbaric Oxygen (HBO)]
- • Give 100% high-flow oxygen                            • Give 100% O2 at 2.5 to 3.0 atm
-   via non-rebreather mask.                                in a pressurized chamber.
- • Reduces COHb half-life from                           • Reduces COHb half-life from
-   4-5 hours to **80-90 minutes**.                         4-5 hours to **20-30 minutes**.
-                                                         • Directly dissolves O2 in plasma.
+  [Normobaric Oxygen (NBO)]                               [Hyperbaric Oxygen                                                                        (HBO)]
+ • Give 100% high-flow oxygen                  • Give 100% O2 at 2.5 to 3.0 atm
+   via non-rebreather mask.                        in a pressurized chamber.
+ • Reduces COHb half-life from                  • Reduces COHb half-life from
+   4-5 hours to **80-90 minutes**.              4-5 hours to **20-30 minutes**.
+                                            • Directly dissolves O2 in plasma.
 ```
 
 #### **II. Specific Therapeutic Guidelines**
@@ -116,11 +116,11 @@ In a living patient, the clinical features of CO poisoning depend entirely on th
 3. **★ Hyperbaric Oxygen Therapy (HBO) – The Gold Standard:**
     - Administered inside a pressurized chamber at **2.5 to 3.0 atmospheres (atm)**.
     - _Mechanism:_ HBO reduces the half-life of COHb to **20 to 30 minutes**. It physically dissolves enough oxygen directly into the blood plasma to sustain life without needing hemoglobin transport, and actively forces CO to dissociate from mitochondrial cytochrome oxidase.
-    - _Absolute Indications for HBO:_
-        - Unconsciousness, syncope, or coma.
-        - Seizures or acute neurological deficits.
-        - Blood **COHb level >25%** (or **>15% in pregnant women** to protect the highly vulnerable fetus).
-        - Active myocardial ischemia or severe metabolic acidosis.
+    - _`Absolute Indications for HBO:_`
+        - `Unconsciousness, syncope, or coma.`
+        - `Seizures or acute neurological deficits.`
+        - `Blood **COHb level >25%** (or **>15% in pregnant women** to protect the highly vulnerable fetus).`
+        - `Active myocardial ischemia or severe metabolic acidosis.`
 4. **Supportive Management:**
     - Administer **IV Mannitol** to treat severe cerebral edema.
     - Treat severe metabolic acidosis with slow **IV Sodium Bicarbonate**.
@@ -140,7 +140,7 @@ When a patient is brought dead or dies of suspected gas geyser CO poisoning, the
   [Police Reporting]          [No Death Certificate]       [Dying Declaration]
  • Mandated under            • NEVER issue a certificate  • Record statement if
    **Sec 33 BNSS, 2023**       for suspicious deaths.       patient is terminal
-   (suspicious death).       • Request autopsy.             (**Sec 26 BSA, 2023**).
+   (suspicious death).       • Request autopsy.             (**Sec 26 BSA)
 ```
 
 1. **★ No Death Certificate:** The doctor **must NOT issue a death certificate** or allow the body to be cremated/buried, as the cause of death is unnatural and suspicious.
