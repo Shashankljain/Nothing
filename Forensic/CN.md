@@ -41,7 +41,7 @@
          ┌─────────────────────────┴─────────────────────────┐
          ▼                                                   ▼
  [Anaerobic Metabolism]                             [Oxygenated Venous Blood]
-  • Severe Lactic Acidosis                           • Bright red / brick red skin
+  • Severe Lactic Acidosis                        • Bright red / brick red skin
   • Cellular ATP Arrest                                and postmortem staining
 ```
 
