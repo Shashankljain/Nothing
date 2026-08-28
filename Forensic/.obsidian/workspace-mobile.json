@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2bce668782d82a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CN"
-            }
-          },
-          {
-            "id": "08fb52c9957acf01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CO"
-            }
-          },
-          {
             "id": "95808e928fb3ca89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biological warfare.md",
+                "file": "Spinal poison.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Biological warfare"
-            }
-          },
-          {
-            "id": "7e42b026426425ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cardiac poison.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cardiac poison"
+              "title": "Spinal poison"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cardiac poison.md",
+            "file": "Spinal poison.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -211,18 +168,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "7e42b026426425ac",
+  "active": "95808e928fb3ca89",
   "lastOpenFiles": [
-    "Aconite poisoning.md",
+    "Biological warfare.md",
+    "CN.md",
+    "CO.md",
     "Cardiac poison.md",
+    "Aconite poisoning.md",
     "Asphyxiants.md",
     "War gases.md",
     "War.md",
-    "Biological warfare.md",
-    "CN.md",
     "image 41.jpg",
-    "CO.md",
-    "CO.md",
     "image 40.jpg",
     "Agricultural poison - OP.md",
     "Rodenticides.md",
