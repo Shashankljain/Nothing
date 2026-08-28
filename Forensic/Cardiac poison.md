@@ -50,7 +50,7 @@ Under the new criminal codes, the following provisions apply to cardiac poisonin
 
 #### **1. Aconite (Monk's Hood / Mitha Zaher)**
 
-- **Mechanism:** Acts on voltage-sensitive sodium channels, first stimulating and then paralyzing sensory and secretory nerves, the CNS, and the myocardium.
+- **Mechanism:** Acts on ==voltage-sensitive sodium channels==, first stimulating and then paralyzing sensory and secretory nerves, the CNS, and the myocardium.
 - **Clinical Features:**
     - **Tingling and Numbness:** Characteristic "bitter-sweet" taste followed by intense tingling and numbness of the tongue, mouth, and skin.
     - **Hippus (★ Important Exam Point):** Pupils alternately contract and dilate (also called pupillary athetosis).
@@ -60,7 +60,7 @@ Under the new criminal codes, the following provisions apply to cardiac poisonin
 
 #### **2. Digitalis (Foxglove)**
 
-- **Mechanism:** Inhibits the Na+/K+ ATPase enzyme in cardiac myocytes, increasing intracellular calcium and prolonging the diastolic period.
+- **Mechanism:** ==Inhibits== the Na+/K+ ATPase enzyme in cardiac myocytes, increasing intracellular calcium and prolonging the diastolic period.
 - **Clinical Features:**
     - **Ocular:** Blurring of vision and characteristic **yellow-green vision** (Xanthopsia).
     - **CVS:** Bradycardia, heart block, and extrasystoles.
