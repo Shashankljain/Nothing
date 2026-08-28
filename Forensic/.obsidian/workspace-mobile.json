@@ -35,8 +35,7 @@
               "title": "CO-2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CO-2.md",
+            "file": "CO.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,10 +182,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "08fb52c9957acf01",
+  "active": "b2bce668782d82a2",
   "lastOpenFiles": [
-    "image 40.jpg",
     "CO-2.md",
+    "image 40.jpg",
     "CO.md",
     "Agricultural poison - OP.md",
     "Rodenticides.md",
@@ -206,7 +205,6 @@
     "Pasted image 20260827215200.png",
     "Pasted image 20260827194300.png",
     "image 39.jpg",
-    "image 38.jpg",
     "Non metallic.md",
     "Sodomy.md",
     "Untitled 1.md",
