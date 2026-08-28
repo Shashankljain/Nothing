@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "Spinal poison"
             }
+          },
+          {
+            "id": "22d9295daef2f236",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "strychnine vs tetanus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "strychnine vs tetanus"
+            }
           }
         ]
       }
@@ -170,6 +184,8 @@
   },
   "active": "95808e928fb3ca89",
   "lastOpenFiles": [
+    "strychnine vs tetanus.md",
+    "Spinal poison.md",
     "Biological warfare.md",
     "CN.md",
     "CO.md",
@@ -205,7 +221,6 @@
     "Sign,symptom,feature,tx.canvas",
     "Vitriolage.md",
     "Gastric lavage.md",
-    "Autopsy- h2so4 vs phenol.md",
     "Toxicology.base"
   ]
 }
