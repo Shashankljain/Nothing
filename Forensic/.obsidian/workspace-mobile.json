@@ -53,14 +53,10 @@
             "id": "7e42b026426425ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aconite poisoning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aconite poisoning"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -157,7 +153,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Aconite poisoning.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -213,6 +208,7 @@
   },
   "active": "7e42b026426425ac",
   "lastOpenFiles": [
+    "Aconite poisoning.md",
     "Cardiac poison.md",
     "Asphyxiants.md",
     "War gases.md",
@@ -249,7 +245,6 @@
     "Vitriolage.md",
     "Gastric lavage.md",
     "Autopsy- h2so4 vs phenol.md",
-    "Oxalic acid.md",
     "Toxicology.base"
   ]
 }
