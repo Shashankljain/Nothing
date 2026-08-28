@@ -72,7 +72,7 @@ Cyanide is a classic protoplasmic poison that produces **Histotoxic Anoxia**.
 4. _Note on Charcoal_: ==Ionized cyanide== salts are **poorly adsorbed** by activated charcoal, making standard charcoal of limited use unless co-ingestants are suspected.
 
 #### **II. Specific Antidote Therapy (Lilly's Antidote / Triple Antidote)** [Image 22]
-
+ (**SATS**)
 ```
                        [CYANIDE ANTIDOTE REGIMEN]
                                    │
@@ -168,61 +168,3 @@ Cyanide is a classic protoplasmic poison that produces **Histotoxic Anoxia**.
 
 ---
 
-### **Viva Questions & Model Answers** 💬
-
-**Q1: Why does postmortem staining appear bright red/brick red in Cyanide poisoning?**  
-**Answer**: Cyanide inhibits mitochondrial cytochrome c oxidase, preventing cells from utilizing oxygen. As a result, the tissues do not extract oxygen from the blood, leaving the venous blood highly oxygenated (**oxyhemoglobin**), which imparts a bright red or brick red color to the dependent capillaries [112, 179, Image 22].
-
-**Q2: Why is the spleen specifically preserved in suspected cyanide deaths?**  
-**Answer**: Cyanide binds covalently and tightly to the hemoglobin inside red blood cells. The spleen acts as a dense reservoir of RBCs; therefore, it retains detectable levels of cyanide even in moderately decomposed or putrefied bodies, making it the superior solid organ for toxicological FSL analysis.
-
-**Q3: Why are oral emetics contraindicated in a living patient with Cyanide ingestion?**  
-**Answer**: Cyanide is a rapidly acting CNS poison that can cause sudden loss of consciousness and active convulsions within minutes. Inducing vomiting in a patient with a rapidly deteriorating mental status can lead to catastrophic aspiration pneumonitis and airway obstruction.
-
----
-
-### **Common Mistakes Students Make** ❌
-
-- **Writing "CO Poisoning" and "Cyanide Poisoning" Stain Colors Interchangeably**: Students often confuse the two. Remember: **Carbon Monoxide causes a Cherry-Red stain** [112, 353, 372, Image 22], whereas **Cyanide causes a Bright Red or Brick Red stain** [353, 372, Image 22].
-- **Using Spirit to Preserve Viscera**: Viscera in cyanide deaths must be preserved in a **Saturated solution of common salt**, not spirit.
-- **Forgetting to Cite Updated Laws**: Using old IPC or CrPC sections. Ensure you write the 2023 updates: **Section 123 BNS** and **Section 33 BNSS** [Image 22].
-
----
-
-### **Quick Last-Minute Revision Points** ⏱️
-
-1. **Type of Anoxia**: Histotoxic Anoxia.
-2. **Odor**: Bitter Almonds [352, 372, Image 22].
-3. **Pupils**: Dilated (Mydriasis) [309, 373, Image 22].
-4. **PM Staining**: Bright Red / Brick Red [353, 372, Image 22].
-5. **Autopsy Protocol**: Open **Cranium FIRST**. Preserve the **Spleen** and **Femoral Blood**.
-6. **Blood Preservative**: **Sodium Fluoride**.
-7. **Specific Antidotes**: Lilly's Antidote (Amyl Nitrite + Sodium Nitrite + Sodium Thiosulphate) [Image 22]. **Best: Vitamin B12 (Hydroxocobalamin)** [Image 22].
-8. **New Legal Codes**: **Section 123 BNS** (hurt by poison) and **Section 33 BNSS** (RMP reporting) [Image 22].
-
----
-
-### **Model University Answers** 📝
-
-#### **2 Marks: Define "Histotoxic Anoxia" and name its classic cause.**
-
-**Answer**: Histotoxic Anoxia is a condition where tissues and cells are completely unable to utilize oxygen for cellular respiration, despite the blood being fully oxygenated. It is caused by the inhibition of mitochondrial oxidative enzymes, and its classic cause is **acute cyanide poisoning**.
-
-#### **5 Marks: Describe the postmortem appearance and viscera preservation protocol in a fatal case of acute cyanide poisoning.**
-
-**Answer**:
-
-1. **External Appearance**: Features include **bright red or pink/brick red postmortem staining** [353, 372, Image 22], dilated pupils (**mydriasis**), a distinct **bitter almond odor**, and fine froth at the mouth and nose [Image 22].
-2. **Autopsy Dissection**: The **cranial cavity must be opened FIRST** to detect and document the volatile bitter almond smell from the brain.
-3. **Preservation Protocol**:
-    - Preserve the **spleen** intact (excellent reservoir of RBCs holding bound cyanide).
-    - Collect 10–20 mL of blood from the **femoral vein** and preserve with **sodium or potassium fluoride** (10 mg/mL).
-    - Preserve routine viscera (stomach, liver, kidneys) in **Saturated solution of common salt**.
-
-#### **10 Marks: Discuss acute Cyanide Poisoning under the following headings: Mechanism of Action, Clinical Features, Specific Antidote Therapy, and Relevant Legal Codes under the 2023 Criminal Framework.**
-
-_(Structure your answer strictly utilizing the detailed sections provided above—specifically detailing **Histotoxic Anoxia**, the **Lilly's/Triple Antidote vs. Vitamin B12 protocols**, the **Cranium opened first autopsy rule**, and the **BNS Section 123 / BNSS Section 33** codes—to secure a maximum-score university essay.)_
-
----
-
-📊 _Would you like me to generate a high-yield study report or a mind map comparing the toxicological features, postmortem changes, and antidotes of the major gaseous poisons (Carbon Monoxide, Carbon Dioxide, Hydrogen Sulfide, and Hydrogen Cyanide) to help you prepare for your university examinations?_
