@@ -25,10 +25,14 @@
             "id": "e2cd4b047cc726a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Mass approach.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mass approach"
             }
           }
         ],
@@ -125,6 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Mass approach.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -182,6 +187,9 @@
   },
   "active": "e2cd4b047cc726a5",
   "lastOpenFiles": [
+    "Methods.md",
+    "Health edu.md",
+    "Mass approach.md",
     "Lead time.md",
     "Vit A.md",
     "PEM.md",
@@ -215,9 +223,6 @@
     "MDG.md",
     "SDG.md",
     "Blindness.md",
-    "Vision 2020.md",
-    "NCCP.md",
-    "NRHM.md",
     "RCH.canvas",
     "Untitled.base",
     "BGS Road 9.m4a",
