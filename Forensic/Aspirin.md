@@ -58,7 +58,7 @@ The clinical manifestations can be divided into dose-dependent toxic features an
 
 #### **II. Idiosyncratic Features (Aspirin Hypersensitivity)**
 
-In a patient with inherent aspirin idiosyncrasy, exposure immediately triggers:
+In a patient with inherent aspirin **idiosyncrasy**, exposure immediately triggers:
 
 - ★ **Severe Dyspnea:** Acute bronchospasm and respiratory distress.
 - **Rigors & High Fever:** Sudden shivering attacks accompanied by a spike in body temperature.
