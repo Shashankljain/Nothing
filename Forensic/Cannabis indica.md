@@ -22,6 +22,8 @@ The plant _Cannabis sativa_ has several varieties, including _C. indica_ (In
 **Classification of Preparations (★ Important Exam Point)**  
 The toxicity and effects depend on which part of the plant is used:
 
+(BGS HC)
+
 |**Preparation**|**Source**|**THC Content**|**Form/Use**|
 |:--|:--|:--|:--|
 |**Bhang (Siddhi/Patti)**|Dried leaves and shoots.|2–5% (Least potent).|Ground to a paste; used as a beverage or in sweets (Majum).|
