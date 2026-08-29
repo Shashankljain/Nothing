@@ -11,13 +11,28 @@
 **Introduction**  
 Substance use disorders involve mental and behavioral disturbances developed as a result of using psychoactive substances, including medications or specific repetitive rewarding behaviors. These substances primarily act on the **Central Nervous System (CNS)** and are often referred to as **Neurotics**.
 
-**Key Principles of Dependence:**
+**The Three Core Pillars of Dependence** 🏛️
 
-1. **Tolerance:** A state where the same dose no longer produces the original effect, requiring an increase in dosage.
-2. **Withdrawal Syndrome:** A cluster of physical and psychological symptoms occurring when the drug is suddenly stopped (e.g., 'the shakes' in alcoholics).
-3. **Psychic Dependence:** A mental craving for the drug's effects.
-4. **Physical Dependence:** An adaptive state where the body requires the drug to maintain physiological equilibrium.
+A diagnosis of drug dependence is established based on the presence of three hallmark clinical features:
 
+```
+                            [DRUG DEPENDENCE]
+                                    │
+         ┌──────────────────────────┼──────────────────────────┐
+         ▼                          ▼                          ▼
+   [★ TOLERANCE]           [WITHDRAWAL SYNDROME]      [COMPULSIVE CRAVING]
+Same dose loses effect;     Physical/mental storm      Overwhelming psychic
+needs escalating doses.     upon sudden cessation.     need/compulsion.
+```
+
+1. ★ **Tolerance:**
+    - _Definition:_ A physiological state where the **same dose of a drug no longer produces the clinical effect it originally had**, requiring the user to continuously scale up the dose to achieve the desired effect.
+    - _Commonly Seen In:_ Alcohol, barbiturates, amphetamines, benzodiazepines, and the morphine-heroin-methadone group. Addicts can tolerate up to 100 times their initial dose.
+2. **Withdrawal Syndrome:**
+    - _Definition:_ A specific constellation of distressing physical and mental symptoms that set in when the drug is suddenly ceased or rapidly reduced.
+    - _Manifestations:_ **Tremulousness or shakes/jitters** (the most common withdrawal sign), cold sweats, muscle pain, insomnia, vomiting, exaggerated reflexes, fluctuating BP, hallucinations, and **delirium tremens**.
+3. **Compulsive Craving:**
+    - An intense, irresistible psychological or physical urge (_craving_) to consume the substance despite experiencing clear harmful or toxic consequences.
 ---
 
 #### **Classification of Commonly Abused Drugs**
