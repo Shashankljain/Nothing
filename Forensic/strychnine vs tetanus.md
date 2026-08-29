@@ -32,8 +32,21 @@ University exams require the application of the new 2023 criminal codes for all 
 
 ---
 
-### **4. 
+### **4. Differential Diagnosis** **🩺
 
+★ **Important Exam Point: Strychnine Poisoning vs. Tetanus** This is one of the most frequently asked questions in MBBS university examinations.
+
+|**Clinical Feature**|**Strychnine Poisoning** 🧪|**Tetanus (Lockjaw)** 🦠|
+|---|---|---|
+|**1. History of Injury**|None.|Present (history of a rusty nail prick/wound).|
+|**2. Onset of Symptoms**|**Sudden** (develops within hours).|**Gradual** (develops over several days).|
+|**3. Site of Action**|Postsynaptic membrane.|Presynaptic membrane.|
+|**4. Muscle Involvement**|**All muscles affected simultaneously**.|Gradual, spreading from the neck downwards.|
+|**5. Trismus (Lockjaw)**|Does **not** start in the jaw.|**Starts in and primarily affects** the jaw.|
+|**6. Inter-ictal State**|Muscles are **completely relaxed** between fits.|Muscles remain **rigid and stiff** between spasms.|
+|**7. Fatal Period**|**1 to 2 hours** (highly rapid).|Prolonged (usually **>24 hours**).|
+|**8. Chemical Analysis**|**Strychnine found** in urine/FSL viscera.|No poison detected.|
+|**9. Microbiological Culture**|No growth.|Positive growth of **Clostridium tetani**.|
 ### **5. Post-Mortem Examination Findings**
 
 If the victim dies, the following are observed:
