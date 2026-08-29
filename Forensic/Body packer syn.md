@@ -13,8 +13,8 @@ These individuals are often referred to as **"swallowers," "mules," "couriers,"
 
 **Body Packer vs. Body Stuffer**
 
-- **Body Packer:** A systematic smuggler who swallows well-wrapped, professional-grade drug packets (often 50–100 packages, each containing 0.5–1 g of the drug) to transport them across borders.
-- **Body Stuffer:** An individual who hurriedly swallows loose or poorly wrapped drugs to **conceal evidence** when they fear immediate arrest by the police. Stuffers are at a much higher risk of immediate toxicity because their "packaging" is not designed for safe ingestion.
+- **Body Packer:** A systematic smuggler who swallows ==well-wrapped, professional-grade== drug packets (often 50–100 packages, each containing 0.5–1 g of the drug) to transport them across borders.
+- **Body Stuffer:** An individual who ==hurriedly== swallows loose or poorly wrapped drugs to **conceal evidence** when they fear immediate arrest by the police. Stuffers are at a much higher risk of immediate toxicity because their "packaging" is not designed for safe ingestion.
 
 **Packaging Materials**  
 Packets are often made of latex, plastic wraps, condoms, balloons, cellophane, or rubber gloves, sometimes reinforced with paraffin or fiberglass.
