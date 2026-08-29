@@ -63,21 +63,43 @@ University exams now require the application of 2023 provisions:
 ---
 
 #### **4. Management (Treatment)**
+**Clinical Management & Treatment** 🏥
 
+There is no specific chemical antidote for strychnine. Treatment is entirely supportive and directed toward controlling convulsions and maintaining respiration.
+
+**I. Emergency Stabilization Flowchart**
+
+```
+                       [ACUTE STRYCHNINE INGESTION]
+                                    │
+                                    ▼
+                [Isolate Patient in a Dark, Quiet Room]
+               (Eliminate all sound, light, & touch triggers)
+                                    │
+                                    ▼ asses ABC
+                [Secure Airway & ET Intubation Cautiously]
+               (Prevents asphyxia during chest spasms)
+                                    │
+         ┌──────────────────────────┴──────────────────────────┐
+         ▼                                                     ▼
+ [Control Convulsions]                                 [Decontamination]
+• Administer **IV Diazepam**                        • Cautious Gastric Lavage
+  (0.1–0.5 mg/kg slowly) [21].                      with **1:5000 KMnO4** [23].
+• Or Barbiturates (**Pentobarbital**           • Only performed AFTER airway is
+  or **Sodium Amytal** 300–600 mg IV)             secured with ET tube [23].
+                                            • Give **Activated Charcoal** [23].
+                                    │
+                                    ▼
+                        [Supportive Care & Fluid]
+                    • Active cooling for hyperthermia [23].
+                    • IV fluids to maintain urine >1 mL/kg/h
+                      (Prevents renal failure from rhabdomyolysis) [17].
+```
+
+**★ Critical Warning on Gastric Lavage:**
+
+Gastric lavage must **NEVER** be performed on an active, convulsing patient. Attempting to pass a stomach tube will act as a sensory trigger, precipitating a violent spasm and causing immediate, lethal aspiration. Lavage is performed **only** after the airway is fully secured with a cuffed endotracheal tube and the convulsions are controlled.
 ★ **Important Exam Point: The priority is to stop the convulsions and provide a quiet environment.**
-
-1. **Immediate Stabilization (ABCD):**
-    - **Airway:** Maintain a clear airway; endotracheal intubation may be needed.
-    - **Breathing:** Oxygen and mechanical ventilation if respiratory muscles are paralyzed.
-2. **Specific Antidotes:**
-    - **Barbiturates:** (Sodium Amytal or Pentobarbital) are the physiological antidotes (Dose: 300–600 mg IV).
-    - **Benzodiazepines:** (Diazepam 0.1–0.5 mg/kg IV) to control muscle spasms.
-3. **Decontamination:**
-    - **Gastric Lavage:** Performed with **1:5000 Potassium Permanganate ($KMnO_4$)** to oxidize the alkaloids.
-    - **CRITICAL CAUTION:** Lavage should only be done **after** the patient is sedated and the airway is secured, as the tube itself can trigger a fatal convulsion.
-    - **Activated Charcoal:** Given to adsorb the poison.
-4. **Environment:** Keep the patient in a **dark, quiet room**, free from all noise and disturbance.
-5. **Hyperthermia Control:** Active cooling (ice water, cooling blankets) for high fever caused by muscle activity.
 
 ---
 
