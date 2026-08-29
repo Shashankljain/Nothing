@@ -32,24 +32,7 @@ University exams require the application of the new 2023 criminal codes for all 
 
 ---
 
-### **4. Detailed Comparison Table**
-
-★ **Important Exam Point: This table is a frequent university question.**
-
-|**Feature**|**Strychnine Poisoning**|**Tetanus (Lockjaw)**|
-|:--|:--|:--|
-|**History of Injury**|No history of injury.|Usually present (e.g., rusty nail prick).|
-|**Onset**|**Sudden** (within minutes or hours).|**Gradual** (several days).|
-|**First Symptoms**|Bitter taste and choking sensation.|**Trismus (Lockjaw)** starts first.|
-|**Lockjaw (Trismus)**|Starts late or simultaneously with other muscles.|Starts first and specifically affects the lower jaw.|
-|**Muscular State**|**Relaxed completely** between convulsions.|**Rigid throughout**; no complete relaxation.|
-|**Convulsions**|Triggered by the slightest external stimuli.|Usually more spontaneous or constant rigidity.|
-|**Mental State**|**Fully conscious** and aware during seizures.|Generally conscious, but less acute fear.|
-|**Fatal Period**|Very short (**1–2 hours**).|Longer (**> 24 hours**).|
-|**Chemical Analysis**|Strychnine found in blood, urine, or viscera.|No poison found.|
-|**Culture**|No bacterial growth.|Culture shows _Clostridium tetani_.|
-
----
+### **4. 
 
 ### **5. Post-Mortem Examination Findings**
 
