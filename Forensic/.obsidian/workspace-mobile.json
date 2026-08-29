@@ -11,10 +11,14 @@
             "id": "22d9295daef2f236",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Aspirin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aspirin"
             }
           }
         ]
@@ -110,6 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Aspirin.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,6 +170,7 @@
   },
   "active": "22d9295daef2f236",
   "lastOpenFiles": [
+    "Analgesic,Antipyretic.md",
     "drug addiction vs habituation.md",
     "Drug dependance.md",
     "Designer drug.md",
@@ -200,7 +206,6 @@
     "Pasted image 20260827215200.png",
     "Non metallic.md",
     "Sodomy.md",
-    "Untitled 1.md",
     "Sign,symptom,feature,tx.canvas",
     "Toxicology.base"
   ]
