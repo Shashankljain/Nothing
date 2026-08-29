@@ -15,17 +15,7 @@
 - **Dose Dynamics:** While acute poisoning is caused by an excessive single dose or multiple doses over a short interval, chronic poisoning develops gradually from smaller, repeated doses over a prolonged period.
 - **Idiosyncrasy Alert:** Distinct from standard dose-dependent toxicity, certain individuals exhibit **Idiosyncrasy**—an inherent, genetically predetermined hypersensitivity to aspirin on first exposure, producing severe, life-threatening symptoms even at standard therapeutic doses.
 
-#### **The 6-W Analytical Framework** ❓
-
-1. **What?** Systemic toxicity and metabolic crisis caused by the accumulation of salicylic acid in the body.
-2. **Why?** Ingested accidentally (especially in children or due to therapeutic therapeutic errors) or intentionally for self-harm.
-3. **How?** It uncouples physiological processes, leading to high-anion gap metabolic acidosis, direct liver injury, and potential gastric bezoar formation.
-4. **When?** Acute symptoms develop rapidly after ingestion, while idiosyncratic reactions manifest immediately upon exposure.
-5. **Where?** Systemic distribution affects the gastrointestinal tract, liver, kidneys, and blood.
-6. **Who?** Frequently seen in pediatric accidental ingestions, psychiatric patients with depressive illnesses, or individuals with inherent drug hypersensitivity.
-
----
-
+.
 ### **Topic-Specific Explanation: Pathophysiology & Mechanisms** 🔬
 
 Salicylates exert cellular and systemic toxicity through four primary metabolic pathways:
@@ -35,10 +25,10 @@ Salicylates exert cellular and systemic toxicity through four primary metabolic 
                                          │
          ┌───────────────────────────────┼───────────────────────────────┐
          ▼                               ▼                               ▼
- [Anion-Gap Acidosis]            [Gastric Bezoars]               [Hepatotoxicity]
-• Formic and salicylic acids    • Ingested tablets coalesce      • Direct damage to hepatic
-  trigger a high-anion gap        into dense mass (bezoars)        parenchyma, causing
-  metabolic acidosis.             blocking transit in the GIT.     granulomatous hepatitis.
+ [Anion-Gap Acidosis]            [Gastric Bezoars]            [Hepatotoxicity]
+• Formic and salicylic acids • Ingested tablets coalesce • Direct damage to                                                                        hepatic
+trigger a high-anion gap   into dense mass (bezoars)        parenchyma, causing
+metabolic acidosis.       blocking transit in the GIT.     granulomatous                                                                           hepatitis.
 ```
 
 1. **High-Anion Gap Metabolic Acidosis:**
