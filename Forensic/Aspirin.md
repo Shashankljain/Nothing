@@ -134,7 +134,4 @@ In a patient with inherent aspirin **idiosyncrasy**, exposure immediately trigge
 - ★ **Section 286 BNS, 2023 (formerly Sec 284 IPC):** Punishes **negligent conduct with respect to poisonous substances** (e.g., leaving large bottles of aspirin unsecured near children) [Image 22 / Passage 185].
 - ★ **Section 33 BNSS, 2023 (formerly Sec 39 CrPC):** Establishes the **mandatory statutory duty of every Registered Medical Practitioner (RMP)** to immediately report all cases of suspected homicidal or suspicious poisoning to the nearest police officer [Image 22 / Passage 202].
 - ★ **Section 211 BNS, 2023 (formerly Sec 176 IPC):** Punishes a medical officer for non-compliance or failure to report a poisoning case [Image 22 / Passage 202].
-- ★ **Section 39 BSA, 2023 (formerly Sec 45 IEA):** Admits the FSL spectrophotometric or quantitative analysis report of salicylate levels as **admissible Expert Opinion** in court [Image 22 / Passage 205].
-
----
-
+- ★ **Section 39 BSA, 2023 (formerly Sec 45 IEA):** Admits the FSL spectrophotometric or quantitative analysis report of salicylate levels as **admissible Expert Opinion** in court [Image 22 / Pa
