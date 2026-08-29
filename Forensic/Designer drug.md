@@ -3,12 +3,13 @@
 
 ---
 
-
+![[image 42.jpg]]
 #### **2. Common Types and Examples**
 
 Designer drugs often fall into categories based on the illicit drugs they mimic:
 
-- **Synthetic Opioids:** Derivatives of drugs like **Fentanyl** and **Pethidine**. Examples include **Subutex (buprenorphine hydrochloride)**, which is frequently abused.
+- **Synthetic Opioids:** Derivatives of drugs like **Fentanyl** and **Pethidine**. 
+-Examples include **Subutex (buprenorphine hydrochloride)**, which is frequently abused.
 - **Synthetic Stimulants:** Modified versions of **Cocaine** or **Amphetamines**. These include substances like **MDMA (Ecstasy)** and "bath salts".
 - **Synthetic Hallucinogens:** Chemically altered forms of **LSD** or **Phencyclidine (PCP)**.
 - **Synthetic Cannabinoids:** Often referred to as "Spice" or "K2," these are designed to mimic the effects of **THC**found in Cannabis.
