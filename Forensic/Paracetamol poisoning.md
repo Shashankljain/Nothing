@@ -42,25 +42,6 @@ University examinations now require the application of the new 2023 Indian crimi
 
 ---
 
-### **Toxicokinetics and Pathophysiology**
-
-**Mechanism of Toxicity (How it works):**
-
-1. **Metabolism:** Paracetamol is normally metabolized in the liver. A small portion is converted into a highly toxic metabolite called **NAPQI** (N-acetyl-p-benzoquinone imine).
-2. **Glutathione Depletion:** In a normal state, NAPQI is neutralized by **glutathione**. In an overdose, glutathione stores are exhausted.
-3. **Liver Necrosis:** The free NAPQI binds to liver cell proteins, causing **acute liver necrosis** (specifically centrilobular necrosis).
-
----
-
-### **Clinical Features**
-
-Toxicity often presents in stages:
-
-- **Early Phase:** Nausea, vomiting, pallor, and diaphoresis (sweating).
-- **Late Phase (24–72 hours):** Right upper quadrant pain, **jaundice** (yellowing of skin/eyes), and signs of hepatic encephalopathy (confusion, coma).
-- **Renal Effects:** Can also cause **Acute Tubular Necrosis (ATN)** leading to renal failure.
-
----
 
 ### **Management**
 
