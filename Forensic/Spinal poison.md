@@ -140,34 +140,22 @@ Gastric lavage must **NEVER** be performed on an active, convulsing patient. Att
 
 ---
 
-### **High-Yield Exam Points**
+**Medico-Legal Examination & Autopsy Findings** 🔍🩺
 
-- ★ **Risus Sardonicus:** The "evil grin" of strychnine/tetanus.
-- ★ **Opisthotonus:** Backwards arching of the body.
-- ★ **Glycine:** The specific neurotransmitter blocked.
-- ★ **Conscious Seizure:** Key differentiator from epilepsy.
-- ★ **Antidote:** Barbiturates (Sodium Amytal).
+**I. External Findings**
 
----
+- ★ **Cadaveric Spasm:** The body freezes in the position of death, often preserving the backward arching of opisthotonus.
+- **Early Rigor Mortis:** Rigor mortis appears extremely early and passes off rapidly because of severe pre-mortem muscular exhaustion and ATP depletion.
+- Signs of profound asphyxia (deep cyanosis of the face, lips, and nails, with blood-stained froth at the mouth).
 
-### **Comparison: Strychnine vs. Tetanus**
+**II. Internal Findings**
 
-_Examiners frequently ask this in Viva/Long answers._
+- **Stomach:** May contain fragments of _Strychnos nux-vomica_ seeds. The gastric mucosa is congested and inflamed.
+- **Muscles:** Show extravasated blood and tears due to the violent spasms.
+- **Viscera:** Widespread passive venous congestion of the lungs, liver, kidneys, and brain.
 
-|**Feature**|**Strychnine Poisoning**|**Tetanus**|
-|:--|:--|:--|
-|**Onset**|Sudden (within minutes/hours).|Gradual (several days).|
-|**Trismus (Lockjaw)**|Starts late or at the same time.|**Starts first** and affects lower jaw.|
-|**Muscular State**|**Relaxed** between convulsions.|**Rigid** throughout.|
-|**Fatal Period**|1–2 hours.|> 24 hours.|
-|**Chemical Analysis**|Strychnine found in viscera.|No poison found; culture shows _C. tetani_.|
+**III. Specimen Collection & Preservation** 🧪📦
 
----
-
-### **Quick Revision Summary**
-
-1. **Nature:** Spinal Neurotic / _S. nux-vomica_.
-2. **Action:** Glycine Antagonist (Renshaw cells).
-3. **Classic Signs:** Opisthotonus + Risus Sardonicus + Conscious mind.
-4. **Treatment:** Dark quiet room + Barbiturates/Diazepam + Lavage (with secured airway).
-5. **Law:** Section 123 BNS and Section 33 BNSS.
+- ★ **Stable Toxin:** Strychnine is highly stable; it resists decomposition and can be detected down to **0.01 ppm** in highly putrefied tissues.
+- **Routine Viscera:** Preserve the stomach, liver, kidneys, and blood.
+- ★ **Preservative of Choice:** **Absolute Alcohol / Rectified Spirit** (Alkaloids are highly stable in spirit, which also acts to prevent bacterial degradation).
