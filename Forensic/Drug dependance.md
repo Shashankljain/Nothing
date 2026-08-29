@@ -6,7 +6,7 @@
 #### **Basic Concepts**
 
 **Definition**  
-**Drug Dependence** is a state, arising from repeated administration of a drug on a periodic or continuous basis, characterized by a compulsion to take the drug to experience its psychic effects and sometimes to avoid the discomfort of its absence.
+**Drug Dependence** is a state, arising from repeated administration of a drug on a periodic or continuous basis, characterized by a ==compulsion== to take the drug to experience its ==psychic== effects and sometimes to ==avoid== the ==discomfort== of its absence.
 
 **Introduction**  
 Substance use disorders involve mental and behavioral disturbances developed as a result of using psychoactive substances, including medications or specific repetitive rewarding behaviors. These substances primarily act on the **Central Nervous System (CNS)** and are often referred to as **Neurotics**.
