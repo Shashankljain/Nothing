@@ -40,6 +40,19 @@ The toxicity and effects depend on which part of the plant is used:
 - **Absorption:** Rapidly absorbed via inhalation (smoking/“chasing the dragon”). Symptoms appear within minutes of smoking and within 30 minutes of oral ingestion.
 - **Metabolism:** Metabolized in the liver; can be detected in urine for up to 7 days after exposure.
 
+```
+                        [CANNABIS INGESTION/INHALATION]
+                                        │
+                                        ▼
+                   [THC Binds to Anandamide Receptors in Brain]
+                                        │
+         ┌──────────────────────────────┴──────────────────────────────┐
+         ▼ (Excitement Phase)                              ▼ (Narcotic Phase)
+• Euphoria & "Munchies" (Appetite)                       • Giddiness & Ataxia
+• Subjective slowing of time                            • Profound deep sleep
+• Mydriasis & Bloodshot eyes                      • No hangover on waking up!
+```
+
 ---
 
 #### **Clinical Features (Signs and Symptoms)**
