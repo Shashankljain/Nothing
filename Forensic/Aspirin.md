@@ -95,10 +95,10 @@ In a patient with inherent aspirin **idiosyncrasy**, exposure immediately trigge
                                       │
          ┌────────────────────────────┴────────────────────────────┐
          ▼                                                         ▼
- [ALKALINE DIURESIS]                                      [EXTRACORPOREAL DIALYSIS]
-• Give IV Sodium Bicarbonate.                            • Indicated in severe, refractory cases.
-• Target urine pH >7.5.                                  • Hemodialysis or peritoneal dialysis
-• Causes "ion-trapping" in renal PCT.                      rapidly clears salicylates from blood.
+ [ALKALINE DIURESIS]                                  [EXTRACORPOREAL DIALYSIS]
+• Give IV Sodium Bicarbonate.            • Indicated in severe, refractory cases.
+• Target urine pH >7.5.                     • Hemodialysis or peritoneal dialysis
+• Causes "ion-trapping" in renal PCT.     rapidly clears salicylates from blood.
 ```
 
 1. ★ **Alkaline Diuresis (Ion Trapping):**
@@ -138,79 +138,3 @@ In a patient with inherent aspirin **idiosyncrasy**, exposure immediately trigge
 
 ---
 
-### **High-Yield Exam Points** ★
-
-- ★ **High-Anion Gap Acidosis:** Salicylates are a classic cause of high-anion gap metabolic acidosis alongside methanol and ethylene glycol.
-- ★ **Trinder's Test Color:** The bedside urine screening test produces a **purple/blue color** with ferric chloride.
-- ★ **The Dialysis Choice:** Salicylate is a highly dialyzable poison because it is distributed primarily in the extracellular fluid with low volume of distribution.
-- ★ **Granulomatous Hepatitis:** The specific, highly testable histopathological liver lesion caused by chronic salicylate toxicity.
-- ★ **No Alcohol Swabs:** When drawing blood for toxicological analysis, clean the site with **soap and water**, NOT alcohol swabs, to avoid sample contamination.
-
----
-
-### **Mnemonics** 🧠
-
-#### **Salicylate Toxicity Management: "D-A-C-S"**
-
-- **D** – **D**ialysis (highly effective in clearing extracellular salicylates)
-- **A** – **A**lkaline diuresis (administer Sodium Bicarbonate to trap ions)
-- **C** – **C**harcoal (activated charcoal slurry is an excellent adsorbent)
-- **S** – **S**urgical/Endoscopic removal (required if tablets form giant gastric bezoars)
-
----
-
-### **Viva Questions & Model Answers** 💬
-
-**Q1: Why is "Alkaline Diuresis" effective in salicylate poisoning, and what pH must be targeted?**  
-**Answer:** Salicilic acid is a weak acid. By administering sodium bicarbonate to raise the urine pH **above 7.5**, the salicylate molecules in the renal tubules become ionized (charged). Since ionized molecules cannot cross lipid membranes, they are "trapped" within the tubular lumen and rapidly excreted in urine, preventing reabsorption.
-
-**Q2: What is "Aspirin Idiosyncrasy" and how does it clinically differ from standard salicylate toxicity?**  
-**Answer:** Aspirin idiosyncrasy is an inherent, genetically predetermined hypersensitivity reaction occurring upon exposure, unrelated to dose. Unlike standard toxicity which presents with hyperpnea and metabolic acidosis, idiosyncrasy presents immediately with severe **dyspnea, rigors, high fever, bowel hemorrhage, and albuminuria**.
-
-**Q3: Which bedside chemical test is used to screen for salicylate poisoning, and what is the positive reaction?**  
-**Answer:** The **Trinder’s Test** (or Ferric Chloride test) is used. Adding 10% ferric chloride to the patient's urine produces a **purple or blue color** that persists even when heated, confirming salicylate presence.
-
----
-
-### **Common Mistakes Students Make** ❌
-
-- **Writing "Salicylates cause Normal Anion-Gap Acidosis":** This is a major clinical error. Salicylates cause a **High Anion-Gap Metabolic Acidosis**.
-- **Preserving Blood in Saturated Salt:** Saturated salt is used to preserve solid organs (viscera). Blood samples must be preserved using **sodium or potassium fluoride** (10 mg/mL).
-- **Forgetting the Bezoar Risk:** Stating that gastric lavage is the only decontamination method. In massive overdoses, salicylates coalesce into solid **bezoars** that require **endoscopic or surgical extraction**.
-
----
-
-### **End With** ⏱️
-
-#### **Quick Revision Notes**
-
-1. **Aspirin:** Analgesic/antipyretic; causes high-anion gap metabolic acidosis and granulomatous hepatitis.
-2. **Symptoms:** Heavy perspiration, hyperpnea, and idiosyncratic dyspnea/fever/bleeding.
-3. **Bedside Test:** Ferric chloride/Trinder's test yields a **persistent purple/blue color**.
-4. **Antidote/Tx:** **Activated charcoal**, **Alkaline diuresis (pH >7.5)**, and **dialysis**.
-5. **New Laws (2023):** **Section 123 BNS** (poison hurt) and **Section 33 BNSS** (mandatory reporting) [Image 22].
-
----
-
-### **Model University Answers** 📝
-
-#### **2 Marks: Define "Aspirin Idiosyncrasy".**
-
-**Answer:** Aspirin Idiosyncrasy is an inherent, genetically predetermined hypersensitivity to salicylates on first exposure, independent of dose. It presents with acute, life-threatening symptoms including **dyspnea, rigors, fever, bowel hemorrhage, and albuminuria**.
-
-#### **5 Marks: Outline the specific management of acute Salicylate Poisoning.**
-
-**Answer:**
-
-1. **Gastric Decontamination:** Administer **Activated Charcoal (1 g/kg)** to physically adsorb salicylate molecules. If giant tablet masses or **bezoars** form in the stomach, perform **endoscopic or surgical retrieval**.
-2. **Enhanced Excretion (Alkaline Diuresis):** Administer **IV Sodium Bicarbonate** to achieve a urine pH **>7.5**. This traps ionized salicylate molecules in the renal tubules, accelerating clearance.
-3. **Extracorporeal Removal (Dialysis):** Perform **hemodialysis or peritoneal dialysis** in severe cases. Salicylates are highly dialyzable due to their low volume of distribution.
-4. **Supportive Care:** Monitor blood gases, correct high-anion gap acidosis, and support respiration.
-
-#### **10 Marks: Write an exam essay on Salicylate Poisoning, detailing its pathophysiology, clinical features (including idiosyncrasy), diagnostic tests, and relevant legal duties under the latest 2023 criminal acts.**
-
-_(Structure your answer strictly utilizing the detailed sections of this guide—specifically detailing **high-anion gap metabolic acidosis**, **granulomatous hepatitis**, the **DACS management protocol**, **Trinder's test**, and **BNS Section 123 / BNSS Section 33** codes—to construct a comprehensive, maximum-score university essay.)_
-
----
-
-📊 _Would you like me to generate a 5-mark comparison table highlighting the clinical features, specific antidotes, and FSL preservation rules for the major medicinal painkiller toxicities (Aspirin, Acetaminophen, and Opioids) to help you master medicinal toxicology before your university exams?_
