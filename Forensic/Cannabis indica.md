@@ -22,16 +22,17 @@ The plant _Cannabis sativa_ has several varieties, including _C. indica_ (In
 **Classification of Preparations (★ Important Exam Point)**  
 The toxicity and effects depend on which part of the plant is used:
 
-(BGS HC)
+(BGS CH)
 
-|**Preparation**|**Source**|**THC Content**|**Form/Use**|
-|:--|:--|:--|:--|
-|**Bhang (Siddhi/Patti)**|Dried leaves and shoots.|2–5% (Least potent).|Ground to a paste; used as a beverage or in sweets (Majum).|
-|**Ganja**|Flowering tops of female plant.|5–8%.|Rusty green color; mixed with tobacco and smoked.|
-|**Charas (Hashish)**|Resinous exudate from leaves/flowers/stems.|10–20% (Most potent).|Dark green/brown; smoked in pipes/hukka.|
-|**Hash Oil**|Lipid-soluble plant extract.|25–50%.|Added to hashish or marijuana to increase potency.|
 
----
+|**Preparation**|**Source Material**|**THC Concentration**|**Form of Intake / Use**|
+|---|---|---|---|
+|**Bhang** (Siddhi / Patti)|Dried leaves and shoots|**2% to 5%** (Least potent)|Consumed orally as a liquid beverage or sweetmeat|
+|**Ganja**|Flowering tops of the female plant|**5% to 8%**|Mixed with tobacco and smoked in pipes, joints, or hukkas|
+|**Charas** (Hashish)|Resinous exudates from leaves, flowers, and stems|**10% to 20%** (Most potent natural form)|Pressed into bricks; mixed with tobacco and smoked|
+|**Sinsemilla**|Unpollinated/unfertilized female flowering tops|**6% to 11%**|Smoked (similar to Ganja)|
+|**Hash Oil**|Lipid-soluble plant extract|**25% to 50%** (Extremely potent)|Mixed with tobacco or added to hashish to boost potency|
+|**Majum**|Sweetmeat preparation|Variable|Ingested orally|
 
 #### **Toxicokinetics and Toxicodynamics**
 
