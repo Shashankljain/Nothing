@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Body packer syn.md",
+                "file": "Drug dependance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Body packer syn"
+              "title": "Drug dependance"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Body packer syn.md",
+            "file": "Drug dependance.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,6 +170,7 @@
   },
   "active": "22d9295daef2f236",
   "lastOpenFiles": [
+    "Body packer syn.md",
     "Drug dependance.md",
     "strychnine vs tetanus.md",
     "Spinal poison.md",
@@ -206,7 +207,6 @@
     "Carboluria.md",
     "Sulphuric acid.md",
     "Sign,symptom,feature,tx.canvas",
-    "Vitriolage.md",
     "Toxicology.base"
   ]
 }
