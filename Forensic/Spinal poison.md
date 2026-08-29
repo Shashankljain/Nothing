@@ -23,7 +23,34 @@ Nux vomica, poison nut, Quaker buttons, _kuchila_, and _yetti_.
 
 - **How:** It blocks glycine receptors in the anterior horn cells of the spinal cord (specifically **Renshaw cells**).
 - **Effect:** By blocking inhibition, it causes "release excitation," leading to constant, ==powerful muscle contractions.==
+**II. Toxicological Mechanism of Action**
 
+```
+                     [STRYCHNINE SYSTEMIC ENTRANCE]
+                                   │
+                                   ▼
+                [Competitive Blockade of Glycine Receptors]
+              (At Brainstem & Spinal Cord Postsynaptic Sites)
+                                   │
+                                   ▼
+             [Inactivation of Renshaw Cells (Anterior Horn)]
+                                   │
+                                   ▼
+                [Loss of Normal Postsynaptic Inhibition]
+                                   │
+                                   ▼
+                     [★ UNCONTROLLED RELEASE EXCITATION]
+                (Lowered threshold for motor neuron firing)
+                                   │
+                                   ▼
+               [Constant, Simultaneous Muscle Contractions]
+               (Tonic spasms triggered by minor stimuli)
+```
+
+- **Glycine Inhibition:** Glycine is the primary inhibitory neurotransmitter of the spinal cord and brainstem. Strychnine competitively blocks the postsynaptic glycine receptors on the motor neurons of the spinal cord.
+- **Loss of Renshaw Cell Control:** This blockade specifically inactivates the **Renshaw cells** of the anterior horn, removing normal feedback inhibition.
+- **Release Excitation:** Without inhibitory control, the motor neurons continuously fire in response to minimal sensory inputs, triggering intense, simultaneous contractions of both agonist and antagonist muscles.
+- **★ Important Exam Point: GABA spared:** Strychnine **does not affect Gamma-Aminobutyric Acid (GABA)**, the presynaptic inhibitory neurotransmitter
 ---
 
 #### **2. Clinical Features (Signs and Symptoms)**
