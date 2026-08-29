@@ -98,15 +98,21 @@ University examinations now require 2023 legal provisions:
 
 ---
 
-#### **Management**
+**Management & Treatment Protocol** 🏥
 
-1. **Gastric Decontamination:** Gastric lavage with warm water or administration of activated charcoal.
-2. **Supportive Care:** IV fluids (50% glucose/dextrose) and placement in a quiet, dark room.
-3. **Sedation:** **Diazepam** (5–10 mg IV) if the patient is violent or aggressive.
-4. **Psychotic Symptoms:** **Haloperidol** is used to control hallucinations or acute CHS.
+Cannabis toxicity is primarily managed with **supportive care** in a dark, quiet room to minimize sensory hallucinations.
 
----
-
+1. **Decontamination:**
+    - **Gastric Lavage:** Perform stomach wash with warm water (if ingested orally within 1–2 hours).
+    - **Activated Charcoal:** Administer an oral slurry to adsorb any unabsorbed active resin in the gut.
+    - **Saline Purgatives:** Administer sodium sulfate to clear the gut of resin.
+2. **Supportive Cocktails:**
+    - Administer **100 mL of 50% Glucose/Dextrose**, **2 mg Naloxone**, and **100 mg Thiamine IV**.
+3. **Psychomotor Control:**
+    - For violent or aggressive delirium: Administer **IV Diazepam (5–10 mg)**.
+    - For acute psychotic hallucinations: Administer **Haloperidol**.
+4. ★ **Enhanced Elimination (Dialysis):**
+    - ★ **Dialysis is useful** and indicated in severe, life-threatening cannabis poisoning cases.
 #### **Autopsy Findings**
 
 - **External:** Non-specific; signs of asphyxia (cyanosis and congestion).
