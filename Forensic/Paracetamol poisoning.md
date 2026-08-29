@@ -94,9 +94,9 @@ Paracetamol poisoning is highly deceptive; a patient who has consumed a fatal do
                                        │
          ┌─────────────────────────────┼─────────────────────────────┐
          ▼                             ▼                             ▼
- [Glutathione Precursor]       [Glutathione Substitute]      [Microvascular Support]
-Provides cysteine to restore    Directly binds and detoxifies  Antioxidant action improves
-  intracellular GSH stores.     circulating NAPQI.            tissue oxygenation in shock.
+ [Glutathione Precursor]       [Glutathione Substitute]   [Microvascular Support]
+Provides cysteine to restore Directly binds and detoxifies  Antioxidant action                                                                      improves
+  intracellular GSH stores.     circulating NAPQI.   tissue oxygenation in shock.
 ```
 
 *   ★ **Class of Antidote:** It is a specific **physiological / pharmacological antagonist**.
