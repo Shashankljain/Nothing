@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aspirin.md",
+                "file": "Cocainism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aspirin"
+              "title": "Cocainism"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Aspirin.md",
+            "file": "Cocainism.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,6 +170,9 @@
   },
   "active": "22d9295daef2f236",
   "lastOpenFiles": [
+    "Cannabis indica.md",
+    "Deliriants.md",
+    "Aspirin.md",
     "Analgesic,Antipyretic.md",
     "drug addiction vs habituation.md",
     "Drug dependance.md",
@@ -198,14 +201,11 @@
     "Hatters shakes.md",
     "Hg.md",
     "Phosphorus.md",
-    "Pb.md",
     "Pasted image 20260827220430.png",
     "Pasted image 20260827215758.png",
     "Pasted image 20260827215747.png",
     "Pasted image 20260827215719.png",
     "Pasted image 20260827215200.png",
-    "Non metallic.md",
-    "Sodomy.md",
     "Sign,symptom,feature,tx.canvas",
     "Toxicology.base"
   ]

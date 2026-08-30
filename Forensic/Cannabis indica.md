@@ -22,20 +22,36 @@ The plant _Cannabis sativa_ has several varieties, including _C. indica_ (In
 **Classification of Preparations (★ Important Exam Point)**  
 The toxicity and effects depend on which part of the plant is used:
 
-|**Preparation**|**Source**|**THC Content**|**Form/Use**|
-|:--|:--|:--|:--|
-|**Bhang (Siddhi/Patti)**|Dried leaves and shoots.|2–5% (Least potent).|Ground to a paste; used as a beverage or in sweets (Majum).|
-|**Ganja**|Flowering tops of female plant.|5–8%.|Rusty green color; mixed with tobacco and smoked.|
-|**Charas (Hashish)**|Resinous exudate from leaves/flowers/stems.|10–20% (Most potent).|Dark green/brown; smoked in pipes/hukka.|
-|**Hash Oil**|Lipid-soluble plant extract.|25–50%.|Added to hashish or marijuana to increase potency.|
+(BGS CH)
 
----
+
+|**Preparation**|**Source Material**|**THC Concentration**|**Form of Intake / Use**|
+|---|---|---|---|
+|**Bhang** (Siddhi / Patti)|Dried leaves and shoots|**2% to 5%** (Least potent)|Consumed orally as a liquid beverage or sweetmeat|
+|**Ganja**|Flowering tops of the female plant|**5% to 8%**|Mixed with tobacco and smoked in pipes, joints, or hukkas|
+|**Charas** (Hashish)|Resinous exudates from leaves, flowers, and stems|**10% to 20%** (Most potent natural form)|Pressed into bricks; mixed with tobacco and smoked|
+|**Sinsemilla**|Unpollinated/unfertilized female flowering tops|**6% to 11%**|Smoked (similar to Ganja)|
+|**Hash Oil**|Lipid-soluble plant extract|**25% to 50%** (Extremely potent)|Mixed with tobacco or added to hashish to boost potency|
+|**Majum**|Sweetmeat preparation|Variable|Ingested orally|
 
 #### **Toxicokinetics and Toxicodynamics**
 
 - **Mechanism of Action:** THC binds to **anandamide receptors** in the brain. It acts as a stimulant, sedative, or hallucinogen depending on the dose.
 - **Absorption:** Rapidly absorbed via inhalation (smoking/“chasing the dragon”). Symptoms appear within minutes of smoking and within 30 minutes of oral ingestion.
 - **Metabolism:** Metabolized in the liver; can be detected in urine for up to 7 days after exposure.
+
+```
+                        [CANNABIS INGESTION/INHALATION]
+                                        │
+                                        ▼
+                   [THC Binds to Anandamide Receptors in Brain]
+                                        │
+         ┌──────────────────────────────┴──────────────────────────────┐
+         ▼ (Excitement Phase)                              ▼ (Narcotic Phase)
+• Euphoria & "Munchies" (Appetite)                       • Giddiness & Ataxia
+• Subjective slowing of time                            • Profound deep sleep
+• Mydriasis & Bloodshot eyes                      • No hangover on waking up!
+```
 
 ---
 
@@ -82,15 +98,21 @@ University examinations now require 2023 legal provisions:
 
 ---
 
-#### **Management**
+**Management & Treatment Protocol** 🏥
 
-1. **Gastric Decontamination:** Gastric lavage with warm water or administration of activated charcoal.
-2. **Supportive Care:** IV fluids (50% glucose/dextrose) and placement in a quiet, dark room.
-3. **Sedation:** **Diazepam** (5–10 mg IV) if the patient is violent or aggressive.
-4. **Psychotic Symptoms:** **Haloperidol** is used to control hallucinations or acute CHS.
+Cannabis toxicity is primarily managed with **supportive care** in a dark, quiet room to minimize sensory hallucinations.
 
----
-
+1. **Decontamination:**
+    - **Gastric Lavage:** Perform stomach wash with warm water (if ingested orally within 1–2 hours).
+    - **Activated Charcoal:** Administer an oral slurry to adsorb any unabsorbed active resin in the gut.
+    - **Saline Purgatives:** Administer sodium sulfate to clear the gut of resin.
+2. **Supportive Cocktails:**
+    - Administer **100 mL of 50% Glucose/Dextrose**, **2 mg Naloxone**, and **100 mg Thiamine IV**.
+3. **Psychomotor Control:**
+    - For violent or aggressive delirium: Administer **IV Diazepam (5–10 mg)**.
+    - For acute psychotic hallucinations: Administer **Haloperidol**.
+4. ★ **Enhanced Elimination (Dialysis):**
+    - ★ **Dialysis is useful** and indicated in severe, life-threatening cannabis poisoning cases.
 #### **Autopsy Findings**
 
 - **External:** Non-specific; signs of asphyxia (cyanosis and congestion).

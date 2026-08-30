@@ -34,8 +34,57 @@ Dhatura is a member of the _Solanaceae_ family. In India, common species inclu
 3. **Atropine**.
 
 **Mechanism of Action (How it works):**  
-★ **Important Exam Point:** These alkaloids are **anticholinergic**. They block the acetylcholine receptors, resulting in "parasympatholytic" effects. It acts as a CNS stimulant in the early phase and a CNS depressant in the late phase.
+★ **Important Exam Point:** Memorizing and replicating this comprehensive master flowchart in your university theory paper is a highly effective way to secure maximum marks.
 
+```
+                  [DHATURA SEEDS / PLANT PARTS INGESTED]
+                     (Masticated & swallowed by victim)
+                                    │
+                                    ▼
+                [Rapid absorption via GIT mucous membranes]
+                                    │
+                                    ▼
+         [COMPETITIVE BLOCKADE OF POSTSYNAPTIC MUSCARINIC RECEPTORS]
+               (Antagonizes acetylcholine neurotransmission)
+                                    │
+                                    ▼
+             [Autonomic Sympathomimetic / Parasympatholytic Storm]
+                                    │
+          ┌─────────────────────────┴─────────────────────────┐
+          ▼                                                   ▼
+  [PERIPHERAL EFFECTS]                               [CENTRAL (CNS) EFFECTS]
+• Dry secretions (salivary/sweat)         • Early phase: Intense CNS excitation
+• Pupillary sphincter paralysis           • Late phase: Profound CNS depression
+          │                                                   │
+          └─────────────────────────┬─────────────────────────┘
+                                    ▼
+                   [THE CLASSIC "11 Ds" CLINICAL TOXIDROME]
+       ┌────────────────────────────┼────────────────────────────┐
+       ▼ (Dry as a Bone)       ▼ (Blind as a Bat)           ▼ (Mad as a Hatter)
+  • Dryness of mouth           • Dilated pupils (Mydriasis) • Delirium (Hallucinations)
+  • Dysphagia (no swallowing)  • Diplopia (double vision)   • Drunken gait (Ataxia)
+  • Dysarthria (mumbled talk)  • Dry hot skin (Fever)       • Distended bladder (Retention)
+  • Dilated vessels (Flushed)  • Diminished bowel sounds    • Drowsiness (Terminal coma)
+                                    │
+                                    ▼
+                    [EMERGENCY MEDICAL INTERVENTION]
+                                    │
+          ┌─────────────────────────┼─────────────────────────┐
+          ▼                         ▼                         ▼
+   [Decontamination]       [★ PHYSIOLOGICAL ANTIDOTE]    [Symptomatic Support]
+ • Gastric lavage with      • **PHYSOSTIGMINE**           • Catheterize bladder
+   **KMnO4 (1:5000)**   (**0.5 - 1.0 mg slow IV**)   • Tepid sponging
+ • **Activated Charcoal**     • *Avoid Morphine!*     • Benzodiazepines
+                                    │
+                                    ▼
+                    [FATAL OUTCOME ──> POSTMORTEM STATUS]
+                                    │
+         ┌──────────────────────────┴──────────────────────────┐
+  ▼ (External Signs)                                    ▼ (Internal Signs)
+  • General signs of asphyxia                   • **Dhatura seeds in stomach**
+  • Dilated pupils (Mydriasis)               (Highly resistant to putrefaction)
+  • Dark brown postmortem hypostasis        • Congested/inflamed gastric mucosa
+```
 ---
 
 #### **2. Clinical Features (Signs and Symptoms)**
@@ -111,47 +160,3 @@ University exams now require the inclusion of 2023 laws.
 
 ---
 
-### **Comparison: Dhatura vs. Capsicum (Chilli) Seeds**
-
-This is a **favourite viva and spotter topic** because the seeds look similar.
-
-|**Feature**|**Dhatura Seeds**|**Capsicum Seeds**|
-|:--|:--|:--|
-|**Size**|Larger and thicker|Smaller and thinner|
-|**Shape**|**Kidney-shaped**|More rounded|
-|**Color**|Dark brown|Pale yellow|
-|**Edge**|**Double-edged** convex border|Single edge|
-|**Taste**|Bitter|Pungent (Hot)|
-|**Internal**|Embryo curved **outwards**|Embryo curved **inwards** (looks like figure '6')|
-
----
-
-### **High-Yield Exam Points**
-
-- ★ **Active Principles:** Atropine, Hyoscine, Hyoscyamine.
-- ★ **Specific Delirium Signs:** Carphologia (imaginary thread pulling) and Pill-rolling.
-- ★ **Diagnosis Clue:** 11 "Ds" of toxicity.
-- ★ **Antidote:** Physostigmine.
-- ★ **Law:** Section 123 BNS (Hurt by poison).
-
----
-
-### **Quick Revision Summary**
-
-1. **Nature:** Deliriant Cerebral Poison.
-2. **Symptoms:** Dilated pupils, dry mouth, hot skin, delirium ("Mad as a hatter").
-3. **Treatment:** Gastric lavage + Physostigmine (Antidote).
-4. **Autopsy:** Kidney-shaped seeds in the stomach; seeds resist putrefaction.
-5. **ML Importance:** Used by "thugs" and robbers as a stupefying agent on trains.
-
----
-
-### **Model University Answer (10 Marks)**
-
-1. **Introduction:** Define Dhatura and list its active principles (Atropine/Hyoscine).
-2. **CNS Classification:** Briefly list Cerebral (Somniferous, Inebriant, Deliriant), Spinal, and Peripheral.
-3. **Symptoms:** Detail the **11 Ds** and the five similes (Red as a beet, etc.). Describe delirium features (Carphologia).
-4. **Differentiating Seeds:** Provide the comparison table between Dhatura and Capsicum.
-5. **Management:** Explain the role of Physostigmine and supportive care (ABCD).
-6. **Medico-legal:** Discuss its use as a stupefying/rail-road poison and relevant BNS sections (Sec 123).
-7. **Autopsy:** Mention the resistance of seeds to putrefaction.
