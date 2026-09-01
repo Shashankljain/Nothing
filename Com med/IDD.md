@@ -44,6 +44,8 @@ The spectrum of IDD affects individuals at every stage of the lifecycle, from co
 
 ### **IV. National Iodine Deficiency Disorders Control Programme (NIDDCP)**
 
+
+![[Arprit New_Merged-350.jpeg]]
 Originally launched as the National Goitre Control Programme in 1962, it was renamed NIDDCP in 1992 to reflect the wider spectrum of disorders.
 
 #### **1. Aim and Objectives**
