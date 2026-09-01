@@ -39,7 +39,7 @@ The spectrum of IDD affects individuals at every stage of the lifecycle, from co
 | **Neonate**            | Neonatal goitre and neonatal hypothyroidism.                                                                                                   |
 | **Child & Adolescent** | **Goitre**, impaired mental function, delayed physical development (stunting), and reduced learning capacity.                                  |
 | **Adult**              | Goitre (with complications), hypothyroidism, and impaired mental function.                                                                     |
-*GHandhi*![[Pasted image 20260825130853.png]]
+*GHandhis DM Has Speech Strabismus N Neuro muscular weakness Ended Still*![[Pasted image 20260825130853.png]]
 ---
 
 ### **IV. National Iodine Deficiency Disorders Control Programme (NIDDCP)**
