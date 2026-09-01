@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Malnutrition vs infection.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -195,7 +194,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "2cd73822a806dbe4",
+  "active": "e2cd4b047cc726a5",
   "lastOpenFiles": [
     "Malnutrition vs infection.md",
     "Malnutrition.md",
