@@ -23,7 +23,7 @@
 - **Absorption:** Rapidly absorbed from the GIT, lungs (smoking/“chasing the dragon”), and parenteral sites.
 - **Metabolism:** Metabolized in the liver by conjugation.
 - **Excretion:** Primarily excreted in the urine.
-- **Action:** Binds to **mu, kappa, and delta receptors** in the CNS and PNS, inhibiting synaptic neurotransmission.
+- **Mechanism of Action:** Binds to opoid receptor **mu, kappa, and delta , OFQ/N receptors** in the CNS and PNS, inhibiting synaptic neurotransmission.
 
 ---
 
@@ -72,7 +72,9 @@ Symptoms usually appear within 30–90 minutes of oral ingestion. The clinical c
 - The patient can be aroused by **painful stimuli**.
 - **Pupils are constricted**.
 
-**3. Stage of Narcosis/Coma**: ★ **Important Exam Point: The Classic Triad** The triad of **Respiratory Depression + Pin-point Pupils + Coma** is diagnostic.
+**3. Stage of Narcosis/Coma**: ★ **Important Exam Point: 
+
+The Classic Triad-The triad of **Respiratory Depression + Pin-point Pupils + Coma** is diagnostic.
 
 - **Pupils:** Constricted to **pin-point size** and non-reacting to light.
 - **Respiration:** Very slow, stertorous (4–6 breaths/min); becomes ==*Cheyne-Stokes*== before death.
@@ -127,8 +129,8 @@ Symptoms usually appear within 30–90 minutes of oral ingestion. The clinical c
 **External Findings**:
 
 - **Odor:** Faint smell of opium from the mouth.
-- **Foam:** Pinkish, frothy discharge from mouth and nostrils (**Foam Cone**).
-- **Post-mortem Staining:** Prominent, **purple or blackish** in color.
+- **Foam:** Pinkish, frothy discharge from mouth and nostrils (**==Foam Cone==**).
+- **Post-mortem Staining:** Prominent, **==purple or blackish==** in color.
 - **Pupils:** Usually constricted (may dilate in terminal phase or due to putrefaction).
 
 **Internal Findings**:
@@ -136,60 +138,6 @@ Symptoms usually appear within 30–90 minutes of oral ingestion. The clinical c
 - **Stomach:** Mucosa is congested; may contain small, soft, brownish lumps of opium.
 - **Brain:** Diffuse cerebral edema.
 - **Lungs:** Heavily congested, edematous, and exuding frothy fluid.
+- **Blood**- dark + fluid
 
 ---
-
-#### **High-Yield Exam Points**
-
-- ★ **Antidote:** Naloxone.
-- ★ **Gastric Lavage Fluid:** 1:5000 KMnO₄.
-- ★ **Diagnostic Triad:** Coma, Pin-point pupils, Respiratory depression.
-- ★ **Ideal Suicidal Poison:** Opium (painless death).
-- ★ **Body Packers:** Rupture of smuggled drug packets in the GIT can be fatal.
-- ★ **McEwan’s Sign:** Seen in Alcohol, **NOT** Opium (In opium, pupils do not dilate on stimuli).
-
----
-
-#### **Viva Questions**
-
-1. **Why do you perform gastric lavage even if morphine is injected?**
-    - _Ans:_ Morphine is secreted from the blood into the stomach juice after absorption, so lavage can still remove part of the poison.
-2. **What are the components of the "Opiate Triad"?**
-    - _Ans:_ Miosis (pin-point pupils), coma, and respiratory depression.
-3. **How is Naloxone administered?**
-    - _Ans:_ 0.4–2 mg IV/IM, repeated as needed up to 10 mg.
-4. **What is the fatal dose and period for opium?**
-    - _Ans:_ Dose: 2 g; Period: 6–12 hours.
-
----
-
-#### **Quick Revision Summary**
-
-1. **Nature:** Cerebral Neurotic / Somniferous poison.
-2. **Active Principles:** Morphine, Codeine.
-3. **Toxidrome:** Coma, Pin-point pupils, slow breathing.
-4. **Treatment:** Lavage with KMnO₄ + Naloxone (Antidote).
-5. **Autopsy:** Foam cone, smell of opium, purple PM staining.
-6. **Law:** Section 33 BNSS (Report to police).
-
----
-
-#### **Model University Answers**
-
-**5 Marks: Management of Opium Poisoning**
-
-- Define the poison (Opium from _P. somniferum_).
-- Mention the **Triad of Toxicity** (Pupils, Coma, Respiration).
-- Detail **Gastric Lavage** with 1:5000 KMnO₄ and its scientific rationale.
-- Describe **Antidote therapy** (Naloxone dose and route).
-- Mention mandatory reporting under **Section 33 BNSS**.
-
-**10 Marks: Opium Poisoning (Signs, Symptoms, and Autopsy)**
-
-- Introduction and classification.
-- Describe the **three stages** of symptoms (Excitement, Stupor, Narcosis).
-- Provide a detailed **Clinical Triad**.
-- Explain the **Foam Cone** and other terminal signs (ARDS).
-- List **External and Internal autopsy findings** (Foam, Odor, Stomach contents).
-- Discuss **Medico-legal aspects** (Suicide, Homicide, Body Packers).
-- Incorporate relevant **BNS/BNSS 2023 sections**.

@@ -11,14 +11,17 @@
             "id": "22d9295daef2f236",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Cocainism.md",
-                "mode": "source",
-                "source": false
+                "file": "Sign,symptom,feature,tx.canvas",
+                "viewState": {
+                  "x": 622.4547779731076,
+                  "y": 3359.699260942018,
+                  "zoom": -0.4966037857773268
+                }
               },
-              "icon": "lucide-file",
-              "title": "Cocainism"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sign,symptom,feature,tx"
             }
           }
         ]
@@ -51,7 +54,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Sign",
+            "query": "Stomach obst",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -102,7 +105,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "e0a84a5ce32d5e2b",
@@ -114,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cocainism.md",
+            "file": "Stages of alcohol intoxication in detail..md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,8 +173,17 @@
   },
   "active": "22d9295daef2f236",
   "lastOpenFiles": [
-    "Cannabis indica.md",
+    "Stages of alcohol intoxication in detail..md",
+    "Amp.md",
+    "CNS depressents.md",
+    "Pethidine.md",
+    "Opium poisoning.md",
     "Deliriants.md",
+    "Pasted image 20260830104942.png",
+    "Somniferous.md",
+    "Cocain toxicity.md",
+    "Cocainism.md",
+    "Cannabis indica.md",
     "Aspirin.md",
     "Analgesic,Antipyretic.md",
     "drug addiction vs habituation.md",
@@ -191,21 +203,12 @@
     "War.md",
     "image 41.jpg",
     "image 40.jpg",
-    "Agricultural poison - OP.md",
-    "Rodenticides.md",
     "Pasted image 20260828004034.png",
     "Pasted image 20260828004020.png",
-    "Difference between arsenic poisoningand cholera..md",
-    "Chelating agent.md",
-    "Chronic arsenic poison.md",
-    "Hatters shakes.md",
-    "Hg.md",
-    "Phosphorus.md",
     "Pasted image 20260827220430.png",
     "Pasted image 20260827215758.png",
     "Pasted image 20260827215747.png",
     "Pasted image 20260827215719.png",
-    "Pasted image 20260827215200.png",
     "Sign,symptom,feature,tx.canvas",
     "Toxicology.base"
   ]

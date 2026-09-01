@@ -18,6 +18,8 @@ According to their specific site and mode of action, neurotic poisons are classi
 
 ---
 ![[image 2.jpg]]
+
+![[Pasted image 20260830104942.png]]
 ### **Dhatura Poisoning (Deliriant Poisoning)**
 
 #### **1. Basic Concepts**

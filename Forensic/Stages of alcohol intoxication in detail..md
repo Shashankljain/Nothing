@@ -40,7 +40,7 @@ The effects of alcohol are conventionally divided into three distinct clinical s
 - **Biological Signs:**
     - **Nausea and vomiting** occur once alcohol reachers ~20% concentration in the intestines.
     - The face appears **flushed** due to vasodilation.
-    - Pupils are dilated and react sluggishly to light.
+    - Pupils are dilated and react slowly to light.
 - **Sensory Loss:** Sense of touch, taste, smell, and hearing are diminished.
 
 ##### **III. Stage of Narcosis / Coma (BAC: >250 mg%)**
