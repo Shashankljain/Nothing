@@ -18,13 +18,13 @@ Fortification is categorized under **==Primary Prevention== (Health Promotion)*
 
 ### **II. Common Vehicles and Examples** ★ Important Exam Point
 
-|**Fortification Vehicle**|**Nutrient Added**|**Public Health Goal**|
-|:--|:--|:--|
-|**Common Salt**|**Iodine**|Prevention of Endemic Goitre, Cretinism, and Brain Damage.|
-|**Salt (Double Fortified)**|**Iron + Iodine**|Simultaneous management of Nutritional Anaemia and IDD.|
-|**Staple Foods (Rice/Wheat)**|**Iron, Folic Acid, Vit $B_{12}$**|Addressing high rates of nutritional anaemia and neural tube defects.|
-|**Drinking Water**|**Fluoride**|Fluoridation (to 0.5–0.8 ppm) to protect against dental caries.|
-|**Cooking Oils/Milk**|**Vitamin A & D**|Prevention of Nutritional Blindness (Xerophthalmia) and Rickets.|
+| **Fortification Vehicle**     | **Nutrient Added**                 | **Public Health Goal**                                                |
+| :---------------------------- | :--------------------------------- | :-------------------------------------------------------------------- |
+| **Common Salt**               | **Iodine**                         | Prevention of Endemic Goitre, Cretinism, and Brain Damage.            |
+| **Salt (Double Fortified)**   | **Iron + Iodine**                  | Simultaneous management of Nutritional Anaemia and IDD.               |
+| **Staple Foods (Rice/Wheat)** | **Iron, Folic Acid, Vit $B_{12}$** | Addressing high rates of nutritional anaemia and neural tube defects. |
+| **Drinking Water**            | **Fluoride**                       | Fluoridation (to 0.5–0.8 ppm) to protect against dental caries.       |
+| **Cooking Oils/Milk**         | **Vitamin A & D**                  | Prevention of Nutritional Blindness (Xerophthalmia) and Rickets.      |
 
 ---
 
