@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mass approach.md",
+                "file": "ICDS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mass approach"
+              "title": "ICDS"
             }
           }
         ],
@@ -129,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mass approach.md",
+            "file": "ICDS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,11 +187,12 @@
   },
   "active": "e2cd4b047cc726a5",
   "lastOpenFiles": [
+    "ICDS.md",
+    "Mass approach.md",
     "Pasted image 20260828155836.png",
     "Pasted image 20260828155804.png",
     "Methods.md",
     "Health edu.md",
-    "Mass approach.md",
     "Lead time.md",
     "Vit A.md",
     "PEM.md",
@@ -205,7 +206,6 @@
     "Pasted image 20260825162611.png",
     "Pasted image 20260825162548.png",
     "Balanced diet.md",
-    "Pasted image 20260825161931.png",
     "Tools.md",
     "Essential medicine.md",
     "Counterfeit medicines.md",
@@ -219,7 +219,6 @@
     "Food adulteration.md",
     "AMB (NEW).md",
     "Gen toxicology.md",
-    "ICDS.md",
     "2.md",
     "MDG.md",
     "SDG.md",
