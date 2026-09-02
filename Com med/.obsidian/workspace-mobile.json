@@ -25,10 +25,14 @@
             "id": "c41ed355342d2f1e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Principle of HE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Principle of HE"
             }
           }
         ],
@@ -125,6 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Principle of HE.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
