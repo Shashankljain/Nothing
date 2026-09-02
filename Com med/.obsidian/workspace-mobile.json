@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mass approach.md",
+                "file": "Individual approach.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mass approach"
+              "title": "Individual approach"
             }
           },
           {
@@ -143,7 +143,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mass approach.md",
+            "file": "Individual approach.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -201,8 +201,8 @@
   },
   "active": "c41ed355342d2f1e",
   "lastOpenFiles": [
-    "Individual approach.md",
     "Mass approach.md",
+    "Individual approach.md",
     "Methods.md",
     "Surveillance.md",
     "Health edu.md",
