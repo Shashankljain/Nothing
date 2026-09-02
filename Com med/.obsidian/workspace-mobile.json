@@ -44,9 +44,19 @@
               "icon": "lucide-file",
               "title": "Surveillance"
             }
+          },
+          {
+            "id": "704470c475c7bc19",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,7 +204,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "c41ed355342d2f1e",
+  "active": "704470c475c7bc19",
   "lastOpenFiles": [
     "Group approach.md",
     "Individual approach.md",
