@@ -25,10 +25,14 @@
             "id": "c41ed355342d2f1e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Mass approach.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mass approach"
             }
           },
           {
@@ -46,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +143,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Surveillance.md",
+            "file": "Mass approach.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -195,13 +199,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "8b91b3b0935d1825",
+  "active": "c41ed355342d2f1e",
   "lastOpenFiles": [
+    "Individual approach.md",
+    "Mass approach.md",
+    "Methods.md",
     "Surveillance.md",
     "Health edu.md",
     "Principle of HE.md",
     "Group approach.md",
-    "Methods.md",
     "Communication for Health education.md",
     "Aflatoxin.md",
     "Arprit New_Merged.png",
@@ -222,12 +228,10 @@
     "Vit A.md",
     "Malnutrition.md",
     "ICDS.md",
-    "Mass approach.md",
     "Pasted image 20260828155836.png",
     "Pasted image 20260828155804.png",
     "Lead time.md",
     "PEM.md",
-    "Egg-a reference protein.md",
     "Pasted image 20260825180303.png",
     "Pasted image 20260825180249.jpg",
     "Pasted image 20260825180236.jpg",
