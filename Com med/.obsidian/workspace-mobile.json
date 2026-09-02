@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Group approach.md",
+                "file": "Health edu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Group approach"
+              "title": "Health edu"
             }
           }
         ],
@@ -129,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Group approach.md",
+            "file": "Health edu.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,6 +187,7 @@
   },
   "active": "c41ed355342d2f1e",
   "lastOpenFiles": [
+    "Group approach.md",
     "Methods.md",
     "Principle of HE.md",
     "Communication for Health education.md",
@@ -222,7 +223,6 @@
     "Pasted image 20260825180223.png",
     "Pasted image 20260825162638.png",
     "Essential medicine.md",
-    "Counterfeit medicines.md",
     "RCH.canvas",
     "Untitled.base",
     "BGS Road 9.m4a",
