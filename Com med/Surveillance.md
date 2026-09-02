@@ -11,57 +11,6 @@ In epidemiological and public health practice, **surveillance** serves as the 
 
 ---
 
-### **II. Distinction: Monitoring vs. Surveillance** ★ Important Exam Point
-
-Students frequently confuse _monitoring_ with _surveillance_. In public health examinations, clearly contrasting these two processes in a table is a major scoring point:
-
-|**Feature**|**Monitoring**|**Surveillance**|
-|:--|:--|:--|
-|**Definition**|The performance and analysis of routine measurements aimed at detecting changes in the environment or health status of a population.|The continuous, professional scrutiny of all factors that determine the occurrence and distribution of a disease.|
-|**Nature of Activity**|Typically **episodic, intermittent, or task-oriented**.|**Continuous and ongoing** clinical and epidemiological loop.|
-|**Who Performs It?**|Can be carried out over extended periods by **technicians and automated instruments**.|Requires **professional analysis and sophisticated clinical judgment** by medical experts.|
-|**Feedback & Action**|Focuses on measuring performance against targets; no automatic built-in action component.|Has a **built-in action component**; closely linked to rapid intervention and control activities.|
-|**Primary Examples**|Monitoring air pollution, drinking water quality, child growth, or patient compliance with drug regimens.|Epidemiological surveillance of Malaria, Demographic surveillance, Nutritional surveillance.|
-
----
-
-### **III. The Surveillance Cycle (Flowchart)** ★ Important Exam Point
-
-To write a high-scoring answer, illustrate the flow of data and action using this structured pathway:
-
-```
-      ┌────────────────────────────────────────────────────────┐
-      │             1. SYSTEMATIC DATA COLLECTION              │
-      │  (Notifications, hospital records, household visits)   │
-      └───────────────────────────┬────────────────────────────┘
-                                  │
-                                  ▼
-      ┌────────────────────────────────────────────────────────┐
-      │                 2. CONSOLIDATION & COHORT              │
-      │              (Orderly pooling of raw metrics)          │
-      └───────────────────────────┬────────────────────────────┘
-                                  │
-                                  ▼
-      ┌────────────────────────────────────────────────────────┐
-      │          3. PROFESSIONAL EPIDEMIOLOGICAL ANALYSIS      │
-      │         (Evaluating trends by Time, Place, Person)     │
-      └───────────────────────────┬────────────────────────────┘
-                                  │
-                                  ▼
-      ┌────────────────────────────────────────────────────────┐
-      │         4. INTERPRETATION & RECOMMENDATION OF ACTION   │
-      │          (Formulating targeted control measures)       │
-      └───────────────────────────┬────────────────────────────┘
-                                  │
-                                  ▼
-      ┌────────────────────────────────────────────────────────┐
-      │          5. RAPID DISSEMINATION TO HEALTH POWERS       │
-      │     (Timely feedback to providers & administrators)     │
-      └────────────────────────────────────────────────────────┘
-```
-
----
-
 ### **IV. Different Types of Surveillance** ★ Important Exam Point
 
 There are **three primary types of public health surveillance** implemented within national health systems:
@@ -74,11 +23,11 @@ There are **three primary types of public health surveillance** implemented wi
          ┌─────────────────────────────────┼─────────────────────────────────┐
          ▼                                 ▼                                 ▼
 ┌─────────────────┐               ┌─────────────────┐               ┌─────────────────┐
-│     PASSIVE     │               │     ACTIVE      │               │    SENTINEL     │
-├─────────────────┤               ├─────────────────┤               ├─────────────────┤
-│ Patient-driven; │               │ Provider-driven;│               │ Targeted sites; │
-│ standard clinic │               │ house-to-house │               │ collects high-  │
-│ reporting.      │               │ search.         │               │ quality data.   │
+│     PASSIVE     │         │     ACTIVE      │               │    SENTINEL     │
+├─────────────────┤        ├─────────────────┤               ├─────────────────┤
+│ Patient-driven; │        │ Provider-driven;│               │ Targeted sites; │
+│ standard clinic │        │ house-to-house │               │ collects high-  │
+│ reporting.      │        │ search.         │               │ quality data.   │
 └─────────────────┘               └─────────────────┘               └─────────────────┘
 ```
 
