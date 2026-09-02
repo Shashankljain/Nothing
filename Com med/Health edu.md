@@ -47,7 +47,7 @@ These are the methods used to implement programs in a community.
 | **Regulatory**       | Use of laws and external control (e.g., Child Marriage Act, seat belt).                           | Fails in personal choices like smoking or diet; people must be ready for the law. |
 | **Service**          | Providing facilities at the doorstep (e.g., free latrines).                                       | Fails if not based on the **"felt needs"** of the people.                         |
 | **Health Education** | Planned learning experiences to help people choose healthy lives.focus on children as it is easy. | Results are ==slow== but enduring; consistent with democratic philosophy.         |
-| **PHC Approach**     | Community involvement, self-reliance, and intersectoral coordination.                             | ==Most effective==; helps individuals become self-reliant in health matters.      |
+| **PHC Approach**     | New approach,Community involvement, self-reliance, and intersectoral coordination.                | ==Most effective==; helps individuals become self-reliant in health matters.      |
 
 ---
 
