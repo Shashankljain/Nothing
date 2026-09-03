@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Audio visual aids.md",
+                "file": "Screening vs diagnostic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Audio visual aids"
+              "title": "Screening vs diagnostic"
             }
           }
         ],
@@ -211,8 +211,9 @@
   },
   "active": "704470c475c7bc19",
   "lastOpenFiles": [
-    "Pasted image 20260902131928.png",
+    "Screening of disease.md",
     "Audio visual aids.md",
+    "Pasted image 20260902131928.png",
     "Group approach.md",
     "Individual approach.md",
     "Pasted image 20260902123956.png",
@@ -246,7 +247,6 @@
     "Pasted image 20260825180303.png",
     "Pasted image 20260825180249.jpg",
     "Pasted image 20260825180236.jpg",
-    "Pasted image 20260825180223.png",
     "RCH.canvas",
     "Untitled.base",
     "BGS Road 9.m4a",
