@@ -59,8 +59,7 @@
               "title": "Covid waste"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +208,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "3e4f8436bde6a2ae",
+  "active": "c41ed355342d2f1e",
   "lastOpenFiles": [
     "Covid waste.md",
     "White bins.md",
