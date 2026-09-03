@@ -17,7 +17,7 @@ To understand the implications, one must first define these terms using the stan
 
 ---
 
-### **II. Implications of False-Negative Results** ★ Important Exam Point
+### **II. Implications of ==False-Negative== Results** ★ Important Exam Point
 
 False-negative results are often considered more dangerous in a clinical setting because they involve a missed diagnosis.
 
