@@ -11,14 +11,10 @@
             "id": "83c9460f1b0632f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/Food poisoning (botulism ).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Food poisoning (botulism )"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -268,6 +264,14 @@
   },
   "active": "83c9460f1b0632f5",
   "lastOpenFiles": [
+    "Com med/BMW.md",
+    "Forensic/Food poisoning (botulism ).md",
+    "Com med/Screening of disease.md",
+    "Com med/Pasted image 20260903145523.png",
+    "Com med/Pasted image 20260903145515.png",
+    "Com med/Pasted image 20260903145509.png",
+    "Com med/Pasted image 20260903145502.png",
+    "Com med/Pasted image 20260903145452.png",
     "Com med/Food toxicity.md",
     "Com med/Food adulteration.md",
     "Forensic/Cardiac poison.md",
@@ -286,13 +290,8 @@
     "Forensic/Untitled 1.md",
     "Forensic/Sulphuric acid.md",
     "Forensic/Oxalic acid.md",
-    "Forensic/image 37.jpg",
     "Forensic/Carboluria.md",
     "Forensic/Autopsy- h2so4 vs phenol.md",
-    "Com med/Pasted image 20260825162638.png",
-    "Com med/Pasted image 20260825162623.png",
-    "Com med/Pasted image 20260825162611.png",
-    "Com med/Pasted image 20260825162548.png",
     "Com med/Nutritional assessment.md",
     "Com med/Nutrition surveillance vs growth monitoring.md",
     "Com med/Lathyrism.md",
@@ -302,9 +301,6 @@
     "Forensic/Sign,symptom,feature,tx.canvas",
     "Forensic/Gastric lavage.md",
     "Forensic/Drug automatism.md",
-    "Forensic/Dilate + constrict.md",
-    "Forensic/Corrosive.md",
-    "Forensic/Classify posion and factors affecting it.md",
     "Lyrics",
     "TT",
     "Com med/Untitled.base",
