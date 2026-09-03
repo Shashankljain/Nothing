@@ -11,32 +11,13 @@
             "id": "c41ed355342d2f1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lead time.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lead time"
-            }
-          },
-          {
-            "id": "704470c475c7bc19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FP, FN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FP, FN"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +110,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "FP, FN.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -185,11 +165,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "704470c475c7bc19",
+  "active": "c41ed355342d2f1e",
   "lastOpenFiles": [
     "Lead time.md",
-    "Food fortification..md",
     "FP, FN.md",
+    "Food fortification..md",
     "Surveillance.md",
     "Screening test.md",
     "Screening vs diagnostic.md",

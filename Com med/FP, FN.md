@@ -21,9 +21,9 @@ To understand the implications, one must first define these terms using the stan
 
 False-negative results are often considered more dangerous in a clinical setting because they involve a missed diagnosis.
 
-1. **False Reassurance:** The most significant implication is that the patient is given "false reassurance," leading them to believe they are healthy when they are actually sick.
-2. **Delayed Treatment:** Patients may ignore the development of new signs and symptoms, assuming their previous negative test was accurate. This delay can be detrimental or even fatal if the disease is serious (e.g., cancer or HIV).
-3. **Continued Transmission:** In the case of communicable diseases (like TB or COVID-19), an FN result allows the patient to remain in the community, continuing to spread the infection to others.
+1. **False Reassurance:** The most significant implication is that the patient is given "false reassurance," leading them to ==believe== they are healthy when they are actually sick.
+2. **Delayed Treatment:** Patients may ==ignore== the development of new signs and symptoms, assuming their previous negative test was accurate. This delay can be detrimental or even fatal if the disease is serious (e.g., cancer or HIV).
+3. **Continued Transmission:** In the case of communicable diseases (like TB or COVID-19), an FN result allows the patient to remain in the community, continuing to ==spread== the infection to others.
 4. **Relationship with Sensitivity:** The number of false negatives is inversely related to **sensitivity**. A test with low sensitivity will yield a high number of false negatives.
 
 ---
