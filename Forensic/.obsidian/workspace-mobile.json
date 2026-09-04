@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNA.md",
+                "file": "DNA fingerprints.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNA"
+              "title": "DNA fingerprints"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DNA.md",
+            "file": "DNA fingerprints.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
   },
   "active": "89cac98ab5d7817a",
   "lastOpenFiles": [
-    "DNA.md",
+    "DNA fingerprints.md",
     "Spectroscopy.md",
     "Confirmatory test.md",
     "Micro chemical test for blood.md",
