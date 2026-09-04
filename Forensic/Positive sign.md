@@ -26,9 +26,9 @@ For university examinations, a student must be able to clearly delineate these s
                                           │
          ┌────────────────────────┬───────┴────────┬────────────────────────┐
          ▼                        ▼                ▼                        ▼
- [Palpation of Fetal Parts]    [Fetal Heart]    [Ultrasonography]     [Radiography]
-  • Active movements felt      • Heard at 18-20  • Gestational sac    • Confirms skeleton
-  • Examined by the doctor.      weeks of GA.      visualized early.    • Late-stage proof.
+ [Palpation of Fetal Parts] [Fetal Heart]    [Ultrasonography]   [Radiography]
+  • Active movements felt • Heard at 18-20 • Gestational sac •Confirms skeleton
+  • Examined by the doctor.  weeks of GA.  visualized early.  • Late-stagproof.
 ```
 
 ### **I. Palpation of Fetal Parts and Active Fetal Movements** 🖐️
