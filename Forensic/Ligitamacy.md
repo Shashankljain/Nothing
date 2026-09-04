@@ -22,7 +22,7 @@ Under **Section 116 of the Bharatiya Sakshya Adhiniyam (BSA), 2023** (which ha
 
 - ★ **Presumption of Law:** This is considered **conclusive proof** of legitimacy by the court ``.
 - ★ **The Sole Exception (Non-Access):** This presumption can only be rebutted if it is proven that the husband and wife had **no access to each other** at any time when the child could have been conceived ``.
-- ★ **Scientific Determination:** While traditional blood grouping (ABO and Rh systems) can only exclude paternity ``, **DNA Fingerprinting** is accepted by courts as the **ultimate, absolute method** to prove or disprove paternity and establish biological legitimacy `[247, input_file_14.png]`.
+- ★ **Scientific Determination:** While traditional blood grouping (ABO and Rh systems) can only exclude paternity , **DNA Fingerprinting** is accepted by courts as the **ultimate, absolute method** to prove or disprove paternity and establish biological legitimacy `[247, input_file_14.png]
 
 ---
 
