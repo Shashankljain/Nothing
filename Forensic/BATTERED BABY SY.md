@@ -85,7 +85,7 @@ Skeletal trauma in infants is highly diagnostic, especially when multiple fractu
 ---
 
 ### **III. Central Nervous System & Ocular Injuries** [Image: Battered Baby Syndrome, Image: Regional Injury]
-
+![[Pasted image 20260904232023.png]]
 These are classically seen in **Shaken Baby Syndrome (Infantile Whiplash)**, where rapid acceleration-deceleration forces shear bridging vessels [Image: Battered Baby Syndrome, Image: Regional Injury]:
 
 - ★ **The Pathognomonic Diagnostic Triad:** SERum

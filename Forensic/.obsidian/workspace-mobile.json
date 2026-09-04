@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dead,live,still born.md",
+                "file": "SIDS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dead,live,still born"
+              "title": "SIDS"
+            }
+          },
+          {
+            "id": "94223cacc5e6223e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maceration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maceration"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -108,7 +122,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Regio",
+            "query": "Sids",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -159,7 +173,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "e0a84a5ce32d5e2b",
@@ -171,7 +185,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dead,live,still born.md",
+            "file": "Maceration.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -225,11 +239,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "9ab11d192d92ad36",
+  "active": "94223cacc5e6223e",
   "lastOpenFiles": [
-    "Dead,live,still born.md",
+    "Maceration.md",
     "BATTERED BABY SY.md",
+    "Pasted image 20260904232023.png",
     "SIDS.md",
+    "image 59.jpg",
+    "image 58.jpg",
+    "Dead,live,still born.md",
     "Pasted image 20260904224757.png",
     "Pasted image 20260904224601.png",
     "Pasted image 20260904224242.png",
@@ -245,13 +263,10 @@
     "Pasted image 20260904184841.png",
     "Atavism.md",
     "image 56.jpg",
-    "image 55.jpg",
     "Asphyxiants.md",
     "Superfitation,fecundation.md",
     "Pseudopsysis, super fetation,fecundation.md",
-    "image 54.jpg",
     "Deflorate women.md",
-    "Pasted image 20260904161907.png",
     "Probable sign.md",
     "Positive sign.md",
     "Presumptive sign.md",
@@ -262,7 +277,6 @@
     "Hemorrhages.md",
     "Identification.md",
     "Puch drunk.md",
-    "Skull injuries.md",
     "Sign,symptom,feature,tx.canvas",
     "Toxicology.base"
   ]

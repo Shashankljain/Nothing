@@ -12,7 +12,7 @@
 - ★ **Overlaying (Compression Suffocation):** A form of accidental smothering where a co-sleeping parent or caregiver rolls over onto an infant during sleep, occluding the child's nose and mouth.
 
 ---
-
+![[image 59.jpg]]
 ## **Topic-Specific Forensic Features (From Your Sources)** 🔬
 
 To secure maximum marks in a short-note question, you must highlight the following four key forensic features documented in your books:
@@ -49,7 +49,7 @@ To secure maximum marks in a short-note question, you must highlight the followi
 
 ---
 
-![[Pasted image 20260904224601.png]]
+![[image 58.jpg]]
 
 ![[Pasted image 20260904224242.png]]
 
