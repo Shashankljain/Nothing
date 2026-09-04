@@ -61,7 +61,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Stomach obst",
+            "query": "Regio",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -112,7 +112,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "e0a84a5ce32d5e2b",
@@ -177,7 +177,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "22d9295daef2f236",
+  "active": "60376709b46f6881",
   "lastOpenFiles": [
     "Coup-countercoup.md",
     "Pedistian.md",
