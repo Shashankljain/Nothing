@@ -59,7 +59,9 @@
 ---
 
 ### **2. Subdural Hemorrhage (SDH)** 🔵
-* **Biomechanics:** Most commonly caused by **trauma** involving acceleration/deceleration forces that tear the fragile **bridging veins** running from the cerebral cortex to the dural venous sinuses [`input_file_15.png`].
+* **Biomechanics:** 
+* ![[image 50.jpg]]
+Most commonly caused by **trauma** involving acceleration/deceleration forces that tear the fragile **bridging veins** running from the cerebral cortex to the dural venous sinuses [`input_file_15.png`].
 * **Non-Traumatic Risk Factors:** Highly common in **chronic alcoholics**, boxers, infants, and the elderly [`input_file_15.png`]. In these groups, cerebral atrophy stretches the bridging veins, making them highly vulnerable to rupture even after minor, unnoticed trauma [`input_file_15.png`].
 * **Suture Boundaries:** Unlike EDH, the subdural space is a free potential space. The hematoma can spread widely over the entire cerebral hemisphere, yielding a **concavo-convex (sickle/crescent) shape** on CT [`input_file_15.png`].
 * **Subdural Hygroma:** Occurs when a tear in the arachnoid membrane allows cerebrospinal fluid (CSF) to escape from the subarachnoid space and pool in the subdural space [`input_file_15.png`].
