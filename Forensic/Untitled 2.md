@@ -56,11 +56,10 @@ Under the **Registration of Births and Deaths (RBD) Act, 1969**, live birth req
 ```
                                  [SIGNS OF LIFE AFTER EXPULSION]
                                                 │
-         ┌──────────────────────────────────────┼──────────────────────────────────────┐
-         ▼                                      ▼                                      ▼
-   [Respiration]                          [Cry of Baby]                          [Movements]
- • Rhythmic breathing                     • Active crying                        • Voluntary muscle
-   gaps established.                        and vocalization.                      flexions/twitches.
+         ┌──────────────────────────────────────┼──────────────────────────────────────  ▼                           ▼                       ▼
+   [Respiration]                [Cry of Baby]             [Movements]
+ • Rhythmic breathing     • Active crying.         • Voluntary muscle
+   gaps established.       and vocalization.         flexions/twitches.
 ```
 
 ---
