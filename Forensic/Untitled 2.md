@@ -78,7 +78,7 @@ When an infant's body is brought for autopsy, the primary question the pathologi
     - _Days 3 to 4:_ Red ring of inflammation (demarcation line) forms at the base of the navel.
     - _Days 5 to 6:_ The cord sloughs off naturally.
     - _Days 10 to 12:_ The umbilical scar heals completely. **This is absolute proof of extrauterine life for at least 10 days** [`input_file_369.png`].
-- **Stomach Contents:** Finding milk, colostrum, or sugar-water inside the stomach confirms the child survived long enough to feed [`input_file_369.png`].
+
 
 ---
 
@@ -86,18 +86,18 @@ When an infant's body is brought for autopsy, the primary question the pathologi
 
 ★ **Important Exam Point:** Replicating this comparison table is the single highest-scoring element in an essay on infanticide.
 
-|**Anatomical Feature**|**Unrespired Lungs (Dead Born / Stillborn)** ⚰️ [`input_file_368.png`]|**Respired Lungs (Live Born)** 👶 [`input_file_368.png`]|
-|:--|:--|:--|
-|**1. Level of Diaphragm**|Vaults up high, at the level of the **\(4^{\text{th}}\) to \(5^{\text{th}}\) ribs** [`input_file_368.png`].|Descends lower, at the level of the **\(6^{\text{th}}\) to \(7^{\text{th}}\) ribs** [`input_file_368.png`].|
-|**2. Chest Wall**|**Flat**, narrow, and unexpanded [`input_file_368.png`].|**Expanded**, rounded, and barrel-shaped [`input_file_368.png`].|
-|**3. Lung Volume**|Small; tucked back, leaving the pericardium exposed [`input_file_368.png`].|Large; voluminous, completely covering the heart [`input_file_368.png`].|
-|**4. Lung Consistency**|**Solid, firm**, and liver-like (hepatized) [`input_file_368.png`].|**Spongy, elastic**, and **crepitant** (crackles on palpation) [`input_file_368.png`].|
-|**5. Lung Borders**|**Sharp** and defined [`input_file_368.png`].|**Rounded** and bulbous [`input_file_368.png`].|
-|**6. Lung Weight**|Appears light; **approx. 30 g** [`input_file_368.png`].|Appears heavy (due to vascular engorgement); **approx. 60 g** [`input_file_368.png`].|
-|**7. Lung Color**|Uniform **bluish-violet** or dark red [`input_file_368.png`].|**Light pink (mottled)** due to localized air expansion [`input_file_368.png`].|
-|**8. Alveolar Histology**|Alveoli are lined by **cuboidal epithelium** (collapsed spaces) [`input_file_368.png`].|Alveoli are lined by **squamous epithelium** (fully expanded air spaces) [`input_file_368.png`].|
-|**9. Specific Gravity**|**1.04** (heavier than water; **sinks**) [`input_file_368.png`, `input_file_369.png`].|**0.94** (lighter than water; **floats**) [`input_file_368.png`, `input_file_369.png`].|
-
+| **Anatomical Feature**    | **Unrespired Lungs (Dead Born / Stillborn)** ⚰️ [`input_file_368.png`]                  | **Respired Lungs (Live Born)** 👶 [`input_file_368.png`]                                         |
+| :------------------------ | :-------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
+| **1. Level of Diaphragm** | Vaults up high, at the level of the **(4th) to (5th) ribs** [`input_file_368.png`].     | Descends lower, at the level of the **\(6th\) to \(7th) ribs** [`input_file_368.png`].           |
+| **2. Chest Wall**         | **Flat**, narrow, and unexpanded [`input_file_368.png`].                                | **Expanded**, rounded, and barrel-shaped [`input_file_368.png`].                                 |
+| **3. Lung Volume**        | Small; tucked back, leaving the pericardium exposed [`input_file_368.png`].             | Large; voluminous, completely covering the heart [`input_file_368.png`].                         |
+| **4. Lung Consistency**   | **Solid, firm**, and liver-like (hepatized) [`input_file_368.png`].                     | **Spongy, elastic**, and **crepitant** (crackles on palpation) [`input_file_368.png`].           |
+| **5. Lung Borders**       | **Sharp** and defined [`input_file_368.png`].                                           | **Rounded** and bulbous [`input_file_368.png`].                                                  |
+| **6. Lung Weight**        | Appears light; **approx. 30 g** [`input_file_368.png`].                                 | Appears heavy (due to vascular engorgement); **approx. 60 g** [`input_file_368.png`].            |
+| **7. Lung Color**         | Uniform **bluish-violet** or dark red [`input_file_368.png`].                           | **Light pink (mottled)** due to localized air expansion [`input_file_368.png`].                  |
+| **8. Alveolar Histology** | Alveoli are lined by **cuboidal epithelium** (collapsed spaces) [`input_file_368.png`]. | Alveoli are lined by **squamous epithelium** (fully expanded air spaces) [`input_file_368.png`]. |
+| **9. Specific Gravity**   | **1.04** (heavier than water; **sinks**) [`input_file_368.png`, `input_file_369.png`].  | **0.94** (lighter than water; **floats**) [`input_file_368.png`, `input_file_369.png`].          |
+- **Stomach Contents:** Finding milk, colostrum, or sugar-water inside the stomach confirms the child survived long enough to feed [`input_file_369.png`].
 ---
 
 ## **IV. Special Autopsy Tests for Live Birth** 🧪
@@ -109,12 +109,12 @@ To confirm respiration scientifically, the pathologist must execute a sequence o
                                           │
          ┌────────────────────────────────┼────────────────────────────────┐
          ▼                                ▼                                ▼
-  [Hydrostatic Test]           [Breslau's 2nd Test]                 [Wreden's Test]
-  • Lung float test;           • Double-ligature stomach            • Middle ear gelatinous
-    detects specific gravity.    float test (air bubbles).            tissue replaces with air.
+  [Hydrostatic Test]           [Breslau's 2nd Test]            [Wreden's Test]
+  • Lung float test;       • Double-ligature stomach   • Middle ear gelatinous
+    detects specific     float test (air bubbles).    tissue replaces with air         gravity.
 ```
 
-### **1. Breslau’s \(1^{\text{st}}\) Life / Hydrostatic / Lung Float / Raygat’s Test** 🌊[`input_file_369.png`]
+### **1. Breslau’s \(1st Life / Hydrostatic / Lung Float / Raygat’s Test** 🌊[`input_file_369.png`]
 
 - **Physiological Principle:** Water has a specific gravity of 1.00 [`input_file_369.png`].
     - An unrespired lung has a specific gravity of **1.04 (Sinks)** [`input_file_369.png`].
@@ -130,17 +130,17 @@ To confirm respiration scientifically, the pathologist must execute a sequence o
 
 #### **Diagnostic Pitfalls & Traps** [`input_file_369.png`]
 
-- **False Positives (Sinks but floats):**
+- **False Positives ( floats):**
     - **Putrefaction:** Decomposition gases accumulate, causing unrespired lungs to float [`input_file_369.png`].
     - **Artificial Respiration:** Unsuccessful resuscitation attempts expand the lungs mechanically even in a stillborn [`input_file_369.png`].
-- **False Negatives (Floats but sinks):**
+- **False Negatives (sinks):**
     - **Atelectasis:** Incomplete expansion of lungs [`input_file_369.png`].
     - **Pathology:** Severe congenital pneumonia, pulmonary edema, or hyaline membrane disease [`input_file_369.png`].
     - **Consolidation:** Complete absorption of air by blood after birth [`input_file_369.png`].
 
 ---
 
-### **2. Breslau’s \(2^{\text{nd}}\) Life / Stomach & Intestinal Float Test** 🎈[`input_file_369.png`]
+### **2. Breslau’s 2 Life / Stomach & Intestinal Float Test** 🎈[`input_file_369.png`]
 
 - **Principle:** A newborn actively swallows air during its first deep gasps after birth [`input_file_369.png`].
 - **Autopsy Procedure:**
@@ -171,11 +171,11 @@ Assailants (often unmarried mothers wishing to hide pregnancy) employ various me
                                            │
          ┌─────────────────────────────────┴─────────────────────────────────┐
          ▼                                                                   ▼
- [Acts of Omission (Neglect)]                                      [Acts of Commission (Active)]
- • Abandonment & cold exposure                                     • Suffocation (smothering/throttling)
- • Starvation & fluid deprivation                                  • Direct violence (bashing skull)
- • Failure to tie umbilical cord                                   • Poisoning (smearing nipples)
- • Failure to clear birth airway                                   • Puncture wounds (pins in brain)
+ [Acts of Omission (Neglect)]                     [Acts of Commission (Active)]
+ • Abandonment & cold exposure           • Suffocation (smothering/throttling)
+ • Starvation & fluid deprivation          • Direct violence (bashing skull)
+ • Failure to tie umbilical cord            • Poisoning (smearing nipples)
+ • Failure to clear birth airway            • Puncture wounds (pins in brain)
 ```
 
 ### **1. Acts of Omission (Neglect / Abandonment)**
@@ -211,10 +211,10 @@ Assailants (often unmarried mothers wishing to hide pregnancy) employ various me
 
 - ★ **Section 103 BNS, 2023 (formerly Sec 302 IPC) – Infanticide:**
     - _Law:_ Legally, India has no separate "infanticide" code. Killing a child under 1 year of age is prosecuted as **Murder** under Section 103 BNS, carrying a punishment of **death or life imprisonment and a fine**[`input_file_11.png`, `input_file_364.png`].
-- ★ **Section 91 BNS, 2023 (formerly Sec 315 IPC):**
+- ★ **Section ==91 BNS==, 2023 (formerly Sec 315 IPC):**
     - _Law:_ Acts done with intent to **prevent a child from being born alive** or to cause it to die after birth [`input_file_11.png`, `input_file_364.png`].
     - _Punishment:_ Up to **10 years of imprisonment, a fine, or both** [`input_file_11.png`].
-- ★ **Section 92 BNS, 2023 (formerly Sec 316 IPC):**
+- ★ **Section ==92 BNS==, 2023 (formerly Sec 316 IPC):**
     - _Law:_ Causing the death of a quick unborn child by an act amounting to culpable homicide [`input_file_11.png`, `input_file_364.png`].
     - _Punishment:_ Up to **10 years of imprisonment and a fine** [`input_file_11.png`].
 - ★ **Section 94 BNS, 2023 (formerly Sec 318 IPC) – Concealment of Birth:**
@@ -224,93 +224,3 @@ Assailants (often unmarried mothers wishing to hide pregnancy) employ various me
 
 ---
 
-## **High-Yield Exam Corner** ★
-
-- ★ **The BNS Bumper Point:** Students frequently confuse Sections 91 and 92 BNS. Remember: **Section 91 BNS is intent-based** (preventing live birth) [`input_file_11.png`, `input_file_364.png`], while **Section 92 BNS involves actual physical violence** causing death to a quick fetus [`input_file_11.png`, `input_file_364.png`].
-- ★ **Spalding’s Sign:** A radiological indicator of **intrauterine fetal death (IUD)** [`input_file_365.png`]. Seen **4 to 7 days** after fetal death, characterized by **overlapping of the cranial skull bones** caused by liquefaction of brain matter and subsequent intracranial collapse [`input_file_366.png`].
-- ★ **Maceration:** An **aseptic, sterile autolysis** of a dead fetus in utero within intact amniotic fluid [`input_file_365.png`]. Starts with **skin slippage/reddening by 12 hours**, blisters by 24 hours, and hypermobile joints by 48 hours [`input_file_365.png`]. Finding maceration proves the child was **dead born**, immediately ruling out infanticide [`input_file_365.png`].
-
----
-
-## **Mnemonics** 🧠
-
-### **1. Viability of Fetus Checklist: "SevenTH"** [`input_file_364.png`]
-
-- **Seven** – **Seven** months of intrauterine life (\(28\) weeks) [`input_file_364.png`]
-- **T** – **T**alus bone ossification center present [`input_file_364.png`]
-- **H** – **H**eight is \(35\) cm (measured crown-to-heel) [`input_file_364.png`]
-
----
-
-### **2. Respired vs. Unrespired Lung: "F-S-C-R"** [`input_file_368.png`]
-
-- **F** – **F**irm/Solid (Unrespired) vs. **F**loats/Spongy (Respired) [`input_file_368.png`]
-- **S** – **S**inks (Unrespired) vs. **S**quamous histology (Respired) [`input_file_368.png`]
-- **C** – **C**uboidal lining (Unrespired) vs. **C**repitant on touch (Respired) [`input_file_368.png`]
-- **R** – **R**ed/Blue color (Unrespired) vs. **R**ounded edges (Respired) [`input_file_368.png`]
-
----
-
-## **Viva Questions & Model Answers** 💬
-
-**Q1: What is "Spalding's Sign" and what is its clinical significance?**  
-**Answer:** Spalding's sign is a pathognomonic radiological marker of intrauterine fetal death (IUD) [`input_file_365.png`]. It appears **4 to 7 days** after death and is characterized by the overlapping of the fetal skull bones [`input_file_366.png`]. It is caused by brain liquefaction and loss of intracranial pressure, indicating the child was dead born [`input_file_365.png`, `input_file_366.png`].
-
-**Q2: How do you differentiate a lung that floats due to respiration from one that floats due to putrefaction?**  
-**Answer:** We perform a **Control Test** by placing a piece of the **baby's liver** in the water [`input_file_369.png`]. If the liver floats, putrefaction is active (decomposition gas has expanded all organs), making the lung float findings unreliable [`input_file_369.png`]. If the liver sinks, putrefaction is absent, confirming the lung is floating due to true respiration [`input_file_369.png`]. We can also perform the **Squeeze Test**; respired lung pieces will continue to float even after being compressed firmly between fingers to expel tidal air [`input_file_369.png`].
-
-**Q3: What is "Wreden's Test" for live birth?**  
-**Answer:** Wreden's test is based on examining the middle ear cavity [`input_file_369.png`]. In a stillborn, the middle ear contains gelatinous embryonic connective tissue [`input_file_369.png`]. After live birth, active respiration forces air through the Eustachian tube, replacing this gelatinous tissue with **air** [`input_file_369.png`].
-
----
-
-## **Common Mistakes Students Make** ❌
-
-- **Calling a Positive Hydrostatic Test absolute proof of Infanticide:** A positive test only proves **live birth** (the child took a breath) [`input_file_368.png`, `input_file_369.png`]. It does not prove _infanticide_ unless we also document a criminal cause of death (such as smothering injuries or poisons) [`input_file_364.png`].
-- **Confusing Spalding's and Robert's Signs:**
-    - _Spalding's sign_ is **skull bone overlapping** [`input_file_365.png`].
-    - _Robert's sign_ is the presence of **gas shadows in the heart and great vessels** (earliest sign of IUD, seen within 12 hours) [`input_file_365.png`, `input_file_366.png`].
-- **Using Old Legal Sections:** Citing Section 302 or 315 of the old IPC. You **must write Section 103 BNS** (Murder) and **Section 91 BNS, 2023** to secure full marks [`input_file_11.png`].
-
----
-
-## **End With: Quick Revision Notes** ⏱️
-
-1. **Viability:** Completed **28 weeks**, weight **900g-1200g**, length **35 cm**, ossified talus bone [`input_file_364.png`].
-2. **Live Birth (RBD Act 1969):** Any sign of life after complete separation [`input_file_368.png`].
-3. **Diaphragm Levels:** **4th-5th rib** in dead-born vs. **6th-7th rib** in live-born [`input_file_368.png`].
-4. **Lungs:** Voluminous, crepitant, spongy, light pink, and floats in water with squamous histology if respired [`input_file_368.png`].
-5. **Hydrostatic Test:** Squeeze test is confirmatory; use liver as a control to rule out putrefaction gases [`input_file_369.png`].
-6. **Breslau’s 2nd Test:** Puncture stomach under water to check for swallowed air bubbles [`input_file_369.png`].
-7. **Spalding's Sign:** Cranial bone overlapping; confirms dead born status [`input_file_365.png`].
-8. **Infanticide Methods:** Smothering (most common), needle punctures through fontanelle, drowning, smearing maternal nipples with opium [`input_file_295.png`, `input_file_364.png`, `input_file_433.png`].
-9. **BNS 2023 Laws:** Classified as murder under **Section 103 BNS** [`input_file_11.png`]. Intentional prevention of live birth is **Section 91 BNS** [`input_file_11.png`].
-
----
-
-## **Model University Answers** 📝
-
-### **2 Marks: Define "Viability of a Fetus" and state its gestational threshold in India.**
-
-**Answer:** Viability is the physical capability of a fetus to sustain an extrauterine, independent existence after complete birth [`input_file_364.png`]. In India, the legal and medical threshold of viability is completed **28 weeks (7 months)** of gestation [`input_file_364.png`].
-
----
-
-### **5 Marks: Differentiate between a Stillborn child and a Dead Born (IUD) child.**
-
-**Answer:**
-
-1. **Definition:** A stillborn child died in the birth canal during labor (having reached 28 weeks), while a dead-born child died in utero prior to labor [`input_file_365.png`].
-2. **Maceration:** **Absent** in stillbirth; **Present** in dead born (aseptic skin peeling, hypermobile joints) [`input_file_365.png`].
-3. **Radiological Signs:** **Absent** in stillborn; **Present** in dead born (Spalding's sign, Robert's sign, Deuel's halo sign) [`input_file_365.png`, `input_file_366.png`].
-4. **Autopsy Status:** Both show unrespired lungs, but the presence of maceration in dead born confirms death occurred weeks/days before delivery [`input_file_365.png`].
-
----
-
-### **10/15 Marks: Define Infanticide. Explain the autopsy signs and diagnostic tests used to prove live birth in a newborn, and discuss the common methods used to commit infanticide under current Indian law.**
-
-_(Structure your essay using the detailed sections of this guide: start with **Definitions & Viability Criteria**, incorporate the **Unrespired vs. Respired Lung Comparison Table**, detail the **Hydrostatic, Breslau’s 2nd, and Wreden's Tests**, explain **Acts of Omission & Commission (including the fontanelle needle puncture)**, and close with **BNS, 2023 Sections 91, 92, 94, and 103** to secure maximum marks)._
-
----
-
-📊 _Would you like me to generate a 10-question high-yield practice quiz on these newborn autopsy tests, maceration changes, and BNS legal codes to help you consolidate your knowledge before your university exams?_
