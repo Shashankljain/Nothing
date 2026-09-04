@@ -32,7 +32,7 @@
 
 ## **I. Viability of the Fetus** 🔬🤰
 
-★ **Important Exam Point:** A fetus is legally and medically considered viable in India once it completes **28 weeks (7 months)** of intrauterine life [`input_file_364.png`].
+★ **Important Exam Point:** it is the ability of the fetus tom lead a separate existsnce life apart from its mother 
 
 ### **Anatomical Criteria of a Viable Fetus (\(\ge\) 28 Weeks)** [`input_file_364.png`]:
 
