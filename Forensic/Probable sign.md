@@ -1,0 +1,3 @@
+[[Virginity,preg]]
+- **Pregnancy (Gestation):** The physiological state of carrying one or more developing embryos or fetuses inside the maternal uterus.
+- **Probable Signs of Pregnancy:** Objective physical and biochemical findings observed on examination of the maternal pelvic organs or body fluids, which are **highly suggestive** but **not 100% confirmatory (absolute proof)** of pregnancy [Image 139].
