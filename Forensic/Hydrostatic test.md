@@ -5,6 +5,8 @@
     - An unrespired lung has a specific gravity of **1.04 (Sinks)** [`input_file_369.png`].
     - A respired, air-filled lung has a specific gravity of **0.94 (Floats)** [`input_file_369.png`].
 - **The Autopsy Steps** [`input_file_369.png`]:
+
+![[image 57.jpg]]
     1. **Step 1:** The entire cardiorespiratory block (trachea, bronchi, lungs, and heart) is removed en masse and placed in a bucket of fresh water [`input_file_369.png`]. _Record if it floats or sinks._
     2. **Step 2:** The lungs are dissected from the heart, separated into individual lobes, and placed in the water [`input_file_369.png`].
     3. **Step 3:** Cut each lung into **12 to 20 small pieces** and place them in the water [`input_file_369.png`].
