@@ -35,6 +35,8 @@
     - _Timing:_ Typically assessed during the $4^{\text{th}}$ **and** $5^{\text{th}}$ **months** of gestation [Image 139].
     - _Mechanism:_ The examiner's finger inserted into the vagina taps the anterior uterine wall. This pushes the floating fetus upward in the amniotic fluid; the fetus then falls back, gently tapping against the examiner’s finger.
 - **Abdominal Enlargement:** Progressive, objective distension of the lower abdomen corresponding to the fundal height of the enlarging gravid uterus [Image 139].
+
+![[image 53.jpg]]
 ![[image 52.jpg]]
 
 ---
