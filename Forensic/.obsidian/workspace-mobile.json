@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Blood grouping"
             }
+          },
+          {
+            "id": "a8b8f462736fe1cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Disputed paternity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Disputed paternity"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Blood grouping.md",
+            "file": "Disputed paternity.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "9db0ab7975fa7d9b",
+  "active": "a8b8f462736fe1cd",
   "lastOpenFiles": [
+    "Disputed paternity.md",
     "Blood grouping.md",
     "Trace evidence.md",
     "Maceration.md",
@@ -205,7 +221,6 @@
     "Virginity,preg.md",
     "Hymen.md",
     "Pedistian.md",
-    "Hemorrhages.md",
     "Sign,symptom,feature,tx.canvas",
     "Toxicology.base"
   ]
