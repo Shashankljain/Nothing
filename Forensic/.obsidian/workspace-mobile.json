@@ -18,49 +18,21 @@
             }
           },
           {
-            "id": "01f509a1c7b4b23d",
+            "id": "deba404f9dad7a1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regional injuries.md",
+                "file": "Coup-countercoup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regional injuries"
-            }
-          },
-          {
-            "id": "c86a033e78ed4a62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skull injuries.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Skull injuries"
-            }
-          },
-          {
-            "id": "b70e21a3b08c4308",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "Coup-countercoup"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +125,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled 2.md",
+            "file": "Coup-countercoup.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -207,13 +179,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "b70e21a3b08c4308",
+  "active": "deba404f9dad7a1f",
   "lastOpenFiles": [
-    "Untitled 2.md",
+    "Puch drunk.md",
     "Skull injuries.md",
+    "Regional injuries.md",
+    "Coup-countercoup.md",
+    "image 47.jpg",
+    "image 46.jpg",
+    "image 45.jpg",
     "image 44.jpg",
     "image 43.jpg",
-    "Regional injuries.md",
     "EDH.md",
     "Pasted image 20260904102516.png",
     "Pasted image 20260904102416.png",
@@ -240,12 +216,7 @@
     "Spinal poison.md",
     "Biological warfare.md",
     "CN.md",
-    "CO.md",
-    "Cardiac poison.md",
     "image 41.jpg",
-    "image 40.jpg",
-    "Pasted image 20260828004034.png",
-    "Pasted image 20260828004020.png",
     "Toxicology.base"
   ]
 }
