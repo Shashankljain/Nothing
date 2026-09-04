@@ -13,7 +13,7 @@
     - _Control floats:_ Putrefaction is active (gas has formed in all solid organs), rendering the lung float test **invalid**(False Positive) [`input_file_369.png`].
     - _Control sinks:_ Putrefaction is absent; lung float findings are highly accurate and reliable [`input_file_369.png`].
 
-#### **FallciesDiagnostic Pitfalls & Traps** [`input_file_369.png`]
+#### **Fallcacies /Diagnostic Pitfalls & Traps** [`input_file_369.png`]
 
 - **False Positives ( floats):**
     - **Putrefaction:** Decomposition gases accumulate, causing unrespired lungs to float [`input_file_369.png`].
