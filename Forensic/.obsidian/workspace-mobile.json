@@ -31,8 +31,7 @@
               "title": "Coup-countercoup"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,15 +177,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "deba404f9dad7a1f",
+  "active": "22d9295daef2f236",
   "lastOpenFiles": [
+    "Coup-countercoup.md",
     "Pedistian.md",
     "Hemorrhages.md",
     "image 50.jpg",
     "image 49.jpg",
     "image 48.jpg",
     "Identification.md",
-    "Coup-countercoup.md",
     "Puch drunk.md",
     "Skull injuries.md",
     "Regional injuries.md",
