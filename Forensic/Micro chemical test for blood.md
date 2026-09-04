@@ -59,6 +59,7 @@
                                       ▼
                    [★ PINK, FEATHERY HEMOCHROMOGEN CRYSTALS]
 ```
+![[image 60.jpg]]
 
 - **Reagents Used:** **Takayama Reagent (GPS)**:
     - **G** – **G**lucose (reducing agent)
