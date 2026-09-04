@@ -25,10 +25,14 @@
             "id": "aa3da78d2fafac2c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled 2"
             }
           }
         ],
@@ -125,6 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Untitled 2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -180,6 +185,7 @@
   },
   "active": "aa3da78d2fafac2c",
   "lastOpenFiles": [
+    "Untitled 2.md",
     "Infanticide.md",
     "Ligitamacy.md",
     "Compressed fetus.md",
@@ -216,7 +222,6 @@
     "Sign,symptom,feature,tx.canvas",
     "Stages of alcohol intoxication in detail..md",
     "Amp.md",
-    "CNS depressents.md",
     "Toxicology.base"
   ]
 }
