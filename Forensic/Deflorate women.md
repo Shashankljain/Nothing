@@ -1,6 +1,8 @@
 [[Virginity,preg]]
 **Genital Findings: Virgin vs. Deflorate Women** 🩺📊
 
+The **loss of virginity**, classically characterized by the **rupture/tearing of the hymen** as a result of the first sexual act
+
 ★ **Important Exam Point:** Recreating this classic morphological comparison table is highly favored by university external examiners to score maximum marks.
 
 | **Anatomical Landmark**     | **Virginity (Intact Status)** 👩‍⚕️                            | **Defloration (Ruptured Status)** 💔                                  |
