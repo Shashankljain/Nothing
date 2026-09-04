@@ -91,7 +91,7 @@ Blood groups **can never definitively prove paternity** (they can only include
 
 - **Mismatched Transfusions:** Negligent administration of incompatible blood (e.g., giving Group A blood to a Group O patient) leading to acute intravascular hemolysis, renal failure, and death38.
 - **Transfusion-Transmitted Infections:** Failing to screen donor blood for lethal pathogens such as **HIV**, **Hepatitis B**, or **Malaria** before transfusion38.
-- ★ **Blood Doping:** The illegal practice of artificially increasing an athlete's red blood cell count (via autologous blood transfusion or recombinant erythropoietin/EPO) to boost athletic performance3839. Banned strictly by the **World Anti-Doping Agency (WADA)**39.
+- ★ **Blood Doping:** The illegal practice of ==artificially increasing an athlete's red blood cell count== (via autologous blood transfusion or recombinant erythropoietin/EPO) to boost athletic performance3839. Banned strictly by the **World Anti-Doping Agency (WADA)**39.
 
 ---
 
