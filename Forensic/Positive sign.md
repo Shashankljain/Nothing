@@ -51,7 +51,8 @@ USG is the safest, earliest, and most common modern modality used to confirm pre
 - **Distinct Echo from Embryo:** Detectable during the **7th week** [Image 139].
 - **Fetal Heartbeat:** Confirmed by the **10th week** [Image 139].
 - **Other USG Indicators:** Visualizing the placental souffle and umbilical souffle [Image 139].
-
+- Placental souffle - Soft murmur , corresponding to fetal heart sound
+- Umbilical souffle - blowing murmur , same as above
 ### **IV. Radiography (X-Ray Findings)** 🩻
 
 Although clinically avoided in modern medicine due to radiation risks to the fetus, radiological visualization of the fetal skeleton remains a definitive absolute proof of pregnancy in forensic autopsies or late-stage obstetric cases [Image 139].
