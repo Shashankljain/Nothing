@@ -5,7 +5,7 @@
 
 ### **1. Definition & Legal Status** 📚
 
-- **Legitimacy** refers to the lawful status of a child born within a valid wedlock, which legally entitles the child to inherit the father's property and claim maintenance `[238, input_file_15.png]`.
+- **Legitimacy** refers to the legal state of person born to a valid 
 
 ---
 
