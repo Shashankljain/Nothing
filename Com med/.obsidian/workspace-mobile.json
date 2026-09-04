@@ -58,8 +58,19 @@
               "icon": "lucide-file",
               "title": "Covid waste"
             }
+          },
+          {
+            "id": "6cfd886e7fe57d88",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -208,7 +219,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "c41ed355342d2f1e",
+  "active": "6cfd886e7fe57d88",
   "lastOpenFiles": [
     "Covid waste.md",
     "White bins.md",
