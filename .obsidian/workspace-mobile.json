@@ -119,12 +119,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "H.md",
+                "file": "Pedistian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "H"
+              "title": "Pedistian"
             }
           }
         ],
@@ -282,7 +282,7 @@
     "Forensic/image 50.jpg",
     "Forensic/image 49.jpg",
     "Forensic/image 48.jpg",
-    "H.md",
+    "Pedistian.md",
     "Forensic/Hemorrhages.md",
     "Forensic/Skull injuries.md",
     "Forensic/Regional injuries.md",
