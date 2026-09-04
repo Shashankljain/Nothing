@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EDH.md",
+                "file": "Regional injuries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EDH"
+              "title": "Regional injuries"
             }
           },
           {
@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Skull injuries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "Skull injuries"
             }
           }
         ],
@@ -195,8 +195,9 @@
   },
   "active": "c86a033e78ed4a62",
   "lastOpenFiles": [
-    "Untitled 2.md",
+    "Regional injuries.md",
     "EDH.md",
+    "Skull injuries.md",
     "Pasted image 20260904102516.png",
     "Pasted image 20260904102416.png",
     "Sign,symptom,feature,tx.canvas",
@@ -225,7 +226,6 @@
     "CO.md",
     "Cardiac poison.md",
     "Aconite poisoning.md",
-    "Asphyxiants.md",
     "image 41.jpg",
     "image 40.jpg",
     "Pasted image 20260828004034.png",
