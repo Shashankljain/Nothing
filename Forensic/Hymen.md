@@ -41,7 +41,7 @@
 6. **Fimbriate Hymen:** Characterized by multiple natural, symmetrical, shallow notches along its border, resembling fringe-like projections [Image 14].
 7. **Vertical Hymen:** Possesses a slit-like vertical opening [Image 14].
 8. **Infantile Hymen:** Very small, thick, and fleshy with a tiny central opening [Image 14].
-
+![[image 51.jpg]]
 ---
 
 ## **Hymenal Rupture: Causes, Sites, and Mechanism** 🔬
