@@ -1,4 +1,6 @@
 [[Infanticide]]
+**Maceration:** Maceration is defined as an **aseptic, sterile autolysis** of a dead fetus _in utero_, occurring when the dead child remains in the uterine cavity surrounded by intact amniotic fluid (**liquor amnii**) with the complete exclusion of atmospheric air
+
 **PART II: TOPIC-SPECIFIC EXPLANATION & CLASSIFICATION** 🔬
 
 **1. Pathophysiology (Autolysis vs. Putrefaction)**
@@ -32,10 +34,10 @@ Maceration is clinically graded into three distinct stages depending on the dept
                                            │
          ┌─────────────────────────────────┼─────────────────────────────────┐
          ▼                                 ▼                                 ▼
-   [Grade I (Mild)]               [Grade II (Moderate)]             [Grade III (Severe)]
-• Superficial skin slippage.    • Extensive skin slippage.        • Total skin loss (peeling).
-• Localized peeling & redness.  • General softening of internal   • Complete visceral liquefaction.
-                                  viscera/organs.                 • Highly hypermobile joints.
+   [Grade I (Mild)]            [Grade II (Moderate)]       [Grade III (Severe)]
+• Superficial skin slippage • Extensive skin slippage • Total skin loss                                                                   (peeling).
+• Localized peeling & redness. • General softening of internal   • Complete                                                             visceral liquefaction.
+                                  viscera/organs.                 • Highly                                                                hypermobile joints.
 ```
 
 1. **Mild (Grade I):** Only superficial **skin slippage, peeling, and reddening** are present.
@@ -49,9 +51,9 @@ Maceration is clinically graded into three distinct stages depending on the dept
 When a dead fetus is retained in the womb, a prenatal maternal X-ray or ultrasound (USG) will reveal classic, pathognomonic radiological signs of intrauterine death:
 
 1. ★ **Robert’s Sign (Earliest Sign – 12 Hours):** The presence of **gas shadows in the fetal heart chambers and great vessels**. This is the earliest radiological marker of fetal death.
-2. ★ **Spalding’s Sign (Pathognomonic – 4 to 7 Days):** The **overlapping of the cranial skull vault bones**.
+2. ★ **Spalding’s Sign (Pathognomonic – ==4 to 7 Days)==:** The **overlapping of the cranial skull vault bones**.
     - _Biomechanical Mechanism:_ Aseptic liquefaction of the brain matter causes a complete collapse of intracranial pressure. Consequently, the flat bones of the skull collapse inward and overlap.
     - _Exam Catch:_ This sign is most pronounced and reliable in **vertex presentations**.
 3. **Hyperflexion of the Spine (Ball Sign):** The fetal spine curves abnormally into a tight, crumpled ball due to the loss of muscular tone and ligamentous softening.
 4. **Overcrowding of the Ribs:** The ribs collapse inward and appear bunched together because the lungs have never inflated with air.
-5. **Deuel’s Halo Sign:** The separation of the subcutaneous fat of the scalp from the underlying cranial skull bones, appearing on a scan as a translucent "halo" surrounding the fetal head.
+5. **Dual Halo Sign:** The separation of the subcutaneous fat of the scalp from the underlying cranial skull bones, appearing on a scan as a translucent "halo" surrounding the fetal head.
