@@ -3,32 +3,6 @@
 
 ---
 
-## **Basic Concepts & Definitions** 📚
-
-### **Definitions**
-
-- **Infanticide:** The unlawful killing of an infant **under one year of age** [`input_file_364.png`].
-    - _Note:_ Unlike English law, which has a separate "Infanticide Act" with reduced culpability, **Indian law treats infanticide equivalent to murder** under **Section 103 BNS, 2023** [`input_file_11.png`, `input_file_364.png`].
-- **Neonaticide:** The unlawful killing of a newborn within **24 hours of birth** [`input_file_364.png`].
-- **Feticide:** The unlawful destruction of a fetus in utero [`input_file_364.png`].
-- **Filicide:** The killing of a child by their own parents [`input_file_364.png`].
-- **Viability:** The physical capability of a fetus to maintain extrauterine, independent existence of the mother after birth [`input_file_364.png`].
-- **Live Birth:** The complete expulsion or extraction of a product of conception from the mother, irrespective of the duration of pregnancy, which after such separation **shows any sign of life** (such as respiration, crying, or voluntary movements) [`input_file_368.png`].
-- **Stillbirth:** A child born after **28 weeks of gestation** who died in the birth canal during labor or delivery, without ever breathing or showing signs of life [`input_file_365.png`].
-- **Dead Born (IUD):** A child who died **in utero** (intrauterine death) prior to the onset of labor, showing pathognomonic signs of maceration, mummification, or putrefaction [`input_file_365.png`].
-
----
-
-## **The "6-W" Analytical Framework** ❓
-
-1. **What?** The medical and legal determination of fetal viability, live birth, and causes of unnatural infant deaths [`input_file_364.png`].
-2. **Why?** Undertaken to investigate suspected cases of child abandonment, neonatal murder, or secret disposal of bodies [`input_file_364.png`].
-3. **How?** Proven scientifically by demonstrating post-delivery respiration through pulmonary expansion, gastrointestinal air, and umbilical changes [`input_file_368.png`, `input_file_369.png`].
-4. **When?** Conducted during postmortem autopsies of infants brought by the investigating police officer [`input_file_364.png`].
-5. **Where?** Performed in state-authorized forensic mortuaries under daylight conditions to preserve color-change parameters [`input_file_77.png`].
-6. **Who?** Conducted by governo-authorized Registered Medical Practitioners (RMPs) or Forensic Medicine Specialists [`input_file_74.png`].
-
----
 
 ## **I. Viability of the Fetus** 🔬🤰
 
