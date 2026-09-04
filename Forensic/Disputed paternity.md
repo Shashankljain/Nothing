@@ -1,7 +1,6 @@
 [[Trace evidence]]
 
-#A legal dispute where the biological fatherhood of a child is questioned, requiring scientific and legal determination of parentage.
-- ★ **Legitimacy:** The legal status of a child born during a valid marriage, or within 280 days of its dissolution, entitling them to inheritance and maintenance [input_file_15.png].
+legal dispute where the biological fatherhood of a child is questioned, requiring scientific and legal determination of parentage.
 
 ---
 
@@ -30,8 +29,8 @@ Traditional serology **can never definitively prove paternity**, but it can **
                                         │
          ┌──────────────────────────────┼──────────────────────────────┐
          ▼                              ▼                              ▼
- [ABO System Alone]               [MNS System Added]             [HLA System Added]
-   • Excludes 17.6%                • Excludes 44%                 • Excludes 90-98%
+ [ABO System Alone]          [MNS System Added]             [HLA System Added]
+   • Excludes 17.6%                • Excludes 44%         • Excludes 90-98%
      (1/6th of cases).          of cases.                of cases.
 ```
 
@@ -43,17 +42,6 @@ Traditional serology **can never definitively prove paternity**, but it can **
 - _Principle:_ Every band in the child's DNA fingerprint must be present in either the biological mother's or the biological father's profile.
 
 ---
-
-## **4. Strict Sample Collection Protocol** 🧪
-
-To prevent contamination and satisfy legal standards, the Registered Medical Practitioner (RMP) must follow these rules:
-
-- **Adults:** Collect **5 mL venous blood** in a plain or purple-stoppered EDTA tube. The parties must not have received a blood transfusion in the preceding **3 months**.
-- **Infants:** Collect **1 mL blood** via heel prick. Testing is preferred once the infant is **6 months of age** (never \(< 2\) months).
-- ★ **The Standardization Rule:** The testing of the mother, child, and alleged father must be conducted **by the same expert, in the same laboratory, on the same day, using the same batch of reagents**.
-
----
-
 ## **5. Relevant Law (Latest 2023 Forensic Codes)** ⚖️
 
 - ★ **Section 116 BSA, 2023 (formerly Sec 112 IEA) – Presumption of Legitimacy:**
@@ -62,15 +50,3 @@ To prevent contamination and satisfy legal standards, the Registered Medical Pra
 - ★ **Section 144 BNSS, 2023 (formerly Sec 125 CrPC) – Maintenance Claims:** Legally mandates a father to support his wife and children. Courts routinely order DNA profiling under this section to resolve parentage disputes before awarding maintenance.
 
 ---
-
-## **High-Yield Exam Corner** ★
-
-- ★ **Mnemonic (Exclusion Probability):** **A-M-H**
-    - **A** – **A**BO system alone: **17.6% (1/6th)**
-    - **M** – **M**NS system added: **44%**
-    - **H** – **H**LA system added: **90% to 98%**
-- **Common Student Mistake:** Writing that "blood grouping can prove parentage". Always clarify that blood grouping is only diagnostic for **exclusion**, whereas **DNA Fingerprinting** is required for **absolute inclusion (proof of parentage)**.
-
----
-
-📊 _Would you like me to generate a 5-question high-yield practice quiz comparing blood group exclusion calculations (First-Order vs. Second-Order) and the latest 2023 BSA/BNSS legal provisions to help you secure top marks in your upcoming university exams?_
