@@ -7,14 +7,7 @@
 
 The most probable injury that led to the rider's death is **Acute Epidural Hemorrhage (EDH) / Extradural Hemorrhage**secondary to a **left temporoparietal skull fracture** (specifically crossing the path of the **Middle Meningeal Artery** at the **Pterion**) [Image: Regional Injury, Epidural Hemorrhage].
 
-### **The "6-W" Analytical Case Synthesis** ❓
 
-1. **What?** An arterial hemorrhage in the extradural space, resulting in a rapidly expanding biconvex hematoma that compresses the brain parenchyma [Image: Epidural Hemorrhage].
-2. **Why?** Prompted by direct blunt impact when the rider's head struck the road divider (a classic road traffic accident scenario) [Image: Road Traffic Accident Injuries].
-3. **How?** A temporal bone fracture tears the **Middle Meningeal Artery (MMA)** [Image: Regional Injury, Epidural Hemorrhage]. The high-pressure arterial bleeding strips the dura mater from the inner table of the skull.
-4. **When?** Characterized by the classic pathognomonic **Lucid Interval**—a temporary period of consciousness between the initial traumatic concussive episode and the subsequent fatal neurological collapse.
-5. **Where?** Located in the epidural space (between the skull vault and the dura mater), specifically at the **left temporoparietal region (pterion)** [Image: Regional Injury, Epidural Hemorrhage].
-6. **Who?** Highly common in young adult male motorcyclists who do not wear protective helmets [Image: Road Traffic Accident Injuries].
 
 ---
 
@@ -46,8 +39,8 @@ The most probable injury that led to the rider's death is **Acute Epidural Hemo
                                       │
          ┌────────────────────────────┴────────────────────────────┐
          ▼                                                         ▼
- [Compression of Brain]                                    [★ THE LUCID INTERVAL]
- • Ipsilateral midline shift                             • Temporary mental clarity as
+ [Compression of Brain]                                 [★ THE LUCID INTERVAL]
+ • Ipsilateral midline shift                      • Temporary mental clarity as
  • Uncal (tentorial) herniation                           hematoma accumulates slowly.
          │                                                         │
          └────────────────────────────┬────────────────────────────┘
@@ -57,7 +50,7 @@ The most probable injury that led to the rider's death is **Acute Epidural Hemo
                                       ▼
                  [Coma, Respiratory Arrest & Death]
 ```
-
+![[Pasted image 20260904102516.png]]
 _(Mechanism detailed in)_
 
 1. **The Impact and Fracture:** Direct blunt impact to the thin left temporal bone causes local **inbending**. Once the force exceeds the bone's elastic limits, a fissure fracture occurs.
@@ -104,7 +97,7 @@ The **Lucid Interval** is a temporary phase of normal consciousness and mental
     - Marked unilateral flattening of the cerebral convolutions (gyri) and obliteration of sulci on the left side.
     - **Ipsilateral uncal herniation** and severe compression of the brainstem.
     - ★ **Duret Hemorrhages:** Small, secondary pinpoint hemorrhages in the midbrain and pons due to stretching and tearing of brainstem perforating vessels [Image: Regional Injury, Intracerebral Hemorrhage].
-- **The Heart (★ Simon's/Sheehan's Hemorrhages):**
+- **The Heart (★ ==Simon's/Sheehan's Hemorrhages==):**
     - Autopsy reveals **subendocardial or Sheehan's hemorrhages**. These are flame-shaped, confluent hemorrhages in the left ventricle, typically on the interventricular septum. They are a classic vital sign of acute intracranial trauma and shock.
 
 ---
