@@ -5,7 +5,7 @@
 
 ### **1. Definition & Legal Status** 📚
 
-- **Legitimacy** refers to the legal state of person born to a valid 
+- **Legitimacy** refers to the legal state of person born to a valid lawful marriage 
 
 ---
 
