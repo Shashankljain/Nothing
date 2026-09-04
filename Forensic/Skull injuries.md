@@ -1,2 +1,4 @@
 [[Regional injuries]]
 **Skull Fracture:** A structural breach in the physical continuity of the cranial vault (vertex) or the cranial floor (base of the skull), occurring when applied mechanical energy exceeds the elastic limits of the bone tissue
+
+![[image 43.jpg]]
