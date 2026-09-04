@@ -43,7 +43,7 @@ There are over 30 recognized human blood group systems, but the ones of primary 
 
 The forensic and clinical applications of blood grouping span civil, criminal, and medical jurisdictions:
 
-**1. Civil Cases (Disputed Parentage)**32
+**1. Civil Cases (Disputed Parentage)
 
 - ★ **Disputed Paternity & Legitimacy:** If a married man suspects his wife of adultery and claims her child is illegitimate, blood groups can be used to resolve the dispute32.
 - **Disputed Maternity:**
