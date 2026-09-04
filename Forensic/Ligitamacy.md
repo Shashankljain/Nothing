@@ -24,6 +24,4 @@ Under **Section 116 of the Bharatiya Sakshya Adhiniyam (BSA), 2023** (which ha
 - ★ **The Sole Exception (Non-Access):** This presumption can only be rebutted if it is proven that the husband and wife had **no access to each other** at any time when the child could have been conceived ``.
 - ★ **Scientific Determination:** While traditional blood grouping (ABO and Rh systems) can only exclude paternity , **DNA Fingerprinting** is accepted by courts as the **ultimate, absolute method** to prove or disprove paternity and establish biological legitimacy `[247, input_file_14.png]
 
----
-
-📊 _Would you like me to generate a quick study card on "Suppositious Child vs. Posthumous Child" to help you master these high-yield forensic obstetrics terms for your viva?_
+---![[Pasted image 20260904184841.png]]
