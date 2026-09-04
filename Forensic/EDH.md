@@ -137,24 +137,6 @@ The susceptibility to fractures depends on local bone thickness:
 
 ---
 
-### **II. Relevant Diagrams** 🖼️
-
-The following high-yield schematic diagrams illustrate the key mechanisms of skull fractures and the development of Epidural Hemorrhage:
-
-#### **Diagram 1: Classification and Types of Skull Fractures**
-
-This diagram demonstrates the classic patterns of Linear, Depressed, Comminuted, and Diastatic skull fractures:
-
---Image of: --Types of Skull Fractures Diagram
-
-#### **Diagram 2: Mechanism of Epidural Hemorrhage (EDH)**
-
-This coronal cross-section shows a linear skull fracture crossing the pterion, tearing the Middle Meningeal Artery, and resulting in a classic biconvex (lenticular) epidural hematoma compressing the brain:
-
---Image of: --Epidural Hemorrhage Mechanism Diagram
-
----
-
 ### **III. High-Yield Clinical Signs of Skull Base Fractures** 🩺
 
 Examiners frequently ask students to match clinical signs with specific cranial fossae fractures:
@@ -176,64 +158,3 @@ Examiners frequently ask students to match clinical signs with specific cranial 
 
 ---
 
-## **High-Yield Exam Corner** ★
-
-### **Viva Questions & Model Answers** 💬
-
-**Q1: Why does an Epidural Hematoma have a biconvex (lenticular) shape on a CT scan, unlike a Subdural Hematoma?**  
-**Answer:** The dura mater is extremely tightly adherent to the inner table of the skull at the cranial suture lines. Therefore, as arterial blood accumulates in the extradural space, it is physically restricted from spreading widely and is forced to expand inward in a **biconvex/lenticular shape** [Image: Regional Injury, Epidural Hemorrhage]. Conversely, a Subdural Hematoma (SDH) lies beneath the dura and can spread freely, assuming a **concave/crescentic shape** [Image: Regional Injury, Subdural Hematoma].
-
-**Q2: What is "Puppe's Rule" and how is it clinically applied?**  
-**Answer:** Puppe's Rule states that **when two fracture lines intersect on the skull, the second fracture line never crosses the first one**. It is used to determine the exact chronological sequence of multiple blunt force impacts or gunshot wounds to the cranium.
-
-**Q3: Why do scalp wounds bleed profusely?**  
-**Answer:** The blood vessels of the scalp lie within the dense fibrous layer superficial to the galea aponeurotica. Because they are firmly bound by tough connective tissue, they are **unable to contract or retract** when severed, leading to profuse, persistent bleeding.
-
----
-
-### **Common Mistakes Students Make** ❌
-
-- **Confusing EDH and SDH Blood Vessels:** Writing that EDH is caused by ruptured bridging veins. **EDH is caused by the Middle Meningeal Artery (MMA)** [Image: Regional Injury, Epidural Hemorrhage]; SDH is caused by the rupture of **bridging veins** [Image: Regional Injury, Subdural Hematoma].
-- **Misidentifying Battle's Sign:** Stating that Battle's sign is seen in anterior cranial fossa fractures. Battle's sign is a marker of **middle cranial fossa fractures**.
-- **Forgetting to open the Cranium first:** In autopsies involving head trauma or suspected volatile poisoning, the **cranium must always be opened first** to document internal trauma and trap volatile odors before abdominal putrefaction interferes.
-
----
-
-### **Mnemonics** 🧠
-
-#### **Extradural Hematoma (EDH) vs. Subdural Hematoma (SDH) Shapes:**
-
-- **EDH** looks like a **D**-shaped (biconvex/lenticular) **Lemon** (Arterial, high pressure) [Image: Regional Injury, Epidural Hemorrhage].
-- **SDH** looks like a crescent-shaped **Banana** (Venous, low pressure) [Image: Regional Injury, Subdural Hematoma].
-
----
-
-## **Model University Answers** 📝
-
-### **2 Marks: Define the "Lucid Interval".**
-
-**Answer:** The Lucid Interval is a temporary period of normal consciousness and mental clarity occurring between the initial concussive unconsciousness of head trauma and the subsequent secondary coma caused by a progressively expanding intracranial hematoma (most classically seen in **Epidural Hemorrhage**).
-
----
-
-### **5 Marks: Differentiate between Epidural Hemorrhage (EDH) and Subdural Hemorrhage (SDH).**
-
-**Answer:**
-
-|**Feature**|**Epidural Hemorrhage (EDH)** 🔴|**Subdural Hemorrhage (SDH)** 🔵|
-|:--|:--|:--|
-|**1. Space Location**|Between skull inner table and dura mater [110, Image: Regional Injury, Epidural Hemorrhage].|Between dura mater and arachnoid mater [Image: Regional Injury, Subdural Hematoma].|
-|**2. Source Vessel**|**Middle Meningeal Artery (MMA)** [Image: Regional Injury, Epidural Hemorrhage].|**Bridging veins** [Image: Regional Injury, Subdural Hematoma].|
-|**3. CT Shape**|**Biconvex / Lenticular** [Image: Regional Injury, Epidural Hemorrhage].|**Concave / Crescent-shaped** [Image: Regional Injury, Subdural Hematoma].|
-|**4. Lucid Interval**|Highly classic and prominent [Image: Regional Injury, Epidural Hemorrhage].|Rare or poorly defined [Image: Regional Injury, Subdural Hematoma].|
-|**5. Restriction**|Limited by cranial suture lines [Image: Regional Injury, Subdural Hematoma].|Not restricted; spreads over the hemisphere [Image: Regional Injury, Subdural Hematoma].|
-
----
-
-### **10 Marks: Describe the mechanism, autopsy findings, and clinical importance of Epidural Hemorrhage, and explain the various types of skull base fractures under the 2023 legal framework.**
-
-_(Structure your answer strictly using the detailed sections of this guide—incorporating **Pathophysiology flowcharts**, the **Lucid Interval clinical-legal concepts (Section 106 BNS)**, **autopsy findings including Simon's hemorrhages**, the **Skull Fracture Classification Table**, and **Puppe's Rule**—to construct a comprehensive, maximum-score university essay.)_
-
----
-
-📊 _Would you like me to generate an interactive set of flashcards comparing the clinical signs, CT scan features, and legal responsibilities of the major traumatic brain injuries (Concussion vs. EDH vs. SDH) to help you review before your university exams?_
