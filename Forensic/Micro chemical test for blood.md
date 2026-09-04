@@ -11,7 +11,7 @@
 ### **2. Core Biochemical Principle**
 
 - ★ **Heme-Porphyrin Reaction:** These tests involve the non-protein **heme group of hemoglobin (porphyrins)**.
-- When blood is treated with specific acid or alkaline reagents and subjected to gentle heating, the heme molecule is modified into distinct, insoluble **derivative microcrystals** that are easily identified under a light microscope.
+- When blood is treated with specific acid or alkaline reagents and subjected to gentle heating, the heme molecule is modified into distinct, ==insoluble **derivative microcrystals==** that are easily identified under a light microscope.
 
 ---
 
