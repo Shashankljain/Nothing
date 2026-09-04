@@ -52,3 +52,5 @@ To secure maximum marks in a short-note question, you must highlight the followi
 ![[Pasted image 20260904224601.png]]
 
 ![[Pasted image 20260904224242.png]]
+
+![[Pasted image 20260904224757.png]]
