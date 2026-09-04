@@ -22,35 +22,21 @@
             }
           },
           {
-            "id": "a8b8f462736fe1cd",
+            "id": "b0be5ff7d3955514",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Disputed paternity.md",
+                "file": "Hazard of blood transfusion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disputed paternity"
-            }
-          },
-          {
-            "id": "111caebccbdf40ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Precipitin test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Precipitin test"
+              "title": "Hazard of blood transfusion"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Precipitin test.md",
+            "file": "Hazard of blood transfusion.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -197,11 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "111caebccbdf40ac",
+  "active": "b0be5ff7d3955514",
   "lastOpenFiles": [
+    "Hazard of blood transfusion.md",
+    "Blood grouping.md",
     "Precipitin test.md",
     "Disputed paternity.md",
-    "Blood grouping.md",
     "Trace evidence.md",
     "Maceration.md",
     "SIDS.md",
@@ -234,7 +221,6 @@
     "Presumptive sign.md",
     "Coup-countercoup.md",
     "Virginity,preg.md",
-    "Hymen.md",
     "Sign,symptom,feature,tx.canvas",
     "Toxicology.base"
   ]
