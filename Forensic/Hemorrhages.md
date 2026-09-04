@@ -9,23 +9,10 @@
 #### **Definition**
 **Intracranial Hemorrhage (ICH)** refers to the pathological extravasation and accumulation of blood within the cranial cavity. It can occur within the meningeal spaces (extradural, subdural, or subarachnoid) or directly within the brain parenchyma (intracerebral/intra-parenchymal), resulting in elevated intracranial pressure (ICP), brain compression, and potential brain herniation [`input_file_15.png`, `input_file_16.png`].
 
-#### **Anatomical Layers of the Cranium** 🧫
-To understand intracranial bleeds, a beginner must master the cranial layers from **outside to inside**:
-\text{Skull Vault (Cranial Bone)} \rightarrow \text{Dura Mater} \rightarrow \text{Arachnoid Mater} \rightarrow \text{Pia Mater} \rightarrow \text{Brain Tissue/Cerebrum} \text{ [`input_file_15.png`]}\$\$
 
----
+![[image 48.jpg]]
 
-### **The "6-W" Analytical Framework** ❓
-
-1. **What?** Life-threatening accumulations of blood within the non-yielding bony confines of the skull [`input_file_15.png`, `input_file_16.png`].
-2. **Why?** Triggered by mechanical trauma (road traffic accidents, falls, physical assaults) or non-traumatic pathological crises (ruptured aneurysms, chronic hypertension) [`input_file_15.png`, `input_file_16.png`].
-3. **How?** Deceleration/acceleration forces shear delicate bridging veins, direct impacts fracture bones to lacerate arteries, or high systemic blood pressure ruptures microaneurysms [`input_file_15.png`, `input_file_16.png`].
-4. **When?** Manifests either immediately as an acute crisis (e.g., Subarachnoid Hemorrhage) or after a deceptive delay (e.g., the **Lucid Interval** in Epidural Hemorrhage or weeks later in Chronic Subdural Hemorrhage) [`input_file_15.png`, `input_file_16.png`].
-5. **Where?** Localized within the potential or real spaces of the meninges, or deep within vital brain structures such as the **putamen** or **brainstem** [`input_file_15.png`, `input_file_16.png`].
-6. **Who?** Commonly seen in motorcyclists (Hinge fractures), boxers (Dementia Pugilistica), infants (Shaken Baby Syndrome), and elderly individuals prone to falls [`input_file_15.png`, `input_file_16.png`].
-
----
-
+![[image 49.jpg]]
 ### **Classification of Intracranial Hemorrhages** 📊
 
 ★ **Important Exam Point:** Replicating this core anatomical summary table in your university theory paper is a highly effective way to secure maximum marks.
