@@ -64,17 +64,17 @@
             }
           },
           {
-            "id": "4b207a623c41877b",
+            "id": "9ab11d192d92ad36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIDS.md",
+                "file": "Dead,live,still born.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SIDS"
+              "title": "Dead,live,still born"
             }
           }
         ],
@@ -171,7 +171,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "SIDS.md",
+            "file": "Dead,live,still born.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -225,14 +225,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "4b207a623c41877b",
+  "active": "9ab11d192d92ad36",
   "lastOpenFiles": [
+    "Dead,live,still born.md",
+    "BATTERED BABY SY.md",
+    "SIDS.md",
     "Pasted image 20260904224757.png",
     "Pasted image 20260904224601.png",
     "Pasted image 20260904224242.png",
     "Pasted image 20260904224123.png",
-    "SIDS.md",
-    "BATTERED BABY SY.md",
     "Hydrostatic test.md",
     "image 57.jpg",
     "Viability and autopsy.md",
@@ -252,7 +253,6 @@
     "Deflorate women.md",
     "Pasted image 20260904161907.png",
     "Probable sign.md",
-    "image 53.jpg",
     "Positive sign.md",
     "Presumptive sign.md",
     "Coup-countercoup.md",
