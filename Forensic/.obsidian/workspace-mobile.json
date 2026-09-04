@@ -11,10 +11,14 @@
             "id": "22d9295daef2f236",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Presumptive sign.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Presumptive sign"
             }
           },
           {
@@ -46,35 +50,20 @@
             }
           },
           {
-            "id": "1e8ace3bbd7539d8",
+            "id": "df263910756ba937",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Positive sign.md",
+                "file": "Presumptive sign.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Positive sign"
-            }
-          },
-          {
-            "id": "5c4e0d36ee6fc02b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hymen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hymen"
+              "title": "Presumptive sign"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +156,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Hymen.md",
+            "file": "Presumptive sign.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -221,12 +210,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c4e0d36ee6fc02b",
+  "active": "22d9295daef2f236",
   "lastOpenFiles": [
-    "image 51.jpg",
+    "Presumptive sign.md",
+    "Virginity,preg.md",
     "Hymen.md",
     "Positive sign.md",
-    "Virginity,preg.md",
+    "image 51.jpg",
     "Coup-countercoup.md",
     "Pedistian.md",
     "Hemorrhages.md",
@@ -244,7 +234,6 @@
     "image 43.jpg",
     "EDH.md",
     "Pasted image 20260904102516.png",
-    "Pasted image 20260904102416.png",
     "Sign,symptom,feature,tx.canvas",
     "Stages of alcohol intoxication in detail..md",
     "Amp.md",
