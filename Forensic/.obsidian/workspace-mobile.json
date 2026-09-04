@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "DNA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "DNA"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled 2.md",
+            "file": "DNA.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
   },
   "active": "89cac98ab5d7817a",
   "lastOpenFiles": [
-    "Untitled 2.md",
+    "DNA.md",
     "Spectroscopy.md",
     "Confirmatory test.md",
     "Micro chemical test for blood.md",
