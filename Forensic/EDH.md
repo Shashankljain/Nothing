@@ -119,6 +119,7 @@ The susceptibility to fractures depends on local bone thickness:
 - **Occipital Bone:** Thickest (**15 mm** thickness) [Image: Regional Injury, Skull Fracture].
 
 ---
+![[Pasted image 20260904102416.png]]
 
 ### **I. Classification Table of Skull Fractures**
 
