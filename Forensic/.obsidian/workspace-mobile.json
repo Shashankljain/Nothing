@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -157,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Sign of recent delivery in living + dead.md",
+            "file": "Ligitamacy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -211,10 +211,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "d8002b1258c7d5ef",
+  "active": "c4b6354ab04f7d7f",
   "lastOpenFiles": [
-    "Ligitamacy.md",
     "Sign of recent delivery in living + dead.md",
+    "Ligitamacy.md",
     "Compressed fetus.md",
     "image 56.jpg",
     "image 55.jpg",
