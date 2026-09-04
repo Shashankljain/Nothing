@@ -7,13 +7,11 @@
 
 #### **Definition**
 
-**Intracranial Hemorrhage (ICH)** refers to the pathological extravasation and accumulation of blood within the cranial cavity. It can occur within the meningeal spaces (extradural, subdural, or subarachnoid) or directly within the brain parenchyma (intracerebral/intra-parenchymal), resulting in elevated intracranial pressure (ICP), brain compression, and potential brain herniation [`input_file_15.png`, `input_file_16.png`].
+ [`input_file_15.png`, `input_file_16.png`].
 
 #### **Anatomical Layers of the Cranium** 🧫
 
 To understand intracranial bleeds, a beginner must master the cranial layers from **outside to inside**: \text{Skull Vault (Cranial Bone)} \rightarrow \text{Dura Mater} \rightarrow \text{Arachnoid Mater} \rightarrow \text{Pia Mater} \rightarrow \text{Brain Tissue/Cerebrum} \text{ [`input_file_15.png`]}$$
-
----
 
 ### **The "6-W" Analytical Framework** ❓
 
