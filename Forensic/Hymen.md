@@ -15,16 +15,6 @@
 
 ---
 
-### **2. The "6-W" Analytical Framework** ❓
-
-1. **What?** A delicate anatomical barrier at the vaginal introitus [Image 13].
-2. **Why?** Its integrity is assessed forensically to corroborate or refute claims of virginity, sexual assault, or pelvic trauma [Image 13, 14].
-3. **How?** It ruptures when physical forces (penile penetration, fingers, foreign objects, or direct trauma) stretch the membrane beyond its elastic limits [Image 14].
-4. **When?** Fresh tears present with acute bleeding and raw margins, healing into permanent notches or scarring within **5 to 7 days** [Image 15].
-5. **Where?** Located at the junction of the vestibule and the vaginal canal [Image 13]. Tearing classically occurs **posterolaterally** [Image 13, 14].
-6. **Who?** Examined by a Register Medical Practitioner (RMP) under strict legal consent guidelines in cases of alleged rape survivors or matrimonial disputes [Image 9].
-
----
 
 ## **Classification of Hymen Types** 📊
 
@@ -35,9 +25,9 @@
                                                │
          ┌──────────────────────────────┬──────┴──────┬──────────────────────────────┐
          ▼                              ▼             ▼                              ▼
-  [Semilunar/Crescentic]            [Annular]     [Septate]                     [Cribriform]
- • Most common type (M/C)          • Ring-like   • Divided by a                • Multiple sieve-like
- • Crescentic opening              • Central hole  fibrous band (septum)        perforations
+  [Semilunar/Crescentic]  [Annular]     [Septate]             [Cribriform]
+ • Most common type (M/C)  • Ring-like   • Divided by a  • Multiple sieve-like
+ • Crescentic opening     • Central hole  fibrous band       perforations
 ```
 
 ### **The 8 Classic Morphological Types** (As visualized in [Image 14])
