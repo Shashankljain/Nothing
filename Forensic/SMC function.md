@@ -3,27 +3,8 @@
 
 ---
 
-## **PART I: BASIC CONCEPTS & DEFINITION** 📚
 
-### **1. Introduction & Definition**
-
-- ★ **State Medical Council (SMC):** The state-level statutory regulatory body established in each state to govern and monitor medical education, medical institutions, and Registered Medical Practitioners (RMPs) practicing within that state's jurisdiction [Image 65].
-- **The Regulatory Hierarchy:** The SMC works as the executive arm at the state level in close coordination with the **National Medical Commission (NMC)** at the center [Image 65]. It maintains direct disciplinary control over the conduct of doctors [Image 65, 291].
-
----
-
-### **2. The "6-W" Analytical Framework** ❓
-
-1. **What?** The state-level statutory medical council responsible for doctor registration, ethical monitoring, and professional disciplinary actions.
-2. **Why?** Established to enforce medical ethics, maintain updated state registers of qualified physicians, and protect the public from professional malpractice or quackery.
-3. **How?** Operates through statutory registration processes and a specialized disciplinary inquiry sub-committee [Image 65].
-4. **When?** Action is initiated immediately upon receiving a written complaint against an RMP, or _suo-moto_ when a physician is convicted of a criminal offense [Image 65].
-5. **Where?** Located within respective state capitals, holding local jurisdiction over all practitioners registered under that specific state.
-6. **Who?** Consists of elected and nominated medical representatives of good repute, headed by the SMC President [Image 65].
-
----
-
-## **PART II: CORE FUNCTIONS OF THE SMC** 📊
+## **PART II: CORE FUNCTIONS OF THE SMC**(RED 🍎) 📊
 
 The primary functions of the State Medical Council are divided into three major categories: **Registration**, **Disciplinary Control**, and **Erasure** [Image 65].
 
@@ -31,10 +12,10 @@ The primary functions of the State Medical Council are divided into three major 
                           [STATE MEDICAL COUNCIL (SMC) FUNCTIONS]
                                              │
          ┌───────────────────────────────────┼───────────────────────────────────┐
-         ▼                                   ▼                                   ▼
-   [Registration]                 [Disciplinary Action]                      [Erasure]
- • State Medical Register.       • Complaints & Convictions.            • Death/Untraceable.
- • Enroll new members (NMC).     • **Odd-numbered Sub-Committee**.      • **Penal Erasure** (Misconduct).
+  ▼                         ▼                                   ▼
+   [Registration]               [Disciplinary Action]          [Erasure]
+ • State Medical Register.   • Complaints & Convictions.            •                                                                    Death/Untraceable.
+ • Enroll new members (NMC).  • **Odd-numbered Sub-Committee**.      • **Penal                                                        Erasure** (Misconduct).
 ```
 
 ### **1. Registration (Most Important Function)** ✍️
@@ -106,63 +87,3 @@ If a doctor is aggrieved by the disciplinary verdict or penal erasure ordered by
 
 ---
 
-## **PART V: HIGH-YIELD EXAM CORNER & VIVA QUESTIONS** ★
-
-### **Viva Questions & Model Answers** 💬
-
-**Q1: Why must the SMC disciplinary sub-committee contain an "odd number" of members?**  
-**Answer:** The committee must consist of an **odd number of doctors** to ensure that during voting on whether a doctor is guilty or innocent, there is a clear majority verdict and no possibility of a split-decision tie [Image 65].
-
-**Q2: What is the difference between Temporary Erasure and Permanent Erasure?**  
-**Answer:** Temporary erasure is a suspension of a doctor's license for a specific, defined timeframe [Image 65, 291]. Permanent erasure (also called the **Professional Death Sentence**) permanently revokes a doctor's license, banning them from practicing medicine for the rest of their life [Image 65, 291].
-
-**Q3: If a doctor's name is erased by the State Medical Council, where can they appeal?**  
-**Answer:** The doctor can appeal to the **Ethics and Medical Registration Board (EMRB)**, then to the **National Medical Commission (NMC)** [Image 65], or directly to the **Central Health Ministry (CHM)**.
-
----
-
-### **Common Mistakes Students Make** ❌
-
-- **Confusing the Roles of SMC and NMC:** Remember that **SMC registers and punishes locally** at the state level [Image 65], while the **NMC acts as the central policy-maker and final appellate authority** [Image 65].
-- **Assuming the SMC can jail a doctor:** The SMC is an _ethical_ and _regulatory_ body, not a criminal court. It can only impose professional penalties (Warnings, Erasures) [Image 65, 291]. For criminal actions (like murder or theft), the doctor must be tried separately in a court of law under the **BNS, 2023**.
-
----
-
-## **PART VI: QUICK REVISION & SUMMARY** ⏱️
-
-- **SMC:** State-level executive body for RMPs [Image 65].
-- **Three Pillars of SMC:** Registration, Disciplinary Action, and Erasure [Image 65].
-- **Disciplinary Board:** Comprises an **odd number** of reputable doctors [Image 65].
-- **Penalties:** Warning \(\rightarrow\) Temporary Suspension \(\rightarrow\) Permanent Erasure ("Professional Death Sentence") [Image 65, 291].
-- **Appeals Flow:** SMC \(\rightarrow\) EMRB \(\rightarrow\) NMC [Image 65] (or Central Health Ministry).
-
----
-
-## **PART VII: MODEL UNIVERSITY ANSWERS** 📝
-
-### **3 Marks: Enumerate the functions of the State Medical Council (SMC).**
-
-**Answer:** The State Medical Council has three primary functions:
-
-1. **Registration:** Maintaining the State Medical Register and enrolling qualified graduates [Image 65].
-2. **Disciplinary Control:** Investigating complaints of professional misconduct through an odd-membered sub-committee [Image 65].
-3. **Erasure:** Removing names of deceased, untraceable, or ethically compromised doctors (Penal Erasure) from the register [Image 65].
-
----
-
-### **5 Marks: Describe the disciplinary control and penal erasure procedures of the State Medical Council.**
-
-**Answer:**
-
-1. **Filing of Complaint:** Disciplinary action against an RMP is initiated upon receiving a written complaint or through _suo-moto_ cognizance of a criminal conviction [Image 65].
-2. **Investigation Sub-Committee:** The SMC President appoints an investigation sub-committee consisting of an **odd number of reputable doctors** to review the evidence [Image 65].
-3. **The Trial:** The doctor is summoned to present their defense against the allegations of professional misconduct.
-4. **Penalties:** If proven guilty, the SMC can award:
-    - _Warning:_ An admonition not to repeat the act [Image 65, 291].
-    - _Temporary Suspension:_ Sticking off their name for a specified period [Image 65, 291].
-    - _Permanent Erasure ("Professional Death Sentence"):_ Permanently stripping their medical license [Image 65, 291].
-5. **Appeals:** The doctor can appeal the decision within 60 days to the **EMRB**, then to the **NMC** [Image 65], or directly to the **Central Health Ministry**.
-
----
-
-📊 _Would you like me to generate a 5-question high-yield practice quiz based on the State Medical Council's functions, disciplinary sub-committee rules, and appeals pathways to help you prepare for your university examinations?_
