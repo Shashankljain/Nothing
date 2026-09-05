@@ -72,6 +72,20 @@ For a patient to successfully hold a hospital or senior doctor vicariously liabl
 
 ---
 
+## **PART V: CLINICAL CORRELATION & EXAMPLES** 🏥🩸
+
+### **Example 1: The Mismatched Blood Transfusion (Civil vs. Criminal Action)**
+
+- _The Situation:_ A night-shift ward nurse mistakenly administers incompatible Group A blood to a Group O patient without cross-matching or checking the patient's ID band. The patient suffers severe acute hemolysis, renal failure, and dies.
+- ★ **Civil/Consumer Court Outcome:** The hospital management is held **vicariously liable** under the doctrine of **Respondeat Superior**. The court orders the hospital to pay heavy financial compensation (e.g., ₹50 Lakhs) to the patient’s family.
+- ★ **Criminal Court Outcome:** The individual nurse is personally arrested and prosecuted under **Section 106 BNS, 2023** (carrying up to **2 years of imprisonment and a fine**). The hospital dean or hospital owner cannot be criminally charged or jailed.
+
+### **Example 2: Retained Surgical Sponge**
+
+- _The Situation:_ During an emergency laparotomy, a junior assistant resident fails to perform a proper sponge count, leaving a surgical mop inside the patient's abdomen, which leads to peritonitis.
+- _Legal Outcome:_ The senior operating surgeon and the hospital are held vicariously liable for the assistant’s negligence in civil court.
+
+---
 
 ## **PART VI: RELEVANT LAW (LATEST BNS & BNSS, 2023 UPDATE)** ⚖️
 
