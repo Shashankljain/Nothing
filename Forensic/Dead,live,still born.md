@@ -1,7 +1,7 @@
 # 👶⚖️ **DEAD BORN, STILLBORN, AND LIVE BORN FETUS (3-MARK MODEL ANSWER)** ⚖️👶
 
 ---
-
+[[Infanticide]]
 ### **1. Dead Born Fetus (Intrauterine Death / IUD)** ⚰️
 
 - **Definition:** A fetus that has died **in utero** (inside the uterus) prior to the onset of labour or delivery [`input_file_365.png`].
