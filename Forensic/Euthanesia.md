@@ -1,7 +1,7 @@
 [[Medical law]]
 ### **1. Definitions**
 
-- ★ **Euthanasia (Mercy Killing):** It is defined as the intentional, painless, and peaceful termination of the life of a patient suffering from a terminal, painful, and incurable disease, undertaken for their benefit to relieve them from agonizing suffering [image/slide].
+- ★ **Euthanasia (Mercy Killing):** It is defined as producing painless death of a person suffering from hopelessly in curable and painful disease
 - **Etymology:** Derived from two Greek words:
     - _Eu_ = **Good**
     - _Thanatos_ = **Death** (Hence, literally translates to "a good death") [81, 82].
@@ -10,15 +10,6 @@
     - The Supreme Court of India has repeatedly ruled that Article 21 **does not include the right to die** (except for passive euthanasia under strict judicial and medical supervision). Active euthanasia violates Article 21 [image/slide].
 
 ---
-
-### **2. The "6-W" Analytical Framework** ❓
-
-1. **What?** The act of ending a terminal patient's life painlessly to stop intractable physical suffering [image/slide].
-2. **Why?** Undertaken to relieve patients from terminal agony when medical science can no longer offer a cure.
-3. **How?** Executed either **actively** (via lethal injections like phenobarbitone, thiopental, or potassium) or **passively** (withholding or withdrawing ventilators, feeding tubes, or ICU support) [image/slide, 223, 224].
-4. **When?** Considered only in cases of documented, irreversible vegetative states (PVS), brainstem death, or incurable terminal malignancies [87, 89, image/slide].
-5. **Where?** Heavily regulated; passive euthanasia is permitted in hospital environments under strict medical boards, whereas active euthanasia is legally prohibited in India [image/slide].
-6. **Who?** Involves the **Patient** (possessing a Living Will), the **Treating Doctor**, **Autonomous Medical Boards**, and the **Judicial Magistrate** [image/slide].
 
 ---
 
@@ -30,8 +21,8 @@ Euthanasia is classified based on the **mechanism of action** and the **will 
                               [CLASSIFICATION OF EUTHANASIA]
                                             │
          ┌──────────────────────────────────┴──────────────────────────────────┐
-         ▼                                                                     ▼
- [Based on Action]                                                     [Based on Patient's Will]
+         ▼                                                
+ [Based on Action]                                 [Based on Patient's Will]
    • **Active (Aggressive)**: Lethal drugs.                             • **Voluntary**: Patient's explicit consent.
    • **Passive (Negative)**: Withdraw life-support.                    • **Non-Voluntary**: Patient unconscious (Coma).
                                                                        • **Involuntary**: Against patient's will.
