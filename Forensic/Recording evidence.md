@@ -15,7 +15,13 @@
 
 ---
 
-#### **2. Legal Procedure: Step-by-Step**
+#### **2. Legal Procedure: Step-by-Step** - ==143BSA==
+
+1. Oath
+2. Examination in chief
+3. Cross examination 
+4. Re examination 
+5. Court question
 
 The procedure for recording evidence in Indian courts follows a logical sequence to ensure a fair trial under the **Bharatiya Sakshya Adhiniyam (BSA), 2023**.
 
@@ -44,7 +50,7 @@ Witnesses are questioned in the following order:
 #### **3. Relevant Legal Concepts**
 *   **Leading Question:** A question that suggests the answer within itself (e.g., "Was the injury caused by a firearm?").
 *   **Hostile Witness:** A witness who is not desirous of telling the truth or gives evidence against the party that called them.
-*   **Perjury:** Giving false evidence under oath. Punishable under **Section 229 BNS** with up to 7 years imprisonment and a fine.
+*   **Perjury:** (**227 BNS**) Giving false evidence under oath. Punishable under **Section 229 BNS** with up to 7 years imprisonment and a fine.
 *   **Conduct Money:** Money paid to a witness in **civil cases** for travel and food expenses. In criminal cases, it is generally not paid, though doctors can request it.
 
 ---
