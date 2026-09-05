@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obscure autopsy.md",
+                "file": "Negative vs obscure autopsy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obscure autopsy"
+              "title": "Negative vs obscure autopsy"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "32543e2eb84308ea",
   "lastOpenFiles": [
+    "Obscure autopsy.md",
     "Death.md",
     "Technique of organ removal.md",
     "Corpus delicti.md",
@@ -201,7 +202,6 @@
     "Identification.md",
     "Contributory negligence.md",
     "Hippocratic oath.md",
-    "Res ipsa loquitor.md",
     "image 67.jpg",
     "image 66.jpg",
     "image 65.jpg",
