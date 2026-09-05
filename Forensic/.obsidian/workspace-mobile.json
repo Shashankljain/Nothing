@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Witness.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -193,10 +192,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "445eb497d46da00d",
+  "active": "ae903a5acfd0b062",
   "lastOpenFiles": [
-    "Inquest.md",
+    "Untitled.md",
     "Witness.md",
+    "Inquest.md",
     "Conduct money.md",
     "Juvenile court.md",
     "Chain of custody.md",
@@ -223,7 +223,6 @@
     "Blood grouping.md",
     "image 61.jpg",
     "image 60.jpg",
-    "Hazard of blood transfusion.md",
     "Pasted image 20260904232023.png",
     "image 59.jpg",
     "image 58.jpg",

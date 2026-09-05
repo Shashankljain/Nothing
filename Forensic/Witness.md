@@ -20,9 +20,9 @@ In a court of law, witnesses are primarily classified into two main types, along
          ┌────────────────────────────┼────────────────────────────┐
          ▼                            ▼                            ▼
   [Common Witness]            [Expert Witness]             [Hostile Witness]
- • Lay / Ordinary /           • Skilled professional       • Willfully conceals the
-   percipient witness.          expressing opinions.         truth / turns back on
- • "First-hand knowledge".    • **Section 39 BSA, 2023**.    prior deposition.
+ • Lay / Ordinary /       • Skilled professional       • Willfully conceals the
+   percipient witness.      expressing opinions.         truth / turns back on
+ • "First-hand knowledge" • **Section 39 BSA, 2023**.    prior deposition.
 ```
 
 #### **A. Common Witness (Lay / Ordinary / Percipient Witness)**
