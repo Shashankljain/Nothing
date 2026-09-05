@@ -51,7 +51,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Pink",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
