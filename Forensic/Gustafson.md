@@ -7,7 +7,8 @@
 
 **Definition** **Gustafson’s Method** is a forensic dental technique used to estimate the age of an adult individual by observing ==physiological changes== in the teeth that occur with ==advancing== age [1-p108, 4-p35].
 
-**Introduction** Introduced by Gosta Gustafson in 1950, this method is primarily used for identifying deceased individuals or skeletal remains [4-p36]. It is one of the most widely accepted dental methods for age estimation in the adult population, typically between **==25 and 60 years==** of age [2-p10, 4-p35].
+ - this method is primarily used for identifying deceased individuals or skeletal remains [4-p36].
+ - It is one of the most widely accepted dental methods for age estimation in the adult population, typically between **==25 and 60 years==** of age [2-p10, 4-p35].
 
 **Objective** The main objective is to provide a mathematical estimate of a person’s age at the time of death based on the cumulative "wear and tear" of their teeth [4-p35].
 
