@@ -10,7 +10,7 @@ In medical jurisprudence, when a clinical error or act of negligence occurs in a
 
 ### **1. Definitions**
 
-- ★ **Vicarious Liability:** A legal doctrine under civil (tort) law where an **employer is held legally responsible** for the negligent acts, errors, or omissions committed by their **employees**, provided these acts occur during the course of their employment.
+- ★ **Vicarious Liability:  where an **employer is held legally responsible** for the negligent acts, errors, or omissions committed by their **employees**, provided these acts occur during the course of their employment.
 - ★ **Respondeat Superior:** The core legal maxim governing vicarious liability, translating literally to **"Let the master answer"**.
 - **The Underlying Principle:** It is based on the social and economic reality that the employer (the hospital or senior consultant) has the "deeper pockets" to compensate injured patients and has the absolute duty to control, train, and supervise their staff.
 
@@ -36,9 +36,9 @@ For a patient to successfully hold a hospital or senior doctor vicariously liabl
                                           │
          ┌────────────────────────────────┼────────────────────────────────┐
          ▼                                ▼                                ▼
-  [Employer-Employee]           [Within Job Scope]               [Active Duty Shift]
- • Legally binding contract.    • Task matches designated       • Mistake occurs during
- • Direct control of staff.       clinical duties.                 official work hours.
+  [Employer-Employee]           [Within Job Scope]          [Active Duty Shift]
+ • Legally binding contract • Task matches designated   • Mistake occurs during
+ • Direct control of staff.    clinical duties.            official work hours.
 ```
 
 1. ★ **Employer-Employee Relationship:** There must be a legally recognized contract of service (either full-time, part-time, or temporary) where the employer exercises direct administrative and supervisory control over the employee.
