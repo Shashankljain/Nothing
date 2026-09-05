@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courts.md",
+                "file": "Chain of custody.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Courts"
+              "title": "Chain of custody"
             }
           }
         ],
@@ -129,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Courts.md",
+            "file": "Chain of custody.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -185,6 +185,11 @@
   },
   "active": "ae903a5acfd0b062",
   "lastOpenFiles": [
+    "Conduct in court.md",
+    "Supreme court.md",
+    "High court.md",
+    "Courts.md",
+    "image 62.jpg",
     "Dying declaration.md",
     "Recording evidence.md",
     "Summon.md",
@@ -209,9 +214,6 @@
     "Trace evidence.md",
     "Maceration.md",
     "SIDS.md",
-    "BATTERED BABY SY.md",
-    "Hydrostatic test.md",
-    "Viability and autopsy.md",
     "Pasted image 20260904232023.png",
     "image 59.jpg",
     "image 58.jpg",
@@ -219,8 +221,6 @@
     "Pasted image 20260904224601.png",
     "Pasted image 20260904224242.png",
     "Pasted image 20260904224123.png",
-    "image 57.jpg",
-    "Ligitamacy.md",
     "Sign,symptom,feature,tx.canvas",
     "Toxicology.base"
   ]

@@ -57,7 +57,7 @@
 - **National Level:** >₹10 Crore.
 
 ---
-
+![[image 62.jpg]]
 #### **Commutation of the Death Sentence**
 
 ★ **Important Exam Point: The Flow of Mercy**
