@@ -28,6 +28,13 @@
 
 
 ![[image 8.jpg]]
+
+### Rules of consent
+
+
+![[image 66.jpg]]
+
+
 #### **4. Age Limits for Consent**
 
 - **General Physical Examination:** Valid at **>12 years**.
@@ -36,7 +43,7 @@
 
 #### **5. Special Scenarios**
 
-
+![[image 65.jpg]]
 
 ---
 
