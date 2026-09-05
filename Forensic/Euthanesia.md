@@ -13,8 +13,7 @@
 ## Causes for euthanasia
 1. Unbearable pain-
 2. High cost of medical treatment
-3. Right to commit suicide
-4. Patient should not be forced to stay alive
+3. Right to commit
 ---
 
 ## **PART II: CLASSICAL CLASSIFICATION OF EUTHANASIA** 📊
