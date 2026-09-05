@@ -8,7 +8,7 @@ To complete **Forensic Medicine and Toxicology (FMT)** comprehensively in **2
 
 #### **🌅 Morning Block (07:00 AM – 01:00 PM | 6 Hours)**
 
-- [ ] **Chapter 2: Legal Procedure** _(07:00 AM – 08:30 AM | 1.5 Hours)_
+- [x] **Chapter 2: Legal Procedure** _(07:00 AM – 08:30 AM | 1.5 Hours)_
     - **Focus:** Inquest types (Magistrate vs. Police indications), Summons/Subpoena, Conduct Money, Hostile Witness, and the absolute goldmine: **Dying Declaration** vs. **Dying Deposition** (recording rules, medical consensus, and Section 32 Act) [p. 211, 212, 213].
 - [ ] **Chapter 3: Medical Law and Ethics** _(08:30 AM – 10:00 AM | 1.5 Hours)_
     - **Focus:** State Medical Council vs. National Medical Commission, **Infamous Conduct/Professional Misconduct** (definition and examples like adultery, dichotomy/splitting fees, and covering), **Medical Negligence** (definition, ingredients, defenses, and the doctrine of _Res ipsa loquitur_), and **Consent in Medical Practice** (types, age limits, and rules under Sec 92 IPC) [p. 214, 215, 216, 217].
