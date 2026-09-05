@@ -25,18 +25,28 @@
             "id": "ae903a5acfd0b062",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "445eb497d46da00d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Chain of custody.md",
+                "file": "Witness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chain of custody"
+              "title": "Witness"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +139,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Chain of custody.md",
+            "file": "Witness.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,8 +193,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "ae903a5acfd0b062",
+  "active": "445eb497d46da00d",
   "lastOpenFiles": [
+    "Witness.md",
+    "Conduct money.md",
+    "Juvenile court.md",
+    "Chain of custody.md",
     "Conduct in court.md",
     "Supreme court.md",
     "High court.md",
@@ -210,10 +224,6 @@
     "image 61.jpg",
     "image 60.jpg",
     "Hazard of blood transfusion.md",
-    "Disputed paternity.md",
-    "Trace evidence.md",
-    "Maceration.md",
-    "SIDS.md",
     "Pasted image 20260904232023.png",
     "image 59.jpg",
     "image 58.jpg",
