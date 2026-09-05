@@ -74,7 +74,7 @@ Tattoos can be removed through several methods, though they often leave a scar:
 
 - **Surgical:** Dermabrasion (using salts like zinc chloride), complete excision, or skin grafting.
 - **Laser:** **Q-switched Nd:YAG laser** is the modern standard; it vaporizes dye particles.
-- **Chemical:** Caustic substances like a mixture of ==**papain in glycerin**== produce a superficial scar.
+- **Chemical:** Caustic or  corrosive substances like a mixture of ==**papain in glycerin**== produce a superficial scar.
 
 ---
 #### COMPLICATION- 
