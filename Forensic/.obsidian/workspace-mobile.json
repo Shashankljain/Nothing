@@ -45,8 +45,7 @@
               "title": "Witness"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "NMC.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -193,10 +191,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "ae903a5acfd0b062",
+  "active": "89cac98ab5d7817a",
   "lastOpenFiles": [
-    "Inquest.md",
     "NMC.md",
+    "Inquest.md",
     "Medical law.md",
     "Untitled.md",
     "Witness.md",

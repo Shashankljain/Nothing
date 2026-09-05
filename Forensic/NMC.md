@@ -55,6 +55,9 @@ The NMC performs its functions through four specialized autonomous boards:
 7. Lay down policies for making high-quality and high standard in medical education
 8. Played on policies for regulating medical institution, medical research and medical professionals
 9. Framework guidelines for determination of fees and other charges in 50% of the seats in private and deemed to be university
+10. Recognition of medical qualification granted by other body, such as DNB
+11. Issue of good Standing certificate
+
 ---
 
 **PART IV: THE THREE SCHEDULES OF THE NMC** 📜
