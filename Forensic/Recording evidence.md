@@ -15,7 +15,13 @@
 
 ---
 
-#### **2. Legal Procedure: Step-by-Step**
+#### **2. Legal Procedure: Step-by-Step** - ==143BSA==
+
+1. Oath
+2. Examination in chief
+3. Cross examination 
+4. Re examination 
+5. Court question
 
 The procedure for recording evidence in Indian courts follows a logical sequence to ensure a fair trial under the **Bharatiya Sakshya Adhiniyam (BSA), 2023**.
 
