@@ -20,6 +20,7 @@ Negligence can occur in two ways:
 #### **Ingredients of Medical Negligence (The 4 Ds)**
 
 To prove a case of medical negligence in a court of law, the following four essential ingredients must be established [1, 69; 2, 16]:
+![[image 63.jpg]]
 
 1.  **Duty of Care:** A legal obligation exists once the doctor accepts a patient for treatment. The doctor cannot refuse treatment based on caste, religion, or creed.
 2.  **Dereliction of Duty:** The doctor failed to meet the standard of care expected of a "reasonable" practitioner of similar qualifications. This is a breach of duty [1, 69; 2, 16].
@@ -57,12 +58,22 @@ University exams now require knowledge of the **Bharatiya Nyaya Sanhita (BNS)**:
 
 #### **Precautions for Doctors to Avoid Negligence**
 
+**Precautions Against Litigation: "C-O-N-S-E-N-T"**
+
+- **C** – **C**onfidentiality & **C**ounseling
+- **O** – **O**rganized documentation (record-keeping)
+- **N** – **N**otifying police (where legally bound) [24, 33 BNSS]
+- **S** – **S**tandard clinical protocols
+- **E** – **E**quipped setup for surgical interventions
+- **N** – **N**ever exceed limits of training (timely referral)
+- **T** – **T**aking written informed consent
+
 1.  **Documentation:** Maintain meticulous medical records. The legal dictum is: **"If it is not in the record—it did not occur"**.
     *   Indoor records must be kept for **3 years**.
     *   Medico-legal registers must be kept for **10 years**.
 2.  **Informed Consent:** Always obtain **written-informed consent** before major procedures, explaining the nature, risks, and alternatives [1, 73; 2, 15].
 3.  **The 72-Hour Rule:** A doctor must provide a copy of medical records to the patient or their authorized representative within **72 hours** of a request.
-4.  **Professional Secrecy:** Maintain patient confidentiality except in cases of "Privileged Communication" (e.g., reporting a notifiable disease or suspected crime under **Section 33 BNSS**).
+4.  ** **confidentiality**/Professional Secrecy:** Maintain patient confidentiality except in cases of "Privileged Communication" (e.g., reporting a notifiable disease or suspected crime under **Section 33 BNSS**).
 5.  **Standard Protocols:** Always follow standard, accepted clinical guidelines and do not attempt procedures beyond your competency [1, 69; 2, 18].
 
 ---
