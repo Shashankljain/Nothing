@@ -30,23 +30,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "f2d7dc837c3187f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Age of infant.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Age of infant"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,8 +179,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "f2d7dc837c3187f7",
+  "active": "ae903a5acfd0b062",
   "lastOpenFiles": [
+    "legal procedure.md",
     "Age of infant.md",
     "Intersex.md",
     "Dead,live,still born.md",
@@ -230,7 +217,6 @@
     "Sign of recent delivery in living + dead.md",
     "Lochia.md",
     "Atavism.md",
-    "Asphyxiants.md",
     "Sign,symptom,feature,tx.canvas",
     "Toxicology.base"
   ]
