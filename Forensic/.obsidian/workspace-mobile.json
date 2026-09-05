@@ -25,10 +25,14 @@
             "id": "ae903a5acfd0b062",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "NMC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NMC"
             }
           },
           {
@@ -139,6 +143,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "NMC.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -194,6 +199,7 @@
   },
   "active": "ae903a5acfd0b062",
   "lastOpenFiles": [
+    "Medical law.md",
     "Untitled.md",
     "Witness.md",
     "Inquest.md",
@@ -220,7 +226,6 @@
     "Confirmatory test.md",
     "Micro chemical test for blood.md",
     "Precipitin test.md",
-    "Blood grouping.md",
     "image 61.jpg",
     "image 60.jpg",
     "Pasted image 20260904232023.png",
