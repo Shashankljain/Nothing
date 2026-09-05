@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recording evidence.md",
+                "file": "Courts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recording evidence"
+              "title": "Courts"
             }
           }
         ],
@@ -129,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recording evidence.md",
+            "file": "Courts.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -185,6 +185,8 @@
   },
   "active": "ae903a5acfd0b062",
   "lastOpenFiles": [
+    "Dying declaration.md",
+    "Recording evidence.md",
     "Summon.md",
     "Inquest.md",
     "legal procedure.md",
@@ -219,8 +221,6 @@
     "Pasted image 20260904224123.png",
     "image 57.jpg",
     "Ligitamacy.md",
-    "Compressed fetus.md",
-    "Sign of recent delivery in living + dead.md",
     "Sign,symptom,feature,tx.canvas",
     "Toxicology.base"
   ]
