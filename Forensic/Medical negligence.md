@@ -35,7 +35,7 @@ To prove a case of medical negligence in a court of law, the following four esse
 ---
 
 #### **Relevant Law (BNS & BNSS, 2023)**
-
+![[image 64.jpg]]
 University exams now require knowledge of the **Bharatiya Nyaya Sanhita (BNS)**:
 
 | **Section** | **Name of Offence** | **Punishment/Relevance** |
@@ -83,10 +83,11 @@ University exams now require knowledge of the **Bharatiya Nyaya Sanhita (BNS)**:
 If a doctor is charged, they may use the following defenses [1, 71-72; 2, 17]:
 *   **Denial:** Claiming there was no Duty of Care or that no Dereliction of Duty occurred [1, 71; 2, 17].
 *   **Error of Judgment:** If the doctor chose one of many recognized treatment methods, but it failed, they are not held liable if they acted in good faith [1, 72; 2, 17].
-*   **Therapeutic Misadventure:** An unintentional, accidental, and unavoidable mishap during treatment despite all precautions [1, 72; 2, 17].
-*   **Contributory Negligence:** When the patient’s own negligence (e.g., not taking medicines or following instructions) contributed to the damage [1, 70; 2, 16].
+*   **Therapeutic Misadventure:**   *An unintentional, accidental, and unavoidable mishap during treatment despite all precautions [1, 72; 2, 17].
+*   **Contributory Negligence:** only a Partial defence
+*When the patient’s own negligence (e.g., not taking medicines or following instructions) contributed to the damage [1, 70; 2, 16].
 *   **Res Judicata:** A person cannot be tried twice in the same court for the same offence [1, 71; 2, 17].
-*   **Res Indicata (Limitation Period):** In India, a patient must file a civil negligence case within **2 years** of the incident.
+*   **Res Indicata (Limitation Period):** In India, a patient must file a civil negligence case within **2 years** of the incident.**not applicable for criminal negligence**
 
 ---
 
