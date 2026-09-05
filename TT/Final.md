@@ -19,7 +19,7 @@ To complete **Forensic Medicine and Toxicology (FMT)** comprehensively in **2
 
 ---
 
-## _Break: 01:00 PM – 02:00 PM (Lunch & Power Nap)_
+## o_Break: 01:00 PM – 02:00 PM (Lunch & Power Nap)_
 
 #### **☀️ Afternoon Block (02:00 PM – 07:00 PM | 5 Hours)**
 
