@@ -10,7 +10,11 @@
     - The Supreme Court of India has repeatedly ruled that Article 21 **does not include the right to die** (except for passive euthanasia under strict judicial and medical supervision). Active euthanasia violates Article 21 [image/slide].
 
 ---
-
+## Causes for euthanasia
+1. Unbearable pain-
+2. High cost of medical treatment
+3. Right to commit suicide
+4. Patient should not be forced to stay alive
 ---
 
 ## **PART II: CLASSICAL CLASSIFICATION OF EUTHANASIA** 📊
