@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0b9ddda77e48df2b",
+        "id": "2b624187349498a4",
         "type": "tabs",
         "children": [
           {
-            "id": "a26bc206346071bf",
+            "id": "32543e2eb84308ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Examination of mutilated body.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Examination of mutilated body"
-            }
-          },
-          {
-            "id": "a30b870b1e282e8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corpus delicti.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Corpus delicti"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -182,8 +164,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "a26bc206346071bf",
+  "active": "32543e2eb84308ea",
   "lastOpenFiles": [
+    "Technique of organ removal.md",
+    "Corpus delicti.md",
+    "Examination of mutilated body.md",
     "Exhumation.md",
     "Medicolegal vs clinical autopsy.md",
     "Viscera preservation in poisoning.md",
@@ -204,7 +189,6 @@
     "image 70.jpg",
     "CI.md",
     "Hasse.md",
-    "Corpus delicti.md",
     "Gustafson.md",
     "Intersex.md",
     "image 69.jpg",
@@ -214,8 +198,6 @@
     "Hippocratic oath.md",
     "Res ipsa loquitor.md",
     "Privileged communication.md",
-    "Malingering.md",
-    "Therapeutic misadventures.md",
     "image 67.jpg",
     "image 66.jpg",
     "image 65.jpg",
