@@ -16,7 +16,7 @@ The primary goal is to answer the "Who, When, Where, Why, What, and How" of a de
 3. **Manner of Death (MOD):** To determine if the death was **Natural, Suicidal, Homicidal, Accidental**, or **Undetermined**.
 4. **Time Since Death (TSD):** To estimate the approximate time interval between death and the examination.
 5. **Weapon Identification:** To determine the type of weapon or poison responsible for death.
-6. **Vital Reactions:** To determine if injuries found on the body were sustained **antemortem** (before death) or **postmortem** (after death).
+6. **Injuries** -To determine if injuries found on the body were sustained **antemortem** (before death) or **postmortem** (after death).
 7. **In Newborns:** To determine if the child was born alive and if it was viable (capable of surviving outside the womb).
 8. **Volitional Activity:** To assess if the victim was capable of any physical activity after receiving the fatal trauma.
 
@@ -42,7 +42,7 @@ An autopsy cannot be performed without a formal legal order called a **Requisit
 It must be performed by a **Registered Medical Practitioner (RMP)**, preferably a Forensic Medicine expert.
 
 - **Custodial deaths:** Autopsy should be conducted by a **Medical Board** (panel of doctors) and video-recorded.
-
+![[image 73.jpg]]
 ---
 
 ### **Procedural Formalities (Step-by-Step)**
