@@ -6,7 +6,8 @@
 
 #### **Basic Concepts**
 
-**Definition** **Superimposition** is a forensic technique used to determine whether a recovered skull matches the face of a person in a specific photograph. It is primarily a **screening test** used in the identification of skeletal remains.
+**Definition** 
+**Superimposition** is a forensic technique used to determine whether a recovered skull matches the face of a person in a specific photograph. It is primarily a **screening test** used in the identification of skeletal remains.
 
 **Introduction** In cases where a body is skeletonised and only the skull is available, forensic experts compare the morphology of the skull with an antemortem (before death) photograph of a missing person.
 
