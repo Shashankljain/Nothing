@@ -1,5 +1,5 @@
 
-[[legal procedure]]
+[[Medical law]]
 ---
 
 ## **PART I: BASIC CONCEPTS & DEFINITION** 📚
