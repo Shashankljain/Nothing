@@ -22,21 +22,21 @@ A medical practitioner is expected to maintain a high standard of ethics and eti
 
 #### **Examples of Infamous Conduct**
 
-★ **Important Exam Point: The "6 As" of Professional Misconduct**  
-University examinations frequently test these common categories of misconduct [1-p66, 41]:
+You can easily recall the key examples of infamous conduct using the alphabetical mnemonic **"A-B-C-D-E-F-G"**:
 
-1.  **Adultery:** Establishing an improper sexual or emotional relationship with a patient or a patient’s family member while in a professional relationship [1-p66, 41].
-2.  **Addiction/Alcoholism:** Being under the influence of alcohol or drugs while on duty, which compromises patient care [1-p66, 41].
-3.  **Advertising:** Directly or indirectly advertising for the purpose of obtaining patients or promoting professional skills in an unethical manner [1-p66, 41].
-4.  **Abortion (Criminal):** Performing or assisting in a criminal abortion (not in accordance with the MTP Act) [1-p66, 41].
-5.  **Association with Unqualified Persons:** Employing or assisting an unregistered person (quack) to treat patients or perform medical acts [1-p66, 41].
-6.  **Assisting (Covering/Dichotomy):** This includes:
-    *   **Dichotomy (Fee-splitting):** Accepting or giving a commission for referring patients.
-    *   **Bribery:** Accepting money or gifts to influence professional judgment [1-p67, 41].
+| **Letter** | **Misconduct Concept**         | **Forensic Description & Section**                                                                                                                |
+| ---------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **A**      | **A**ddiction                  | Practicing medicine under the influence of alcohol, narcotics, or sedatives.                                                                      |
+| A          | Adultary                       | Establishing an improper sexual or emotional relationship with a patient or a patient’s family member while in a professional relationship        |
+| A          | Abortion                       | Performing or assisting in a criminal abortion (not in accordance with the MTP Act)                                                               |
+| **B**      | **B**uying & Selling (Bribery) | Accepting or giving bribes or kickbacks for referring patients.                                                                                   |
+| **C**      | **C**overing                   | Assisting, employing, or enabling an unqualified person (quack) to practice medicine.                                                             |
+| **D**      | **D**ichotomy                  | **Fee-splitting**: Secretly sharing or splitting professional fees with other doctors or diagnostic centers for referrals.                        |
+| **E**      | **E**ndorsement                | Using one's professional name or image to endorse commercial brands, specific pharmaceutical products, or hospitals.                              |
+| **F**      | **F**alse Certificates         | Issuing fake medical certificates, sickness slips, or false autopsy reports. ★ **Punishable under Section 234 BNS, 2023** (formerly Sec 197 IPC). |
+| **G**      | **G**ifts from Pharma          | Accepting expensive gifts, sponsorships, hospitality, or monetary benefits from pharmaceutical companies.                                         |
 
-**Other Examples:**
-*   **False Certificates:** Issuing or signing a false medical certificate (e.g., fitness, death, or illness) [1-p67, 41].
-*   **Breach of Professional Secrecy:** Disclosing patient information without consent (except in privileged communication).
+
 *   **Non-maintenance of Records:** Failing to keep indoor records for 3 years or refusing to provide them to a patient within **72 hours** of a request.
 *   **Active Euthanasia:** Performing an act to actively end a patient’s life (Passive euthanasia is legal in India under strict guidelines).
 
