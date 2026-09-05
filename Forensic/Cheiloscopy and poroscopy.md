@@ -16,7 +16,7 @@ This comprehensive guide covers **Poroscopy** and **Cheiloscopy**, two specia
 - **Pore Density:** Each millimetre of a finger ridge contains approximately **9 to 18 pores**.
 - **Frequency:** There are about **550–950 sweat pores** per square centimetre on finger ridges.
 - **Level of Identification:** While the overall fingerprint pattern is considered "Level 1" and ridge characteristics (minutiae) are "Level 2," the study of individual pores is considered **Level 3** detail in fingerprint matching.
-
+![[image 71.jpg]]
 #### **3. Medico-Legal Importance**
 
 - **Fragmentary Prints:** Poroscopy is highly useful when available finger or palm prints are blurred, smudged, or too fragmentary to provide enough ridge characteristics (minutiae) for a standard match.
@@ -45,7 +45,7 @@ This comprehensive guide covers **Poroscopy** and **Cheiloscopy**, two specia
 |**Type III**|Intersected (criss-cross) grooves.|
 |**Type IV**|Reticular pattern (resembling a wire mesh).|
 |**Type V**|Irregular or undifferentiated patterns that do not fit other categories.|
-
+![[image 72.jpg]]
 #### **3. Medico-Legal Importance**
 
 - **Identification of Suspects:** Can link a suspect to a crime scene if their lip print matches one found on a glass or cigarette at the scene.
