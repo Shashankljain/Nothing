@@ -50,5 +50,22 @@ The NMC performs its functions through four specialized autonomous boards:
 *   Ensuring that medical institutions meet faculty and infrastructural requirements through periodic assessments by the MARB.
 *   Implementing modern systems like the **Aadhar Enabled Biometric Attendance System (AEBAS)** for faculty and residents to check absenteeism.
 
+5. Ensure coordination among autonomous board
+6. Exercise appellate jurisdiction with respect to decision of autonomous boards
+7. Lay down policies for making high-quality and high standard in medical education
+8. Played on policies for regulating medical institution, medical research and medical professionals
+9. Framework guidelines for determination of fees and other charges in 50% of the seats in private and deemed to be university
 ---
+
+**PART IV: THE THREE SCHEDULES OF THE NMC** 📜
+
+The NMC Act organizes the recognition of medical degrees into three distinct schedules:
+
+- ★ **First Schedule:** Includes recognized medical qualifications granted by universities and medical institutions in **India**.
+- ★ **Second Schedule:** Includes recognized medical qualifications granted by medical institutions **outside India** (Foreign Medical Qualifications).
+- ★ **Third Schedule:**
+    - **Part I:** Recognized medical qualifications granted by Indian universities not included in the First Schedule.
+    - **Part II:** Recognized medical qualifications granted by foreign universities not included in the Second Schedule
+
+
 ![[image 3.jpg]]
