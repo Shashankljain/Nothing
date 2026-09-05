@@ -19,7 +19,7 @@
 
 #### **Classification of Fingerprint Patterns**
 
-★ **Important University Question: Types of Patterns**
+![[image 70.jpg]]
 
 |**Pattern Type**|**Frequency**|**Characteristics**|
 |:--|:--|:--|
@@ -35,12 +35,12 @@
 
 #### **Medico-Legal Importance**
 
-- **Criminal Identification:** Identifying perpetrators whose prints are found at a crime scene.
+- **Criminal Identification:** Identifying criminals whose prints are found at a crime scene.
 - **Identification of Deceased:** Identifying unknown dead bodies, especially in mass disasters or when bodies are decomposed/mutilated.
 - **Civil Applications:** Used for licensing (passports, firearms), detection of bank forgeries, and preventing the exchange of newborn infants in hospitals.
 - **Biometric Attendance:** The National Medical Commission (NMC) has mandated the **Aadhar Enabled Biometric Attendance System (AEBAS)** for faculty and residents to monitor absenteeism.
 - **Sex Determination:** Amino acid content in fingerprints can sometimes be used to determine the sex of an individual.
-
+- Detection of drug use- The secretion of the fingerprint contain residue of chemicals and their Metabolite
 ---
 
 #### **Relevant Law (2023 Provisions)**
