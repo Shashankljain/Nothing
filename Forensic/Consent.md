@@ -36,9 +36,7 @@
 
 #### **5. Special Scenarios**
 
-- **Rape Victim:** Consent is **mandatory** for examination (Section 184 BNSS).
-- **Rape Accused:** Consent is **not mandatory**; the police can request a medical examination using reasonable force if necessary (Section 52 BNSS).
-- **Medico-legal Autopsy:** No consent is required from relatives as it is a legal requirement.
+
 
 ---
 
