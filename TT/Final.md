@@ -12,7 +12,7 @@ To complete **Forensic Medicine and Toxicology (FMT)** comprehensively in **2
     - **Focus:** Inquest types (Magistrate vs. Police indications), Summons/Subpoena, Conduct Money, Hostile Witness, and the absolute goldmine: **Dying Declaration** vs. **Dying Deposition** (recording rules, medical consensus, and Section 32 Act) [p. 211, 212, 213].
 - [x] **Chapter 3: Medical Law and Ethics** _(08:30 AM – 10:00 AM | 1.5 Hours)_
     - **Focus:** State Medical Council vs. National Medical Commission, **Infamous Conduct/Professional Misconduct** (definition and examples like adultery, dichotomy/splitting fees, and covering), **Medical Negligence** (definition, ingredients, defenses, and the doctrine of _Res ipsa loquitur_), and **Consent in Medical Practice** (types, age limits, and rules under Sec 92 IPC) [p. 214, 215, 216, 217].
-- [ ] **Chapter 4: Identification** _(10:00 AM – 11:30 AM | 1.5 Hours)_
+- [x] **Chapter 4: Identification** _(10:00 AM – 11:30 AM | 1.5 Hours)_
     - **Focus:** **Dactylography** (types of fingerprints, role in identification), **Age Estimation** (Gustafson's dental method, Rule of Haase), Sex determination (Barr body, nuclear sexing), Lip prints (cheiloscopy), Poroscopy, Tattoo marks, and Bite marks medicolegal significance [p. 218, 219, 220].
 - [ ] **Chapters 5, 6 & 7: Autopsy, Death & PM Changes** _(11:30 AM – 01:00 PM | 1.5 Hours)_
     - **Focus:** Viscera preservation and dispatch, exhumation legalities, Somatic vs. Molecular death, Brainstem death, and Postmortem Changes: **Rigor Mortis** (mechanism, progress, conditions mimicking rigor mortis), **Postmortem Staining/Hypostasis** (differences from bruise), **Adipocere** formation, and **Mummification** [p. 222, 223, 224, 225, 226, 227].
