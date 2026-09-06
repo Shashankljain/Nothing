@@ -16,29 +16,6 @@ For an MBBS student, **Cadaveric Spasm** (also known as **Instantaneous Rigor
 - To differentiate it from normal Rigor Mortis.
 
 ---
-
-### **Medico-Legal Importance**
-
-★ **Important Exam Point:** Cadaveric spasm is the only postmortem change that provides conclusive proof of the deceased’s **mental state and physical activity** at the exact moment of death.
-
-1. **Determination of Manner of Death:**
-    - **Suicide:** A weapon (pistol or knife) held firmly in a cadaveric spasm is presumptive evidence of suicide, as an assailant cannot simulate this firm grip after death.
-    - **Accident (Drowning):** A drowning victim grasping weeds, mud, or gravel from the water bed proves they were alive and struggling in the water.
-    - **Homicide:** A victim grasping a piece of clothing, a button, or hair belonging to the assailant indicates a struggle occurred before death.
-2. **Manner of Death vs. Cause:** It reflects the "last act," which helps the forensic expert testify in court regarding the circumstances of the crime.
-3. **Cannot be Mimicked:** Unlike Rigor Mortis, Cadaveric Spasm cannot be produced artificially after death.
-
----
-
-### **Relevant Law (2023)**
-
-- **Bharatiya Nyaya Sanhita (BNS), 2023**
-    - **Section 2(6):** Defines **Death** as the death of a human being.
-- **Bharatiya Sakshya Adhiniyam (BSA), 2023**
-    - **Section 39:** Relates to **Expert Opinion**. The finding of cadaveric spasm in a medico-legal report is admissible as expert evidence to prove the manner of death.
-
----
-
 ### **Topic-Specific Explanation**
 
 #### **Etiology / Predisposing Factors**
@@ -66,6 +43,27 @@ Cadaveric spasm usually occurs in deaths involving:
 
 ---
 
+### **Medico-Legal Importance**
+
+★ **Important Exam Point:** Cadaveric spasm is the only postmortem change that provides conclusive proof of the deceased’s **mental state and physical activity** at the exact moment of death.
+
+1. **Determination of Manner of Death:**
+    - **Suicide:** A weapon (pistol or knife) held firmly in a cadaveric spasm is presumptive evidence of suicide, as an assailant cannot simulate this firm grip after death.
+    - **Accident (Drowning):** A drowning victim grasping weeds, mud, or gravel from the water bed proves they were alive and struggling in the water.
+    - **Homicide:** A victim grasping a piece of clothing, a button, or hair belonging to the assailant indicates a struggle occurred before death.
+2. **Manner of Death vs. Cause:** It reflects the "last act," which helps the forensic expert testify in court regarding the circumstances of the crime.
+3. **Cannot be Mimicked:** Unlike Rigor Mortis, Cadaveric Spasm cannot be produced artificially after death.
+
+---
+
+### **Relevant Law (2023)**
+
+- **Bharatiya Nyaya Sanhita (BNS), 2023**
+    - **Section 2(6):** Defines **Death** as the death of a human being.
+- **Bharatiya Sakshya Adhiniyam (BSA), 2023**
+    - **Section 39:** Relates to **Expert Opinion**. The finding of cadaveric spasm in a medico-legal report is admissible as expert evidence to prove the manner of death.
+
+---
 ### **Differential Diagnosis: Cadaveric Spasm vs. Rigor Mortis**
 
 ★ **Important Exam Point:** This table is a frequent 5-mark question.

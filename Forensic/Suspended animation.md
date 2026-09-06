@@ -16,28 +16,6 @@ For an MBBS student, understanding **Suspended Animation** (also known as **A
 **Mechanism (Pathophysiology)** The metabolic rate of the individual is greatly reduced. Because the body's energy requirements are so low, the oxygen requirement of individual cells is satisfied solely through the oxygen already dissolved in the body fluids, without the need for active respiration or high-pressure circulation.
 
 ---
-
-### **Medico-Legal Importance**
-
-★ **Important Exam Point:** The primary legal concern with suspended animation is the **==premature declaration of death==**and the subsequent issuance of a false death certificate.
-
-- **Avoidance of Error:** Doctors must diligently diagnose systemic death because individuals in suspended animation have been wrongly declared dead on multiple occasions.
-- **Civil Rights:** Declaring a person dead while they are in this state can lead to ==premature burial==, inappropriate organ harvesting, or legal complications regarding inheritance and insurance.
-- **Resuscitation Duty:** Since the condition is reversible, the medical officer has a duty to attempt resuscitation using cardiac massage and artificial respiration.
-
----
-
-### **Relevant Law (2023)**
-
-- **Bharatiya Nyaya Sanhita (BNS), 2023:**
-    - **Section 2(6):** Defines **Death** as the death of a human being. A doctor must ensure a person is legally dead before certification.
-- **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023:**
-    - **Section 194:** Relates to the **Police Inquest**. The medical officer requisitioned for an autopsy must first ensure that the body is not in a state of suspended animation before starting any dissection.
-- **Bharatiya Sakshya Adhiniyam (BSA), 2023:**
-    - **Section 39:** The **Expert Opinion** of a doctor regarding the confirmation of death is critical evidence in court.
-
----
-
 ### **Classification**
 
 Suspended animation is classified into two types:
@@ -61,6 +39,28 @@ The causes leading to apparent death are summarized by the clinical mnemonic **
 | **Others**   | **Drowning**, **Heat stroke**, **Cholera**, **Newborns**, and **Shock**.     |
 
 ---
+
+### **Medico-Legal Importance**
+
+★ **Important Exam Point:** The primary legal concern with suspended animation is the **==premature declaration of death==**and the subsequent issuance of a false death certificate.
+
+- **Avoidance of Error:** Doctors must diligently diagnose systemic death because individuals in suspended animation have been wrongly declared dead on multiple occasions.
+- **Civil Rights:** Declaring a person dead while they are in this state can lead to ==premature burial==, inappropriate organ harvesting, or legal complications regarding inheritance and insurance.
+- **Resuscitation Duty:** Since the condition is reversible, the medical officer has a duty to attempt resuscitation using cardiac massage and artificial respiration.
+
+---
+
+### **Relevant Law (2023)**
+
+- **Bharatiya Nyaya Sanhita (BNS), 2023:**
+    - **Section 2(6):** Defines **Death** as the death of a human being. A doctor must ensure a person is legally dead before certification.
+- **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023:**
+    - **Section 194:** Relates to the **Police Inquest**. The medical officer requisitioned for an autopsy must first ensure that the body is not in a state of suspended animation before starting any dissection.
+- **Bharatiya Sakshya Adhiniyam (BSA), 2023:**
+    - **Section 39:** The **Expert Opinion** of a doctor regarding the confirmation of death is critical evidence in court.
+
+---
+
 
 ### **Medico-Legal Diagnosis**
 

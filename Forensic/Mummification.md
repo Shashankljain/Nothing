@@ -24,24 +24,7 @@
 
 ---
 
-### **Medico-Legal Importance**
-
-★ **Important Exam Point:** Mummification turns the body into a "permanent record," allowing for a "delayed autopsy" that can yield results even years later.
-
-- **Criminal Investigation:** Helps establish the identity of a victim in "cold cases" where a body is found in a desert or dry cellar.
-- **Place of Disposal:** The presence of mummification proves the body was kept in a hot, dry, and well-ventilated environment.
-
----
-
-### **Relevant Law (2023)**
-
-- **Bharatiya Nyaya Sanhita (BNS), 2023, Section 2(6):** Defines **Death** as the death of a human being.
-- **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, Section 194:** Relates to the **Police Inquest**. The medical officer documents the state of mummification to assist the Investigating Officer (IO) in establishing the timeline of death.
-- **Bharatiya Sakshya Adhiniyam (BSA), 2023, Section 39:** Relates to **Expert Opinion**. A doctor’s findings on TSD and identification based on mummified remains are admissible as expert evidence in court.
-
----
-
-### **Pathophysiology / Mechanism**
+### **Features**
 
 1. **Commencement:** It usually begins in the exposed parts of the body such as the lips, nose, fingers, and toes.
 2. **Spread:** It then extends to the rest of the body and eventually involves the internal organs.
