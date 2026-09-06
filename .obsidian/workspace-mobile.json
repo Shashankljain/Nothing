@@ -117,14 +117,10 @@
             "id": "f180551085f6591f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/Forensic entomology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Forensic entomology"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -279,6 +275,12 @@
   },
   "active": "f180551085f6591f",
   "lastOpenFiles": [
+    "Forensic/Forensic entomology.md",
+    "Forensic/Pasted image 20260906133514.png",
+    "Forensic/Pasted image 20260906133343.png",
+    "Forensic/Pasted image 20260906133241.png",
+    "Forensic/image 80.jpg",
+    "Forensic/image 79.jpg",
     "TT/Final.md",
     "Forensic/Death.md",
     "Forensic/Malingering.md",
@@ -287,7 +289,6 @@
     "Forensic/image 70.jpg",
     "Forensic/image 69.jpg",
     "Forensic/image 68.jpg",
-    "Forensic/image 67.jpg",
     "Forensic/Hippocratic oath.md",
     "Forensic/Corpus delicti.md",
     "Forensic/Contributory negligence.md",
@@ -296,10 +297,6 @@
     "Forensic/Vicarious libiality.md",
     "Forensic/Res ipsa loquitor.md",
     "Forensic/Privileged communication.md",
-    "Forensic/image 66.jpg",
-    "Forensic/image 65.jpg",
-    "Forensic/image 64.jpg",
-    "Forensic/image 63.jpg",
     "Forensic/Euthanesia.md",
     "Forensic/Witness.md",
     "Forensic/Viability and autopsy.md",
@@ -314,7 +311,6 @@
     "Forensic/Hazard of blood transfusion.md",
     "Forensic/DNA fingerprints.md",
     "Forensic/Disputed paternity.md",
-    "Forensic/Dead,live,still born.md",
     "Forensic/Sign,symptom,feature,tx.canvas",
     "Lyrics",
     "TT",
