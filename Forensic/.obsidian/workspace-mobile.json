@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sudden death.md",
+                "file": "Mummification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sudden death"
+              "title": "Mummification"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Examination of mutilated body.md",
+            "file": "Mummification.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,6 +170,15 @@
   },
   "active": "32543e2eb84308ea",
   "lastOpenFiles": [
+    "Adipocere.md",
+    "Rigor mortis.md",
+    "Forensic entomology.md",
+    "image 74.jpg",
+    "Algor mortis.md",
+    "TSD estimation.md",
+    "PM Changes.md",
+    "Maceration.md",
+    "Sudden death.md",
     "Brainstem death.md",
     "Brainstem reflex.md",
     "Negative vs obscure autopsy.md",
@@ -189,23 +198,14 @@
     "Footprints.md",
     "Tattoo.md",
     "Bite marks.md",
-    "Hair.md",
-    "Superimposition.md",
-    "Cheiloscopy and poroscopy.md",
     "image 72.jpg",
     "image 71.jpg",
-    "Dactylography.md",
     "image 70.jpg",
-    "CI.md",
-    "Hasse.md",
-    "Gustafson.md",
-    "Intersex.md",
     "image 69.jpg",
     "image 68.jpg",
     "image 67.jpg",
     "image 66.jpg",
     "image 65.jpg",
-    "image 64.jpg",
     "Sign,symptom,feature,tx.canvas",
     "Toxicology.base"
   ]

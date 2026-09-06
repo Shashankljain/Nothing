@@ -12,7 +12,10 @@
 
 **The Life Cycle of the Fly (The "Biological Clock")**
 
-The most common insects involved are **Blowflies** (Calliphoridae), **Flesh flies** (Sarcophagidae), and the **Common House fly** (_Musca domestica_).
+The most common insects involved are-
+- Blowflies (Calliphoridae), 
+- **Flesh flies** (Sarcophagidae), 
+- **Common House fly** (_Musca domestica_).
 
 |**Stage**|**Timeline (Approximate)**|**Characteristics**|
 |---|---|---|
@@ -23,7 +26,7 @@ The most common insects involved are **Blowflies** (Calliphoridae), **Flesh flie
 |**Adult Fly**|7–14 days,|The adult fly emerges from the pupa to start the cycle again.|
 
 ★ **Important Exam Point:** The rate of this cycle is highly dependent on **environmental temperature**. Heat hastens the cycle, while cold slows it down.
-![[IMG_2122.png]]
+![[image 74.jpg]]
 ---
 
 **Medico-Legal Importance (Significance)**

@@ -1,5 +1,6 @@
 [[PM Changes]]
 **Definition** Adipocere is a postmortem phenomenon characterized by the formation of an offensive, sweet-rancid smelling, soft, whitish or grayish-white, waxy material in the fatty tissues of a dead body.
+- It’s a modification of decomposition
 
 **Introduction** Under normal circumstances, a body undergoes putrefaction. However, in specific environments (warm, moist, and anaerobic), the normal decay process is bypassed, and the body's fats undergo chemical changes that "soapify" the tissues.
 
