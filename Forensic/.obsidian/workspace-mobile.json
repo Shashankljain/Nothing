@@ -4,52 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "2b624187349498a4",
+        "id": "fb1001f01f0a9050",
         "type": "tabs",
         "children": [
           {
-            "id": "32543e2eb84308ea",
+            "id": "0f059721f88eb8b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stab injury.md",
+                "file": "Throttling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stab injury"
+              "title": "Throttling"
             }
           },
           {
-            "id": "21fcb86d6eb5da01",
+            "id": "f364d4de21e1ef6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Casper dictum.md",
+                "file": "Gunpowder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Casper dictum"
+              "title": "Gunpowder"
             }
           },
           {
-            "id": "81f002744441d65c",
+            "id": "1b810e37141fc797",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contusion.md",
+                "file": "Injuries application.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contusion"
+              "title": "Injuries application"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +143,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Stab injury.md",
+            "file": "Injuries application.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -196,44 +197,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "32543e2eb84308ea",
+  "active": "1b810e37141fc797",
   "lastOpenFiles": [
-    "image 80.jpg",
-    "Hypostasis vs bruise.md",
-    "Contusion.md",
-    "Pasted image 20260906133514.png",
-    "image 79.jpg",
-    "Pasted image 20260906133343.png",
-    "Pasted image 20260906133241.png",
-    "Pasted image 20260906133029.png",
-    "Pasted image 20260906132833.png",
-    "Pattered injuries.md",
-    "Lacerated wounds.md",
-    "image 78.jpg",
-    "image 77.jpg",
-    "Abrasion.md",
-    "image 76.jpg",
-    "image 75.jpg",
-    "Mechanical injuries.md",
-    "Rigor mortis.md",
-    "TSD estimation.md",
-    "Algor mortis.md",
-    "Casper dictum.md",
-    "Embalming.md",
-    "Cadaveric spasm.md",
-    "Suspended animation.md",
-    "Marbling.md",
-    "Mummification.md",
-    "Adipocere.md",
-    "Forensic entomology.md",
-    "PM Changes.md",
-    "Maceration.md",
-    "Sudden death.md",
-    "Brainstem death.md",
-    "Brainstem reflex.md",
-    "Negative vs obscure autopsy.md",
-    "Obscure autopsy.md",
-    "Death.md",
+    "Gunpowder.md",
+    "Injuries application.md",
+    "Throttling.md",
+    "Hanging.md",
+    "image 91.jpg",
+    "Pasted image 20260906201359.png",
+    "Drowning.md",
+    "image 90.jpg",
+    "Asphyxia.md",
+    "Starvation.md",
+    "Immersion foot.md",
+    "Joule burns.md",
+    "Scalds.md",
+    "Filigree burns.md",
+    "Dry vs moist vs chemical burns.md",
+    "Burns.md",
+    "Thermal deaths.md",
+    "Thermal injuries.md",
+    "Bore of shotgun.md",
+    "image 89.jpg",
+    "Bore of ahotgun.md",
+    "Ricochet bullet.md",
+    "Puppes rule.md",
+    "Contact and distant firearm.md",
+    "image 88.jpg",
+    "Entry wound vs exit wound.md",
+    "image 87.jpg",
+    "Choking + rifling.md",
+    "image 86.jpg",
+    "image 85.jpg",
+    "Firearm.md",
+    "Pasted image 20260906154901.png",
+    "image 84.jpg",
+    "Defensive wound.md",
+    "Fabricated wounds.md",
+    "Hesitation cuts.md",
     "Sign,symptom,feature,tx.canvas",
     "Toxicology.base"
   ]

@@ -2,10 +2,10 @@
 
 ### **1. Basic Concepts**
 
-|Concept|Definition|Type of Firearm|
-|:--|:--|:--|
-|**Rifling**|Spiral grooves cut into the internal surface (bore) of a barrel.|**Rifled Weapons** (Rifles, Pistols, Revolvers).|
-|**Choking**|An interior constriction of the bore at the muzzle end.|**Smooth-bore Weapons** (Shotguns).|
+| Concept     | Definition                                                                                                                    | Type of Firearm                                  |
+| :---------- | :---------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------- |
+| **Rifling** | Spiral grooves cut into the internal surface (bore) of a barrel.                                                              | **Rifled Weapons** (Rifles, Pistols, Revolvers). |
+| **Choking** | An interior constriction of the bore at the muzzle end of the shotgun For the purpose of controlling the pattern of fire shot | **Smooth-bore Weapons** (Shotguns).              |
 
 ---
 
@@ -13,6 +13,7 @@
 
 **Mechanism:** The internal surface of the barrel is scored with shallow spiral grooves. The projecting ridges between these grooves are called **lands**, and the depressions are called **grooves**. The distance between two opposite lands is known as the **Caliber**.
 
+![[image 85.jpg]]
 #### **Purpose of Rifling**
 
 - **Gyroscopic Stability:** It imparts a rotational spin to the bullet along its longitudinal axis.
@@ -37,7 +38,7 @@
 **Mechanism:** Choking involves narrowing the diameter of the shotgun barrel near the muzzle. This constriction usually occurs in the last ==7–10 cm== of the barrel.
 
 #### **Classification (Degrees of Choking)**
-
+![[image 86.jpg]]
 The range of a shotgun increases with the degree of choking:
 
 1. **Full Choke:** Most constriction; effective range ~40 yards.

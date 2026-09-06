@@ -26,15 +26,7 @@ When a bullet strikes the skull, it produces characteristic changes on the two t
 #### **B. Comparison of General Characteristics**
 ![[Pasted image 20260806175940.png]]
 
-|**Feature**|**Entry Wound**|**Exit Wound**|
-|:--|:--|:--|
-|**Size**|Usually **smaller** than the bullet diameter (due to skin elasticity).|Usually **larger** than the entry wound and the bullet.|
-|**Margins**|**Inverted** (tucked inward).|**Everted** (pushed outward) or puckered.|
-|**Abrasion Collar**|**Present** (reddish-brown rim of abraded skin).|**Absent** (except in "Shored Exit" wounds).|
-|**Grease/Dirt Collar**|**Present** (gray ring from bullet lubricant).|**Absent**.|
-|**Bleeding**|Relatively **less**.|Relatively **more**.|
-|**Fat/Soft Tissue**|No protrusion.|**Protrusion** may be present.|
-|**Fibers of Clothes**|Turned **inward**.|Turned **outward**.|
+![[image 87.jpg]]
 
 ★ **Important Exam Point (The Head):** While entry wounds are typically small, a **Contact Shot** to the head is often **large and stellate (star-shaped)** due to the "Blowback Phenomenon".
 

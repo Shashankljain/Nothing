@@ -1,4 +1,4 @@
-
+#c 
 [[Starvational death]]
 ### **Basic Concepts**
 
@@ -57,6 +57,17 @@ The timeline of survival is highly dependent on the availability of water [Image
 ### **Postmortem Findings (Autopsy Findings)**
 
 A meticulous postmortem examination is required to diagnose death due to starvation.
+### **Mnemonic**
+
+Use the word **B-I-G-H-T** to remember the key postmortem findings of starvation:
+
+- **B** - **B**rain spared from wasting (weight preserved) [Image 5].
+- **I** - **I**ntestines thin like **"tissue paper"** and bile-stained [Image 5].
+- **G** - **G**allbladder highly **distended** with thick bile [Image 5].
+- **H** - **H**eart shows **brown atrophy** [Image 5].
+- **T** - **T**en to twelve (**10–12**) days is the fatal period if both food and water are withdrawn [Image 5].
+
+---
 
 #### **External Findings**
 
@@ -65,6 +76,7 @@ A meticulous postmortem examination is required to diagnose death due to starvat
 3. **Ankle Edema:** Symmetrical soft tissue swelling around the lower extremities [Image 5].
 4. **Rigor Mortis:** Rigor mortis **sets in early and disappears early** [Image 5] due to the profound pre-mortem depletion of glycogen and ATP stores in the muscles.
 5. **Subcutaneous Fat:** Visceral and subcutaneous fat is completely absent throughout the body, with relative sparing **only in the female breast and the orbit** [Image 5].
+
 
 #### **Internal Findings**
 
@@ -88,18 +100,6 @@ The legal consequences of starvation depend on the intent and relationship of th
 - **Section 39 BSA, 2023 (formerly Sec 45 IEA):** Relates to **Expert Opinion**. The medical examiner's autopsy findings (e.g., brown atrophy, distended gallbladder, tissue-paper thin intestines) are admissible as expert evidence in court.
 
 ---
-### **Mnemonic**
-
-Use the word **B-I-G-H-T** to remember the key postmortem findings of starvation:
-
-- **B** - **B**rain spared from wasting (weight preserved) [Image 5].
-- **I** - **I**ntestines thin like **"tissue paper"** and bile-stained [Image 5].
-- **G** - **G**allbladder highly **distended** with thick bile [Image 5].
-- **H** - **H**eart shows **brown atrophy** [Image 5].
-- **T** - **T**en to twelve (**10–12**) days is the fatal period if both food and water are withdrawn [Image 5].
-
----
-
 ### **Model University Answers**
 
 #### **2 Marks: Define "Baby Farmer" Syndrome.**

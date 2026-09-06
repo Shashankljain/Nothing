@@ -4,7 +4,7 @@ Firearms are weapons designed to discharge a ==projectile== (bullet or pellets) 
 ### **1. Classification of Firearms**
 
 Firearms are primarily classified based on the internal nature of their barrel,:
-
+![[image 83.jpg]]
 #### **A. Based on Cross-Section of the Barrel**
 
 1. **Rifled Weapons:** The internal surface of the barrel has shallow ==spiral grooves== called 'rifling'.
@@ -27,8 +27,9 @@ Firearms are primarily classified based on the internal nature of their barrel,:
 
 A shot fired from **8 cm (approx. 3 inches)** falls into the **Close Shot** or **Flame Range** category. At this distance, all the constituents of the discharge (flame, smoke, soot, and unburnt powder) strike the body.
 
+![[image 84.jpg]]
 #### **Appearance and Characteristics**
-
+![[Pasted image 20260906154901.png]]
 - **Shape:** Small and circular.
 - **Margins:** **Inverted** (tucked inward),.
 - **Main Hole:** A central defect caused by the bullet.

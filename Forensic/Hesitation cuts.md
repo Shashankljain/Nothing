@@ -12,6 +12,17 @@ For a beginner MBBS student, **Hesitation Cuts** are one of the most significa
 **Mechanism (The "Why")** These marks occur because a person attempting suicide often lacks the ==initial== courage or resolve to make a deep, fatal cut. They make several "trial" or "probing" strokes—presumably hesitating while gaining the courage to make the final decisive, deep cut.
 
 ---
+### **Characteristics & Clinical Features**
+
+- **Appearance:** They are multiple, small, and superficial linear cuts, usually involving only the skin.
+- **Nature:** They are often uniform in size and depth, appearing as parallel lines.
+- **Location (Sites of Election):** They are found in **accessible parts** of the body that the victim can easily reach:
+    - **Front of the neck** (most common in cut-throat cases).
+    - **Wrist** (commonest site overall).
+    - **Groin, chest, or back of legs**.
+- **Relationship to Main Wound:** They are usually found at the **head** (commencement) of the fatal wound.
+
+---
 
 ### **Medico-Legal Importance**
 
@@ -33,17 +44,6 @@ For a beginner MBBS student, **Hesitation Cuts** are one of the most significa
 
 ---
 
-### **Characteristics & Clinical Features**
-
-- **Appearance:** They are multiple, small, and superficial linear cuts, usually involving only the skin.
-- **Nature:** They are often uniform in size and depth, appearing as parallel lines.
-- **Location (Sites of Election):** They are found in **accessible parts** of the body that the victim can easily reach:
-    - **Front of the neck** (most common in cut-throat cases).
-    - **Wrist** (commonest site overall).
-    - **Groin, chest, or back of legs**.
-- **Relationship to Main Wound:** They are usually found at the **head** (commencement) of the fatal wound.
-
----
 
 ### **Differential Diagnosis**
 

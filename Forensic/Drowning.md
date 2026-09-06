@@ -1,19 +1,11 @@
 [[Asphyxia]]
-The following comprehensive guide is designed for MBBS students preparing for university examinations, covering the essential aspects of **Asphyxial Deaths** and **Drowning** according to the latest standards and legal nomenclature.
 
----
-
-### **1. Basic Concepts of Asphyxial Death**
-
-#### **Definition**
-
-- **Etymology:** Derived from the Greek word _asphyxia_, meaning 'pulselessness' or 'absence of pulse'.
 - **Scientific Definition:** It is a condition caused by interference with the exchange of oxygen and carbon dioxide in the body, literally meaning 'defective aeration of blood'.
 
 #### **Pathophysiology (The Vicious Cycle)**
 
 Asphyxia leads to a chain reaction: **Deficient oxygenation** \(\rightarrow\) **Decreased oxygenation in lungs** \(\rightarrow\) **Capillary dilatation** \(\rightarrow\) **Engorgement** \(\rightarrow\) **Stasis of blood** \(\rightarrow\) **Decreased venous return** \(\rightarrow\) **Decreased pulmonary blood flow**.
-
+![[image 90.jpg]]
 ---
 
 ### **2. Classification of Asphyxial Deaths**
@@ -58,7 +50,8 @@ Drowning is the process of respiratory impairment from submersion or immersion i
 ### **4. Postmortem Findings in Drowning**
 
 #### **External Findings**
-
+- Face is pale discoloured With putrefaction 
+- Tongue maybe swollen and protruded 
 - **Froth:** Presence of fine, copious, white, **'shaving lather-like' froth** at the mouth and nostrils.
     - ★ **Important Exam Point:** This is a **vital phenomenon**, meaning the person was alive when they entered the water.
 - **Cadaveric Spasm:** Clenching of weeds, mud, or sand in the hands is **vital proof** of antemortem drowning.
@@ -70,7 +63,7 @@ Drowning is the process of respiratory impairment from submersion or immersion i
 
 #### **Internal Findings**
 
-- **Lungs (Emphysema Aquosum):** Lungs are voluminous, heavy, and **ballooned**, bulging out when the sternum is removed.
+- **Lungs (Emphysema Aquosum):** Lungs are voluminous, heavy, and **ballooned**, bulging out when the sternum is removed.==this occurs only when the conscious victim of drowning struggles for survival==
 - **Paltauf's Hemorrhages:** Subpleural petechiae found in the lower lobes (characteristic of antemortem drowning).
 - **Stomach & Intestines:** Presence of the drowning medium (e.g., muddy water) and micro-ruptures of the gastric mucosa (**==Sehrt’s sign==**).
 - **Middle Ear:** Presence of water and hemorrhage (**Ueno's sign**).

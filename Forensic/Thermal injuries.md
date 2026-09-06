@@ -1,5 +1,5 @@
 [[Thermal deaths]]
-Thermal injuries refer to the local or general effects produced on the body by the application of heat (High Temperature) or cold (Low Temperature).
+Thermal injuries refer to the injury, local or general effects produced on the body by the application of heat (High Temperature) or cold (Low Temperature).
 
 **Medico-Legal Importance**
 

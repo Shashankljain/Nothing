@@ -12,14 +12,27 @@
 1. **Self-inflicted wounds:** Inflicted by the person on their ==own== body. Without suicidal intent, this is a form of ==self-mutilation==.
 2. **Self-suffered wounds:** Inflicted by ==another== person on the alleged victim with the latter's ==consent==.
 
-**Medico-Legal Importance**
-
+**Motive**
+- 
 - To **incriminate an enemy** with a false charge of assault or attempted murder to ensure they receive more punishment.
 - To **simulate a crime** (e.g., women bringing a false charge of rape).
 - To **avert suspicion** by destroying evidence of a real injury that might link a person to a crime.
 - To **escape duty** or service (e.g., soldiers or prisoners).
-- For **insurance fraud**.
+- For **insurance fraud**
+- Suicidal gestures ,attempted suicide
+---
+### **3. Characteristics of Fabricated Injuries**
 
+A medical officer must look for specific "classic" features to distinguish these from genuine assault:
+
+- **★ Important Exam Point: Nature of Wounds:** Most commonly **incised wounds** (cuts). Occasionally superficial burns, contusions, or small stab wounds are seen.
+- **Severity:** Usually **multiple, shallow, and non-penetrating** (limited to the skin).
+- **Site (Sites of Election):** Found on **accessible parts** of the body that the individual can easily reach, such as the top of the head, forehead, neck, outer left arm, front of thighs, or chest.
+- **Direction and Arrangement:** Often **grouped, parallel, or in a criss-cross** pattern. They are uniform in shape and follow a linear or slightly curved course.
+- **Avoidance of Pain:** Wounds typically **==avoid pain-sensitive or vital areas==** like the eyes, nose, mouth, ears, or genitals.
+- **Clothing:** Usually, the **clothes are ==not== damaged** or the damage does not correspond to the site of the injury (as the person moves clothes aside before inflicting the wound).
+- **Defense Wounds:** These are characteristically **absent**.
+![[image 82.jpg]]
 ---
 
 ### **2. Relevant Law (2023)**
@@ -37,19 +50,6 @@
 
 ---
 
-### **3. Characteristics of Fabricated Injuries**
-
-A medical officer must look for specific "classic" features to distinguish these from genuine assault:
-
-- **★ Important Exam Point: Nature of Wounds:** Most commonly **incised wounds** (cuts). Occasionally superficial burns, contusions, or small stab wounds are seen.
-- **Severity:** Usually **multiple, shallow, and non-penetrating** (limited to the skin).
-- **Site (Sites of Election):** Found on **accessible parts** of the body that the individual can easily reach, such as the top of the head, forehead, neck, outer left arm, front of thighs, or chest.
-- **Direction and Arrangement:** Often **grouped, parallel, or in a criss-cross** pattern. They are uniform in shape and follow a linear or slightly curved course.
-- **Avoidance of Pain:** Wounds typically **==avoid pain-sensitive or vital areas==** like the eyes, nose, mouth, ears, or genitals.
-- **Clothing:** Usually, the **clothes are ==not== damaged** or the damage does not correspond to the site of the injury (as the person moves clothes aside before inflicting the wound).
-- **Defense Wounds:** These are characteristically **absent**.
-
----
 
 ### **4. Medico-Legal Examination & Diagnosis**
 

@@ -23,7 +23,21 @@ An **incised wound** (also known as a cut, slash, or slice) is one of the most
 |**Stab Wound**|Depth > Length or Width.|
 |**Chop Wound**|Heavy weapon; combination of blunt and sharp force.|
 |**Therapeutic Wound**|Produced by medical personnel (e.g., surgical incisions).|
+### **Characteristics of an Incised Wound**
 
+A medical officer must note these features to differentiate an incision from a laceration:
+
+1. **Margins:** They are **clean-cut**, well-defined, and usually **everted**.
+2. **Dimensions:** The **length** is the maximum dimension; it is always greater than the width or depth.
+3. **Gaping:** The wound gapes more if it is perpendicular to **==Langer’s== lines** (cleavage lines of the skin).
+4. **Hemorrhage:** Usually **profuse** because blood vessels are cut cleanly and cannot retract as easily as in blunt trauma.
+5. **Tissue Bridging:** **Absent.** This is a critical diagnostic point—nerves and vessels are cut cleanly.
+6. **Hair Bulbs:** Found to be **cleanly cut**.
+7. **Bones:** A sharp weapon may leave a linear cut or a nick on the underlying bone.
+8. Depth and direction - tailing of wound
+
+---
+![[image 81.jpg]]
 ---
 
 ### **Medico-Legal Importance**
@@ -59,19 +73,6 @@ An **incised wound** (also known as a cut, slash, or slice) is one of the most
 
 ---
 
-### **Characteristics of an Incised Wound**
-
-A medical officer must note these features to differentiate an incision from a laceration:
-
-1. **Margins:** They are **clean-cut**, well-defined, and usually **everted**.
-2. **Dimensions:** The **length** is the maximum dimension; it is always greater than the width or depth.
-3. **Gaping:** The wound gapes more if it is perpendicular to **==Langer’s== lines** (cleavage lines of the skin).
-4. **Hemorrhage:** Usually **profuse** because blood vessels are cut cleanly and cannot retract as easily as in blunt trauma.
-5. **Tissue Bridging:** **Absent.** This is a critical diagnostic point—nerves and vessels are cut cleanly.
-6. **Hair Bulbs:** Found to be **cleanly cut**.
-7. **Bones:** A sharp weapon may leave a linear cut or a nick on the underlying bone.
-
----
 
 ### **Special Phenomena**
 

@@ -42,6 +42,9 @@ Hanging is classified under three main categories:
 ### **3. Postmortem (PM) Findings in Hanging**
 
 #### **External Findings**
+![[Pasted image 20260906201359.png]]
+
+![[image 91.jpg]]
 
 1. **Ligature Mark (The Furrow):**
     - **Course:** **Oblique** (angled), following the line of the mandible towards the knot.

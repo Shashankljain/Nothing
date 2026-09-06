@@ -23,6 +23,8 @@ A contact wound occurs when the `muzzle` of the weapon is held directly against 
 
 #### **B. Characteristic Features**
 
+![[image 88.jpg]]
+
 - **Muzzle Imprint** (***==Werkgartner’s Mark==***): A patterned abrasion or intradermal contusion produced by the heat of the muzzle or the expansive power of gases lifting the skin against the muzzle. This is a definitive sign of a contact shot.
 - **Stellate (Cruciate) Shape:** In areas where skin lies directly over bone (e.g., the skull), gases expand between the bone and the scalp, causing the skin to burst outward in a star-shaped or ragged laceration (Blowback phenomenon).
 - **Cherry-Red Tissues:** The underlying soft tissues and blood in the track appear bright pink or cherry-red due to the presence of Carbon Monoxide (CO) from the gunpowder combustion.
