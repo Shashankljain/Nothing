@@ -11,14 +11,10 @@
             "id": "32543e2eb84308ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algor mortis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Algor mortis"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -35,8 +31,7 @@
               "title": "Casper dictum"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +124,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Casper dictum.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,20 +177,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "21fcb86d6eb5da01",
+  "active": "32543e2eb84308ea",
   "lastOpenFiles": [
-    "Casper dictum.md",
+    "Rigor mortis.md",
+    "TSD estimation.md",
     "Algor mortis.md",
+    "Casper dictum.md",
     "Embalming.md",
     "Cadaveric spasm.md",
     "Suspended animation.md",
     "Marbling.md",
     "Mummification.md",
     "Adipocere.md",
-    "Rigor mortis.md",
     "Forensic entomology.md",
     "image 74.jpg",
-    "TSD estimation.md",
     "PM Changes.md",
     "Maceration.md",
     "Sudden death.md",
