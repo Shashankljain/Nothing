@@ -30,6 +30,16 @@
               "icon": "lucide-file",
               "title": "Forensic Psychiatry"
             }
+          },
+          {
+            "id": "2685578508aa4d15",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -61,7 +71,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Casper",
+            "query": "Abortion",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -179,6 +189,10 @@
   },
   "active": "1b810e37141fc797",
   "lastOpenFiles": [
+    "Compressed fetus.md",
+    "PM in burns.md",
+    "Thermal injuries.md",
+    "Thermal deaths.md",
     "Untitled 1.md",
     "MLI of impotence and sterility.md",
     "image 97.jpg",
@@ -210,10 +224,6 @@
     "Starvation.md",
     "Immersion foot.md",
     "Joule burns.md",
-    "Scalds.md",
-    "Filigree burns.md",
-    "Dry vs moist vs chemical burns.md",
-    "Burns.md",
     "image 89.jpg",
     "Sign,symptom,feature,tx.canvas",
     "Toxicology.base"

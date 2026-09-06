@@ -1,3 +1,4 @@
+[[Thermal deaths]]
 **External Postmortem Findings**
 
 **1. General Appearance (Pugilistic Attitude)**
