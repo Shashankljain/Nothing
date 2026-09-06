@@ -43,26 +43,7 @@
 
 ---
 
-## **PART V: DATING / AGE OF A BRUISE (COLOR CHANGES)** ⏱️🎨
-
-★ **Important Exam Point:** Autopsy surgeons estimate the **Time Since Death (TSD)** or the **time of assault** by observing chronological color changes in a bruise, which occur due to the enzymatic breakdown of extravasated red blood cells [131, 230]:
-
-|**Time Interval / Duration**|**Color Observed**|**Biochemical Pigment Responsible**|
-|:--|:--|:--|
-|**Fresh / Immediate to 3 hours**|**Red**|Oxygenated hemoglobin [232].|
-|**Few hours to 3 days**|**Blue / Violet / Indigo**|Deoxygenated hemoglobin [232].|
-|**4th Day**|**Brown**|Hemosiderin (ferric iron complex in macrophages) [232, 234].|
-|**5th to 6th Day**|**Green**|Biliverdin (byproduct of heme breakdown) [232, 234].|
-|**7th to 12th Day**|**Yellow**|Bilirubin (historically called hematoidin) [232, 234].|
-|**2 Weeks (14 Days)**|**Normal skin color restored**|Complete phagocytosis and clearing of pigment [232].|
-
-### **🚨 THE TWO CRITICAL EXCEPTIONS (No Color Changes):**
-
-1. ★ **Subconjunctival Hemorrhage:** Does **not** show these color changes. It remains bright red, turns yellow, and fades because the thin conjunctival membrane allows atmospheric oxygen to diffuse directly through, keeping the hemoglobin permanently **oxygenated** [231, 232].
-2. ★ **Meningeal Hemorrhages:** Do not show color changes because they receive continuous oxygenation from the **Cerebrospinal Fluid (CSF)** [231].
-
----
-
+![[Pasted image 20260906133241.png]]
 ## **PART VI: MEDICO-LEGAL IMPORTANCE (MLI)** ⚖️🩺
 
 ### **1. Why is a Bruise Legally Important?**
