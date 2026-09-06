@@ -34,9 +34,9 @@
                                          │
          ┌───────────────────────────────┼───────────────────────────────┐
          ▼                               ▼                               ▼
-  [Blunt Weapons]                 [Sharp Weapons]                [Pointed Weapons]
- • Abrasions, Contusions,        • Incised, Chop, and           • Penetrating, Perforating,
-   and Lacerations [1].          Hesitation wounds [2, 3].  and Concealed Punctures [4].
+  [Blunt Weapons]                 [Sharp Weapons]            [Pointed Weapons]
+ • Abrasions, Contusions,   • Incised, Chop, and    • Penetrating, Perforating,
+   and Lacerations [1].     Hesitation wounds [2, 3].  and Concealed Punctures 
 ```
 
 **1. Injuries Caused by Blunt Weapons (Stones, Lathis, Hammers)**1:
@@ -64,7 +64,7 @@
 - ★ **Definition (Section 80 BNS, 2023 / formerly Sec. 304B IPC):**
     1. The death of a woman is caused by burns, bodily injury, or occurs otherwise than under normal circumstances [80 BNS].
     2. The death occurs within **7 years of her marriage** [80 BNS].
-    3. It is shown that **soon before her death**, she was subjected to cruelty or harassment by her husband or in-laws in connection with any demand for dowry [80 BNS].
+    3. It is shown that **soon before her death**, she was subjected to cruelty or harassment by her husband or husband, relatives in connection with any demand for dowry [80 BNS].
 - **Punishment:** Imprisonment for a term of 7 years to life imprisonment [80 BNS].
 
 **★ The Mandatory Inquest Procedure (Section 196 BNSS, 2023 / formerly Sec. 176 CrPC):**
