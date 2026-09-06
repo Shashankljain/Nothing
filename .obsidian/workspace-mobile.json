@@ -119,12 +119,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TT/Final.md",
+                "file": "Forensic/Forensic entomology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Final"
+              "title": "Forensic entomology"
             }
           }
         ],
@@ -279,6 +279,8 @@
   },
   "active": "f180551085f6591f",
   "lastOpenFiles": [
+    "TT/Final.md",
+    "Forensic/Death.md",
     "Forensic/Malingering.md",
     "Forensic/image 72.jpg",
     "Forensic/image 71.jpg",
@@ -313,8 +315,6 @@
     "Forensic/DNA fingerprints.md",
     "Forensic/Disputed paternity.md",
     "Forensic/Dead,live,still born.md",
-    "Forensic/Confirmatory test.md",
-    "Forensic/Blood grouping.md",
     "Forensic/Sign,symptom,feature,tx.canvas",
     "Lyrics",
     "TT",
