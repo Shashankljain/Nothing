@@ -12,9 +12,9 @@ For an MBBS student, understanding **lacerated wounds** is essential as they a
 1. **Mechanical Force:** It is caused by either a **shearing** or a **crushing** force.
 2. **Energy Transfer:** Injury occurs when the physical energy applied by a blunt object exceeds the elastic limits of the tissues, causing them to stretch and eventually tear.
 3. **Crush Injury:** If the blunt force is massive and produces extensive bruising along with the laceration of deeper tissues, it is termed a **crush injury**.
-
+![[image 77.jpg]]
 ---
-
+![[image 78.jpg]]
 ### **Classification (Types) of Lacerated Wounds(CATS)**
 
 Lacerations are classified based on the nature of the force and the mechanism of the tear:
@@ -58,7 +58,6 @@ Lacerations are classified based on the nature of the force and the mechanism of
 - **Hemorrhage:** Usually less than incised wounds because the blunt force crushes and tears the vessels, allowing them to retract and clot more easily.
 - **Hair Bulbs:** Found to be **crushed** rather than cleanly cut.
 - **Swallow Tail:** Tearing of the extremities at diverging angles may be seen (especially in split lacerations).
-![[image 17.jpg]]
 ---
 
 ### **High-Yield Exam Points**
