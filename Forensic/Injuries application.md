@@ -94,7 +94,7 @@
 
 **Q4: Discuss the role of a doctor in identifying different types of torture.**
 
-- ★ **Definition:** Torture is the deliberate, systematic, or wanton infliction of physical or mental pain on a person to extort a confession, gather information, or punish them15. It is governed globally by the **Declaration of Tokyo**and the **Istanbul Protocol**1516.
+- ★ **Definition:** Torture is the deliberate, systematic, or wanted infliction of physical or mental pain on a person to extort a confession, gather information, or punish them15. It is governed globally by the **Declaration of Tokyo**and the **Istanbul Protocol**1516.
 
 **Core Role of a Medical Practitioner in Identifying Torture:**
 
@@ -103,9 +103,9 @@
                                      │
          ┌───────────────────────────┼───────────────────────────┐
          ▼                           ▼                           ▼
-    [Falanga]                    [Telefono]                  [Picana]
- • Sole of feet beating.      • Simultaneous ear slapping.• Electrical shock scars.
- • Plantar tears & hematoma.  • Tympanic membrane rupture.• Pinpoint depigmented centers.
+    [Falanga]                   [Telefono]                  [Picana]
+ • Sole of feet beating.  • Simultaneous ear slapping.• Electrical shock scars.
+ • Plantar tears & hematoma.  • Tympanic membrane rupture.• Pinpoint                                                                      depigmented centers.
 ```
 
 1. **Physical Trauma Mapping:** Doctors must carefully inspect the body to identify specific, recognized physical torture patterns:
