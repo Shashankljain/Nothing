@@ -6,17 +6,7 @@
     - **Bruise:** Refers to the extravasation of blood observed directly through the **intact skin** as a bluish-purple discoloration and localized swelling [220, 221].
     - **Contusion:** Refers to a bruise located **deeply within internal organs or tissues** (e.g., contusion of the brain, muscles, liver, or mesentery), which may not be visible on the skin surface [220, 221].
 
-### **2. The "6-W" Analytical Framework** ❓
-
-1. **What?** A kinetic mechanical injury caused by blunt force trauma resulting in localized closed vascular hemorrhage [205, 208].
-2. **Why?** Occurs because blunt force compresses and stretches the skin, exceeding the elastic limits of the delicate capillary walls, causing them to shear and tear [203, 204, 227].
-3. **How?** Extravasated blood tracks along the path of least resistance through fascial planes, eventually pooling and displaying characteristic hemoglobin breakdown colors on the surface [226, 230].
-4. **When?** Appears immediately (if superficial) or takes hours to days to emerge (if deep) [222].
-5. **Where?** Can occur anywhere on the body, but is highly pronounced over soft, lax tissues (eyelids) or tissues overlying bony prominences [223, 224].
-6. **Who?** Highly severe in children and the elderly due to delicate skin and loss of subcutaneous supporting tissues [224, 225].
-
----
-
+![[Pasted image 20260906132833.png]]
 ## **PART II: CLASSIFICATION OF BRUISES** 📊
 
 Bruises are classified into three types depending on their anatomical depth and presentation:
