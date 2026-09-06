@@ -8,6 +8,8 @@
 
 ![[Pasted image 20260906132833.png]]
 
+![[Pasted image 20260906133343.png]]
+![[image 79.jpg]]
 ## **PART IV: SPECIAL CLINICAL PHENOMENA** 🚀
 
 ### **1. Gravity Shifting (Ectopic or Migratory Bruise)**
