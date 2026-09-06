@@ -10,42 +10,9 @@
 
 ![[Pasted image 20260906133343.png]]
 ![[image 79.jpg]]
-## **PART IV: SPECIAL CLINICAL PHENOMENA** 🚀
 
-### **1. Gravity Shifting (Ectopic or Migratory Bruise)**
+![[Pasted image 20260906133514.png]]
 
-- **Mechanism:** Blood does not always pool at the point of impact. Due to gravity, extravasated blood tracks along fascial planes along the path of least resistance to appear at a completely different, lower site [226].
-- ★ **Classic Examples (Extremely Important for Exams):**
-    1. ★ **Black Eye (Raccoon Eyes / Spectacle Hematoma):** A blow to the forehead or a **fracture of the orbital plate of the frontal bone** causes blood to gravitate down under the frontalis muscle, appearing as a bruise around the eyelids [226, 306, 307, 308].
-    2. ★ **Battle’s Sign:** Bruising behind the ear (mastoid area) appearing 36 hours after head trauma, indicating a **fracture of the middle cranial fossa** (petrous part of the temporal bone) [314].
-    3. **Grey Turner’s Sign:** Bruising over the flanks indicating retroperitoneal hemorrhage [226].
-    4. **Cullen's Sign:** Bluish-black discoloration around the umbilicus, seen in ruptured ectopic pregnancy or acute hemorrhagic pancreatitis [226].
-
----
-
-### **2. Patterned Bruises & The "Tram-line" Effect**
-
-- **Definition:** When an impact with a hard, patterned object leaves an exact replica of its shape on the skin [227].
-- ★ **Tram-line (Railway-line) Bruise:**
-    - _Causative Weapon:_ Produced by a blow from a cylindrical, hard object such as a **lathi, rod, stick, or whip** [228].
-    - _Mechanism:_ When the rod strikes the skin, the blood vessels directly underneath are **compressed** flat, preventing bleeding there [227, 228]. However, the lateral margins of the skin are **stretched (traction)**, causing the marginal dermal vessels in the grooves to rupture [227].
-    - _Appearance:_ Results in **two parallel, linear hemorrhages** with an intervening band of normal, undamaged skin [228].
-
-```
-                     [TRAM-LINE BRUISE MECHANISM]
-
-                             |   ROD   |  <-- Cylindrical force
-                             V         V
-                     _______/           \_______
-                    |  Ruptured  |  No   | Ruptured  |
-                    |  Vessels   | Bleed | Vessels   |  <-- Skin cross-section
-                    |  (GROOVE)  | (RIDGE| (GROOVE)  |
-                    |____________|_______|___________|
-```
-
----
-
-![[Pasted image 20260906133241.png]]
 ## **PART VI: MEDICO-LEGAL IMPORTANCE (MLI)** ⚖️🩺
 
 ### **1. Why is a Bruise Legally Important?**
