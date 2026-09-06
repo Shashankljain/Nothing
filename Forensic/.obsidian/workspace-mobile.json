@@ -45,7 +45,8 @@
               "title": "Contusion"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,7 +192,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "32543e2eb84308ea",
+  "active": "81f002744441d65c",
   "lastOpenFiles": [
     "Hypostasis vs bruise.md",
     "Contusion.md",
