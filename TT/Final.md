@@ -23,7 +23,7 @@ To complete **Forensic Medicine and Toxicology (FMT)** comprehensively in **2
 
 #### **☀️ Afternoon Block (02:00 PM – 07:00 PM | 5 Hours)**
 
-- [ ] **Chapter 8: Mechanical Injuries** _(02:00 PM – 04:00 PM | 2 Hours)_
+- [x] **Chapter 8: Mechanical Injuries** _(02:00 PM – 04:00 PM | 2 Hours)_
     - **Focus:** Classification of mechanical injuries, differences between Bruise vs. Postmortem staining, Stab wounds (medicolegal importance, features to note), and **Firearm Injuries** (Choking, caliber, entry vs. exit wound differences, Pupil's rule, and Tandem bullet) [p. 228, 229, 230, 231].
 - [x] **Chapters 9 & 10: Regional Injuries & Wounds** _(04:00 PM – 05:30 PM | 1.5 Hours)_
     - **Focus:** Fractures of the skull (six types), Extradural vs. Subdural hemorrhage, **Lucid Interval** in head injuries, Whiplash injury mechanism, **Grievous Hurt (Section 320 IPC)** definitions/8 criteria, and Torture types (Falanga) [p. 232, 233, 234].
