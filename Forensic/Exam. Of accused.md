@@ -50,7 +50,8 @@
 - **Injuries:** Look for scratches, bite marks, or bruises sustained during a struggle.
 
 **4. Genital Examination**
-
+    - Pubic hair
+    - Development of genital organs
 - **Smegma:** Check the corona glandis (under the foreskin).
     - ★ **Important Exam Point:** The presence of a thick layer of smegma usually indicates that the person has **not had sexual intercourse in the last 24 hours**, as the friction of sex normally rubs it off.
 - **Penis and Scrotum:** Look for fresh injuries, tears in the frenulum, or signs of STDs.
