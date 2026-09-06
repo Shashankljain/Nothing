@@ -117,14 +117,10 @@
             "id": "f180551085f6591f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TT/Final.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Final"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -279,6 +275,8 @@
   },
   "active": "f180551085f6591f",
   "lastOpenFiles": [
+    "Forensic/Rigor mortis.md",
+    "TT/Final.md",
     "Forensic/Pasted image 20260906201359.png",
     "Forensic/Pasted image 20260906154901.png",
     "Forensic/Injuries application.md",
@@ -290,11 +288,9 @@
     "Forensic/image 86.jpg",
     "Forensic/image 85.jpg",
     "Forensic/image 84.jpg",
-    "Forensic/image 83.jpg",
     "Forensic/Gunpowder.md",
     "Forensic/Defensive wound.md",
     "Forensic/Asphyxia.md",
-    "TT/Final.md",
     "Forensic/Forensic entomology.md",
     "Forensic/Death.md",
     "Forensic/Malingering.md",
