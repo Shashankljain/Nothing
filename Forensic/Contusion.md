@@ -7,48 +7,6 @@
     - **Contusion:** Refers to a bruise located **deeply within internal organs or tissues** (e.g., contusion of the brain, muscles, liver, or mesentery), which may not be visible on the skin surface [220, 221].
 
 ![[Pasted image 20260906132833.png]]
-## **PART II: CLASSIFICATION OF BRUISES** 📊
-
-Bruises are classified into three types depending on their anatomical depth and presentation:
-
-|**Type of Bruise**|**Anatomical Level / Situation**|**Clinical Characteristics**|
-|:--|:--|:--|
-|**1. Intradermal Bruise**|Immediate **subepidermal layer** [222].|• Caused by patterned objects.• Hemorrhage is **sharply defined**.• Accurately reproduces the shape of the weapon [222].|
-|**2. Subcutaneous Bruise**|**Subcutaneous fatty layer** [222].|• Most common type of bruise.• Edges are **blurred and diffuse** due to fat spreading.• Appears soon after injury as a dark red swelling [222].|
-|**3. Deep / Delayed Bruise**|Deeper than subcutaneous tissues (e.g., muscles) [222].|• Takes **hours to 1–2 days to appear** at the surface (**delayed bruising**/percolated bruise) [222, 223].• Dermal layer must be examined 24–48 hours later [223].|
-
----
-
-## **PART III: FACTORS INFLUENCING BRUISE FORMATION** 🧪
-
-The size, severity, and rate of appearance of a bruise are highly variable and depend on several physiological factors:
-
-```
-                            [FACTORS INFLUENCING BRUISES]
-                                          │
-         ┌────────────────────────┬───────┴────────┬────────────────────────┐
-         ▼                        ▼                ▼                        ▼
-   [Anatomical Site]            [Age]            [Sex]              [Co-morbidities]
- • Lax tissue (eyelid) = Large. • Kids & Elderly  • Females = Larger  • Scurvy, hemophilia,
- • Supported (palm) = Small.     bruise easily.   (more fat).        cirrhosis = Severe.
-```
-
-1. ★ **Anatomical Site & Tissue Laxity:**
-    - _Soft, lax, and vascular areas_ (e.g., eyelids, face, scrotum, vulva) bruise **extensively** with minimal force [223].
-    - _Supported, fibrous areas_ (e.g., palms, soles, abdomen, back) require **extreme force** to produce even a small, visible bruise [223].
-    - _Scalp bruises_ are often **better felt than seen** due to the dense galea aponeurotica [224].
-2. ★ **Age:**
-    - _Children_ have delicate, softer skin and loose tissues [224, 225].
-    - _Elderly_ individuals have lost subcutaneous supportive fat and have fragile blood vessels [225]. Both age groups bruise **much more easily** [224, 225].
-3. ★ **Sex & Body Habitus:**
-    - _Females_ bruise more easily and show larger bruises due to a higher proportion of subcutaneous fat and more delicate tissues [225].
-    - _Obese individuals_ bruise more easily than lean individuals [225].
-4. **Complexion:** Bruises are much easier to recognize visually on **fair skin**; on **dark skin**, they are often better felt as swelling or localized warmth [225].
-5. ★ **Natural Diseases & Medications:**
-    - Conditions like **Hemophilia, Scurvy (Vitamin C deficiency), Leukemia, Cirrhosis, and Atherosclerosis** promote massive bruising after trivial trauma [224, 225].
-    - Patients taking **aspirin, anticoagulants, or steroids** bruise very easily [224, 233].
-
----
 
 ## **PART IV: SPECIAL CLINICAL PHENOMENA** 🚀
 

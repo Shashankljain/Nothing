@@ -139,6 +139,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Contusion.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -192,8 +193,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "81f002744441d65c",
+  "active": "318f7304bdb1f00f",
   "lastOpenFiles": [
+    "Pasted image 20260906133029.png",
     "Pasted image 20260906132833.png",
     "Hypostasis vs bruise.md",
     "Contusion.md",
@@ -229,7 +231,6 @@
     "image 72.jpg",
     "image 71.jpg",
     "image 70.jpg",
-    "image 69.jpg",
     "Sign,symptom,feature,tx.canvas",
     "Toxicology.base"
   ]
