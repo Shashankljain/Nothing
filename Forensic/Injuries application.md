@@ -191,3 +191,4 @@
 |**3. Extravasated Blood (Washing Test)**|**Clotted firmly.** Blood cannot be washed away with water because it has infiltrated the tissues28.|**Unclotted & loose.** Blood washes away easily with water28.|
 |**4. Wound Margins**|**Gaping and retracted** due to vital muscle elasticity and tension11.|**Not gaping.** Margins remain flaccid and closely approximated.|
 |**5. Histopathology**|Fibrin network, polymorphonuclear cell infiltration, and healing signs present.|No cellular vital reaction or inflammatory infiltration.|
+![[image 95.jpg]]
