@@ -14,7 +14,7 @@ To complete **Forensic Medicine and Toxicology (FMT)** comprehensively in **2
     - **Focus:** State Medical Council vs. National Medical Commission, **Infamous Conduct/Professional Misconduct** (definition and examples like adultery, dichotomy/splitting fees, and covering), **Medical Negligence** (definition, ingredients, defenses, and the doctrine of _Res ipsa loquitur_), and **Consent in Medical Practice** (types, age limits, and rules under Sec 92 IPC) [p. 214, 215, 216, 217].
 - [x] **Chapter 4: Identification** _(10:00 AM – 11:30 AM | 1.5 Hours)_
     - **Focus:** **Dactylography** (types of fingerprints, role in identification), **Age Estimation** (Gustafson's dental method, Rule of Haase), Sex determination (Barr body, nuclear sexing), Lip prints (cheiloscopy), Poroscopy, Tattoo marks, and Bite marks medicolegal significance [p. 218, 219, 220].
-- [ ] **Chapters 5, 6 & 7: Autopsy, Death & PM Changes** _(11:30 AM – 01:00 PM | 1.5 Hours)_
+- [x] **Chapters 5, 6 & 7: Autopsy, Death & PM Changes** _(11:30 AM – 01:00 PM | 1.5 Hours)_
     - **Focus:** Viscera preservation and dispatch, exhumation legalities, Somatic vs. Molecular death, Brainstem death, and Postmortem Changes: **Rigor Mortis** (mechanism, progress, conditions mimicking rigor mortis), **Postmortem Staining/Hypostasis** (differences from bruise), **Adipocere** formation, and **Mummification** [p. 222, 223, 224, 225, 226, 227].
 
 ---
@@ -23,9 +23,9 @@ To complete **Forensic Medicine and Toxicology (FMT)** comprehensively in **2
 
 #### **☀️ Afternoon Block (02:00 PM – 07:00 PM | 5 Hours)**
 
-- [ ] **Chapter 8: Mechanical Injuries** _(02:00 PM – 04:00 PM | 2 Hours)_
+- [x] **Chapter 8: Mechanical Injuries** _(02:00 PM – 04:00 PM | 2 Hours)_
     - **Focus:** Classification of mechanical injuries, differences between Bruise vs. Postmortem staining, Stab wounds (medicolegal importance, features to note), and **Firearm Injuries** (Choking, caliber, entry vs. exit wound differences, Pupil's rule, and Tandem bullet) [p. 228, 229, 230, 231].
-- [ ] **Chapters 9 & 10: Regional Injuries & Wounds** _(04:00 PM – 05:30 PM | 1.5 Hours)_
+- [x] **Chapters 9 & 10: Regional Injuries & Wounds** _(04:00 PM – 05:30 PM | 1.5 Hours)_
     - **Focus:** Fractures of the skull (six types), Extradural vs. Subdural hemorrhage, **Lucid Interval** in head injuries, Whiplash injury mechanism, **Grievous Hurt (Section 320 IPC)** definitions/8 criteria, and Torture types (Falanga) [p. 232, 233, 234].
 - [ ] **Chapters 11, 12 & 13: Thermal Deaths, Starvation & Asphyxia** _(05:30 PM – 07:00 PM | 1.5 Hours)_
     - **Focus:** Burns (antemortem vs. postmortem differences, Rule of Nine calculation, Pugilistic attitude), **Hanging vs. Strangulation** (detailed pathological differences, hyoid bone fracture trends), and **Drowning**(Freshwater vs. Saltwater pathophysiology, Diatom test significance, and signs of drowning) [p. 235, 236, 237, 238, 239].
