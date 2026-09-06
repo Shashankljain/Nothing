@@ -1,6 +1,10 @@
 [[Impotence and sterility]]
 **Medico-Legal Importance (MLI)** ⚖️
 
+![[image 96.jpg]]
+
+![[image 97.jpg]]
+
 The medico-legal significance of these conditions is tested heavily under civil, criminal, and personal laws in India.
 
 **I. Nullity of Marriage (Annulment) vs. Divorce**

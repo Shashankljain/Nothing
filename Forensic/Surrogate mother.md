@@ -103,9 +103,9 @@ The Surrogacy Regulation Act recognizes specific biological combinations for est
                                            │
          ┌─────────────────────────────────┼─────────────────────────────────┐
          ▼                                 ▼                                 ▼
-   [Mode 1]                          [Mode 2]                          [Mode 3]
-Husband's Sperm + Wife's Ovum     Donor's Sperm + Wife's Ovum       Donor's Sperm + Surrogate's Ovum
-   (Fully Gestational)             (Partial Gestational)            (Traditional/Genetic)
+   [Mode 1]                          [Mode 2]                      [Mode 3]
+Husband's Sperm + Wife's Ovum   Donor's Sperm + Wife's Ovum   Donor's Sperm +                                                                 Surrogate's Ovum
+   (Fully Gestational)          (Partial Gestational)    (Traditional/Genetic)
 ```
 
 1. **Mode 1 (Gestational Surrogacy):** **Husband's sperm + Wife's ovum** are fertilized _in vitro_ and the embryo is implanted into the surrogate's womb [Marrow Ed 8, Page 137]. The child is 100% genetically related to the intending couple.
