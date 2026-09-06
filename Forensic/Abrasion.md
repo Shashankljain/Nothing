@@ -12,7 +12,7 @@ Mechanical injuries are the most common topics in university forensic medicine e
 ### **2. Classification of Mechanical Injuries**
 
 Mechanical injuries are produced by physical violence. They are classified under several headings as follows:
-
+![[image 75.jpg]]
 #### **A. Based on the Causative Factor (The Weapon/Force)**
 
 |**Category**|**Types of Injuries**|
@@ -60,7 +60,7 @@ Abrasions are classified based on the direction and nature of the force applied.
 |**Graze (Sliding)**|Horizontal friction between skin and rough surface.|"Gravel rash" or "Brush burn" in road accidents.|
 |**Pressure (Crushing)**|Directed impact or linear pressure over the skin.|Ligature marks in hanging or strangulation.|
 |**Imprint (Patterned)**|Force applied perpendicular to skin; cuticle is crushed.|Radiator grill patterns, tyre marks, or bite marks.|
-
+![[image 76.jpg]]
 ---
 
 ### **4. Medico-Legal Importance of Abrasion**
