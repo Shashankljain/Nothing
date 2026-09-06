@@ -49,19 +49,7 @@ In Forensic Medicine, the examination of the **ligature mark** (also known as 
 
 ### **4. Comparison Table: Hanging vs. Strangulation**
 
-★ **High-Yield Exam Table** ★
-
-|**Feature**|**Hanging**|**Ligature Strangulation**|
-|:--|:--|:--|
-|**Manner of Death**|Usually Suicidal|Usually Homicidal|
-|**Direction of Mark**|**Oblique** (Angled up)|**Transverse** (Horizontal)|
-|**Continuity**|**Non-continuous**|**Continuous**|
-|**Level in Neck**|**Above Thyroid** (Hyoid level)|**Below Thyroid**|
-|**Base of Mark**|Pale, hard, parchment-like|Soft, reddish, and ecchymosed|
-|**Knot**|Single, usually on one side|Often multiple, tied with force|
-|**Saliva Dribbling**|Present (Antemortem sign)|Absent|
-|**Signs of Struggle**|Usually absent|Usually present|
-
+![[image 94.jpg]]
 ---
 
 ### **5. Relevant Law (2023)**

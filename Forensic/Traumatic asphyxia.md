@@ -15,7 +15,45 @@
 
 **Classification** It is classified under **Mechanical/Violent Asphyxia**, specifically as a form of **Suffocation**.
 
+### **Causes of Traumatic Asphyxia (Etiology)**
+
+|**Scenario**|**Mechanism of Pressure**|
+|:--|:--|
+|**RTA / Tailgating**|Being run over by a vehicle or pinned under a tractor.|
+|**Crowd Disasters**|Stampedes in movie halls or public gatherings.|
+|**Industrial/Mining**|Collapse of a wall or trench (cave-in).|
+|**Railway Accidents**|Being held between the buffers of two train bogies.|
+|**Buried Alive**|Pressure from being buried in sandy soil up to the neck.|
+
 ---
+
+
+---
+### *Postmortem Findings**
+
+The postmortem examination of a victim is highly characteristic.
+
+#### **External Findings**
+
+1. **Masque Ecchymotique:** This refers to the triad of:
+    - **Intense Cyanosis:** Deep bluish-purple discoloration of the face, neck, and upper chest.
+    - **Facial Edema:** Marked swelling of the face and eyelids.
+    - **Petechial Hemorrhages:** Pin-point spots over the scalp, face, and neck.
+2. **Demarcation Line:** A sharp line of transition between the discolored (cyanosed) upper portion of the body and the normal-colored lower portion.
+3. **Subconjunctival Hemorrhages:** The eyes often appear "bloodshot" due to massive capillary rupture.
+4. **Areas of Pallor:** Areas where clothing (like a collar) pressed against the skin may remain pale despite the surrounding cyanosis.
+
+
+#### **Internal Findings**
+
+1. **Lungs:** Congested, heavy, and showing **subpleural petechiae** (Tardieu's spots).
+2. **Bones:** Fractures of the **ribs and clavicle** are common due to the crushing force.
+3. **Eyes:** **Purtscher's retinopathy** (retinal hemorrhages) may be seen.
+4. **Heart:** The right heart and large veins above the aorta are typically distended with fluid blood.
+5. **Abdomen:** Lacerations of the liver or spleen may occur if the pressure was abdominal.
+
+---
+
 
 ### **Medico-Legal Importance**
 
@@ -46,42 +84,6 @@ The pathophysiology involves two distinct components:
     - The sudden increase in hydrostatic pressure causes the tiny distal capillaries in the face and scalp to rupture.
 
 **Fatal Period:** Death can occur in **seconds** if the weight is massive, but usually takes **2–5 minutes**.
-
----
-
-### **Clinical Features & Postmortem Findings**
-
-The postmortem examination of a victim is highly characteristic.
-
-#### **External Findings**
-
-1. **Masque Ecchymotique:** This refers to the triad of:
-    - **Intense Cyanosis:** Deep bluish-purple discoloration of the face, neck, and upper chest.
-    - **Facial Edema:** Marked swelling of the face and eyelids.
-    - **Petechial Hemorrhages:** Pin-point spots over the scalp, face, and neck.
-2. **Demarcation Line:** A sharp line of transition between the discolored (cyanosed) upper portion of the body and the normal-colored lower portion.
-3. **Subconjunctival Hemorrhages:** The eyes often appear "bloodshot" due to massive capillary rupture.
-4. **Areas of Pallor:** Areas where clothing (like a collar) pressed against the skin may remain pale despite the surrounding cyanosis.
-
-#### **Internal Findings**
-
-1. **Lungs:** Congested, heavy, and showing **subpleural petechiae** (Tardieu's spots).
-2. **Bones:** Fractures of the **ribs and clavicle** are common due to the crushing force.
-3. **Eyes:** **Purtscher's retinopathy** (retinal hemorrhages) may be seen.
-4. **Heart:** The right heart and large veins above the aorta are typically distended with fluid blood.
-5. **Abdomen:** Lacerations of the liver or spleen may occur if the pressure was abdominal.
-
----
-
-### **Causes of Traumatic Asphyxia (Etiology)**
-
-|**Scenario**|**Mechanism of Pressure**|
-|:--|:--|
-|**RTA / Tailgating**|Being run over by a vehicle or pinned under a tractor.|
-|**Crowd Disasters**|Stampedes in movie halls or public gatherings.|
-|**Industrial/Mining**|Collapse of a wall or trench (cave-in).|
-|**Railway Accidents**|Being held between the buffers of two train bogies.|
-|**Buried Alive**|Pressure from being buried in sandy soil up to the neck.|
 
 ---
 

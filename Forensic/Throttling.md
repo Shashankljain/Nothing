@@ -42,6 +42,7 @@ Violent or **Mechanical Asphyxia** is caused by physical interference with the
 1. **Extravasation of Blood:** Extensive bleeding in the subcutaneous tissues and neck muscles (platysma/sternomastoid) is the **most significant internal sign**.
 2. **Larynx and Pharynx:** Mucous membranes show hyperemia and petechial hemorrhages.
 3. **Skeletal Fractures:**
+     ![[image 92.jpg]]
     - **Hyoid Bone:** **Inward compression fracture** (adduction fracture) is a highly diagnostic finding.
     - **Thyroid Cartilage:** Fracture of the superior horns is common.
     - **Cricoid Cartilage:** Rare, but if present, it is pathognomonic of throttling.
@@ -63,7 +64,7 @@ The hyoid bone is a horseshoe-shaped bone in the neck that is frequently fractur
 |**Adduction Fracture**|**Inward compression**; the fingers squeeze the neck and push the greater cornua inward.|**Throttling**.|
 |**Abduction Fracture**|**Anteroposterior compression**; the bone is driven backward, causing the greater cornua to diverge/tug outward.|**Hanging**.|
 |**Avulsion/Traction**|Due to extreme hyperextension of the neck or muscular overactivity (e.g., tetanus).|Trauma or Disease.|
-
+![[image 93.jpg]]
 ---
 
 ### **Relevant Law (2023)**
