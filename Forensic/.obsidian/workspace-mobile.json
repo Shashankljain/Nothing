@@ -11,10 +11,14 @@
             "id": "32543e2eb84308ea",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Stab injury.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stab injury"
             }
           },
           {
@@ -45,8 +49,7 @@
               "title": "Contusion"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +142,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Contusion.md",
+            "file": "Stab injury.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -193,16 +196,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "81f002744441d65c",
+  "active": "32543e2eb84308ea",
   "lastOpenFiles": [
+    "image 80.jpg",
+    "Hypostasis vs bruise.md",
+    "Contusion.md",
     "Pasted image 20260906133514.png",
     "image 79.jpg",
     "Pasted image 20260906133343.png",
     "Pasted image 20260906133241.png",
     "Pasted image 20260906133029.png",
     "Pasted image 20260906132833.png",
-    "Hypostasis vs bruise.md",
-    "Contusion.md",
     "Pattered injuries.md",
     "Lacerated wounds.md",
     "image 78.jpg",
@@ -222,7 +226,6 @@
     "Mummification.md",
     "Adipocere.md",
     "Forensic entomology.md",
-    "image 74.jpg",
     "PM Changes.md",
     "Maceration.md",
     "Sudden death.md",

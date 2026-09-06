@@ -24,7 +24,7 @@ Clinically and medico-legally, these wounds are divided into two types based on 
 | :-------------------- | :---------------------------------------------------------------------------------------------------------------------------- |
 | **Penetrating Wound** | The weapon enters a body cavity (e.g., chest or abdomen) but does not come out. There is **only an ==entry== wound**.         |
 | **Perforating Wound** | The weapon passes "through and through" the body or an organ. There is both an **==entry== wound** and an **==exit== wound**. |
-
+![[image 80.jpg]]
 ---
 
 ### **3. Medico-Legal Examination: Features to Note**
