@@ -41,13 +41,13 @@ For an MBBS student, the topic of **Rape** is a critical component of Forensic
 
 ★ **Important Exam Point: The sections for rape have changed from IPC 375/376 to BNS 63/64****.**
 
-|**Change/Amendment**|**Description**|
-|---|---|
-|**Section Consolidation**|Unnatural sexual offences (formerly IPC 377) have been largely deleted or integrated into the broader definition of rape under BNS 63.|
-|**False Promise of Marriage**|**Section 69 BNS** now specifically punishes sexual intercourse by "deceitful means" or a false promise of marriage with up to 10 years of imprisonment.|
-|**Statutory Age**|The minimum age for valid sexual consent remains **18 years**; any act below this age is rape regardless of consent.|
-|**Aggravated Punishment**|Introduction of the death penalty for the rape of a girl **under 12 years** and for certain **gang rape** cases.|
-|**Vegetative State**|**Section 66 BNS** provides for 20 years to life imprisonment or death if the rape causes the victim to be in a persistent vegetative state.|
+| **Change/Amendment**          | **Description**                                                                                                                                          |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Section Consolidation**     | Unnatural sexual offences (formerly IPC 377) have been largely deleted or integrated into the broader definition of rape under BNS 63.                   |
+| **False Promise of Marriage** | **Section 69 BNS** now specifically punishes sexual intercourse by "deceitful means" or a false promise of marriage with up to 10 years of imprisonment. |
+| **Statutory Age**             | The minimum age for valid sexual consent remains **18 years**; any act below this age is rape regardless of consent.                                     |
+| **Aggravated Punishment**     | Introduction of the death penalty for the rape of a girl **under 12 years** and for certain **gang rape** cases.                                         |
+| **Vegetative State**          | **Section 66 BNS** provides for 20 years to life imprisonment or death if the rape causes the victim to be in a persistent vegetative state.             |
 
 ---
 
