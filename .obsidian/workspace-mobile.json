@@ -117,10 +117,14 @@
             "id": "f180551085f6591f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "TT/Final.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Final"
             }
           }
         ],
@@ -275,13 +279,13 @@
   },
   "active": "f180551085f6591f",
   "lastOpenFiles": [
+    "TT/Final.md",
     "Forensic/Forensic entomology.md",
     "Forensic/Pasted image 20260906133514.png",
     "Forensic/Pasted image 20260906133343.png",
     "Forensic/Pasted image 20260906133241.png",
     "Forensic/image 80.jpg",
     "Forensic/image 79.jpg",
-    "TT/Final.md",
     "Forensic/Death.md",
     "Forensic/Malingering.md",
     "Forensic/image 72.jpg",
