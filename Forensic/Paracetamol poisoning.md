@@ -60,6 +60,7 @@ At therapeutic doses, paracetamol is metabolized safely in the liver via:
 
 ### **Clinical Features: Chronological Stages** 🩺
 
+
 *The four clinical stages of paracetamol toxicity are compiled from standard textbooks (outside your sources).*
 
 #### **★ The Deceptive Latency:**
