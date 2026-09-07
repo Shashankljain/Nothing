@@ -1,4 +1,5 @@
 
+#c
 [[Toxicology]]
 ---
 
@@ -26,6 +27,7 @@ Poisons are generally classified based on their **mode of action** on the huma
 #### **Definition**
 
 **Organophosphate compounds (OPCs)** are organic esters of phosphoric acid widely utilized as agricultural pesticides, insecticides, and chemical warfare nerve agents.
+![[image 101.jpg]]
 
 ```
                 [ORGANOPHOSPHATE INSECTICIDE]
