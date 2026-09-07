@@ -48,7 +48,7 @@ metabolic acidosis.       blocking transit in the GIT.     granulomatous        
 ### **Clinical Features** 🩺
 
 The clinical manifestations can be divided into dose-dependent toxic features and idiosyncratic reactions:
-
+![[IMG_20260907_231058984.jpg]]
 #### **I. General Toxic Manifestations**
 
 - **Acidosis Symptoms:** Marked **hyperpnea** (rapid, deep breathing as a physiological compensation for metabolic acidosis), nausea, vomiting, progressive lethargy, and terminal collapse.
