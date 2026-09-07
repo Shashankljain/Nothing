@@ -105,12 +105,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic/Analgesic,Antipyretic.md",
+                "file": "Forensic/Aspirin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Analgesic,Antipyretic"
+              "title": "Aspirin"
             }
           },
           {
@@ -221,7 +221,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Forensic/Analgesic,Antipyretic.md",
+            "file": "Forensic/Aspirin.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -279,6 +279,7 @@
   },
   "active": "ffefdf4690825c86",
   "lastOpenFiles": [
+    "Forensic/Analgesic,Antipyretic.md",
     "Forensic/Biological warfare.md",
     "Forensic/Asphyxiants.md",
     "Forensic/War gases.md",
@@ -314,7 +315,6 @@
     "Forensic/Hippocratic oath.md",
     "Forensic/Corpus delicti.md",
     "Forensic/Contributory negligence.md",
-    "Forensic/Therapeutic misadventures.md",
     "Forensic/Sign,symptom,feature,tx.canvas",
     "Lyrics",
     "TT",
