@@ -25,42 +25,18 @@
             "id": "2685578508aa4d15",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "fa65c36b6bdbd944",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Abortion.md",
+                "file": "Hydrostatic test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abortion"
-            }
-          },
-          {
-            "id": "f8120fb2c246d50d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MTP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MTP"
+              "title": "Hydrostatic test"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Abortion.md",
+            "file": "Hydrostatic test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -207,8 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "fa65c36b6bdbd944",
+  "active": "2685578508aa4d15",
   "lastOpenFiles": [
+    "Maceration.md",
+    "Dead,live,still born.md",
+    "Infanticide.md",
     "MTP.md",
     "Abortion.md",
     "Buccal coitus.md",
@@ -233,11 +212,8 @@
     "PM in burns.md",
     "Thermal injuries.md",
     "Thermal deaths.md",
-    "Untitled 1.md",
-    "MLI of impotence and sterility.md",
     "image 97.jpg",
     "image 96.jpg",
-    "Male infertility.md",
     "image 95.jpg",
     "image 94.jpg",
     "image 93.jpg",
