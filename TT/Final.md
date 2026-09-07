@@ -38,7 +38,7 @@ To complete **Forensic Medicine and Toxicology (FMT)** comprehensively in **2
 
 - [ ] **Chapters 15, 16 & 17: Impotence, Virginity & Abortion** _(08:30 PM – 09:30 PM | 1 Hour)_
     - **Focus:** Artificial insemination legalities, Virginity signs, **MTP Act 1971** (indications, consensus required, complications of criminal abortion), and gestational boundaries [p. 240, 241, 242, 243].
-- [x] **Chapters 18 & 19: Sexual Offences & Infant Deaths** _(09:30 PM – 11:00 PM | 1.5 Hours)_
+- [ ] **Chapters 18 & 19: Sexual Offences & Infant Deaths** _(09:30 PM – 11:00 PM | 1.5 Hours)_
     - **Focus:** **Rape (Section 375 IPC)** definition and recent amendments, examination of victim and accused, unnatural sexual offenses (Sodomy, Bestiality, Buccal coitus), **Infanticide** definitions, and the **Hydrostatic test** (procedure and fallacies) [p. 244, 245, 246, 247, 248].
 - [ ] **Chapters 20 to 23: Miscellaneous Sec-I & Psychiatry** _(11:00 PM – 11:30 PM | 0.5 Hours)_
     - **Focus:** Locard's principle of exchange, DNA fingerprinting source materials, delusions/hallucinations, and **McNaughten's rule of criminal responsibility** [p. 249, 250, 251, 252, 253].
