@@ -22,30 +22,6 @@ Unlike morphine or codeine, which are natural opiates derived directly from the 
 - **Chemical Behaviour:** It behaves chemically like an alkaloid (a nitrogenous base that unites with acids to form salts).
 
 ---
-
-#### **Medico-Legal Importance**
-
-- **Suicide:** Opioids are considered a "poison of choice" for suicide because they result in a relatively painless death.
-- **Addiction:** It is a popular drug of abuse and is used for recreational purposes.
-- **Date Rape:** Because it produces a state of relaxation and disinhibition, it can be used as a "date rape" drug when placed into drinks.
-- **Medical Negligence:** Negligence may be alleged if a patient is discharged too soon after Naloxone treatment, as rebound toxicity can occur once the antidote wears off.
-
----
-
-#### **Relevant Law (BNS & BNSS, 2023)**
-
-Medical practitioners must handle cases of pethidine poisoning/abuse under the following provisions:
-
-|**Act**|**Section**|**Provision Name**|**Medico-Legal Relevance**|
-|:--|:--|:--|:--|
-|**BNSS**|**33**|Information to Police|**Mandatory** for a doctor to inform the police in any poisoning case (privileged communication).|
-|**BNS**|**123**|Hurt by Poison|Administering pethidine with intent to cause hurt or facilitate a crime.|
-|**BNS**|**101**|Punishment for Murder|Applicable if pethidine administration results in death.|
-|**BNS**|**211**|Non-compliance|Punishment for a doctor who fails to report mandatory poisoning cases.|
-|**NDPS Act**|**—**|Drug Regulation|Pethidine is strictly regulated under the Narcotic Drugs and Psychotropic Substances Act, 1985. Possession and trafficking are criminal offences.|
-
----
-
 #### **Clinical Features (Opiate Toxidrome)**
 
 The clinical presentation of Pethidine poisoning follows the **Opiate Toxidrome**:
@@ -98,6 +74,30 @@ The clinical presentation of Pethidine poisoning follows the **Opiate Toxidrome
 - **Stomach:** Mucosa is congested.
 
 ---
+
+#### **Medico-Legal Importance**
+
+- **Suicide:** Opioids are considered a "poison of choice" for suicide because they result in a relatively painless death.
+- **Addiction:** It is a popular drug of abuse and is used for recreational purposes.
+- **Date Rape:** Because it produces a state of relaxation and disinhibition, it can be used as a "date rape" drug when placed into drinks.
+- **Medical Negligence:** Negligence may be alleged if a patient is discharged too soon after Naloxone treatment, as rebound toxicity can occur once the antidote wears off.
+
+---
+
+#### **Relevant Law (BNS & BNSS, 2023)**
+
+Medical practitioners must handle cases of pethidine poisoning/abuse under the following provisions:
+
+|**Act**|**Section**|**Provision Name**|**Medico-Legal Relevance**|
+|:--|:--|:--|:--|
+|**BNSS**|**33**|Information to Police|**Mandatory** for a doctor to inform the police in any poisoning case (privileged communication).|
+|**BNS**|**123**|Hurt by Poison|Administering pethidine with intent to cause hurt or facilitate a crime.|
+|**BNS**|**101**|Punishment for Murder|Applicable if pethidine administration results in death.|
+|**BNS**|**211**|Non-compliance|Punishment for a doctor who fails to report mandatory poisoning cases.|
+|**NDPS Act**|**—**|Drug Regulation|Pethidine is strictly regulated under the Narcotic Drugs and Psychotropic Substances Act, 1985. Possession and trafficking are criminal offences.|
+
+---
+
 
 ### **High-Yield Exam Points**
 

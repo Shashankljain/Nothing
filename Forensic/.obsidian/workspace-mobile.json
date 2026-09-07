@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Opium poisoning.md",
+                "file": "Pethidine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opium poisoning"
+              "title": "Pethidine"
             }
           },
           {
@@ -143,7 +143,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Opium poisoning.md",
+            "file": "Pethidine.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,6 +199,7 @@
   },
   "active": "b87c019c8765eb29",
   "lastOpenFiles": [
+    "Opium poisoning.md",
     "Somniferous.md",
     "Amp.md",
     "Chronic arsenic poison.md",
@@ -224,7 +225,6 @@
     "Sulphuric acid.md",
     "Corrosive.md",
     "Rodenticides.md",
-    "Agricultural poison - OP.md",
     "image 101.jpg",
     "image 100.jpg",
     "image 99.jpg",

@@ -41,7 +41,7 @@ Symptoms usually appear within 30–90 minutes of oral ingestion. The clinical c
 - Headache, nausea, and vomiting.
 - Giddiness and extreme drowsiness.
 - The patient can be aroused by **painful stimuli**.
-- **Pupils are constricted**.
+- **Pupils are ==constricted==**.
 
 **3. Stage of Narcosis/Coma**: ★ **Important Exam Point: 
 
@@ -81,7 +81,7 @@ The Classic Triad-The triad of **Respiratory Depression + Pin-point Pupils + Co
 
 - **Gastric Lavage:** Performed with **Potassium Permanganate (KMnO₄ 1:5000)**.
     - **Why?** It oxidizes the alkaloids in the stomach.
-    - **Note:** Lavage should be done even if the poison was taken by injection, as morphine is secreted back into the stomach.
+    - **Note:** Lavage should be done ==even if the poison was taken by injection==, as morphine is secreted back into the stomach.
 
 **III. Specific Antidote**:
 
