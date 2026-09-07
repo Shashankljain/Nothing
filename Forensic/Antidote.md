@@ -29,9 +29,9 @@ Antidotes are systematically classified into four main categories based on their
                                            │
          ┌───────────────────┬─────────────┴─────────────┬───────────────────┐
          ▼                   ▼                           ▼                   ▼
-   [Mechanical]          [Chemical]               [Physiological]      [Chelating Agents]
- (Physical barrier/    (Direct chemical           (Receptor/Systemic    (Heavy                                                                   metal complex
-    adsorption)          neutralization)              opponents)                                                                                    formation)
+   [Mechanical]          [Chemical]     [Physiological]      [Chelating Agents]
+ (Physical barrier/  (Direct chemical  (Receptor/Systemic  (Heavy metal complex
+    adsorption)        neutralization)         opponents)   formation)
 ```
 
 #### **1. Mechanical or Physical Antidotes** 🛡️
