@@ -32,7 +32,7 @@
          ┌───────────────────────────┼───────────────────────────┐
          ▼                           ▼                           ▼
   [Carbolic Acid]              [Oxalic Acid]             [Organophosphates]
-(Phenol / Disinfectants)    (Acid of Sugar / Polish)       (Domestic Insecticide)
+(Phenol / Disinfectants)    (Acid of Sugar / Polish)    (Domestic Insecticide)
 ```
 
 _(Note: Kerosene is the fourth household poison, representing petroleum hydrocarbon fuels)._

@@ -45,6 +45,7 @@ When an infant's body is brought for autopsy, the primary question the pathologi
 ### **1. External Examination & Non-Respiratory Signs**
 
 - **Caput Succedaneum vs. Cephalhematoma:**
+- ![[image 99.jpg]]
     - ★ **Caput Succedaneum:** Scalp edema that **crosses suture lines**; pits on pressure [`input_file_369.png`]. Represents live birth because its formation requires uterine contractions on a living head [`input_file_369.png`].
     - ★ **Cephalhematoma:** Subperiosteal hematoma that **does not cross suture lines**; does not pit on pressure [`input_file_369.png`].
 - **Umbilical Cord Changes:**

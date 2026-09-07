@@ -22,41 +22,31 @@
             }
           },
           {
-            "id": "2685578508aa4d15",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "fa65c36b6bdbd944",
+            "id": "b87c019c8765eb29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abortion.md",
+                "file": "Autopsy- h2so4 vs phenol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abortion"
+              "title": "Autopsy- h2so4 vs phenol"
             }
           },
           {
-            "id": "f8120fb2c246d50d",
+            "id": "97f35db3316ceee4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MTP.md",
+                "file": "Carboluria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MTP"
+              "title": "Carboluria"
             }
           }
         ],
@@ -90,7 +80,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Abortion",
+            "query": "Copious",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -153,7 +143,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Abortion.md",
+            "file": "Carboluria.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -207,44 +197,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "fa65c36b6bdbd944",
+  "active": "97f35db3316ceee4",
   "lastOpenFiles": [
-    "MTP.md",
+    "Autopsy- h2so4 vs phenol.md",
+    "Vitriolage.md",
+    "Sulphuric acid.md",
+    "Corrosive.md",
+    "Rodenticides.md",
+    "Agricultural poison - OP.md",
+    "image 101.jpg",
+    "Gen toxicology.md",
+    "Drug automatism.md",
+    "Household poison + preservation.md",
+    "Elimination of absorbed poison.md",
+    "Dilate + constrict.md",
+    "Chelating agent.md",
+    "Antidote.md",
+    "Gastric lavage.md",
+    "image 100.jpg",
+    "Role of Dr.md",
+    "Classify posion and factors affecting it.md",
+    "SIDS.md",
     "Abortion.md",
-    "Buccal coitus.md",
-    "Fetishism.md",
+    "Age of infant.md",
+    "BATTERED BABY SY.md",
+    "Precipitant labour.md",
+    "Hydrostatic test.md",
+    "Viability and autopsy.md",
+    "image 99.jpg",
     "Forensic Psychiatry.md",
-    "Genital exam + evidentiary for child rape.md",
-    "Voyeurism.md",
-    "Sadism.md",
-    "Masochism.md",
-    "Bestiality.md",
-    "Tribadism.md",
-    "AI.md",
-    "Examination of victim of rape.md",
+    "Infanticide.md",
+    "Infant death.md",
     "image 98.jpg",
-    "Rape.md",
-    "Sodomy.md",
-    "POCSO.md",
-    "Unnatural sexual offence.md",
-    "Exam. Of accused.md",
-    "Sexual offence.md",
-    "Compressed fetus.md",
-    "PM in burns.md",
-    "Thermal injuries.md",
-    "Thermal deaths.md",
-    "Untitled 1.md",
-    "MLI of impotence and sterility.md",
     "image 97.jpg",
     "image 96.jpg",
-    "Male infertility.md",
     "image 95.jpg",
     "image 94.jpg",
     "image 93.jpg",
     "image 92.jpg",
-    "image 91.jpg",
-    "Pasted image 20260906201359.png",
-    "image 90.jpg",
     "Sign,symptom,feature,tx.canvas",
     "Toxicology.base"
   ]
