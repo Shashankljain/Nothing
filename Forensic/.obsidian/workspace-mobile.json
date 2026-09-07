@@ -25,10 +25,14 @@
             "id": "862293739802366b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Asphyxiants.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Asphyxiants"
             }
           }
         ],
@@ -125,6 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Asphyxiants.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,6 +148,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Asphyxiants.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -156,6 +162,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "Asphyxiants.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -180,6 +187,8 @@
   },
   "active": "862293739802366b",
   "lastOpenFiles": [
+    "Asphyxia.md",
+    "Toxicology.md",
     "Cardiac poison.md",
     "Aconite poisoning.md",
     "image 102.jpg",
@@ -191,7 +200,6 @@
     "Designer drug.md",
     "Body packer syn.md",
     "drug addiction vs habituation.md",
-    "Toxicology.md",
     "Deliriants.md",
     "Cocainism.md",
     "Cocain toxicity.md",
