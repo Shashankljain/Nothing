@@ -43,6 +43,7 @@ These substances neutralize the poison purely by ==mechanical== ==action==—eit
     - _Dose:_ \(0.5\text{ to }1\text{ g/kg}\) of body weight (usually \(40\text{ to }80\text{ g}\) mixed with \(200\text{ mL}\) of water to form a soup-like suspension).
     - _Uses:_ Highly effective for ==alkaloids== (strychnine, morphine, atropine, nicotine), phenobarbital, salicylates, and paracetamol.
     - _Limitations:_ Does not bind well to highly ionized chemicals such as mineral acids, alkalis, iron, lithium, or alcohol.
+    - Contraindications-caustic Acid, alkali, alcohol, unprotected airway, depressed level of consciousness, more than two hours
 2. -**Demulcents:** Substances that form a protective coating over the gastric mucous membrane to prevent the absorption of irritant or corrosive poisons.
     - _Examples:_ Milk, egg-white (albumin), starch water, mineral oil, and aluminum hydroxide gel.
     - _Contraindications:_ **Fats and oils must never be used** for oil-soluble/lipophilic poisons (such as phosphorus, organophosphates, kerosene, phenol, turpentine, or aniline) because they will dissolve the poison and _accelerate_ its absorption.

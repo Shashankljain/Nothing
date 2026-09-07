@@ -11,21 +11,6 @@ In clinical toxicology, while preventing further absorption (such as via gastric
 
 ---
 
-### **The "What, Why, How, When, Where, Who" of Enhanced Elimination** ❓
-
-- **What?** Specialized medical techniques to actively clear absorbed toxins from the body.
-- **Why?** To reduce the systemic "body burden" of a poison, minimizing cellular injury and decreasing mortality.
-- **How?** By manipulating urinary pH, flushing the gastrointestinal tract, or using artificial blood-filtering circuits.
-- **When?** `Indicated under specific clinical conditions:`
-    1. Severe, life-threatening envenomation or poisoning.
-    2. The poison is distributed primarily in the extracellular fluid and has low protein binding.
-    3. The patient's condition progressively deteriorates despite optimal supportive care.
-    4. The normal physiological route of elimination (renal or hepatic) is impaired.
-- **Where?** High-dependency units, emergency casualty wards, or Intensive Care Units (ICUs).
-- **Who?** Administered by Registered Medical Practitioners (RMPs), toxicologists, and nephrology teams.
-
----
-
 ### **Classification of Elimination Methods** 📋
 
 ```
