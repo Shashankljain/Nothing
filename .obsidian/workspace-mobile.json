@@ -93,10 +93,14 @@
             "id": "33d165aaf16d2905",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Forensic/Forensic Psychiatry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forensic Psychiatry"
             }
           },
           {
@@ -221,6 +225,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Forensic/Forensic Psychiatry.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
