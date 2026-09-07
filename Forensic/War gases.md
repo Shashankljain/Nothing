@@ -15,12 +15,12 @@
 
 Based on their physiological effects and information provided in the sources, they can be categorized as follows:
 
-|**Category**|**Action**|**Examples from Sources**|
-|:--|:--|:--|
-|**Simple Asphyxiants**|Displace oxygen in the atmosphere.|Carbon dioxide ($CO_2$), Helium.|
-|**Chemical Asphyxiants**|Interfere with oxygen transport or usage.|Carbon monoxide ($CO$), Cyanide ($HCN$), Hydrogen sulphide ($H_2S$).|
-|**Nerve Agents**|Inhibit acetylcholinesterase (similar to OPCs).|**Sarin**.|
-|**Irritants/Choking Agents**|Cause severe respiratory tract inflammation.|**Chlorine**.|
+| **Category**                 | **Action**                                      | **Examples from Sources**                                            |
+| :--------------------------- | :---------------------------------------------- | :------------------------------------------------------------------- |
+| **Simple Asphyxiants**       | Displace oxygen in the atmosphere.              | Carbon dioxide ($CO_2$), Helium.                                     |
+| **Chemical Asphyxiants**     | Interfere with oxygen transport or usage.       | Carbon monoxide ($CO$), Cyanide ($HCN$), Hydrogen sulphide ($H_2S$). |
+| **Nerve Agents**             | Inhibit acetylcholinesterase (similar to OPCs). | **Sarin**.                                                           |
+| **Irritants/Choking Agents** | Cause severe respiratory tract inflammation.    | **Chlorine**.                                                        |
 
 ---
 
