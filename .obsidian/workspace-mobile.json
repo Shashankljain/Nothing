@@ -93,10 +93,14 @@
             "id": "33d165aaf16d2905",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Com med/RNTCP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RNTCP"
             }
           },
           {
@@ -105,12 +109,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic/Paracetamol poisoning.md",
+                "file": "Forensic/Analgesic,Antipyretic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paracetamol poisoning"
+              "title": "Analgesic,Antipyretic"
             }
           },
           {
@@ -128,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -221,7 +225,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Forensic/Paracetamol poisoning.md",
+            "file": "Com med/RNTCP.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -277,10 +281,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "ffefdf4690825c86",
+  "active": "33d165aaf16d2905",
   "lastOpenFiles": [
-    "IMG_20260907_231600767.jpg",
     "Forensic/Analgesic,Antipyretic.md",
+    "Forensic/Paracetamol poisoning.md",
+    "IMG_20260907_231600767.jpg",
     "Forensic/Aspirin.md",
     "IMG_20260907_231058984.jpg",
     "Forensic/Biological warfare.md",
@@ -300,7 +305,6 @@
     "Forensic/image 100.jpg",
     "TT/Final.md",
     "Forensic/MTP.md",
-    "Forensic/image 98.jpg",
     "Forensic/Fetishism.md",
     "Forensic/Examination of victim of rape.md",
     "Forensic/Buccal coitus.md",
