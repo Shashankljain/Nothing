@@ -13,6 +13,7 @@
 
 **Medico-Legal Importance**
 
+- Difficult to prove, unless there are injuries to vagina Due to force of introduction of artificial Phallus mouth, Saliva mucosal cell
 - **Civil Cases (Divorce):** Habitual practice of lesbianism may be cited as a ground for **divorce** under personal laws in India.
 - **False Allegations:** A woman may falsely charge another with assault or "indecent assault" to settle a personal grudge.
 - **Reconstructing the Act:** In cases where injury or death occurs during the act, forensic evidence may help identify the nature of the relationship (e.g., specific bite marks, clothing stains).

@@ -10,6 +10,8 @@
 - **Criminal Investigation:** Physical and biological evidence is used to link a suspect to the act or the animal.
 - **Civil Cases:** Habitual bestiality can be used as a strong ground for **divorce** or legal separation.
 - **Forensic Identification:** It is one of the few instances where cross-species biological evidence (animal hair/human semen) is the primary focus of the investigation.
+- The shortest evidence of bestiality finding a human spermatozoa in the general track of animal
+- The penis can be contaminated with vehicle matter, vagina secretion, etc
 
 ---
 
