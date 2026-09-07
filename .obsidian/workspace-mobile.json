@@ -105,12 +105,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic/CN.md",
+                "file": "Forensic/CO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CN"
+              "title": "CO"
             }
           },
           {
@@ -221,7 +221,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Forensic/CN.md",
+            "file": "Forensic/CO.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Forensic/CN.md",
+            "file": "Forensic/CO.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
