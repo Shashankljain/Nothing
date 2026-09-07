@@ -1,5 +1,5 @@
 [[Toxicology ]]
-
+#c 
 ### **Strychnine Poisoning (Nux Vomica)**
 
 ---
