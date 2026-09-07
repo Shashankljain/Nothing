@@ -22,31 +22,17 @@
             }
           },
           {
-            "id": "b87c019c8765eb29",
+            "id": "862293739802366b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drug dependance.md",
+                "file": "Spinal poison.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drug dependance"
-            }
-          },
-          {
-            "id": "d54e4950f7530956",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daterape drugs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daterape drugs"
+              "title": "Spinal poison"
             }
           }
         ],
@@ -143,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Drug dependance.md",
+            "file": "Spinal poison.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -162,7 +148,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Drug dependance.md",
+            "file": "Spinal poison.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -176,7 +162,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Drug dependance.md",
+            "file": "Spinal poison.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -199,12 +185,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "b87c019c8765eb29",
+  "active": "862293739802366b",
   "lastOpenFiles": [
-    "Designer drug.md",
-    "Drug dependance.md",
-    "Body packer syn.md",
+    "Forensic Psychiatry.md",
     "Daterape drugs.md",
+    "Drug dependance.md",
+    "Designer drug.md",
+    "Body packer syn.md",
     "drug addiction vs habituation.md",
     "Toxicology.md",
     "Deliriants.md",
@@ -226,7 +213,6 @@
     "Phosphorus.md",
     "Non metallic.md",
     "Hatters shakes.md",
-    "Hg.md",
     "image 101.jpg",
     "image 100.jpg",
     "image 99.jpg",
