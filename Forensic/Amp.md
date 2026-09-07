@@ -55,31 +55,6 @@
 - **Fatal Period:** **24–36 hours**.
 
 ---
-
-#### **2. Medico-Legal Importance**
-
-- **Hooch Tragedies:** Most cases are **accidental**, resulting from the consumption of adulterated illicit liquor where methanol is used as a cheap substitute for ethanol.
-- **Suicide/Homicide:** These are rare but can occur.
-- **Occupational Hazard:** Risk exists for workers in industries using methanol as a solvent.
-
-★ **Important Exam Point: Mandatory Reporting**  
-Under **Section 33 BNSS (2023)**, it is a doctor's duty to inform the police of any suspected poisoning case attended in the hospital.
-
----
-
-#### **3. Relevant Law (BNS, BNSS, BSA, 2023)**
-
-University examinations now focus on the 2023 provisions:
-
-|**Act**|**Section**|**Provision Name**|**Medico-Legal Significance**|
-|:--|:--|:--|:--|
-|**BNSS**|**33**|Information to Police|**Mandatory** reporting of poisoning cases by medical officers.|
-|**BNS**|**123**|Hurt by Poison|Administering methanol with intent to cause hurt or commit a crime.|
-|**BNS**|**101**|Punishment for Murder|Punishment if methanol poisoning leads to death (formerly 302 IPC).|
-|**BNS**|**211**|Non-compliance|Punishment for the doctor if they fail to report mandatory poisoning cases.|
-
----
-
 #### **4. Clinical Features (Symptoms and Signs)**
 
 Symptoms typically appear after a latent period of **12–24 hours**.
@@ -191,4 +166,29 @@ To prevent ADH from converting methanol into its toxic metabolites, we must comp
 - **Urinary Bladder:** Intensely congested mucosal lining.
 - **Blood:** Characteristically **dark, fluid, and completely uncoagulated**.
 —
+
+
+#### **2. Medico-Legal Importance**
+
+- **Hooch Tragedies:** Most cases are **accidental**, resulting from the consumption of adulterated illicit liquor where methanol is used as a cheap substitute for ethanol.
+- **Suicide/Homicide:** These are rare but can occur.
+- **Occupational Hazard:** Risk exists for workers in industries using methanol as a solvent.
+
+★ **Important Exam Point: Mandatory Reporting**  
+Under **Section 33 BNSS (2023)**, it is a doctor's duty to inform the police of any suspected poisoning case attended in the hospital.
+
+---
+
+#### **3. Relevant Law (BNS, BNSS, BSA, 2023)**
+
+University examinations now focus on the 2023 provisions:
+
+|**Act**|**Section**|**Provision Name**|**Medico-Legal Significance**|
+|:--|:--|:--|:--|
+|**BNSS**|**33**|Information to Police|**Mandatory** reporting of poisoning cases by medical officers.|
+|**BNS**|**123**|Hurt by Poison|Administering methanol with intent to cause hurt or commit a crime.|
+|**BNS**|**101**|Punishment for Murder|Punishment if methanol poisoning leads to death (formerly 302 IPC).|
+|**BNS**|**211**|Non-compliance|Punishment for the doctor if they fail to report mandatory poisoning cases.|
+
+---
 

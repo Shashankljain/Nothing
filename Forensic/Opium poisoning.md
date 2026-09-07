@@ -26,35 +26,6 @@
 - **Mechanism of Action:** Binds to opoid receptor **mu, kappa, and delta , OFQ/N receptors** in the CNS and PNS, inhibiting synaptic neurotransmission.
 
 ---
-
-#### **Medico-Legal Importance**
-
-★ **Important Exam Point: Manner of Poisoning**
-
-1. **Suicide:** It is an **ideal suicidal poison** because it is cheap, easily available, and results in a painless, "sleepy" death.
-2. **Homicide:** Rare because of the bitter taste and characteristic odor, which are difficult to mask.
-3. **Accidental:**
-    - **Drugging children:** Used by exhausted mothers to keep babies quiet.
-    - **Folk remedies:** Often present in unregulated herbal formulations.
-    - **Body Packers:** Smuggling packets of heroin/opium in body cavities; packets may rupture, causing lethal toxicity.
-4. **Addiction:** Common drug of abuse (Smack, Brown sugar, Heroin).
-
----
-
-#### **Relevant Law (BNS & BNSS, 2023)**
-
-Medical practitioners must adhere to the new criminal codes when handling opium poisoning cases:
-
-|**Act**|**Section**|**Provision**|**Medico-Legal Significance**|
-|:--|:--|:--|:--|
-|**BNSS**|**33**|Information to Police|**Mandatory** for doctors to inform authorities in all poisoning cases.|
-|**BNS**|**123**|Hurt by Poison|Administering opium/morphine with intent to cause hurt or facilitate a crime.|
-|**BNS**|**101**|Punishment for Murder|Punishment for causing death by poisoning.|
-|**BNS**|**211**|Non-compliance|Punishment for the doctor for failing to report the case.|
-|**NDPS Act**|**—**|Drug Possession|Possession and trafficking are strictly regulated under the Narcotic Drugs and Psychotropic Substances Act, 1985.|
-
----
-
 #### **Clinical Features (The Opiate Toxidrome)**
 
 Symptoms usually appear within 30–90 minutes of oral ingestion. The clinical course is divided into three stages:
@@ -141,3 +112,33 @@ The Classic Triad-The triad of **Respiratory Depression + Pin-point Pupils + Co
 - **Blood**- dark + fluid
 
 ---
+
+
+#### **Medico-Legal Importance**
+
+★ **Important Exam Point: Manner of Poisoning**
+
+1. **Suicide:** It is an **ideal suicidal poison** because it is cheap, easily available, and results in a painless, "sleepy" death.
+2. **Homicide:** Rare because of the bitter taste and characteristic odor, which are difficult to mask.
+3. **Accidental:**
+    - **Drugging children:** Used by exhausted mothers to keep babies quiet.
+    - **Folk remedies:** Often present in unregulated herbal formulations.
+    - **Body Packers:** Smuggling packets of heroin/opium in body cavities; packets may rupture, causing lethal toxicity.
+4. **Addiction:** Common drug of abuse (Smack, Brown sugar, Heroin).
+
+---
+
+#### **Relevant Law (BNS & BNSS, 2023)**
+
+Medical practitioners must adhere to the new criminal codes when handling opium poisoning cases:
+
+|**Act**|**Section**|**Provision**|**Medico-Legal Significance**|
+|:--|:--|:--|:--|
+|**BNSS**|**33**|Information to Police|**Mandatory** for doctors to inform authorities in all poisoning cases.|
+|**BNS**|**123**|Hurt by Poison|Administering opium/morphine with intent to cause hurt or facilitate a crime.|
+|**BNS**|**101**|Punishment for Murder|Punishment for causing death by poisoning.|
+|**BNS**|**211**|Non-compliance|Punishment for the doctor for failing to report the case.|
+|**NDPS Act**|**—**|Drug Possession|Possession and trafficking are strictly regulated under the Narcotic Drugs and Psychotropic Substances Act, 1985.|
+
+---
+

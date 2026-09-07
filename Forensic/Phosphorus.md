@@ -16,7 +16,7 @@ Phosphorus exists in several allotropic forms, primarily **White (Yellow) Phosph
                                        │
          ┌─────────────────────────────┴─────────────────────────────┐
          ▼                                                           ▼
- [White / Yellow Allotrope]                                  [Red / Amorphous Allotrope]
+ [White / Yellow Allotrope]                         [Red / Amorphous Allotrope]
  • Caxy, waxy, highly toxic [3, 4]                       • Non-luminous, low                                                                  toxicity [3, 5]
  • Spontaneous ignition in air [3]                         • Ignites only at                                                                     >260°C [5]
  • Garlic-like odor & taste [3]                            • Odorless &                                                                     tasteless [5]
