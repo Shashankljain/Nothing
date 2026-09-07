@@ -15,6 +15,7 @@
 
 Based on their physiological effects and information provided in the sources, they can be categorized as follows:
 ![[IMG_20260907_225709274.jpg]]
+![[IMG_20260907_225709274 1.jpg]]
 
 | **Category**                 | **Action**                                      | **Examples from Sources**                                            |
 | :--------------------------- | :---------------------------------------------- | :------------------------------------------------------------------- |
