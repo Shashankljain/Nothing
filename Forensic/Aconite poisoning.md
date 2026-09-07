@@ -13,31 +13,6 @@
     - ★ **Important Exam Point:** It does **==not==** affect the higher centers of the brain; therefore, the victim remains **fully conscious** until the very end.
 
 ---
-
-#### **2. Medico-Legal Importance**
-
-- **Ideal Homicidal Poison:** Aconite is frequently tested as an "Ideal Homicidal Poison" because:
-    1. It is cheap and easily available.
-    2. The fatal dose is very small, and the fatal period is short.
-    3. The taste can be masked by sweets or _betel (paan)_ leaves.
-    4. It is extremely unstable and destroyed by putrefaction, making it difficult to detect during chemical analysis.
-- **Accidental:** Often occurs when the root is mistaken for **Horseradish** or through quack remedies.
-- **Abortifacient:** Sometimes used to procure criminal abortion.
-- **Cattle Poison:** Used in rural areas to kill livestock.
-
----
-
-#### **3. Relevant Law (BNS & BNSS, 2023)**
-
-The following provisions apply under the new Indian criminal codes:
-
-- **Section 33 BNSS:** **Mandatory reporting** of any poisoning case to the police by the medical officer.
-- **Section 123 BNS:** Administering poison with the **intent to cause hurt** or commit an offence (formerly 328 IPC).
-- **Section 101 BNS:** Punishment for **Murder** if the poisoning results in death (formerly 302 IPC).
-- **Section 286 BNS:** Punishment for **negligent conduct** with respect to poisonous substances.
-
----
-
 #### **4. Clinical Features**
 
 Symptoms typically appear within **15–30 minutes** of ingestion.
@@ -48,6 +23,8 @@ Symptoms typically appear within **15–30 minutes** of ingestion.
 |**Cardiovascular (CVS)**|Bradycardia (slow heart rate), palpitations, hypotension, and fatal **ventricular arrhythmias**.|
 |**Ocular (★ Specific Sign)**|**Hippus:** The pupils alternately contract and dilate (pupillary athetosis). There is also blurred or yellow-green vision.|
 |**CNS/Muscular**|Paresthesia (pins and needles) in limbs; weakness and spasms.|
+![[image 102.jpg]]
+
 
 - **Fatal Dose:** 1–2 g of root; 2–5 mg of pure aconitine.
 - **Fatal Period:** **2–6 hours**.
@@ -76,6 +53,31 @@ Management is primarily supportive as there is **no specific antidote**.
     - **Lungs:** Hemorrhagic pulmonary edema.
 
 ---
+
+#### **2. Medico-Legal Importance**
+
+- **Ideal Homicidal Poison:** Aconite is frequently tested as an "Ideal Homicidal Poison" because:
+    1. It is cheap and easily available.
+    2. The fatal dose is very small, and the fatal period is short.
+    3. The taste can be masked by sweets or _betel (paan)_ leaves.
+    4. It is extremely unstable and destroyed by putrefaction, making it difficult to detect during chemical analysis.
+- **Accidental:** Often occurs when the root is mistaken for **Horseradish** or through quack remedies.
+- **Abortifacient:** Sometimes used to procure criminal abortion.
+- **Cattle Poison:** Used in rural areas to kill livestock.
+
+---
+
+#### **3. Relevant Law (BNS & BNSS, 2023)**
+
+The following provisions apply under the new Indian criminal codes:
+
+- **Section 33 BNSS:** **Mandatory reporting** of any poisoning case to the police by the medical officer.
+- **Section 123 BNS:** Administering poison with the **intent to cause hurt** or commit an offence (formerly 328 IPC).
+- **Section 101 BNS:** Punishment for **Murder** if the poisoning results in death (formerly 302 IPC).
+- **Section 286 BNS:** Punishment for **negligent conduct** with respect to poisonous substances.
+
+---
+
 
 #### **7. High-Yield Exam Points**
 
