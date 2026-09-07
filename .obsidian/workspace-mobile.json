@@ -158,7 +158,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#new",
+            "query": "Ferric chloride ",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -277,7 +277,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "ffefdf4690825c86",
+  "active": "d4956e83b84f3118",
   "lastOpenFiles": [
     "IMG_20260907_231058984.jpg",
     "Forensic/Analgesic,Antipyretic.md",
