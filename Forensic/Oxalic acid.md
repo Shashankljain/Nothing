@@ -19,17 +19,6 @@
     - Dyeing and bleaching processes.
     - Removing signatures or writings from documents in cases of **forgery**.
 
-#### **The "6-W" Analytical Framework** ❓
-
-1. **What?** An organic corrosive poison that causes tissue destruction locally and hypocalcemia and renal failure systemically.
-2. **Why?** Ingested most commonly by accident due to its close physical resemblance to common salts like ==Epsom salt (\(MgSO_4\)) or sodium bicarbonate.==
-3. **How?** It destroys tissue locally through corrosive action and systemically by **chelating serum calcium**, forming insoluble calcium oxalate crystals that block renal tubules.
-4. **When?** Symptoms manifest immediately (within minutes) in large doses (fulminating form) or over days in chronic/delayed forms.
-5. **Where?** Local damage occurs in the mouth, esophagus, and stomach; systemic effects target the cardiovascular, neuromuscular, and renal systems (specifically the proximal convoluted tubules of the kidneys).
-6. **Who?** Suicidal and homicidal ingestions are rare due to its sour/bitter taste; it is mostly seen in accidental ingestions or used as an abortifacient to procure illegal abortions.
-
----
-
 ### **Topic-Specific Explanation: Pathophysiology & Mechanisms** 🔬
 
 ```
