@@ -144,13 +144,13 @@
           "type": "backlink",
           "state": {
             "file": "Deliriants.md",
-            "collapseAll": false,
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+            "unlinkedCollapsed": false
           },
           "icon": "links-coming-in",
           "title": "Backlinks"
@@ -197,7 +197,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "b87c019c8765eb29",
+  "active": "318f7304bdb1f00f",
   "lastOpenFiles": [
     "Pethidine.md",
     "Opium poisoning.md",

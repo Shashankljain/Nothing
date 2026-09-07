@@ -119,6 +119,29 @@ Symptoms typically appear within 30–60 minutes of ingestion and can last for 2
 
 ---
 
+#### **5. Management (Treatment)**
+
+1. **Gastric Lavage:** Performed with **Potassium Permanganate (1:5000)** or Tannic Acid to oxidize/precipitate the alkaloids.
+2. **Physiological Antidote:** **Physostigmine salicylate** (0.5–1 mg slow IV). It is a reversible acetylcholinesterase inhibitor that antagonizes CNS manifestations.
+3. **Agitation Control:** Agitated patients are treated with intravenous **Benzodiazepines** (Diazepam).
+4. **Temperature Control:** Tepid sponge baths for hyperthermia.
+5. **Urinary Retention:** Catheterization is often required.
+6. **Environment:** Keep the patient in a low-stimulus, dark room.
+
+---
+
+#### **6. Post-Mortem Findings**
+
+- **External:** General signs of asphyxia (cyanosis, congestion).
+- **Internal:**
+    - ★ **Presence of Seeds:** Dhatura seeds are often found in the stomach or small intestine. They **resist putrefaction** and can be found even in decomposed bodies.
+    - **Stomach:** Mucosa may show signs of inflammation.
+    - **Organs:** Congestion of the brain, lungs, and liver.
+
+---
+
+
+
 #### **3. Medico-Legal Importance**
 
 - **Stupefying Poison:** The most common use in India. It is used to make victims unconscious prior to **robbery, kidnapping, or rape**.
@@ -142,25 +165,3 @@ University exams now require the inclusion of 2023 laws.
 |**BSA**|**26**|**Dying Declaration:** If the victim is in a serious condition, their statement is admissible as evidence.|
 
 ---
-
-#### **5. Management (Treatment)**
-
-1. **Gastric Lavage:** Performed with **Potassium Permanganate (1:5000)** or Tannic Acid to oxidize/precipitate the alkaloids.
-2. **Physiological Antidote:** **Physostigmine salicylate** (0.5–1 mg slow IV). It is a reversible acetylcholinesterase inhibitor that antagonizes CNS manifestations.
-3. **Agitation Control:** Agitated patients are treated with intravenous **Benzodiazepines** (Diazepam).
-4. **Temperature Control:** Tepid sponge baths for hyperthermia.
-5. **Urinary Retention:** Catheterization is often required.
-6. **Environment:** Keep the patient in a low-stimulus, dark room.
-
----
-
-#### **6. Post-Mortem Findings**
-
-- **External:** General signs of asphyxia (cyanosis, congestion).
-- **Internal:**
-    - ★ **Presence of Seeds:** Dhatura seeds are often found in the stomach or small intestine. They **resist putrefaction** and can be found even in decomposed bodies.
-    - **Stomach:** Mucosa may show signs of inflammation.
-    - **Organs:** Congestion of the brain, lungs, and liver.
-
----
-
