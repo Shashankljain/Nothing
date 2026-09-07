@@ -1,3 +1,4 @@
+#c 
 ### **Chronic Arsenic Poisoning (Arsenicosis)**
 [[Metallic poisoning]]
 [[Toxicology]]
