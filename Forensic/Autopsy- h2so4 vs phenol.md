@@ -13,19 +13,6 @@
 
 ---
 
-### **The "6-W" Analytical Framework** ❓
-
-1. **What?** A critical postmortem evaluation of deaths caused by strong inorganic corrosive (Sulphuric acid) versus organic corrosive (Carbolic acid) ingestion.
-2. **Why?** Corrosive substances are commonly ingested for suicide due to cheap household availability (e.g., toilet cleaners, disinfectants) or used criminally in acid throwing (Vitriolage).
-3. **How?**
-    - _Sulphuric Acid_ causes immediate death via **intense local corrosion**, rapid **coagulative necrosis**, and systemic **circulatory shock**.
-    - _Carbolic Acid_ causes rapid death by systemic **paralysis of respiratory and cardiovascular centers** in the brain, along with severe renal damage.
-4. **When?** Postmortem changes and corrosions are documented during the forensic autopsy, which should be conducted as soon as possible after death.
-5. **Where?** Autopsy examinations must be performed in an authorised government mortuary, with all body cavities systematically opened.
-6. **Who?** Conducted by a qualified forensic pathologist or autopsy surgeon under a legal mandate from a police officer or magistrate.
-
----
-
 ### **General Autopsy Protocol for Suspected Poisoning Deaths** 🔍🩺
 
 ★ **Important Exam Point: Order of Dissection** Before detailing individual findings, every MBBS student must know the standard operating procedures for a poisoning autopsy:
