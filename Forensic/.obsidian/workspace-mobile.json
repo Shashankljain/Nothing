@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deliriants.md",
+                "file": "Drug dependance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deliriants"
+              "title": "Drug dependance"
             }
           }
         ],
@@ -129,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Deliriants.md",
+            "file": "Drug dependance.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Deliriants.md",
+            "file": "Drug dependance.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -162,7 +162,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Deliriants.md",
+            "file": "Drug dependance.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -172,7 +172,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,8 +187,10 @@
   },
   "active": "b87c019c8765eb29",
   "lastOpenFiles": [
-    "Cocainism.md",
+    "Body packer syn.md",
+    "Drug dependance.md",
     "Deliriants.md",
+    "Cocainism.md",
     "Cocain toxicity.md",
     "Chronic arsenic poison.md",
     "Cannabis indica.md",
@@ -211,8 +213,6 @@
     "Pb.md",
     "Difference between arsenic poisoningand cholera..md",
     "Autopsy- h2so4 vs phenol.md",
-    "Metallic poisoning.md",
-    "Oxalic acid.md",
     "image 101.jpg",
     "image 100.jpg",
     "image 99.jpg",
