@@ -22,35 +22,27 @@
             }
           },
           {
-            "id": "6501948eb0930d15",
+            "id": "b87c019c8765eb29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hydrostatic test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hydrostatic test"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "1d3938d7cf232af2",
+            "id": "97f35db3316ceee4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Viability and autopsy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Viability and autopsy"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +135,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Viability and autopsy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -197,17 +188,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "1d3938d7cf232af2",
+  "active": "b87c019c8765eb29",
   "lastOpenFiles": [
+    "SIDS.md",
+    "Abortion.md",
+    "Age of infant.md",
+    "BATTERED BABY SY.md",
+    "Precipitant labour.md",
     "Hydrostatic test.md",
+    "Viability and autopsy.md",
+    "image 99.jpg",
     "Forensic Psychiatry.md",
     "Infanticide.md",
     "Infant death.md",
-    "Age of infant.md",
     "Maceration.md",
     "Dead,live,still born.md",
     "MTP.md",
-    "Abortion.md",
     "Buccal coitus.md",
     "Fetishism.md",
     "Genital exam + evidentiary for child rape.md",
@@ -222,10 +218,6 @@
     "Rape.md",
     "Sodomy.md",
     "POCSO.md",
-    "Unnatural sexual offence.md",
-    "Exam. Of accused.md",
-    "Sexual offence.md",
-    "Compressed fetus.md",
     "image 97.jpg",
     "image 96.jpg",
     "image 95.jpg",
@@ -234,7 +226,6 @@
     "image 92.jpg",
     "image 91.jpg",
     "Pasted image 20260906201359.png",
-    "image 90.jpg",
     "Sign,symptom,feature,tx.canvas",
     "Toxicology.base"
   ]
