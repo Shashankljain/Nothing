@@ -25,14 +25,14 @@ The toxicity and effects depend on which part of the plant is used:
 (BGS CH)
 
 
-|**Preparation**|**Source Material**|**THC Concentration**|**Form of Intake / Use**|
-|---|---|---|---|
-|**Bhang** (Siddhi / Patti)|Dried leaves and shoots|**2% to 5%** (Least potent)|Consumed orally as a liquid beverage or sweetmeat|
-|**Ganja**|Flowering tops of the female plant|**5% to 8%**|Mixed with tobacco and smoked in pipes, joints, or hukkas|
-|**Charas** (Hashish)|Resinous exudates from leaves, flowers, and stems|**10% to 20%** (Most potent natural form)|Pressed into bricks; mixed with tobacco and smoked|
-|**Sinsemilla**|Unpollinated/unfertilized female flowering tops|**6% to 11%**|Smoked (similar to Ganja)|
-|**Hash Oil**|Lipid-soluble plant extract|**25% to 50%** (Extremely potent)|Mixed with tobacco or added to hashish to boost potency|
-|**Majum**|Sweetmeat preparation|Variable|Ingested orally|
+| **Preparation**            | **Source Material**                               | **THC Concentration**                     | **Form of Intake / Use**                                  |
+| -------------------------- | ------------------------------------------------- | ----------------------------------------- | --------------------------------------------------------- |
+| **Bhang** (Siddhi / Patti) | Dried leaves and shoots                           | **2% to 5%** (Least potent)               | Consumed orally as a liquid beverage or sweetmeat         |
+| **Ganja**                  | Flowering tops of the female plant                | **5% to 8%**                              | Mixed with tobacco and smoked in pipes, joints, or hukkas |
+| **Sinsemilla**             | Unpollinated/unfertilized female flowering tops   | **6% to 11%**                             | Smoked (similar to Ganja)                                 |
+| **Charas** (Hashish)       | Resinous exudates from leaves, flowers, and stems | **10% to 20%** (Most potent natural form) | Pressed into bricks; mixed with tobacco and smoked        |
+| **Hash Oil**               | Lipid-soluble plant extract                       | **25% to 50%** (Extremely potent)         | Mixed with tobacco or added to hashish to boost potency   |
+| **Majum**                  | Sweetmeat preparation                             | Variable                                  | Ingested orally                                           |
 
 #### **Toxicokinetics and Toxicodynamics**
 

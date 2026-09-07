@@ -14,7 +14,7 @@ According to their specific site and mode of action, neurotic poisons are classi
 | :------------------ | :------------------------------- | :------------------------------------------------ |
 | **I. Cerebral**     | **Somniferous** (Sleep-inducing) | Opioids (Morphine), Barbiturates                  |
 |                     | **Inebriants** (Intoxicating)    | Ethanol (Alcohol), Ether, Anesthetics             |
-|                     | **Deliriants** (Cause delirium)  | **Dhatura**, Cannabis, Cocaine                    |
+|                     | **Deliriants** (Cause delirium)  | .**Dhatura**, Cannabis, Cocaine                   |
 | **II. Spinal**      | Act on the spinal cord           | _Strychnos nux-vomica_ (Strychnine),==Gelsemium== |
 | **III. Peripheral** | Act on peripheral nerves         | Curare, Conium                                    |
 
