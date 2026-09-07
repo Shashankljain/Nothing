@@ -105,12 +105,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic/Asphyxiants.md",
+                "file": "Forensic/War gases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Asphyxiants"
+              "title": "War gases"
             }
           },
           {
@@ -221,7 +221,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Forensic/Asphyxiants.md",
+            "file": "Forensic/War gases.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Forensic/Asphyxiants.md",
+            "file": "Forensic/War gases.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -279,8 +279,8 @@
   },
   "active": "ffefdf4690825c86",
   "lastOpenFiles": [
-    "Forensic/CN.md",
     "Forensic/Asphyxiants.md",
+    "Forensic/CN.md",
     "Forensic/CO.md",
     "Forensic/image 102.jpg",
     "Forensic/Daterape drugs.md",
