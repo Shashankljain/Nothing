@@ -5,7 +5,8 @@
 #### **Basic Concepts**
 
 **Definition**  
-Cocaine is an **alkaloid deliriant** obtained from the dried leaves of the plant _**Erythroxylum coca**_. It acts as a potent Central Nervous System (CNS) stimulant.
+Cocaine is a colourless orderless crystalline substance with bitter taste
+It is a **alkaloid deliriant** obtained from the dried leaves of the plant _**Erythroxylum coca**_. It acts as a potent Central Nervous System (CNS) stimulant.
 
 **Mechanism of Action**
 
