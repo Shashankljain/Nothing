@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Difference between arsenic poisoningand cholera..md",
+                "file": "Pb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Difference between arsenic poisoningand cholera."
+              "title": "Pb"
             }
           },
           {
@@ -143,7 +143,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Difference between arsenic poisoningand cholera..md",
+            "file": "Pb.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,10 +199,10 @@
   },
   "active": "b87c019c8765eb29",
   "lastOpenFiles": [
+    "Difference between arsenic poisoningand cholera..md",
     "Untitled.md",
     "Chronic arsenic poison.md",
     "Autopsy- h2so4 vs phenol.md",
-    "Difference between arsenic poisoningand cholera..md",
     "Metallic poisoning.md",
     "Oxalic acid.md",
     "Carboluria.md",
