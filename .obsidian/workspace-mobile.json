@@ -105,12 +105,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic/War gases.md",
+                "file": "Forensic/Biological warfare.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "War gases"
+              "title": "Biological warfare"
             }
           },
           {
@@ -221,7 +221,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Forensic/War gases.md",
+            "file": "Forensic/Biological warfare.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -279,11 +279,12 @@
   },
   "active": "ffefdf4690825c86",
   "lastOpenFiles": [
+    "Forensic/Asphyxiants.md",
+    "Forensic/War gases.md",
     "IMG_20260907_225713243.jpg",
     "IMG_20260907_225709274 2.jpg",
     "IMG_20260907_225709274 1.jpg",
     "IMG_20260907_225709274.jpg",
-    "Forensic/Asphyxiants.md",
     "Forensic/CN.md",
     "Forensic/CO.md",
     "Forensic/image 102.jpg",
@@ -302,7 +303,6 @@
     "TT/Checklist.md",
     "Forensic/Injuries application.md",
     "Forensic/image 94.jpg",
-    "Forensic/image 93.jpg",
     "Forensic/Rigor mortis.md",
     "Forensic/Gunpowder.md",
     "Forensic/Defensive wound.md",
