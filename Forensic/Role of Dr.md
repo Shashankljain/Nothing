@@ -46,6 +46,50 @@ For an MBBS student, understanding the medical and legal responsibilities of a d
 ```
 
 ---
+### **Detailed Medico-Legal Responsibilities & Staging** 🔍
+
+#### **A. Clinical & Medical Responsibilities**
+
+   
+1. ![[image 32.jpg]]
+2. **Patient Stabilization (The ABCDs):**
+    - **A**irway: Ensure a patent airway.
+    - **B**reathing: Assist ventilation if needed.
+    - **C**irculation: Monitor blood pressure and perfusion.
+    - **D**rugs: Administer the **"Coma Cocktail"** (Dextrose + Thiamine + Naloxone + Flumazenil) in unconscious patients of unknown poisoning.
+3. **Removal of Unabsorbed Poison (Decontamination):**
+    - Perform **Gastric Lavage** using an Ewald or Boas tube (for adults) ideally **within 1 hour** of ingestion.
+    - _Contraindications (starts with 'C'):_ Corrosives (except carbolic acid), Convulsants, Comatose patients, and Hydrocarbons.
+4. **Preservation of Samples:**
+    - Preserve the **first gastric aspirate/washout** (500 mL) and **urine** (100 mL) for toxicological analysis.
+    - ==Never== add chemical ==preservatives== to clinical samples; simply seal and label them.
+
+#### **B. Legal & Administrative Responsibilities**
+
+1. **Documentation & Preliminary Data:** Meticulously record the name, age, sex, brought by whom, date, time, and history.
+2. **Police Intimation:** Notify the police in homicidal cases (private clinics) or all suspected cases (government setups).
+3. **Handling Custody and Records:**
+    - Maintain inpatient records for **3 years**; refusing to share them with the patient or legal authorities within 72 hours constitutes professional misconduct.
+    - **Never hand over original MLC records** to the police; only provide attested photocopies and obtain a written receipt.
+4. **In patient condition is serious**- can record the **DYING DECLARATION ** 
+5. **In Case of Death:**
+    - **Do not issue a death certificate** in suspected or unnatural poisoning cases.
+    - Send the body for a **forensic autopsy** to establish the cause of death.
+ 
+---
+
+### **Viscera Preservation During Autopsy** 🧪
+
+If the patient dies, the autopsy surgeon must preserve the following viscera for chemical analysis:
+
+|**Bottle Number**|**Viscera / Material Preserved**|**Preservative Used**|
+|:--|:--|:--|
+|**Bottle 1**|Stomach and its contents + Upper part of small intestine (15–30 cm).|**Saturated solution of Common Salt**.|
+|**Bottle 2**|Liver (at least 500g) + Gallbladder + Half of each kidney [74, 82, Image 22].|**Saturated solution of Common Salt**.|
+|**Bottle 3**|Blood (100 mL) [74, Image 22].|**Sodium fluoride** (preservative) + **Potassium oxalate** (anticoagulant).|
+|**Bottle 4**|Urine (100 mL) [74, Image 22].|**Toluene** or **Thymol** [Image 22].|
+
+---
 
 ### **Medico-Legal Importance (MLI)** ⚖️
 
@@ -77,50 +121,6 @@ For an MBBS student, understanding the medical and legal responsibilities of a d
 
 ---
 
-### **Detailed Medico-Legal Responsibilities & Staging** 🔍
-
-#### **A. Clinical & Medical Responsibilities**
-
-   
-1. ![[image 32.jpg]]
-2. **Patient Stabilization (The ABCDs):**
-    - **A**irway: Ensure a patent airway.
-    - **B**reathing: Assist ventilation if needed.
-    - **C**irculation: Monitor blood pressure and perfusion.
-    - **D**rugs: Administer the **"Coma Cocktail"** (Dextrose + Thiamine + Naloxone + Flumazenil) in unconscious patients of unknown poisoning.
-2. **Removal of Unabsorbed Poison (Decontamination):**
-    - Perform **Gastric Lavage** using an Ewald or Boas tube (for adults) ideally **within 1 hour** of ingestion.
-    - _Contraindications (starts with 'C'):_ Corrosives (except carbolic acid), Convulsants, Comatose patients, and Hydrocarbons.
-3. **Preservation of Samples:**
-    - Preserve the **first gastric aspirate/washout** (500 mL) and **urine** (100 mL) for toxicological analysis.
-    - ==Never== add chemical ==preservatives== to clinical samples; simply seal and label them.
-
-#### **B. Legal & Administrative Responsibilities**
-
-1. **Documentation & Preliminary Data:** Meticulously record the name, age, sex, brought by whom, date, time, and history.
-2. **Police Intimation:** Notify the police in homicidal cases (private clinics) or all suspected cases (government setups).
-3. **Handling Custody and Records:**
-    - Maintain inpatient records for **3 years**; refusing to share them with the patient or legal authorities within 72 hours constitutes professional misconduct.
-    - **Never hand over original MLC records** to the police; only provide attested photocopies and obtain a written receipt.
-4. **In patient condition is serious**- can record the **DYING DECLARATION ** 
-5. **In Case of Death:**
-    - **Do not issue a death certificate** in suspected or unnatural poisoning cases.
-    - Send the body for a **forensic autopsy** to establish the cause of death.
- 
----
-
-### **Viscera Preservation During Autopsy** 🧪
-
-If the patient dies, the autopsy surgeon must preserve the following viscera for chemical analysis:
-
-|**Bottle Number**|**Viscera / Material Preserved**|**Preservative Used**|
-|:--|:--|:--|
-|**Bottle 1**|Stomach and its contents + Upper part of small intestine (15–30 cm).|**Saturated solution of Common Salt**.|
-|**Bottle 2**|Liver (at least 500g) + Gallbladder + Half of each kidney [74, 82, Image 22].|**Saturated solution of Common Salt**.|
-|**Bottle 3**|Blood (100 mL) [74, Image 22].|**Sodium fluoride** (preservative) + **Potassium oxalate** (anticoagulant).|
-|**Bottle 4**|Urine (100 mL) [74, Image 22].|**Toluene** or **Thymol** [Image 22].|
-
----
 
 ### **High-Yield Exam Points**
 

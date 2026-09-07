@@ -67,7 +67,7 @@ Before infusing any fluid, the doctor must verify that the tube is in the stomac
 ---
 
 ### **Contraindications (The "C" Rule)** ⚠️
-
+![[image 100.jpg]]
 ★ **Important Exam Point:** Lavage is contraindicated in the following scenarios:
 
 1. **C**orrosives (Strong mineral acids and alkalis).
