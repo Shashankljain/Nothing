@@ -25,10 +25,14 @@
             "id": "9c31dce5c17b6993",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Asphyxia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Asphyxia"
             }
           }
         ],
@@ -125,6 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Asphyxia.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -182,6 +187,15 @@
   },
   "active": "9c31dce5c17b6993",
   "lastOpenFiles": [
+    "Bloodless dissection.md",
+    "Asphyxia.md",
+    "Café coronary syndrome.md",
+    "Drowning.md",
+    "Traumatic asphyxia.md",
+    "Throttling.md",
+    "Lynching.md",
+    "Ligature vs hanging.md",
+    "Hanging.md",
     "Infamous conduct.md",
     "Medical law.md",
     "Therapeutic misadventures.md",
@@ -199,15 +213,6 @@
     "Forensic Psychiatry.md",
     "Fabricated wounds.md",
     "Bioethics.md",
-    "Responsibility.md",
-    "Coup-countercoup.md",
-    "Adipocere.md",
-    "Dying declaration.md",
-    "CO.md",
-    "Pb.md",
-    "Mechanical injuries.md",
-    "Firearm.md",
-    "Entry wound vs exit wound.md",
     "image 104.jpg",
     "image 103.jpg",
     "image 102.jpg",
