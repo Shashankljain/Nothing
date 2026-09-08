@@ -7,7 +7,7 @@
 #### **A. Definition of Insanity**
 
 - **Medical Definition:** Insanity (Mental Illness) is a state of mental disease, disorder, or dysfunction of the brain characterized by a significant disturbance in an individual's cognition, emotional regulation, or behavior, which severely impairs their social, professional, or personal functioning [154].
-- **Legal Definition (Unsoundness of Mind):** Legally, insanity is termed **"unsoundness of mind."** It is the state where a person, by reason of mental disease or cognitive defect, is incapable of understanding the nature of their actions, or that what they are doing is either wrong or contrary to the established law of the land (governed by **Section 22 BNS, 2023**).
+- **Legal Definition (Unsoundness of Mind):** Legally, insanity is termed **"unsoundness of mind."** It is the state where a person, due to mental disease, is incapable of understanding the nature of their actions, or that what they are doing is either wrong or contrary to the established law of the land (governed by **Section 22 BNS, 2023**).
 
 ---
 
@@ -17,10 +17,10 @@
                                 [CLASSIFICATION OF INSANITY]
                                               │
          ┌────────────────────────────────────┴────────────────────────────────────┐
-         ▼ (Medical Classification)                                                ▼ (Legal Classification)
-   • Neurodevelopmental Disorders                                            • Congenital Unsoundness (*Dementia Naturalis*)
-   • Schizophrenia & Psychoses                                               • Acquired Unsoundness (*Dementia Accidentalis*)
-   • Mood Disorders (Mania/Depression)                                       • Voluntary/Induced (*Dementia Affectata*)
+         ▼ (Medical Classification)                   ▼ (Legal Classification)
+   • Neurodevelopmental Disorders                  • Congenital Unsoundness                                                      (*Dementia Naturalis*)
+   • Schizophrenia & Psychoses             • Acquired Unsoundness (*Dementia                                                        Accidentalis*)
+   • Mood Disorders (Mania/Depression)                                                                                Voluntary/Induced (*Dementia Affectata*)
    • Personality & Impulse Disorders
 ```
 
@@ -49,7 +49,7 @@
 
 #### **C. Delusion: Definition & Pathophysiology**
 
-- ★ **Definition:** A **Delusion** is a false, unshakable belief, not in keeping with the patient’s cultural, social, and educational background, which cannot be corrected by logical reasoning, demonstration of facts, or plain common sense.
+- ★ **Definition:** A **Delusion** is a false, firm belief, , which cannot be corrected by logical reasoning, demonstration of facts, or plain common sense.
 - **Pathophysiology:** Arises due to neurochemical imbalances (predominantly dopamine hyperactivity in the mesolimbic pathway) in psychotic disorders like Schizophrenia.
 
 ---
@@ -81,6 +81,7 @@
 #### **B. Differentiating True Insanity from Feigned Insanity (The Autopsy of Malingering)** [151]
 
 ★ **Important Exam Point:** Replicating this exact comparison table is crucial for scoring high marks in university papers:
+![[image 104.jpg]]
 
 |**S.No.**|**Pathological Feature**|**True Insanity** 🧠 [151]|**Feigned Insanity (Malingering)**🎭 [151]|
 |:--|:--|:--|:--|

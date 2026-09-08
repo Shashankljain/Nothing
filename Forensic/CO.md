@@ -51,6 +51,7 @@ Decreases O2 carrying                            Increases affinity of          
 ---
 
 ### **c. Clinical Features** 🩺
+![[image 103.jpg]]
 
 In a living patient, the clinical features of CO poisoning depend entirely on the percentage of Carboxyhemoglobin (COHb) in the blood:
 
