@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hypostasis vs bruise.md",
+                "file": "Mechanical injuries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hypostasis vs bruise"
+              "title": "Mechanical injuries"
             }
           }
         ],
@@ -129,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Hypostasis vs bruise.md",
+            "file": "Mechanical injuries.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Hypostasis vs bruise.md",
+            "file": "Mechanical injuries.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -187,8 +187,20 @@
   },
   "active": "9c31dce5c17b6993",
   "lastOpenFiles": [
-    "Contusion.md",
+    "Hesitation cuts.md",
     "Mechanical injuries.md",
+    "Stab injury.md",
+    "Ricochet bullet.md",
+    "Bore of shotgun.md",
+    "Injuries application.md",
+    "Incised wound.md",
+    "Choking + rifling.md",
+    "Pattered injuries.md",
+    "Firearm.md",
+    "Cut throat homicide vs suicide.md",
+    "Lacerated wounds.md",
+    "Contusion.md",
+    "Hypostasis vs bruise.md",
     "Abrasion.md",
     "PM Changes.md",
     "Embalming.md",
@@ -201,18 +213,6 @@
     "Suspended animation.md",
     "Rigor mortis.md",
     "Liver mortis.md",
-    "Algor mortis.md",
-    "Casper dictum.md",
-    "TSD estimation.md",
-    "Death.md",
-    "Sudden death.md",
-    "Obscure autopsy.md",
-    "Negative vs obscure autopsy.md",
-    "Brainstem reflex.md",
-    "Brainstem death.md",
-    "Asphyxia.md",
-    "Bloodless dissection.md",
-    "Café coronary syndrome.md",
     "image 104.jpg",
     "image 103.jpg",
     "image 102.jpg",
