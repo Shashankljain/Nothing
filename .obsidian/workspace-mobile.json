@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic/Forensic Psychiatry.md",
+                "file": "Forensic/Infant death.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forensic Psychiatry"
+              "title": "Infant death"
             }
           },
           {
@@ -162,7 +162,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Ferric chloride ",
+            "query": "Infanti",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -225,7 +225,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Forensic/Forensic Psychiatry.md",
+            "file": "Forensic/Infant death.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -283,6 +283,13 @@
   },
   "active": "33d165aaf16d2905",
   "lastOpenFiles": [
+    "Forensic/Infanticide.md",
+    "Forensic/Hydrostatic test.md",
+    "Forensic/Forensic Psychiatry.md",
+    "Forensic/Responsibility.md",
+    "Forensic/Principles of bioethics.md",
+    "Forensic/image 104.jpg",
+    "Forensic/image 103.jpg",
     "Forensic/Bioethics.md",
     "Forensic/THOTA.md",
     "Com med/RNTCP.md",
@@ -304,8 +311,6 @@
     "Forensic/Daterape drugs.md",
     "Forensic/Infant death.md",
     "Forensic/image 99.jpg",
-    "Forensic/image 101.jpg",
-    "Forensic/image 100.jpg",
     "TT/Final.md",
     "Forensic/MTP.md",
     "Forensic/Fetishism.md",
@@ -314,11 +319,6 @@
     "Forensic/Abortion.md",
     "TT/Checklist.md",
     "Forensic/Injuries application.md",
-    "Forensic/Rigor mortis.md",
-    "Forensic/Gunpowder.md",
-    "Forensic/Defensive wound.md",
-    "Forensic/Asphyxia.md",
-    "Forensic/Forensic entomology.md",
     "Forensic/Sign,symptom,feature,tx.canvas",
     "Lyrics",
     "TT",
