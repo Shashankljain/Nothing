@@ -11,10 +11,14 @@
             "id": "c41ed355342d2f1e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Screening of disease.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Screening of disease"
             }
           }
         ]
@@ -110,8 +114,8 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Covid waste.md",
-            "collapseAll": false,
+            "file": "Screening of disease.md",
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
@@ -166,8 +170,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "c41ed355342d2f1e",
+  "active": "9708d2054976b3d4",
   "lastOpenFiles": [
+    "FP, FN.md",
+    "Screening of disease.md",
     "Covid waste.md",
     "White bins.md",
     "BMW.md",
@@ -181,12 +187,10 @@
     "Pasted image 20260903145502.png",
     "Pasted image 20260903145452.png",
     "Lead time.md",
-    "FP, FN.md",
     "Food fortification..md",
     "Surveillance.md",
     "Screening test.md",
     "Screening vs diagnostic.md",
-    "Screening of disease.md",
     "Audio visual aids.md",
     "Pasted image 20260902131928.png",
     "Group approach.md",
