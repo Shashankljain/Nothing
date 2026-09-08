@@ -93,20 +93,28 @@
             "id": "33d165aaf16d2905",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Forensic/Forensic Psychiatry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forensic Psychiatry"
             }
           },
           {
             "id": "ffefdf4690825c86",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Forensic/Analgesic,Antipyretic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Analgesic,Antipyretic"
             }
           },
           {
@@ -124,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +162,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Gastric lavage",
+            "query": "Ferric chloride ",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -205,7 +213,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "ce99aef3140d3453",
@@ -217,14 +225,14 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "TT/Final.md",
-            "collapseAll": false,
+            "file": "Forensic/Forensic Psychiatry.md",
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": false
+            "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
           "title": "Backlinks"
@@ -236,7 +244,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Test/Ipad.md",
+            "file": "Forensic/War gases.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -273,44 +281,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "ffefdf4690825c86",
+  "active": "33d165aaf16d2905",
   "lastOpenFiles": [
+    "Forensic/Bioethics.md",
+    "Forensic/THOTA.md",
+    "Com med/RNTCP.md",
+    "Forensic/Analgesic,Antipyretic.md",
+    "Forensic/Paracetamol poisoning.md",
+    "IMG_20260907_231600767.jpg",
+    "Forensic/Aspirin.md",
+    "IMG_20260907_231058984.jpg",
+    "Forensic/Biological warfare.md",
+    "Forensic/Asphyxiants.md",
+    "Forensic/War gases.md",
+    "IMG_20260907_225713243.jpg",
+    "IMG_20260907_225709274 2.jpg",
+    "IMG_20260907_225709274 1.jpg",
+    "IMG_20260907_225709274.jpg",
+    "Forensic/CN.md",
+    "Forensic/CO.md",
+    "Forensic/image 102.jpg",
+    "Forensic/Daterape drugs.md",
     "Forensic/Infant death.md",
     "Forensic/image 99.jpg",
     "Forensic/image 101.jpg",
     "Forensic/image 100.jpg",
     "TT/Final.md",
     "Forensic/MTP.md",
-    "Forensic/image 98.jpg",
     "Forensic/Fetishism.md",
     "Forensic/Examination of victim of rape.md",
     "Forensic/Buccal coitus.md",
     "Forensic/Abortion.md",
     "TT/Checklist.md",
     "Forensic/Injuries application.md",
-    "Forensic/image 94.jpg",
-    "Forensic/image 93.jpg",
-    "Forensic/image 92.jpg",
     "Forensic/Rigor mortis.md",
-    "Forensic/Pasted image 20260906201359.png",
-    "Forensic/Pasted image 20260906154901.png",
-    "Forensic/image 91.jpg",
     "Forensic/Gunpowder.md",
     "Forensic/Defensive wound.md",
     "Forensic/Asphyxia.md",
     "Forensic/Forensic entomology.md",
-    "Forensic/Death.md",
-    "Forensic/Malingering.md",
-    "Forensic/Hippocratic oath.md",
-    "Forensic/Corpus delicti.md",
-    "Forensic/Contributory negligence.md",
-    "Forensic/Therapeutic misadventures.md",
-    "Forensic/SMC function.md",
-    "Forensic/Vicarious libiality.md",
-    "Forensic/Res ipsa loquitor.md",
-    "Forensic/Privileged communication.md",
-    "Forensic/Euthanesia.md",
-    "Forensic/Witness.md",
     "Forensic/Sign,symptom,feature,tx.canvas",
     "Lyrics",
     "TT",
