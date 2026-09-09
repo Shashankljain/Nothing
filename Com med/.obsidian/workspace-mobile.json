@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Health edu.md",
+                "file": "Health edu vs propaganda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Health edu"
+              "title": "Health edu vs propaganda"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Health edu.md",
+            "file": "Health edu vs propaganda.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,6 +173,8 @@
   "active": "c41ed355342d2f1e",
   "lastOpenFiles": [
     "Communication for Health education.md",
+    "Health edu.md",
+    "Health edu vs propaganda.md",
     "Principle of HE.md",
     "Methods.md",
     "Lead time.md",
@@ -200,14 +202,12 @@
     "Individual approach.md",
     "Pasted image 20260902123956.png",
     "Mass approach.md",
-    "Health edu.md",
     "Aflatoxin.md",
     "Food toxicity.md",
     "Lathyrism.md",
     "Balanced diet.md",
     "Nutrition surveillance vs growth monitoring.md",
     "Malnutrition vs infection.md",
-    "Pasturization.md",
     "RCH.canvas",
     "Untitled.base",
     "BGS Road 9.m4a",
