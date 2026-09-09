@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lathyrism.md",
+                "file": "NUTRITION.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lathyrism"
+              "title": "NUTRITION"
             }
           },
           {
@@ -156,7 +156,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lathyrism.md",
+            "file": "NUTRITION.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -214,7 +214,9 @@
   },
   "active": "c41ed355342d2f1e",
   "lastOpenFiles": [
+    "Pasturization.md",
     "NUTRITION.md",
+    "Lathyrism.md",
     "Nutritional assessment.md",
     "Fluorosis.md",
     "Iodized salt.md",
@@ -238,8 +240,6 @@
     "Health edu vs propaganda.md",
     "Health edu.md",
     "Principle of HE.md",
-    "Lead time.md",
-    "Screening of disease.md",
     "Pasted image 20260903151954.png",
     "Pasted image 20260903151940.png",
     "Pasted image 20260903151918.png",
