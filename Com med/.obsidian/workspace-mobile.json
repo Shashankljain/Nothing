@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Food fortification..md",
+                "file": "Food adulteration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Food fortification."
+              "title": "Food adulteration"
             }
           },
           {
@@ -156,7 +156,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Food fortification..md",
+            "file": "Food adulteration.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -215,6 +215,7 @@
   "active": "c41ed355342d2f1e",
   "lastOpenFiles": [
     "NUTRITION.md",
+    "Food fortification..md",
     "Pasturization.md",
     "Lathyrism.md",
     "Nutritional assessment.md",
@@ -239,7 +240,6 @@
     "Com. Process + Planning of HE.md",
     "Health edu vs propaganda.md",
     "Health edu.md",
-    "Principle of HE.md",
     "Pasted image 20260903151954.png",
     "Pasted image 20260903151940.png",
     "Pasted image 20260903151918.png",
