@@ -93,10 +93,14 @@
             "id": "33d165aaf16d2905",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Com med/Communication for Health education.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Communication for Health education"
             }
           },
           {
@@ -277,7 +281,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "d4956e83b84f3118",
+  "active": "33d165aaf16d2905",
   "lastOpenFiles": [
     "Com med/2.md",
     "Forensic/Maceration.md",
