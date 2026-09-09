@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mass approach.md",
+                "file": "Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mass approach"
+              "title": "Methods"
             }
           },
           {
@@ -128,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mass approach.md",
+            "file": "Methods.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mass approach.md",
+            "file": "Methods.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -161,7 +161,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mass approach.md",
+            "file": "Methods.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -186,6 +186,7 @@
   },
   "active": "c41ed355342d2f1e",
   "lastOpenFiles": [
+    "Mass approach.md",
     "Methods.md",
     "Individual approach.md",
     "Group approach.md",
@@ -220,7 +221,6 @@
     "Food fortification..md",
     "Pasted image 20260902131928.png",
     "Pasted image 20260902123956.png",
-    "Mass approach.md",
     "Aflatoxin.md",
     "RCH.canvas",
     "Untitled.base",
