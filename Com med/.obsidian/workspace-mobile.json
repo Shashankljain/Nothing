@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication for Health education.md",
+                "file": "Types of communication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Communication for Health education"
+              "title": "Types of communication"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Communication for Health education.md",
+            "file": "Types of communication.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -172,8 +172,9 @@
   },
   "active": "c41ed355342d2f1e",
   "lastOpenFiles": [
-    "Health edu vs propaganda.md",
     "Communication for Health education.md",
+    "Com. Process + Planning of HE.md",
+    "Health edu vs propaganda.md",
     "Health edu.md",
     "Principle of HE.md",
     "Methods.md",
@@ -207,7 +208,6 @@
     "Lathyrism.md",
     "Balanced diet.md",
     "Nutrition surveillance vs growth monitoring.md",
-    "Malnutrition vs infection.md",
     "RCH.canvas",
     "Untitled.base",
     "BGS Road 9.m4a",
