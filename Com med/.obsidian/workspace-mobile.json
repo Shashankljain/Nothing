@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Iodized salt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Iodized salt"
             }
           }
         ],
@@ -143,7 +143,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled 1.md",
+            "file": "Iodized salt.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled 1.md",
+            "file": "Iodized salt.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -176,7 +176,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled 1.md",
+            "file": "Iodized salt.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -201,7 +201,7 @@
   },
   "active": "d65b28640e116d5c",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Iodized salt.md",
     "Nutritional assessment.md",
     "NUTRITION.md",
     "Balanced diet.md",
