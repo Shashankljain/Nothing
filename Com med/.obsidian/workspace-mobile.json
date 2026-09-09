@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nutritional assessment.md",
+                "file": "Lathyrism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nutritional assessment"
+              "title": "Lathyrism"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "Fluorosis"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +156,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Iodized salt.md",
+            "file": "Lathyrism.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -213,12 +212,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "026ca1a798e39079",
+  "active": "c41ed355342d2f1e",
   "lastOpenFiles": [
+    "NUTRITION.md",
+    "Nutritional assessment.md",
     "Fluorosis.md",
     "Iodized salt.md",
-    "Nutritional assessment.md",
-    "NUTRITION.md",
     "Balanced diet.md",
     "Reference Adult Indian Woman.md",
     "DGLV.md",
