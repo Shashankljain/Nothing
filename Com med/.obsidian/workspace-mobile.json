@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Surveillance.md",
+                "file": "Communication for Health education.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Surveillance"
+              "title": "Communication for Health education"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Surveillance.md",
+            "file": "Communication for Health education.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -172,10 +172,12 @@
   },
   "active": "c41ed355342d2f1e",
   "lastOpenFiles": [
+    "Types of communication.md",
     "Communication for Health education.md",
+    "Audio visual aids.md",
+    "Surveillance.md",
     "Barrier of health education.md",
     "Methods.md",
-    "Types of communication.md",
     "Com. Process + Planning of HE.md",
     "Health edu vs propaganda.md",
     "Health edu.md",
@@ -198,8 +200,6 @@
     "Pasted image 20260903145502.png",
     "Pasted image 20260903145452.png",
     "Food fortification..md",
-    "Surveillance.md",
-    "Audio visual aids.md",
     "Pasted image 20260902131928.png",
     "Group approach.md",
     "Individual approach.md",
