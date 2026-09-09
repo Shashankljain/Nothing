@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Health edu vs propaganda.md",
+                "file": "Communication for Health education.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Health edu vs propaganda"
+              "title": "Communication for Health education"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Health edu vs propaganda.md",
+            "file": "Communication for Health education.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -172,9 +172,9 @@
   },
   "active": "c41ed355342d2f1e",
   "lastOpenFiles": [
+    "Health edu vs propaganda.md",
     "Communication for Health education.md",
     "Health edu.md",
-    "Health edu vs propaganda.md",
     "Principle of HE.md",
     "Methods.md",
     "Lead time.md",
