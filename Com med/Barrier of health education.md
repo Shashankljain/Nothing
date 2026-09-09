@@ -31,7 +31,7 @@ These relate to the physical setting where communication occurs.
 - **Congestion:** ==Overcrowded== rooms or clinics where privacy is lacking.
 - **Invisibility:** Being ==unable== to see the educator or the visual aids clearly.
 
-#### **4. Cultural Barriers**
+#### **4. Cultural Barriers** 
 
 These stem from the social fabric of the community.
 

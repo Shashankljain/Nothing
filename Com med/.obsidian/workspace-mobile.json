@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methods.md",
+                "file": "Surveillance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Methods"
+              "title": "Surveillance"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Methods.md",
+            "file": "Surveillance.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,12 +173,13 @@
   "active": "c41ed355342d2f1e",
   "lastOpenFiles": [
     "Communication for Health education.md",
+    "Barrier of health education.md",
+    "Methods.md",
     "Types of communication.md",
     "Com. Process + Planning of HE.md",
     "Health edu vs propaganda.md",
     "Health edu.md",
     "Principle of HE.md",
-    "Methods.md",
     "Lead time.md",
     "Screening of disease.md",
     "Screening vs diagnostic.md",
@@ -207,7 +208,6 @@
     "Aflatoxin.md",
     "Food toxicity.md",
     "Lathyrism.md",
-    "Balanced diet.md",
     "RCH.canvas",
     "Untitled.base",
     "BGS Road 9.m4a",

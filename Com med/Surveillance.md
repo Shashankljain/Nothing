@@ -80,14 +80,14 @@ There are **three primary types of public health surveillance** implemented wi
 
 Creating this comparative table in the exam will demonstrate a mature understanding of health systems and earn maximum credit:
 
-|**Feature**|**Active Surveillance**|**Passive Surveillance**|
-|:--|:--|:--|
-|**Data Collection Method**|**Systematically sought out** by health personnel; provider-initiated.|**Passively received**; relies on patient-initiated reporting.|
-|**Main Action**|Health worker goes house-to-house to search for cases and collect slides.|Patient walks into PHC, CHC, or private clinic on their own.|
-|**Programmatic Objective**|**Elimination or Eradication** of the disease (requires absolute zero transmission).|**Routine Control** of endemic disease.|
-|**Cost & Complexity**|**High cost**; requires heavy human resources, transport, and regular logistics.|**Low cost**; highly feasible and integrates into existing clinical footprints.|
-|**Completeness**|Highly sensitive; minimizes under-reporting and captures mild/atypical cases.|Subject to massive **under-reporting** and delays; misses "iceberg" cases.|
-|**Key Indian Examples**|Malaria ACD, Leprosy case campaigns, AFP/Polio surveillance.|HMIS records, statutory notifiable diseases, TB Passive Case Finding.|
+| **Feature**                | **Active Surveillance**                                                              | **Passive Surveillance**                                                        |
+| :------------------------- | :----------------------------------------------------------------------------------- | :------------------------------------------------------------------------------ |
+| **Data Collection Method** | **Systematically sought out** by health personnel; provider-initiated.               | **Passively received**; relies on patient-initiated reporting.                  |
+| **Main Action**            | Health worker goes house-to-house to search for cases and collect slides.            | Patient walks into PHC, CHC, or private clinic on their own.                    |
+| **Programmatic Objective** | **Elimination or Eradication** of the disease (requires absolute zero transmission). | **Routine Control** of endemic disease.                                         |
+| **Cost & Complexity**      | **High cost**; requires heavy human resources, transport, and regular logistics.     | **Low cost**; highly feasible and integrates into existing clinical footprints. |
+| **Completeness**           | Highly sensitive; minimizes under-reporting and captures mild/atypical cases.        | Subject to massive **under-reporting** and delays; misses "iceberg" cases.      |
+| **Key Indian Examples**    | Malaria ACD, Leprosy case campaigns, AFP/Polio surveillance.                         | HMIS records, statutory notifiable diseases, TB Passive Case Finding.           |
 
 ---
 
