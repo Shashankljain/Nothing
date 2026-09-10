@@ -82,7 +82,7 @@ _Goal: Master health administration, management techniques, and sociology._
 
 **🌅 Morning Block (07:00 AM – 01:00 PM | 6 Hours) — Healthcare Delivery System**
 
-- [ ] **3-Tier System:** Sub-centre, PHC, CHC population norms, infrastructure, and Health & Wellness Centres (Ayushman Bharat).
+- [x] **3-Tier System:** Sub-centre, PHC, CHC population norms, infrastructure, and Health & Wellness Centres (Ayushman Bharat).
 - [ ] **Grassroot Health Workers:** ASHA selection criteria and key functions, ANM/Female Health Worker, and Mid-Level Health Providers (MLHP).
 - [ ] **Roles & Responsibilities:** Medical Officer in PHC management functions and First Referral Unit (FRU) services.
 - [ ] **Health Committees & Policies:** Bhore Committee recommendations and National Health Policy 2017 goals.
