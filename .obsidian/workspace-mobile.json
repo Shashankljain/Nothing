@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Com med/Aflatoxin.md",
+                "file": "Com med/Food fortification..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aflatoxin"
+              "title": "Food fortification."
             }
           },
           {
@@ -225,7 +225,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Com med/Aflatoxin.md",
+            "file": "Com med/Food fortification..md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -284,6 +284,7 @@
   "active": "33d165aaf16d2905",
   "lastOpenFiles": [
     "Com med/NUTRITION.md",
+    "Com med/Aflatoxin.md",
     "Com med/Screening test.md",
     "Com med/Screening of disease.md",
     "Com med/Screening vs diagnostic.md",
@@ -316,7 +317,6 @@
     "IMG_20260907_225709274 2.jpg",
     "IMG_20260907_225709274 1.jpg",
     "IMG_20260907_225709274.jpg",
-    "Forensic/CN.md",
     "Forensic/image 102.jpg",
     "Forensic/image 99.jpg",
     "Forensic/Sign,symptom,feature,tx.canvas",
