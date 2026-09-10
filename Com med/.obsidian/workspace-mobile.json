@@ -13,54 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NUTRITION.md",
+                "file": "Balanced diet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NUTRITION"
-            }
-          },
-          {
-            "id": "9ff3776a28376870",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Types of communication.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Types of communication"
-            }
-          },
-          {
-            "id": "d65b28640e116d5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iodized salt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Iodized salt"
-            }
-          },
-          {
-            "id": "026ca1a798e39079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fluorosis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fluorosis"
+              "title": "Balanced diet"
             }
           }
         ]
@@ -156,14 +114,14 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "NUTRITION.md",
+            "file": "Balanced diet.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+            "unlinkedCollapsed": false
           },
           "icon": "links-coming-in",
           "title": "Backlinks"
@@ -175,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Iodized salt.md",
+            "file": "Balanced diet.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -214,32 +172,33 @@
   },
   "active": "c41ed355342d2f1e",
   "lastOpenFiles": [
-    "Food adulteration.md",
     "NUTRITION.md",
+    "Egg-a reference protein.md",
+    "Fluorosis.md",
+    "Iodized salt.md",
+    "Communication for Health education.md",
+    "Audio visual aids.md",
+    "Symposium.md",
+    "Types of communication.md",
+    "Barrier of health education.md",
+    "Methods of communication.md",
+    "Mass approach.md",
+    "Individual approach.md",
+    "Group approach.md",
+    "Health edu.md",
+    "Health edu vs propaganda.md",
+    "Surveillance.md",
+    "Principle of HE.md",
+    "IDD.md",
+    "Com. Process + Planning of HE.md",
+    "ICDS.md",
+    "AMB (NEW).md",
+    "Malnutrition vs infection.md",
+    "image 16.jpg",
+    "Food adulteration.md",
     "Food fortification..md",
     "Pasturization.md",
     "Lathyrism.md",
-    "Nutritional assessment.md",
-    "Fluorosis.md",
-    "Iodized salt.md",
-    "Balanced diet.md",
-    "Reference Adult Indian Woman.md",
-    "DGLV.md",
-    "Vit A.md",
-    "Eugenics vs euthenics.md",
-    "Methods of communication.md",
-    "Group approach.md",
-    "Communication for Health education.md",
-    "Symposium.md",
-    "Surveillance.md",
-    "Mass approach.md",
-    "Individual approach.md",
-    "Types of communication.md",
-    "Untitled.md",
-    "Audio visual aids.md",
-    "Barrier of health education.md",
-    "Com. Process + Planning of HE.md",
-    "Health edu vs propaganda.md",
     "Pasted image 20260903151954.png",
     "Pasted image 20260903151940.png",
     "Pasted image 20260903151918.png",
@@ -249,7 +208,6 @@
     "Pasted image 20260903145502.png",
     "Pasted image 20260903145452.png",
     "Pasted image 20260902131928.png",
-    "Pasted image 20260902123956.png",
     "RCH.canvas",
     "Untitled.base",
     "BGS Road 9.m4a",
