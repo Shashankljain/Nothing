@@ -1,95 +1,125 @@
-To complete **Forensic Medicine and Toxicology (FMT)** comprehensively in **2 days**, you must adopt an intensive, **14-hour-per-day active revision strategy**. This plan is built directly from the **RGUHS final MBBS companion question bank**, pairing heavy high-yield chapters with shorter ones to prevent mental burnout.
+Weightage Distribution by Domain:
+
+|Rank|Domain / Module|Approx. Marks Weightage|Priority Level|
+|---|---|---|---|
+|**1**|**Epidemiology of Communicable Diseases**|25–30 Marks|🔴 **High Priority**|
+|**2**|**Health Planning, Management & Health Administration**|20–25 Marks|🔴 **High Priority**|
+|**3**|**Reproductive, Maternal, Newborn, Child & Adolescent Health (RMNCH+A)**|15–20 Marks|🔴 **High Priority**|
+|**4**|**Epidemiology of Non-Communicable Diseases (NCDs)**|10–15 Marks|🟡 **Medium Priority**|
+|**5**|**Social Sciences, Behavioral Sciences & Mental Health**|10–12 Marks|🟡 **Medium Priority**|
+|**6**|**Demography & Family Planning**|8–10 Marks|🟡 **Medium Priority**|
+|**7**|**Essential Medicines, Social Security & Disaster Management**|5–8 Marks|🟢 **Low Priority**|
 
 ---
 
-### 📅 DAY 1: Forensic Medicine Core (Chapters 2 to 23)
+2. Complete Chapter List for Paper II
 
-**Daily Focus:** Master legal frameworks, autopsy, trauma, and sexual/infant forensic pathology. **Total Study Time:** 14 Hours
+Paper II covers applied clinical epidemiology, healthcare systems, maternal/child welfare, and health administration:
 
-#### **🌅 Morning Block (07:00 AM – 01:00 PM | 6 Hours)**
-
-- [x] **Chapter 2: Legal Procedure** _(07:00 AM – 08:30 AM | 1.5 Hours)_
-    - **Focus:** Inquest types (Magistrate vs. Police indications), Summons/Subpoena, Conduct Money, Hostile Witness, and the absolute goldmine: **Dying Declaration** vs. **Dying Deposition** (recording rules, medical consensus, and Section 32 Act) [p. 211, 212, 213].
-- [x] **Chapter 3: Medical Law and Ethics** _(08:30 AM – 10:00 AM | 1.5 Hours)_
-    - **Focus:** State Medical Council vs. National Medical Commission, **Infamous Conduct/Professional Misconduct** (definition and examples like adultery, dichotomy/splitting fees, and covering), **Medical Negligence** (definition, ingredients, defenses, and the doctrine of _Res ipsa loquitur_), and **Consent in Medical Practice** (types, age limits, and rules under Sec 92 IPC) [p. 214, 215, 216, 217].
-- [x] **Chapter 4: Identification** _(10:00 AM – 11:30 AM | 1.5 Hours)_
-    - **Focus:** **Dactylography** (types of fingerprints, role in identification), **Age Estimation** (Gustafson's dental method, Rule of Haase), Sex determination (Barr body, nuclear sexing), Lip prints (cheiloscopy), Poroscopy, Tattoo marks, and Bite marks medicolegal significance [p. 218, 219, 220].
-- [x] **Chapters 5, 6 & 7: Autopsy, Death & PM Changes** _(11:30 AM – 01:00 PM | 1.5 Hours)_
-    - **Focus:** Viscera preservation and dispatch, exhumation legalities, Somatic vs. Molecular death, Brainstem death, and Postmortem Changes: **Rigor Mortis** (mechanism, progress, conditions mimicking rigor mortis), **Postmortem Staining/Hypostasis** (differences from bruise), **Adipocere** formation, and **Mummification** [p. 222, 223, 224, 225, 226, 227].
-
----
-
-## o_Break: 01:00 PM – 02:00 PM (Lunch & Power Nap)_
-
-#### **☀️ Afternoon Block (02:00 PM – 07:00 PM | 5 Hours)**
-
-- [x] **Chapter 8: Mechanical Injuries** _(02:00 PM – 04:00 PM | 2 Hours)_
-    - **Focus:** Classification of mechanical injuries, differences between Bruise vs. Postmortem staining, Stab wounds (medicolegal importance, features to note), and **Firearm Injuries** (Choking, caliber, entry vs. exit wound differences, Pupil's rule, and Tandem bullet) [p. 228, 229, 230, 231].
-- [x] **Chapters 9 & 10: Regional Injuries & Wounds** _(04:00 PM – 05:30 PM | 1.5 Hours)_
-    - **Focus:** Fractures of the skull (six types), Extradural vs. Subdural hemorrhage, **Lucid Interval** in head injuries, Whiplash injury mechanism, **Grievous Hurt (Section 320 IPC)** definitions/8 criteria, and Torture types (Falanga) [p. 232, 233, 234].
-- [x] **Chapters 11, 12 & 13: Thermal Deaths, Starvation & Asphyxia** _(05:30 PM – 07:00 PM | 1.5 Hours)_
-    - **Focus:** Burns (antemortem vs. postmortem differences, Rule of Nine calculation, Pugilistic attitude), **Hanging vs. Strangulation** (detailed pathological differences, hyoid bone fracture trends), and **Drowning**(Freshwater vs. Saltwater pathophysiology, Diatom test significance, and signs of drowning) [p. 235, 236, 237, 238, 239].
+1. **Chapter 1: Epidemiology of Communicable Diseases**
+    - _Infectious Diseases:_ Tuberculosis (NTEP, MDR-TB), Leprosy (NLEP), COVID-19, Malaria, Dengue, Diarrhoeal Diseases, Rabies, STIs/HIV, Polio, Measles, Chickenpox, Helminths.
+2. **Chapter 2: Epidemiology of Non-Communicable Diseases (NCDs)**
+    - _Chronic Conditions:_ Diabetes Mellitus, Hypertension, Coronary Heart Disease, Stroke, Obesity, Blindness (NPCBVI), Cancers, Road Traffic Accidents.
+3. **Chapter 3: Maternal, Child & Adolescent Health (RMNCH+A)**
+    - _MCH Services:_ Antenatal/Intranatal/Postnatal Care, Essential Newborn Care, IMNCI, Under-Five Clinic, Growth Chart, Infant/Neonatal/Perinatal Mortality, School Health Services, Adolescent Health (ARSH).
+4. **Chapter 4: Demography & Family Planning**
+    - _Contraception & Welfare:_ Spacing Methods (IUDs, OCPs, Condoms), Terminal Methods, Cafeteria Approach, MTP Act & Amendments, Pearl Index, Demographic Cycle.
+5. **Chapter 5: Social & Behavioral Sciences, Mental Health & Medical Sociology**
+    - _Social Health:_ Family Unit & Functions, Problem Families, Culture & Acculturation, Social Psychology, Juvenile Delinquency, Mental Health, Drug Abuse, Elderly Health.
+6. **Chapter 6: Health Planning, Management & Healthcare Delivery System**
+    - _Public Health Admin:_ 3-Tier Healthcare System (Sub-centre, PHC, CHC, FRU), Grassroot Workers (ASHA, ANM, MLHP), Committees (Bhore, Mudaliar), National Health Policy 2017, Management Techniques (Gantt Chart, PERT/CPM, Network Analysis, Cost-Benefit/Cost-Effectiveness), Health Budgeting.
+7. **Chapter 7: Essential Medicines, National Health Programs & Disaster Management**
+    - _Programs & Security:_ Ayushman Bharat, Mission Indradhanush, JSY/JSSK, Essential Medicines List, Disaster Management Cycle & Triage, Social Security (ESI Act, Pensions).
 
 ---
 
-## _Break: 07:00 PM – 08:30 PM (Dinner & Relaxation)_
+3. High-Yield RGUHS Goldmines for Paper II
 
-#### **🌙 Night Block (08:30 PM – 11:30 PM | 3 Hours)**
+**Top Repeated Long Essays (10 Marks):**
 
-- [ ] **Chapters 15, 16 & 17: Impotence, Virginity & Abortion** _(08:30 PM – 09:30 PM | 1 Hour)_
-    - **Focus:** Artificial insemination legalities, Virginity signs, **MTP Act 1971** (indications, consensus required, complications of criminal abortion), and gestational boundaries [p. 240, 241, 242, 243].
-- [ ] **Chapters 18 & 19: Sexual Offences & Infant Deaths** _(09:30 PM – 11:00 PM | 1.5 Hours)_
-    - **Focus:** **Rape (Section 375 IPC)** definition and recent amendments, examination of victim and accused, unnatural sexual offenses (Sodomy, Bestiality, Buccal coitus), **Infanticide** definitions, and the **Hydrostatic test** (procedure and fallacies) [p. 244, 245, 246, 247, 248].
-- [ ] **Chapters 20 to 23: Miscellaneous Sec-I & Psychiatry** _(11:00 PM – 11:30 PM | 0.5 Hours)_
-    - **Focus:** Locard's principle of exchange, DNA fingerprinting source materials, delusions/hallucinations, and **McNaughten's rule of criminal responsibility** [p. 249, 250, 251, 252, 253].
-
----
-
-### 📅 DAY 2: Toxicology & High-Yield Revisions
-
-**Daily Focus:** Master General Toxicology protocols, specific poisons, clinical case scenarios, and active paper revisions.**Total Study Time:** 14 Hours
-
-#### **🌅 Morning Block (07:00 AM – 01:00 PM | 6 Hours)**
-
-- [ ] **Chapter 24: General Toxicology** _(07:00 AM – 09:00 AM | 2 Hours)_
-    - **Focus:** Poison classifications, **Gastric Lavage/Stomach Wash** procedure (contraindications and the organophosphorus compound exception), **Antidotes classification** (Mechanical, Chemical, Physiological, and Chelating agents with target metals), and **Universal Antidote** composition [p. 254, 255, 256].
-- [ ] **Chapter 25: Agricultural Poisons** _(09:00 AM – 10:30 AM | 1.5 Hours)_
-    - **Focus:** **Organophosphorus (OP) Poisoning** clinical case presentation (pinpoint pupils, kerosene-like breath, bradycardia, muscle fasciculations), mechanism of action, and **Atropine + Oximes (Pralidoxime) management protocol** [p. 257].
-- [ ] **Chapters 26, 27 & 28: Corrosives, Metallic & Inorganic Poisons** _(10:30 AM – 01:00 PM | 2.5 Hours)_
-    - **Focus:** Vitriologe/Vitriolage, **Chronic Lead Poisoning (Plumbism)** clinical signs (Burtonian blue line, wrist drop, punctate basophilia/erythrocyte stippling), Acute vs. Chronic Arsenic poisoning (differentiating arsenic poisoning from cholera), and **Phossy Jaw** (chronic phosphorus) [p. 257, 258, 259, 260].
+- **Diarrhoeal Diseases:** Clinical scenario (rice-water stools, cholera outbreak management, dehydration levels & WHO ORS).
+- **Leprosy:** Epidemiology, WHO classification, and National Leprosy Eradication Programme (NLEP) control measures.
+- **Diabetes Mellitus:** Diagnostic criteria (WHO), screening in a village, primary/secondary prevention.
+- **Three-Tier Healthcare Delivery System:** Structure, staffing, and population norms for Sub-centre, PHC, and CHC in India.
+- **Maternal & Infant Mortality:** Perinatal and Neonatal Mortality Rates, causes, and strategies to reduce them in India.
+- **MTP Act:** Legal circumstances, required medical consensus, and recent amendments.
 
 ---
 
-## _Break: 01:00 PM – 02:00 PM (Lunch & Power Nap)_
+4. 3-Day Complete Paper II Revision Timetable (To-Do List)
 
-#### **☀️ Afternoon Block (02:00 PM – 07:00 PM | 5 Hours)**
+This schedule assumes an **intensive 12–14 hours/day revision strategy** to cover the full Paper II syllabus in 3 days.
 
-- [ ] **Chapter 29: Organic Irritants (Snake Bites)** _(02:00 PM – 03:30 PM | 1.5 Hours)_
-    - **Focus:** Poisonous vs. non-poisonous snakes, **Russell's Viper** vs. **Cobra** (neurotoxic vs. vasculotoxic clinical features), first aid, and **Polyvalent Anti-Snake Venom (ASV)** dosage/administration protocol [p. 260, 261].
-- [ ] **Chapters 30, 31, 32 & 33: CNS Depressants, Deliriants & Psychotropics** _(03:30 PM – 05:30 PM | 2 Hours)_
-    - **Focus:** Methyl alcohol poisoning (antidote use), **Datura** (botanical features, active principles, clinical signs, and why it is the "ideal roadside poison"), Cocaine (magnan's bug/cocaine bugs), Cannabis, and **Body Packer's Syndrome** [p. 261, 262, 263, 264].
-- [ ] **Chapters 34, 35 & 36: Spinal, Cardiac & Asphyxiants** _(05:30 PM – 07:00 PM | 1.5 Hours)_
-    - **Focus:** Strychnine vs. Tetanus spasms, **Aconite** (Monkshood, active principles, **Hippus** clinical sign), **Carbon Monoxide (CO) Poisoning** clinical case scenario (defective bathroom geysers, cherry-red postmortem staining), and acute Cyanide management [p. 264, 265, 266].
+📅 **DAY 1: Communicable Diseases, NCDs & Family Planning**
+
+_Goal: Complete heavy clinical topics and contraception._
+
+**🌅 Morning Block (07:00 AM – 01:00 PM | 6 Hours) — Communicable Diseases**
+
+- [ ] **Tuberculosis:** MDR-TB / XDR-TB definition, NTEP diagnostic algorithm, and management of drug-sensitive TB.
+- [ ] **Leprosy:** Epidemiological determinants, WHO classification (Pauci vs. Multibacillary), and NLEP measures.
+- [ ] **Vector-Borne Diseases:** Malaria (Vivax/Falciparum treatment, Flea indices), Dengue preventive measures, and NVBDCP strategies.
+- [ ] **Diarrhoeal Diseases & COVID-19:** WHO ORS composition, IMNCI dehydration management, COVID-19 contact tracing, and vaccination schedules.
+- [ ] **STIs & Rabies:** Syndromic management colour-coded packets, HIV sentinel surveillance, and Rabies pre/post-exposure prophylaxis.
+
+**☀️ Afternoon Block (02:00 PM – 06:00 PM | 4 Hours) — Non-Communicable Diseases**
+
+- [ ] **Diabetes Mellitus:** WHO diagnostic criteria, village screening protocol, and levels of prevention.
+- [ ] **Hypertension & CHD:** WHO recommended population/high-risk approaches, Rule of Halves, and lifestyle interventions.
+- [ ] **Obesity & Blindness:** WHO BMI classification, NPCBVI objectives, and causes of preventable blindness.
+
+**🌙 Night Block (07:00 PM – 11:00 PM | 4 Hours) — Demography & Family Planning**
+
+- [ ] **Cafeteria Approach:** Definition, advantages, and classification of spacing methods.
+- [ ] **Hormonal Contraceptives & IUDs:** Types, contraindications, Mini-pill, and Pearl Index definition.
+- [ ] **MTP Act:** Legal indications, practitioner requirements, and 2021 amendments.
 
 ---
 
-## _Break: 07:00 PM – 08:30 PM (Dinner & Relaxation)_
+📅 **DAY 2: Health Delivery, Planning, Management & Social Sciences**
 
-#### **🌙 Night Block (08:30 PM – 11:30 PM | 3 Hours)**
+_Goal: Master health administration, management techniques, and sociology._
 
-- [ ] **Chapters 37, 38 & Appendices** _(08:30 PM – 09:30 PM | 1 Hour)_
-    - **Focus:** Paracetamol and Aspirin toxicity, Botulism, and statutory legal acts: **PNDT Act 1994**, **COPRA (Consumer Protection Act)**, and Workman's Compensation Act [p. 266, 267].
-- [ ] **RGUHS High-Yield 80/20 Revision & MCQ Practice** _(09:30 PM – 11:30 PM | 2 Hours)_
-    - **Focus:** Revise the top-yield repeating questions:
-        - Dying Declaration vs. Deposition [p. 213]
-        - Medical Negligence vs. Infamous conduct [p. 214, 215]
-        - Rigor mortis stages [p. 226]
-        - Hanging vs. Strangulation [p. 238]
-        - MTP Act amendments [p. 244]
-        - OP compound treatment and stomach wash contraindications [p. 256, 257]
+**🌅 Morning Block (07:00 AM – 01:00 PM | 6 Hours) — Healthcare Delivery System**
+
+- [ ] **3-Tier System:** Sub-centre, PHC, CHC population norms, infrastructure, and Health & Wellness Centres (Ayushman Bharat).
+- [ ] **Grassroot Health Workers:** ASHA selection criteria and key functions, ANM/Female Health Worker, and Mid-Level Health Providers (MLHP).
+- [ ] **Roles & Responsibilities:** Medical Officer in PHC management functions and First Referral Unit (FRU) services.
+- [ ] **Health Committees & Policies:** Bhore Committee recommendations and National Health Policy 2017 goals.
+
+**☀️ Afternoon Block (02:00 PM – 06:00 PM | 4 Hours) — Health Planning & Management**
+
+- [ ] **Quantitative Management Techniques:** PERT, CPM, Cost-Effectiveness vs. Cost-Benefit Analysis, and Network Analysis.
+- [ ] **Monitoring Tools:** Gantt Chart construction and uses, Work Sampling, and Input-Output Analysis.
+- [ ] **Health Economics:** Health Budgeting types, Catastrophic Health Expenditure, and NITI Aayog's role.
+
+**🌙 Night Block (07:00 PM – 11:00 PM | 4 Hours) — Social & Behavioral Sciences**
+
+- [ ] **Sociology Concepts:** Family definition, functions, problem families, Culture, and Acculturation.
+- [ ] **Mental Health & Addictions:** Warning signs of poor mental health, National Mental Health Program, Tobacco/Alcohol legislative measures, and Drug abuse risk factors.
+- [ ] **Juvenile Delinquency:** Causes, preventive measures, and social security for the elderly (Sandhya Suraksha / HelpAge India).
 
 ---
 
-💡 **Tip for Success:** Do not spend time reading long paragraphs. Focus strictly on definitions, classifications, side-by-side differentiation tables (like Hanging vs. Strangulation), and clinical toxicological management protocols.
+📅 **DAY 3: Maternal & Child Health, Health Programs & Final Paper Polish**
 
-Would you like me to generate a 20-question FMT high-yield rapid practice quiz to test your recall on these specific topics as you study?
+_Goal: Finish RMNCH+A, National Health Schemes, and high-yield MCQs/Diagrams._
+
+**🌅 Morning Block (07:00 AM – 01:00 PM | 6 Hours) — RMNCH+A & Pediatrics**
+
+- [ ] **Mortality Rates:** Infant Mortality Rate (IMR), Perinatal Mortality Rate (PMR), and Neonatal Mortality Rate (NMR) formulas & prevention strategies.
+- [ ] **Child Health & IMNCI:** IMNCI principles, Essential Newborn Care, Under-Five Clinic services, and Growth Chart uses.
+- [ ] **Maternal & Adolescent Health:** Antenatal care objectives, Postnatal care complications, ARSH clinics, and Adolescent health issues.
+- [ ] **School Health Services:** Goals, components, and screening programs for students.
+
+**☀️ Afternoon Block (02:00 PM – 06:00 PM | 4 Hours) — National Health Programs & Schemes**
+
+- [ ] **Maternal & Child Schemes:** Janani Suraksha Yojana (JSY), Janani Shishu Suraksha Karyakram (JSSK), NSSK, and Mission Indradhanush.
+- [ ] **National Welfare Programs:** Ayushman Bharat (PM-JAY), LaQshya, Rashtriya Bal Swasthya Karyakram (RBSK - 4Ds), and POSHAN Abhiyaan.
+- [ ] **Essential Medicines & Social Security:** PHC Essential Medicines list, ESI Act benefits, and Consumer Protection Act (COPRA) rights.
+
+**🌙 Night Block (07:00 PM – 11:00 PM | 4 Hours) — Disaster Management & Rapid MCQ/PYQ Polish**
+
+- [ ] **Disaster Management:** Construct the Disaster Management Cycle diagram and know Triage colour coding (Red, Yellow, Green, Black).
+- [ ] **High-Yield Diagrams Practice:** Draw Gantt Chart, Disaster Cycle, Under-Five Clinic symbol, and Growth Chart.
+- [ ] **Paper II MCQs Rapid Review:** Practice 2023–2025 Paper II MCQs (e.g., Sub-centre population norms, SAFE strategy, IPHS standards, and WHO dehydration solutions).
