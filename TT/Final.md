@@ -85,13 +85,13 @@ _Goal: Master health administration, management techniques, and sociology._
 - [x] **3-Tier System:** Sub-centre, PHC, CHC population norms, infrastructure, and Health & Wellness Centres (Ayushman Bharat).
 - [x] **Grassroot Health Workers:** ASHA selection criteria and key functions, ANM/Female Health Worker, and Mid-Level Health Providers (MLHP).
 - [x] **Roles & Responsibilities:** Medical Officer in PHC management functions and First Referral Unit (FRU) services.
-- [ ] **Health Committees & Policies:** Bhore Committee recommendations and National Health Policy 2017 goals.
+- [x] **Health Committees & Policies:** Bhore Committee recommendations and National Health Policy 2017 goals.
 
 **☀️ Afternoon Block (02:00 PM – 06:00 PM | 4 Hours) — Health Planning & Management**
 
-- [ ] **Quantitative Management Techniques:** PERT, CPM, Cost-Effectiveness vs. Cost-Benefit Analysis, and Network Analysis.
-- [ ] **Monitoring Tools:** Gantt Chart construction and uses, Work Sampling, and Input-Output Analysis.
-- [ ] **Health Economics:** Health Budgeting types, Catastrophic Health Expenditure, and NITI Aayog's role.
+- [x] **Quantitative Management Techniques:** PERT, CPM, Cost-Effectiveness vs. Cost-Benefit Analysis, and Network Analysis.
+- [x] **Monitoring Tools:** Gantt Chart construction and uses, Work Sampling, and Input-Output Analysis.
+- [x] **Health Economics:** Health Budgeting types, Catastrophic Health Expenditure, and NITI Aayog's role.
 
 **🌙 Night Block (07:00 PM – 11:00 PM | 4 Hours) — Social & Behavioral Sciences**
 
