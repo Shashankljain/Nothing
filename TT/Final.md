@@ -95,7 +95,7 @@ _Goal: Master health administration, management techniques, and sociology._
 
 **🌙 Night Block (07:00 PM – 11:00 PM | 4 Hours) — Social & Behavioral Sciences**
 
-- [ ] **Sociology Concepts:** Family definition, functions, problem families, Culture, and Acculturation.
+- [x] **Sociology Concepts:** Family definition, functions, problem families, Culture, and Acculturation.
 - [ ] **Mental Health & Addictions:** Warning signs of poor mental health, National Mental Health Program, Tobacco/Alcohol legislative measures, and Drug abuse risk factors.
 - [ ] **Juvenile Delinquency:** Causes, preventive measures, and social security for the elderly (Sandhya Suraksha / HelpAge India).
 
