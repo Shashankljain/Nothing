@@ -1,14 +1,14 @@
 Weightage Distribution by Domain:
 
-|Rank|Domain / Module|Approx. Marks Weightage|Priority Level|
-|---|---|---|---|
-|**1**|**Epidemiology of Communicable Diseases**|25–30 Marks|🔴 **High Priority**|
-|**2**|**Health Planning, Management & Health Administration**|20–25 Marks|🔴 **High Priority**|
-|**3**|**Reproductive, Maternal, Newborn, Child & Adolescent Health (RMNCH+A)**|15–20 Marks|🔴 **High Priority**|
-|**4**|**Epidemiology of Non-Communicable Diseases (NCDs)**|10–15 Marks|🟡 **Medium Priority**|
-|**5**|**Social Sciences, Behavioral Sciences & Mental Health**|10–12 Marks|🟡 **Medium Priority**|
-|**6**|**Demography & Family Planning**|8–10 Marks|🟡 **Medium Priority**|
-|**7**|**Essential Medicines, Social Security & Disaster Management**|5–8 Marks|🟢 **Low Priority**|
+| Rank  | Domain / Module                                                          | Approx. Marks Weightage | Priority Level         |
+| ----- | ------------------------------------------------------------------------ | ----------------------- | ---------------------- |
+| **1** | **Epidemiology of Communicable Diseases**                                | 25–30 Marks             | 🔴 **High Priority**   |
+| **2** | **Health Planning, Management & Health Administration**                  | 20–25 Marks             | 🔴 **High Priority**   |
+| **3** | **Reproductive, Maternal, Newborn, Child & Adolescent Health (RMNCH+A)** | 15–20 Marks             | 🔴 **High Priority**   |
+| **4** | **Epidemiology of Non-Communicable Diseases (NCDs)**                     | 10–15 Marks             | 🟡 **Medium Priority** |
+| **5** | **Social Sciences, Behavioral Sciences & Mental Health**                 | 10–12 Marks             | 🟡 **Medium Priority** |
+| **6** | **Demography & Family Planning**                                         | 8–10 Marks              | 🟡 **Medium Priority** |
+| **7** | **Essential Medicines, Social Security & Disaster Management**           | 5–8 Marks               | 🟢 **Low Priority**    |
 
 ---
 
