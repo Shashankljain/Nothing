@@ -11,17 +11,14 @@
             "id": "c41ed355342d2f1e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "RCH.canvas",
-                "viewState": {
-                  "x": 48.47494054747861,
-                  "y": 562.0389630694939,
-                  "zoom": 0
-                }
+                "file": "Health programmes in India.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "RCH"
+              "icon": "lucide-file",
+              "title": "Health programmes in India"
             }
           }
         ]
@@ -117,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "RCH.canvas",
+            "file": "Health programmes in India.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "RCH.canvas",
+            "file": "Health programmes in India.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -175,8 +172,8 @@
   },
   "active": "c41ed355342d2f1e",
   "lastOpenFiles": [
-    "RCH.md",
     "RCH.canvas",
+    "RCH.md",
     "Health programmes in India.md",
     "NRHM.md",
     "Blindness.md",
@@ -201,7 +198,6 @@
     "Mass approach.md",
     "Individual approach.md",
     "Group approach.md",
-    "Health edu.md",
     "image 16.jpg",
     "Pasted image 20260903151954.png",
     "Pasted image 20260903151940.png",
