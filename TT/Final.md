@@ -1,14 +1,14 @@
 Weightage Distribution by Domain:
 
-|Rank|Domain / Module|Approx. Marks Weightage|Priority Level|
-|---|---|---|---|
-|**1**|**Epidemiology of Communicable Diseases**|25–30 Marks|🔴 **High Priority**|
-|**2**|**Health Planning, Management & Health Administration**|20–25 Marks|🔴 **High Priority**|
-|**3**|**Reproductive, Maternal, Newborn, Child & Adolescent Health (RMNCH+A)**|15–20 Marks|🔴 **High Priority**|
-|**4**|**Epidemiology of Non-Communicable Diseases (NCDs)**|10–15 Marks|🟡 **Medium Priority**|
-|**5**|**Social Sciences, Behavioral Sciences & Mental Health**|10–12 Marks|🟡 **Medium Priority**|
-|**6**|**Demography & Family Planning**|8–10 Marks|🟡 **Medium Priority**|
-|**7**|**Essential Medicines, Social Security & Disaster Management**|5–8 Marks|🟢 **Low Priority**|
+| Rank  | Domain / Module                                                          | Approx. Marks Weightage | Priority Level         |
+| ----- | ------------------------------------------------------------------------ | ----------------------- | ---------------------- |
+| **1** | **Epidemiology of Communicable Diseases**                                | 25–30 Marks             | 🔴 **High Priority**   |
+| **2** | **Health Planning, Management & Health Administration**                  | 20–25 Marks             | 🔴 **High Priority**   |
+| **3** | **Reproductive, Maternal, Newborn, Child & Adolescent Health (RMNCH+A)** | 15–20 Marks             | 🔴 **High Priority**   |
+| **4** | **Epidemiology of Non-Communicable Diseases (NCDs)**                     | 10–15 Marks             | 🟡 **Medium Priority** |
+| **5** | **Social Sciences, Behavioral Sciences & Mental Health**                 | 10–12 Marks             | 🟡 **Medium Priority** |
+| **6** | **Demography & Family Planning**                                         | 8–10 Marks              | 🟡 **Medium Priority** |
+| **7** | **Essential Medicines, Social Security & Disaster Management**           | 5–8 Marks               | 🟢 **Low Priority**    |
 
 ---
 
@@ -64,9 +64,9 @@ _Goal: Complete heavy clinical topics and contraception._
 
 **☀️ Afternoon Block (02:00 PM – 06:00 PM | 4 Hours) — Non-Communicable Diseases**
 
-- [ ] **Diabetes Mellitus:** WHO diagnostic criteria, village screening protocol, and levels of prevention.
-- [ ] **Hypertension & CHD:** WHO recommended population/high-risk approaches, Rule of Halves, and lifestyle interventions.
-- [ ] **Obesity & Blindness:** WHO BMI classification, NPCBVI objectives, and causes of preventable blindness.
+- [x] **Diabetes Mellitus:** WHO diagnostic criteria, village screening protocol, and levels of prevention.
+- [x] **Hypertension & CHD:** WHO recommended population/high-risk approaches, Rule of Halves, and lifestyle interventions.
+- [x] **Obesity & Blindness:** WHO BMI classification, NPCBVI objectives, and causes of preventable blindness.
 
 **🌙 Night Block (07:00 PM – 11:00 PM | 4 Hours) — Demography & Family Planning**
 
@@ -83,21 +83,21 @@ _Goal: Master health administration, management techniques, and sociology._
 **🌅 Morning Block (07:00 AM – 01:00 PM | 6 Hours) — Healthcare Delivery System**
 
 - [x] **3-Tier System:** Sub-centre, PHC, CHC population norms, infrastructure, and Health & Wellness Centres (Ayushman Bharat).
-- [ ] **Grassroot Health Workers:** ASHA selection criteria and key functions, ANM/Female Health Worker, and Mid-Level Health Providers (MLHP).
-- [ ] **Roles & Responsibilities:** Medical Officer in PHC management functions and First Referral Unit (FRU) services.
-- [ ] **Health Committees & Policies:** Bhore Committee recommendations and National Health Policy 2017 goals.
+- [x] **Grassroot Health Workers:** ASHA selection criteria and key functions, ANM/Female Health Worker, and Mid-Level Health Providers (MLHP).
+- [x] **Roles & Responsibilities:** Medical Officer in PHC management functions and First Referral Unit (FRU) services.
+- [x] **Health Committees & Policies:** Bhore Committee recommendations and National Health Policy 2017 goals.
 
 **☀️ Afternoon Block (02:00 PM – 06:00 PM | 4 Hours) — Health Planning & Management**
 
-- [ ] **Quantitative Management Techniques:** PERT, CPM, Cost-Effectiveness vs. Cost-Benefit Analysis, and Network Analysis.
-- [ ] **Monitoring Tools:** Gantt Chart construction and uses, Work Sampling, and Input-Output Analysis.
-- [ ] **Health Economics:** Health Budgeting types, Catastrophic Health Expenditure, and NITI Aayog's role.
+- [x] **Quantitative Management Techniques:** PERT, CPM, Cost-Effectiveness vs. Cost-Benefit Analysis, and Network Analysis.
+- [x] **Monitoring Tools:** Gantt Chart construction and uses, Work Sampling, and Input-Output Analysis.
+- [x] **Health Economics:** Health Budgeting types, Catastrophic Health Expenditure, and NITI Aayog's role.
 
 **🌙 Night Block (07:00 PM – 11:00 PM | 4 Hours) — Social & Behavioral Sciences**
 
-- [ ] **Sociology Concepts:** Family definition, functions, problem families, Culture, and Acculturation.
+- [x] **Sociology Concepts:** Family definition, functions, problem families, Culture, and Acculturation.
 - [ ] **Mental Health & Addictions:** Warning signs of poor mental health, National Mental Health Program, Tobacco/Alcohol legislative measures, and Drug abuse risk factors.
-- [ ] **Juvenile Delinquency:** Causes, preventive measures, and social security for the elderly (Sandhya Suraksha / HelpAge India).
+- [x] **Juvenile Delinquency:** Causes, preventive measures, and social security for the elderly (Sandhya Suraksha / HelpAge India).
 
 ---
 
@@ -107,10 +107,10 @@ _Goal: Finish RMNCH+A, National Health Schemes, and high-yield MCQs/Diagrams._
 
 **🌅 Morning Block (07:00 AM – 01:00 PM | 6 Hours) — RMNCH+A & Pediatrics**
 
-- [ ] **Mortality Rates:** Infant Mortality Rate (IMR), Perinatal Mortality Rate (PMR), and Neonatal Mortality Rate (NMR) formulas & prevention strategies.
+- [x] **Mortality Rates:** Infant Mortality Rate (IMR), Perinatal Mortality Rate (PMR), and Neonatal Mortality Rate (NMR) formulas & prevention strategies.
 - [ ] **Child Health & IMNCI:** IMNCI principles, Essential Newborn Care, Under-Five Clinic services, and Growth Chart uses.
 - [ ] **Maternal & Adolescent Health:** Antenatal care objectives, Postnatal care complications, ARSH clinics, and Adolescent health issues.
-- [ ] **School Health Services:** Goals, components, and screening programs for students.
+- [x] **School Health Services:** Goals, components, and screening programs for students.
 
 **☀️ Afternoon Block (02:00 PM – 06:00 PM | 4 Hours) — National Health Programs & Schemes**
 
