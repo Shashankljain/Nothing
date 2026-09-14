@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICDS.md",
+                "file": "Health programmes in India.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ICDS"
+              "title": "Health programmes in India"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ICDS.md",
+            "file": "Health programmes in India.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ICDS.md",
+            "file": "Health programmes in India.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -172,18 +172,20 @@
   },
   "active": "c41ed355342d2f1e",
   "lastOpenFiles": [
+    "IDSP.md",
     "Health programmes in India.md",
-    "NCCP.md",
-    "NLEP.md",
+    "NACP.md",
     "RNTCP.md",
     "Case finding tool.md",
+    "ICDS.md",
+    "NCCP.md",
+    "NLEP.md",
     "NMHP.md",
     "RCH.canvas",
     "RCH.md",
     "NRHM.md",
     "Blindness.md",
     "Vision 2020.md",
-    "NACP.md",
     "NACP (Different).md",
     "ICTC.md",
     "NVBDCP.md",
@@ -197,8 +199,6 @@
     "Symposium.md",
     "Types of communication.md",
     "Barrier of health education.md",
-    "Methods of communication.md",
-    "Mass approach.md",
     "image 16.jpg",
     "Pasted image 20260903151954.png",
     "Pasted image 20260903151940.png",
