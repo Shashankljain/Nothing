@@ -64,9 +64,9 @@ _Goal: Complete heavy clinical topics and contraception._
 
 **☀️ Afternoon Block (02:00 PM – 06:00 PM | 4 Hours) — Non-Communicable Diseases**
 
-- [ ] **Diabetes Mellitus:** WHO diagnostic criteria, village screening protocol, and levels of prevention.
-- [ ] **Hypertension & CHD:** WHO recommended population/high-risk approaches, Rule of Halves, and lifestyle interventions.
-- [ ] **Obesity & Blindness:** WHO BMI classification, NPCBVI objectives, and causes of preventable blindness.
+- [x] **Diabetes Mellitus:** WHO diagnostic criteria, village screening protocol, and levels of prevention.
+- [x] **Hypertension & CHD:** WHO recommended population/high-risk approaches, Rule of Halves, and lifestyle interventions.
+- [x] **Obesity & Blindness:** WHO BMI classification, NPCBVI objectives, and causes of preventable blindness.
 
 **🌙 Night Block (07:00 PM – 11:00 PM | 4 Hours) — Demography & Family Planning**
 
