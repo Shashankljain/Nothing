@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NMHP.md",
+                "file": "ICDS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NMHP"
+              "title": "ICDS"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "NMHP.md",
+            "file": "ICDS.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "NMHP.md",
+            "file": "ICDS.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -173,6 +173,11 @@
   "active": "c41ed355342d2f1e",
   "lastOpenFiles": [
     "Health programmes in India.md",
+    "NCCP.md",
+    "NLEP.md",
+    "RNTCP.md",
+    "Case finding tool.md",
+    "NMHP.md",
     "RCH.canvas",
     "RCH.md",
     "NRHM.md",
@@ -181,8 +186,6 @@
     "NACP.md",
     "NACP (Different).md",
     "ICTC.md",
-    "RNTCP.md",
-    "Case finding tool.md",
     "NVBDCP.md",
     "Balanced diet.md",
     "NUTRITION.md",
@@ -196,8 +199,6 @@
     "Barrier of health education.md",
     "Methods of communication.md",
     "Mass approach.md",
-    "Individual approach.md",
-    "Group approach.md",
     "image 16.jpg",
     "Pasted image 20260903151954.png",
     "Pasted image 20260903151940.png",
