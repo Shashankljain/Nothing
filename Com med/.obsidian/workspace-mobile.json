@@ -11,14 +11,17 @@
             "id": "c41ed355342d2f1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Health programmes in India.md",
-                "mode": "source",
-                "source": false
+                "file": "RCH.canvas",
+                "viewState": {
+                  "x": -565.5105353722684,
+                  "y": 601.7405675791001,
+                  "zoom": 1
+                }
               },
-              "icon": "lucide-file",
-              "title": "Health programmes in India"
+              "icon": "lucide-layout-dashboard",
+              "title": "RCH"
             }
           }
         ]
@@ -114,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Health programmes in India.md",
+            "file": "RCH.canvas",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Health programmes in India.md",
+            "file": "RCH.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -172,8 +175,10 @@
   },
   "active": "c41ed355342d2f1e",
   "lastOpenFiles": [
-    "NRHM.md",
+    "RCH.md",
+    "RCH.canvas",
     "Health programmes in India.md",
+    "NRHM.md",
     "Blindness.md",
     "Vision 2020.md",
     "NACP.md",
@@ -197,7 +202,6 @@
     "Individual approach.md",
     "Group approach.md",
     "Health edu.md",
-    "Health edu vs propaganda.md",
     "image 16.jpg",
     "Pasted image 20260903151954.png",
     "Pasted image 20260903151940.png",
@@ -208,7 +212,6 @@
     "Pasted image 20260903145502.png",
     "Pasted image 20260903145452.png",
     "Pasted image 20260902131928.png",
-    "RCH.canvas",
     "Untitled.base",
     "BGS Road 9.m4a",
     "Untitled.canvas",
