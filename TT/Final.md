@@ -97,7 +97,7 @@ _Goal: Master health administration, management techniques, and sociology._
 
 - [x] **Sociology Concepts:** Family definition, functions, problem families, Culture, and Acculturation.
 - [ ] **Mental Health & Addictions:** Warning signs of poor mental health, National Mental Health Program, Tobacco/Alcohol legislative measures, and Drug abuse risk factors.
-- [ ] **Juvenile Delinquency:** Causes, preventive measures, and social security for the elderly (Sandhya Suraksha / HelpAge India).
+- [x] **Juvenile Delinquency:** Causes, preventive measures, and social security for the elderly (Sandhya Suraksha / HelpAge India).
 
 ---
 
@@ -110,7 +110,7 @@ _Goal: Finish RMNCH+A, National Health Schemes, and high-yield MCQs/Diagrams._
 - [x] **Mortality Rates:** Infant Mortality Rate (IMR), Perinatal Mortality Rate (PMR), and Neonatal Mortality Rate (NMR) formulas & prevention strategies.
 - [ ] **Child Health & IMNCI:** IMNCI principles, Essential Newborn Care, Under-Five Clinic services, and Growth Chart uses.
 - [ ] **Maternal & Adolescent Health:** Antenatal care objectives, Postnatal care complications, ARSH clinics, and Adolescent health issues.
-- [ ] **School Health Services:** Goals, components, and screening programs for students.
+- [x] **School Health Services:** Goals, components, and screening programs for students.
 
 **☀️ Afternoon Block (02:00 PM – 06:00 PM | 4 Hours) — National Health Programs & Schemes**
 
