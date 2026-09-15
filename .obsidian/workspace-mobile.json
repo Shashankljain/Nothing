@@ -93,17 +93,14 @@
             "id": "33d165aaf16d2905",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Com med/RCH.canvas",
-                "viewState": {
-                  "x": -267.5,
-                  "y": 639.5,
-                  "zoom": 0
-                }
+                "file": "Com med/Health programmes in India.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "RCH"
+              "icon": "lucide-file",
+              "title": "Health programmes in India"
             }
           },
           {
@@ -228,7 +225,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Com med/RCH.canvas",
+            "file": "Com med/Health programmes in India.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -286,11 +283,11 @@
   },
   "active": "33d165aaf16d2905",
   "lastOpenFiles": [
+    "Com med/RCH.canvas",
     "Com med/Health programmes in India.md",
     "Com med/NLEP.md",
     "Com med/RNTCP.md",
     "Com med/NRHM.md",
-    "Com med/RCH.canvas",
     "Com med/NSSK.md",
     "TT/Final.md",
     "Com med/Geriatrics health edu.md",
@@ -312,7 +309,6 @@
     "Forensic/Maceration.md",
     "Forensic/Infanticide.md",
     "Forensic/Infant death.md",
-    "Forensic/Hydrostatic test.md",
     "Forensic/image 104.jpg",
     "Forensic/image 103.jpg",
     "IMG_20260907_231600767.jpg",
