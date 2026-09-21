@@ -144,9 +144,23 @@
               "icon": "lucide-file",
               "title": "Gen med"
             }
+          },
+          {
+            "id": "b78cbdad073ca960",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Surgery.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Surgery"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -295,8 +309,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "fa50dfcbbd81332b",
+  "active": "b78cbdad073ca960",
   "lastOpenFiles": [
+    "Surgery.md",
     "TT/Gen med.md",
     "Prompts/Forensic.md",
     "Prompts/Com med.md",
@@ -323,7 +338,6 @@
     "Com med/FP, FN.md",
     "Com med/Lead time.md",
     "Com med/Food toxicity.md",
-    "Com med/Communication for Health education.md",
     "Forensic/image 104.jpg",
     "Forensic/image 103.jpg",
     "IMG_20260907_231600767.jpg",
