@@ -137,7 +137,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TT/Gen med.md",
+                "file": "Prompts/Gen med.md",
                 "mode": "source",
                 "source": false
               },
@@ -151,7 +151,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Surgery.md",
+                "file": "Prompts/Surgery.md",
                 "mode": "source",
                 "source": false
               },
@@ -309,10 +309,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "b78cbdad073ca960",
+  "active": "fa50dfcbbd81332b",
   "lastOpenFiles": [
-    "Surgery.md",
-    "TT/Gen med.md",
+    "Prompts/Surgery.md",
+    "Prompts/Gen med.md",
     "Prompts/Forensic.md",
     "Prompts/Com med.md",
     "Com med/Health programmes in India.md",
