@@ -1,0 +1,6 @@
+![[Pasted image 20260803175123.png]]
+![[Pasted image 20260803175143.jpg]]
+![[Pasted image 20260803175157.jpg]]
+![[Pasted image 20260803175211.jpg]]
+![[Pasted image 20260803175223.jpg]]
+[[Screening of disease]]
