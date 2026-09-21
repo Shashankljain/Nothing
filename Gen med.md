@@ -805,9 +805,9 @@ Examples:
 - Drug adverse effects
 - Differential diagnoses
 
-Keep mnemonics as the name of topic (if possible) easy to remember.
+Keep mnemonics as the name of topic (if possible)  or related to that topic ,easy to remember.
 Or
-Make a memory palace 
+Make a memory palace...mention the place and keep it different for all different topics
 
 ---
 
@@ -868,16 +868,6 @@ Make them simple enough that I can reproduce them in an examination.
 
 ---
 
-42. CURRENT / GUIDELINE-BASED INFORMATION
-
-When current recommendations are relevant:
-
-- Mention the relevant guideline/organization and year.
-- Distinguish current recommendations from traditional textbook teaching.
-- If treatment recommendations vary between guidelines, mention the variation briefly.
-- Do not present uncertain or changing recommendations as absolute facts.
-
-For an Indian MBBS student, prioritize accepted Indian clinical practice and standard undergraduate teaching where appropriate.
 
 ---
 
@@ -891,87 +881,6 @@ Include important laboratory values, diagnostic cut-offs, severity thresholds an
 
 ---
 
-44. FINAL QUICK REVISION
-
-At the end provide:
-
-A. QUICK REVISION NOTES
-
-Short bullets covering the complete topic.
-
-B. ONE-PAGE EXAM SUMMARY
-
-Compress the entire topic into:
-
-Definition
-↓
-Etiology
-↓
-Classification
-↓
-Pathogenesis
-↓
-Clinical features
-↓
-Investigations
-↓
-Diagnosis
-↓
-Treatment + Drug doses
-↓
-Complications
-↓
-Prevention
-
-C. LAST-MINUTE REVISION POINTS
-
-Only the highest-yield facts.
-
-Include:
-
-- Definition
-- Important classification
-- Classic clinical features
-- Key investigations
-- Diagnostic criteria
-- Drug of choice
-- Important drug doses
-- Major adverse effects
-- Major complications
-
----
-
-45. FINAL INTEGRATED CLINICAL FLOW
-
-Whenever appropriate, conclude with:
-
-Risk factors
-↓
-Etiology
-↓
-Pathogenesis
-↓
-Symptoms
-↓
-Signs
-↓
-Differential diagnosis
-↓
-Investigations
-↓
-Diagnosis
-↓
-Severity assessment
-↓
-Treatment
-↓
-Drug + Dose
-↓
-Response assessment
-↓
-Complications
-↓
-Follow-up / Prevention
 
 ---
 
@@ -1000,12 +909,3 @@ Follow-up / Prevention
 67. Do not make the answer unnecessarily postgraduate-level.
 68. Make the final model answer something an MBBS student can actually reproduce in a university examination.
 
-FINAL OBJECTIVE
-
-The final output should allow me to go from:
-
-“I know nothing about this disease”
-
-to:
-
-“I understand the disease → I can recognize it clinically → I can diagnose it → I know the treatment and important drug doses → I can answer viva questions → I can write a structured 10/15-mark university answer.”
