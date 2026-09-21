@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Com med/NRHM.md",
+                "file": "Prompts/Forensic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NRHM"
+              "title": "Forensic"
             }
           },
           {
@@ -130,9 +130,23 @@
               "icon": "lucide-file",
               "title": "Injuries application"
             }
+          },
+          {
+            "id": "143589c2d7f98eee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TT/Gen med.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gen med"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -162,7 +176,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Final",
+            "query": "Masque",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -225,7 +239,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Com med/NRHM.md",
+            "file": "Com med/Health programmes in India.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -281,10 +295,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "33d165aaf16d2905",
+  "active": "fa50dfcbbd81332b",
   "lastOpenFiles": [
+    "TT/Gen med.md",
+    "Prompts/Forensic.md",
+    "Prompts/Com med.md",
     "Com med/Health programmes in India.md",
+    "Pedistian.md",
+    "Forensic/Traumatic asphyxia.md",
     "Com med/RCH.canvas",
+    "Com med/NLEP.md",
+    "Com med/RNTCP.md",
+    "Com med/NRHM.md",
     "Com med/NSSK.md",
     "TT/Final.md",
     "Com med/Geriatrics health edu.md",
@@ -302,14 +324,6 @@
     "Com med/Lead time.md",
     "Com med/Food toxicity.md",
     "Com med/Communication for Health education.md",
-    "Com med/2.md",
-    "Forensic/Maceration.md",
-    "Forensic/Infanticide.md",
-    "Forensic/Infant death.md",
-    "Forensic/Hydrostatic test.md",
-    "Forensic/Forensic Psychiatry.md",
-    "Forensic/Responsibility.md",
-    "Forensic/Principles of bioethics.md",
     "Forensic/image 104.jpg",
     "Forensic/image 103.jpg",
     "IMG_20260907_231600767.jpg",
