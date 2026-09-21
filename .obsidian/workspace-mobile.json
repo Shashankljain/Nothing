@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompts/Com med.md",
+                "file": "Prompts/Forensic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Com med"
+              "title": "Forensic"
             }
           },
           {
@@ -283,6 +283,7 @@
   },
   "active": "33d165aaf16d2905",
   "lastOpenFiles": [
+    "Prompts/Com med.md",
     "Com med/Health programmes in India.md",
     "Pedistian.md",
     "Forensic/Traumatic asphyxia.md",
@@ -309,7 +310,6 @@
     "Com med/Communication for Health education.md",
     "Com med/2.md",
     "Forensic/Maceration.md",
-    "Forensic/Infanticide.md",
     "Forensic/image 104.jpg",
     "Forensic/image 103.jpg",
     "IMG_20260907_231600767.jpg",
