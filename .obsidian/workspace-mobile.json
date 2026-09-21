@@ -159,8 +159,7 @@
               "title": "Surgery"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -309,7 +308,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "fa50dfcbbd81332b",
+  "active": "83c9460f1b0632f5",
   "lastOpenFiles": [
     "Prompts/Surgery.md",
     "Prompts/Gen med.md",
