@@ -4,7 +4,7 @@ Generate a comprehensive,in depth, exam-oriented answer based strictly on the pr
 
 Requirements:
 
-1. Start with a brief introduction and clear definition(s).
+1. Start with a clear definition(s) only of textbook.
 2. Explain the topic from basic to advanced level in a logical sequence.
 3. Answer all important:
     * What?
