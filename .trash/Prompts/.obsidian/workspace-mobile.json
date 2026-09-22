@@ -1,37 +1,72 @@
 {
   "main": {
-    "id": "962ac0ba9bce7a3c",
+    "id": "3f38e47ad472bc84",
     "type": "split",
     "children": [
       {
-        "id": "b8baf0b1c4bb29ef",
+        "id": "24cb5c18b354ee85",
         "type": "tabs",
         "children": [
           {
-            "id": "20d460f3f3e7e2e6",
+            "id": "57dfcc87943ac2e7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "681ebf458a14039c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hi/Gen med.md",
+                "file": "Com med.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gen med"
+              "title": "Com med"
+            }
+          },
+          {
+            "id": "97df13313f38017e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "7854673cb43c335b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Surgery 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Surgery 2"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "569853c0a9b7e6b2",
+    "id": "2f0890d8e5fbc0b4",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "fa50dfcbbd81332b",
+        "id": "cef5f35c628b4560",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -46,12 +81,12 @@
         }
       },
       {
-        "id": "d4956e83b84f3118",
+        "id": "f8d004f3b4ce4cf9",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "Masque",
+            "query": "Surgery",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -63,13 +98,13 @@
         }
       },
       {
-        "id": "69d26898258077d1",
+        "id": "7d2f82722e3d4ee4",
         "type": "leaf",
         "state": {
           "type": "tag",
           "state": {
             "sortOrder": "frequency",
-            "useHierarchy": false,
+            "useHierarchy": true,
             "showSearch": false,
             "searchQuery": ""
           },
@@ -78,7 +113,7 @@
         }
       },
       {
-        "id": "f415abf0d98a1ba3",
+        "id": "9736e2cd20089f7d",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -92,7 +127,7 @@
         }
       },
       {
-        "id": "319acf335b440d89",
+        "id": "ef98d9f6ad8a5b89",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -105,35 +140,33 @@
     "currentTab": 0
   },
   "right": {
-    "id": "ce99aef3140d3453",
+    "id": "3f4865086f23c348",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "478348f0f84eacaa",
+        "id": "53b9bc3acae8a639",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Com med/Health programmes in India.md",
-            "collapseAll": true,
+            "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": false
+            "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
           "title": "Backlinks"
         }
       },
       {
-        "id": "4ce2e207b773f7d5",
+        "id": "21d57e75cbead325",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Com med/NRHM.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -142,12 +175,11 @@
         }
       },
       {
-        "id": "0f435e0e4fe0274b",
+        "id": "c105bfcbf7702438",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Com med/NRHM.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -170,54 +202,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "20d460f3f3e7e2e6",
+  "active": "97df13313f38017e",
   "lastOpenFiles": [
-    "Hi/Gen med.md",
-    "Hi/Surgery.md",
-    "Prompts",
-    "Hi",
-    "Prompts/Forensic.md",
-    "Prompts/Com med.md",
-    "Com med/Health programmes in India.md",
-    "Pedistian.md",
-    "Forensic/Traumatic asphyxia.md",
-    "Com med/RCH.canvas",
-    "Com med/NLEP.md",
-    "Com med/RNTCP.md",
-    "Com med/NRHM.md",
-    "Com med/NSSK.md",
-    "TT/Final.md",
-    "Com med/Geriatrics health edu.md",
-    "Com med/PM in geriatrics.md",
-    "Com med/Geriatrics.md",
-    "Com med/Counterfeit medicines.md",
-    "Com med/Essential medicine.md",
-    "Com med/Food fortification..md",
-    "Com med/NUTRITION.md",
-    "Com med/Aflatoxin.md",
-    "Com med/Screening test.md",
-    "Com med/Screening of disease.md",
-    "Com med/Screening vs diagnostic.md",
-    "Com med/FP, FN.md",
-    "Com med/Lead time.md",
-    "Forensic/image 104.jpg",
-    "Forensic/image 103.jpg",
-    "IMG_20260907_231600767.jpg",
-    "IMG_20260907_231058984.jpg",
-    "IMG_20260907_225713243.jpg",
-    "IMG_20260907_225709274 2.jpg",
-    "IMG_20260907_225709274 1.jpg",
-    "IMG_20260907_225709274.jpg",
-    "Forensic/image 102.jpg",
-    "Forensic/image 99.jpg",
-    "Forensic/Sign,symptom,feature,tx.canvas",
-    "Lyrics",
-    "TT",
-    "Com med/Untitled.base",
-    "Com med/BGS Road 9.m4a",
-    "Com med/Untitled.canvas",
-    "Untitled.canvas",
-    "Untitled.base",
-    "Test"
+    "Surgery 2.md",
+    "Singi.md",
+    "surgery.md",
+    "Forensic.md",
+    "Com med.md"
   ]
 }

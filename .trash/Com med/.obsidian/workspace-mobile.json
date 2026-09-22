@@ -1,48 +1,24 @@
 {
   "main": {
-    "id": "3f38e47ad472bc84",
+    "id": "4a0e24cd454706b0",
     "type": "split",
     "children": [
       {
-        "id": "24cb5c18b354ee85",
+        "id": "a7291a8225e3b2d9",
         "type": "tabs",
         "children": [
           {
-            "id": "57dfcc87943ac2e7",
+            "id": "c41ed355342d2f1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic.md",
+                "file": "MDG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forensic"
-            }
-          },
-          {
-            "id": "681ebf458a14039c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Com med.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Com med"
-            }
-          },
-          {
-            "id": "97df13313f38017e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "MDG"
             }
           }
         ]
@@ -51,17 +27,17 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2f0890d8e5fbc0b4",
+    "id": "e8ccbb92640dfccb",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "cef5f35c628b4560",
+        "id": "d796d9d35b2b4fca",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false,
+            "autoReveal": true,
             "showSearch": false,
             "searchQuery": ""
           },
@@ -70,12 +46,12 @@
         }
       },
       {
-        "id": "f8d004f3b4ce4cf9",
+        "id": "12878bf1ee52055f",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Symposium ",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -87,7 +63,7 @@
         }
       },
       {
-        "id": "7d2f82722e3d4ee4",
+        "id": "5c9a310396511968",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -102,7 +78,7 @@
         }
       },
       {
-        "id": "9736e2cd20089f7d",
+        "id": "2746c9313560bcfa",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -116,7 +92,7 @@
         }
       },
       {
-        "id": "ef98d9f6ad8a5b89",
+        "id": "6b0dd30fb5344b60",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -129,34 +105,35 @@
     "currentTab": 0
   },
   "right": {
-    "id": "3f4865086f23c348",
+    "id": "199b396c048b2968",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "53b9bc3acae8a639",
+        "id": "9708d2054976b3d4",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Forensic.md",
-            "collapseAll": false,
+            "file": "MDG.md",
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+            "unlinkedCollapsed": false
           },
           "icon": "links-coming-in",
           "title": "Backlinks"
         }
       },
       {
-        "id": "21d57e75cbead325",
+        "id": "d74be4999ff38ecc",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "MDG.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -165,11 +142,12 @@
         }
       },
       {
-        "id": "c105bfcbf7702438",
+        "id": "f501b8a52ad9eb37",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
+            "file": "Iodized salt.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -192,10 +170,50 @@
       "bases:Create new base": false
     }
   },
-  "active": "57dfcc87943ac2e7",
+  "active": "d796d9d35b2b4fca",
   "lastOpenFiles": [
-    "Singi.md",
-    "Com med.md",
-    "Forensic.md"
+    "2.md",
+    "MDG.md",
+    "SDG.md",
+    "RNTCP.md",
+    "Health programmes in India.md",
+    "IDSP.md",
+    "NACP.md",
+    "Case finding tool.md",
+    "ICDS.md",
+    "NCCP.md",
+    "NLEP.md",
+    "NMHP.md",
+    "RCH.canvas",
+    "RCH.md",
+    "NRHM.md",
+    "Blindness.md",
+    "Vision 2020.md",
+    "NACP (Different).md",
+    "ICTC.md",
+    "NVBDCP.md",
+    "Balanced diet.md",
+    "NUTRITION.md",
+    "Egg-a reference protein.md",
+    "Fluorosis.md",
+    "Iodized salt.md",
+    "Communication for Health education.md",
+    "Audio visual aids.md",
+    "image 16.jpg",
+    "Pasted image 20260903151954.png",
+    "Pasted image 20260903151940.png",
+    "Pasted image 20260903151918.png",
+    "Pasted image 20260903145523.png",
+    "Pasted image 20260903145515.png",
+    "Pasted image 20260903145509.png",
+    "Pasted image 20260903145502.png",
+    "Pasted image 20260903145452.png",
+    "Pasted image 20260902131928.png",
+    "Untitled.base",
+    "BGS Road 9.m4a",
+    "Untitled.canvas",
+    "New/Untitled",
+    "New",
+    "Com med"
   ]
 }
