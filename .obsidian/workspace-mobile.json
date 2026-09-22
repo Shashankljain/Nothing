@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompts/Surgery.md",
+                "file": "Prompts/Gen med.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Surgery"
+              "title": "Gen med"
             }
           },
           {
