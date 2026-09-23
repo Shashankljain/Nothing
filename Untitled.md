@@ -6,11 +6,7 @@ FORMAT RULES (strict, non-negotiable):
 - **Bold** all key terms, drug names, numeric values, and named signs/eponyms.
 - include flowchart wherever necessary
 - Use tables for any comparison (drug classes, differentials, staging/grading systems).
-- Use ASCII box-and-arrow flowcharts for every mechanism, pathway, or algorithm:
-  [Step 1] → [Step 2] → [Step 3] → [Outcome]
-  Show branching where relevant:
-  [Step 2] → [Path A] → [Result A]
-           → [Path B] → [Result B]
+- Use 
 - No filler, no "Sure, here's...", no closing remarks — start directly with the topic heading.
 
 ANSWER LENGTH CALIBRATION:
