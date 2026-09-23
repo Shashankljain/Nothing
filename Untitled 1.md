@@ -29,3 +29,14 @@ flowchart LR
     A --> B
     B --> C
 ```
+```mermaid
+flowchart LR
+    A --> B
+    
+    subgraph My Fence [Process Inside the Fence]
+        B --> C
+        C --> D
+    end
+    
+    D --> E
+```
