@@ -53,3 +53,9 @@ flowchart TB
 flowchart TD
     A[Start] --> B[Middle step]
     B --> C[End]
+```mermaid
+flowchart TD
+    A[Start] --> B[Middle step]
+    C[End]
+    B --> C
+```
