@@ -68,329 +68,42 @@ Keep it simple enough to redraw by hand in under 2 minutes. Reference the diagra
 
 For Flowchart -
 Use mermaid js format..
-
-## FLOWCHART RULE — ADAPTIVE AND TOPIC-DEPENDENT
-
-Use a **flowchart whenever it genuinely improves understanding, recall, explanation, or exam presentation**.
-
-### Core Principle
-
-**There is NO fixed flowchart template.**
-
-Every flowchart must be designed **according to the actual question, topic, and source material**.
-
-The **content determines the structure**.
-
-Do NOT copy, imitate, or repeatedly use the same visual structure from any example in this prompt.
-
-Do NOT force every topic into:
-
-- The same number of branches
-- The same number of subgraphs
-- The same number of nodes
-- The same direction
-- The same decision-point structure
-- The same color scheme
-- The same convergence pattern
-- The same layout
-
-The flowchart should look different when the underlying concept is different.
-
-### Choose the Structure According to the Concept
-
-First identify what the flowchart needs to communicate, then select the appropriate structure.
-
-|Information being explained|Appropriate structure|
-|---|---|
-|**Pathophysiology**|Cause → mechanism → pathological changes → effects|
-|**Mechanism of action**|Drug/intervention → target → molecular/cellular effect → physiological effect → clinical effect|
-|**Disease progression**|Early stage → intermediate stage → advanced stage → outcome|
-|**Diagnosis**|Clinical suspicion → investigation → result → diagnostic decision|
-|**Management**|Diagnosis → severity/clinical situation → treatment → response → next step|
-|**Emergency management**|Recognition → stabilization → investigation → definitive management|
-|**Classification**|Main category → subcategories → examples|
-|**Complications**|Disease/process → pathological change → individual complications|
-|**Physiological pathway**|Stimulus → receptor → mediator → response → feedback|
-|**Feedback mechanism**|Stimulus → response → feedback → regulation|
-|**Life cycle**|Sequential stages arranged as a cycle|
-|**Anatomical pathway**|Origin → course → relations → termination/drainage|
-|**Investigation algorithm**|Clinical finding → first test → result → next test/diagnosis|
-|**Treatment selection**|Clinical situation → decision point → appropriate treatment|
-|**Multiple mechanisms**|Separate mechanisms → common consequence, only when supported by the source|
-|**Decision-making**|Starting point → decision node → branch → outcome|
-|**Linear sequence**|A → B → C → D|
-|**Hierarchy**|Main concept → category → subcategory → examples|
-
-### Do Not Force a Flowchart
-
-A flowchart is **not mandatory merely because the topic is complex**.
-
-Use a:
-
-- **Table** when comparing entities
-- **Classification tree** when categorizing entities
-- **Numbered sequence** when steps are simple
-- **Bullets** when information is descriptive
-- **Diagram Guide** when anatomical or structural representation is more useful
-- **Flowchart** when relationships, sequences, mechanisms, decisions, or processes are better understood visually
-
-Choose the format that provides the **highest exam value and easiest recall**.
-
-### Question-Driven Flowchart
-
-The flowchart must directly answer the question being asked.
-
-Examples:
-
-- **“Pathogenesis of X”** → show the pathological sequence.
-- **“Mechanism of action of X”** → show the pharmacological mechanism.
-- **“Diagnosis of X”** → show the diagnostic pathway.
-- **“Management of X”** → show the treatment algorithm.
-- **“Complications of X”** → show how the disease produces complications.
-- **“Classification of X”** → use a hierarchical classification structure.
-- **“Natural history of X”** → show progression over time.
-- **“Investigations of X”** → show investigation sequence and interpretation.
-- **“Treatment of X”** → show treatment selection based on the information available in the source.
-
-Do not use a pathophysiology-style flowchart for a classification question simply because a flowchart is required.
-
-### Adaptive Structural Design
-
-Select the structure that naturally matches the topic.
-
-A flowchart may be:
-
-- **Linear**
-- **Branching**
-- **Converging**
-- **Diverging**
-- **Cyclic**
-- **Hierarchical**
-- **Decision-based**
-- **Algorithmic**
-- **Stepwise**
-- **Cause-and-effect**
-- **Feedback-based**
-- **Multi-pathway**
-- **A combination of these**
-
-Use only the structures actually required by the concept.
-
-For example:
-
-**Simple process:**
+REFERENCE EXAMPLE (for calibration only — do not reuse this exact topic, use only as a structural template):
+Whenever a pathophysiology has 2+ parallel mechanisms converging to a diagnosis/decision, match this exact structural pattern — grouped color-coded subgraphs converging into a decision node:
 
 ```mermaid
-flowchart LR
-    A[Cause] --> B[Mechanism] --> C[Effect]
+flowchart TB
+    A[Atherosclerotic plaque rupture] --> B[Platelet activation and thrombus formation]
+    B --> Outer
+
+    subgraph Outer [<b>Consequences of Coronary Occlusion</b>]
+        subgraph Ischemia [<i style='color:red;'>Ischemic Pathway</i>]
+            C[Reduced coronary blood flow] --> D[Myocardial ischemia]
+            D --> E[Myocyte injury/necrosis]
+        end
+
+        subgraph Compensate [<b style='color:#1565c0;'>Compensatory Pathway</b>]
+            F[Sympathetic activation] --> G[Increased heart rate and contractility]
+            G --> H[Increased myocardial oxygen demand]
+        end
+    end
+
+    E --> I{Troponin elevated?}
+    H --> I
+    I -->|Yes, ST elevation| J[STEMI]
+    I -->|Yes, no ST elevation| K[NSTEMI]
+    I -->|No| L[Unstable Angina]
+
+    style Outer fill:#f5f5f5,stroke:#333,stroke-width:2px
+    style Ischemia fill:#ffebee,stroke:#ef5350,stroke-width:2px,stroke-dasharray: 5 5
+    style Compensate fill:#e3f2fd,stroke:#42a5f5,stroke-width:2px
 ```
-
-**Decision process:**
-
-```mermaid
-flowchart TD
-    A[Clinical finding] --> B{Decision}
-    B -->|Yes| C[Pathway 1]
-    B -->|No| D[Pathway 2]
-```
-
-**Classification:**
-
-```mermaid
-flowchart TD
-    A[Main category] --> B[Type 1]
-    A --> C[Type 2]
-    A --> D[Type 3]
-```
-
-**Cyclic process:**
-
-```mermaid
-flowchart LR
-    A[Stimulus] --> B[Response] --> C[Feedback] --> A
-```
-
-**Multiple mechanisms converging:**
-
-```mermaid
-flowchart TD
-    A[Mechanism 1] --> D[Common outcome]
-    B[Mechanism 2] --> D
-    C[Mechanism 3] --> D
-```
-
-These are **structural illustrations only**.
-
-Do NOT automatically reproduce these layouts.
-
-Choose the structure based on the actual topic.
-
-### Important: No Example Imitation
-
-If this prompt contains any example flowchart, treat it **only as an illustration of Mermaid syntax and general visual organization**.
-
-Never copy:
-
-- Its wording
-- Its topic
-- Its node arrangement
-- Its number of branches
-- Its subgraph arrangement
-- Its colors
-- Its decision structure
-- Its visual pattern
-
-**Do not make every flowchart resemble the example.**
-
-The flowchart for each topic must be independently designed from the source material.
-
-### Source-Fidelity Rule
-
-Every node and arrow must be supported by the uploaded source material.
-
-Each arrow must represent a genuine relationship such as:
-
-- **causes**
-- **leads to**
-- **activates**
-- **inhibits**
-- **progresses to**
-- **results in**
-- **is followed by**
-- **is diagnosed by**
-- **is treated with**
-- **branches according to**
-- **feeds back to**
-
-Do not invent:
-
-- Mechanisms
-- Causal relationships
-- Diagnostic criteria
-- Treatment decisions
-- Investigations
-- Complications
-- Drug effects
-
-If the source does not establish a relationship, do not create an arrow implying that relationship.
-
-### Exam-Oriented Design
-
-The flowchart must be easy to reproduce in an MBBS university examination.
-
-Prefer:
-
-- **Short labels**
-- **Key terms**
-- **Simple arrows**
-- **Minimal text**
-- **Logical sequencing**
-- **High-yield information**
-- **Easy-to-redraw structures**
-
-Avoid:
-
-- Long sentences inside boxes
-- Excessive branches
-- Decorative elements
-- Unnecessary complexity
-- Repetition of information already given in bullets
-
-For a long-answer question, the flowchart may act as the **visual skeleton of the answer**.
-
-### Flowchart Complexity
-
-Match complexity to the topic.
-
-**Simple topic:**
-
-- Use a short, simple flowchart.
-
-**Complex mechanism:**
-
-- Use multiple pathways if genuinely necessary.
-
-**Diagnostic algorithm:**
-
-- Use decision nodes.
-
-**Classification:**
-
-- Use a hierarchy.
-
-**Feedback system:**
-
-- Show the feedback loop.
-
-**Sequential process:**
-
-- Use a linear progression.
-
-**Multiple independent mechanisms:**
-
-- Show separate pathways and converge them only if the source indicates a common outcome.
-
-Do not add complexity merely to make the flowchart look advanced.
-
-### Mermaid Formatting — Mandatory
-
-Every flowchart MUST be written in a Mermaid fenced code block.
-
-The opening line must be exactly:
-
-```mermaid
-
-The closing line must be exactly:
-
-```
-
-Rules:
-
-1. The word **mermaid** must immediately follow the three opening backticks.
-2. There must be no blank line between the opening fence and the first line of Mermaid code.
-3. The closing fence must contain exactly three backticks.
-4. Nothing may appear after the final Mermaid line before the closing fence.
-5. Do not place explanations, notes, or comments outside the Mermaid code block until the flowchart is complete.
-6. These rules apply to **every flowchart**, regardless of size.
-
-### Flowchart Placement
-
-Place the flowchart **exactly where it improves the written answer**.
-
-For example:
-
-- In **Pathophysiology**, place it immediately after the introductory explanation.
-- In **Diagnosis**, place it after the initial diagnostic approach.
-- In **Management**, place it before or after the detailed treatment explanation as appropriate.
-- In **Complications**, place it where the causal relationship is explained.
-- In **Classification**, place it immediately after introducing the classification.
-
-Do not place all flowcharts at the end of the answer.
-
-### Final Internal Check
-
-Before generating a flowchart, determine:
-
-1. **What question does this flowchart answer?**
-2. **What is the central concept?**
-3. **Is the process linear, branching, cyclic, hierarchical, converging, or decision-based?**
-4. **Which relationships are actually supported by the source?**
-5. **Would a table or bullets communicate this better?**
-6. **Is the structure simple enough to reproduce in an examination?**
-7. **Am I designing this flowchart from the topic itself rather than copying a previous example?**
-
-Then generate the **most appropriate structure for that specific topic**.
-
-### Golden Rule
-
-**DO NOT COPY THE EXAMPLE.**
-
-**DO NOT USE ONE STANDARD FLOWCHART FOR EVERY TOPIC.**
-
-**DO NOT FORCE EVERY TOPIC INTO THE SAME STRUCTURE.**
-
-**DESIGN EACH FLOWCHART FRESH ACCORDING TO THE QUESTION, CONCEPT, AND SOURCE MATERIAL.**
-
+Structural elements to replicate every time:
+1. A single trigger/cause node feeding into a labeled outer subgraph
+2. 2 (or more) inner subgraphs, each representing a distinct mechanism/pathway, each with its own color (red-dashed for pathological/danger pathway, blue for compensatory/normal pathway, green for resolution/recovery pathway if a third exists)
+3. All inner pathways converging into a single decision/diagnostic node
+4. Branches out of the decision node leading to final diagnoses or outcomes
+Adapt node content entirely to the topic asked — keep only this visual/structural skeleton.
 
 OUTPUT FORMAT RULE (mandatory, applies to every flowchart — no exceptions):
 Every flowchart must be wrapped in a fenced code block with BOTH of the following, exactly as written:
