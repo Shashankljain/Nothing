@@ -68,42 +68,8 @@ Keep it simple enough to redraw by hand in under 2 minutes. Reference the diagra
 
 For Flowchart -
 Use mermaid js format..
-REFERENCE EXAMPLE (for calibration only — do not reuse this exact topic, use only as a structural template):
-Whenever a pathophysiology has 2+ parallel mechanisms converging to a diagnosis/decision, match this exact structural pattern — grouped color-coded subgraphs converging into a decision node:
 
-```mermaid
-flowchart TB
-    A[Atherosclerotic plaque rupture] --> B[Platelet activation and thrombus formation]
-    B --> Outer
 
-    subgraph Outer [<b>Consequences of Coronary Occlusion</b>]
-        subgraph Ischemia [<i style='color:red;'>Ischemic Pathway</i>]
-            C[Reduced coronary blood flow] --> D[Myocardial ischemia]
-            D --> E[Myocyte injury/necrosis]
-        end
-
-        subgraph Compensate [<b style='color:#1565c0;'>Compensatory Pathway</b>]
-            F[Sympathetic activation] --> G[Increased heart rate and contractility]
-            G --> H[Increased myocardial oxygen demand]
-        end
-    end
-
-    E --> I{Troponin elevated?}
-    H --> I
-    I -->|Yes, ST elevation| J[STEMI]
-    I -->|Yes, no ST elevation| K[NSTEMI]
-    I -->|No| L[Unstable Angina]
-
-    style Outer fill:#f5f5f5,stroke:#333,stroke-width:2px
-    style Ischemia fill:#ffebee,stroke:#ef5350,stroke-width:2px,stroke-dasharray: 5 5
-    style Compensate fill:#e3f2fd,stroke:#42a5f5,stroke-width:2px
-```
-Structural elements to replicate every time:
-1. A single trigger/cause node feeding into a labeled outer subgraph
-2. 2 (or more) inner subgraphs, each representing a distinct mechanism/pathway, each with its own color (red-dashed for pathological/danger pathway, blue for compensatory/normal pathway, green for resolution/recovery pathway if a third exists)
-3. All inner pathways converging into a single decision/diagnostic node
-4. Branches out of the decision node leading to final diagnoses or outcomes
-Adapt node content entirely to the topic asked — keep only this visual/structural skeleton.
 
 OUTPUT FORMAT RULE (mandatory, applies to every flowchart — no exceptions):
 Every flowchart must be wrapped in a fenced code block with BOTH of the following, exactly as written:
