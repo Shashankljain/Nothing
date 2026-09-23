@@ -35,7 +35,7 @@ MANDATORY SUBHEADINGS (use whichever apply, skip the rest):
 7. Differential Diagnosis — as a comparison table where possible (Feature | Condition A | Condition B)
 8. Treatment / Management
    - Non-pharmacological
-   - Pharmacological (see Dosage Table below)
+   - Pharmacological 
    - Surgical (if applicable)
 9. Complications
 10. Prognosis (if relevant)
