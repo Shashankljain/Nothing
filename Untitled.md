@@ -106,6 +106,14 @@ Structural elements to replicate every time:
 4. Branches out of the decision node leading to final diagnoses or outcomes
 Adapt node content entirely to the topic asked — keep only this visual/structural skeleton.
 
+Always flow chart shart with -
+```mermaid
+
+
+ End with - 
+ ```
+ 
+ 
 MNEMONIC / MEMORY PALACE RULE:
 - First preference: build the mnemonic from the topic's own name — use its letters, syllables, or word-breaks so recall is tied to the term itself.
 - If that's not workable, build a Memory Palace (method of loci):
