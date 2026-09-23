@@ -69,7 +69,76 @@ Keep it simple enough to redraw by hand in under 2 minutes. Reference the diagra
 For Flowchart -
 Use mermaid js format..
 
+FLOWCHART RULE
 
+Use a flowchart only when it improves understanding, recall, mechanism, sequence, diagnosis, classification, treatment, or decision-making.
+
+Do NOT use a fixed flowchart template. Design each flowchart according to the question, topic, and source material.
+
+The structure must change according to the concept. Do NOT copy the structure, node arrangement, branching, convergence, subgraphs, wording, or colours of any example.
+
+Choose the appropriate structure
+
+- Pathophysiology: Cause → mechanism → changes → effects
+- Mechanism: Drug/intervention → target → effect → outcome
+- Diagnosis: Clinical finding → investigation → result → diagnosis
+- Management: Diagnosis → severity/decision → treatment → response
+- Classification: Main category → types → subtypes
+- Complications: Disease → pathological change → complication
+- Physiology: Stimulus → mediator → response → feedback
+- Progression: Early → intermediate → advanced → outcome
+- Decision-making: Finding → decision → appropriate branch → outcome
+- Multiple mechanisms: Separate pathways → common outcome, only when supported
+
+These are guides, not templates. Use linear, branching, converging, cyclic, hierarchical, decision-based, algorithmic, or other structures as appropriate.
+
+If a table or bullets are clearer, use them instead of a flowchart.
+
+Source Fidelity
+
+Every node and arrow must be supported by the uploaded source. Do not invent facts or relationships.
+
+Use arrows only for genuine relationships such as causes, leads to, activates, inhibits, progresses to, results in, diagnosed by, treated with, or feeds back to.
+
+Colour
+
+Use colour when it improves understanding or recall. Colour is optional and must be topic-dependent.
+
+Do NOT use the same colour scheme for every flowchart.
+
+Suggested meanings:
+
+- Red: pathology, danger, complications
+- Blue: normal/protective processes
+- Green: recovery/beneficial effects
+- Yellow/Amber: caution/risk
+- Purple: regulatory/special pathways
+- Orange: transitions/intermediate stages
+
+These are suggestions only. Choose colours according to the concept. Keep colour meanings consistent within each flowchart. Do not colour every box unnecessarily. If colour adds no value, do not use it.
+
+Use Mermaid "style" or "classDef" when colour is useful.
+
+Mermaid Format
+
+Every flowchart MUST use:
+
+flowchart TD
+    A[Concept] --> B[Process] --> C[Outcome]
+
+The actual flowchart must be enclosed in a fenced Mermaid code block. No explanation may be placed inside the code block.
+
+Exam Rule
+
+Keep flowcharts simple, high-yield, memorable, and quick to redraw by hand. Use short labels and important keywords.
+
+Final Check
+
+Before creating a flowchart, ask:
+
+What does the question require? → What structure best represents it? → What does the source support? → Would colour help? → Can I redraw it quickly?
+
+GOLDEN RULE: The topic determines the structure. The source determines the content. Colour is used only when it adds meaning. Never copy an example's structure or colour scheme.
 
 OUTPUT FORMAT RULE (mandatory, applies to every flowchart — no exceptions):
 Every flowchart must be wrapped in a fenced code block with BOTH of the following, exactly as written:
