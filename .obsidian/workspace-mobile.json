@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "f122ea92cd130804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "Untitled 2.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,10 +213,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "649cdee7b5d72e0b",
+  "active": "f122ea92cd130804",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Untitled 2.md",
     "Untitled.md",
+    "Untitled 1.md",
     "Hi/Gen med.md",
     "Hi/Surgery.md",
     "Prompts",
@@ -229,7 +244,6 @@
     "Com med/Screening test.md",
     "Com med/Screening of disease.md",
     "Com med/Screening vs diagnostic.md",
-    "Com med/FP, FN.md",
     "Forensic/image 104.jpg",
     "Forensic/image 103.jpg",
     "IMG_20260907_231600767.jpg",
