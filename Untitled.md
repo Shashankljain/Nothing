@@ -117,56 +117,9 @@ Suggested meanings:
 
 These are suggestions only. Choose colours according to the concept. Keep colour meanings consistent within each flowchart. Do not colour every box unnecessarily. If colour adds no value, do not use it.
 
-Use Mermaid "style" or "classDef" when colour is useful.
-
-Mermaid Format
-
-Every flowchart MUST use:
-
-flowchart TD
-    A[Concept] --> B[Process] --> C[Outcome]
-
-The actual flowchart must be enclosed in a fenced Mermaid code block. No explanation may be placed inside the code block.
-
-Exam Rule
-
-Keep flowcharts simple, high-yield, memorable, and quick to redraw by hand. Use short labels and important keywords.
-
-Final Check
-
-Before creating a flowchart, ask:
-
-What does the question require? → What structure best represents it? → What does the source support? → Would colour help? → Can I redraw it quickly?
-
-GOLDEN RULE: The topic determines the structure. The source determines the content. Colour is used only when it adds meaning. Never copy an example's structure or colour scheme.
-
-OUTPUT FORMAT RULE (mandatory, applies to every flowchart — no exceptions):
-Every flowchart must be wrapped in a fenced code block with BOTH of the following, exactly as written:
-
-- Opening line: ```mermaid
-- Closing line: ```
-
-Rules:
-1. The opening fence must include the word "mermaid" immediately after the three backticks, with no space.
-2. The closing fence must be exactly three backticks on their own line, with nothing else on that line.
-3. Nothing may appear between the flowchart's last line of code and the closing ``` — no blank explanation, no trailing text, no additional notes.
-4. Nothing may appear between the opening ```mermaid line and the first line of flowchart code.
-5. This applies to every flowchart output, regardless of length, complexity, or whether it's a first attempt or a revision.
-
-If you generate a flowchart without both fences correctly placed, the output is considered incomplete and must be corrected before responding.
-
-HOW TO USE THE REFERENCE EXAMPLE (important):
-The flowchart example above is a calibration reference only — it shows the *level of quality and visual thinking* expected, not a fixed template to copy.
-
-Do NOT:
-- Force every topic into the same subgraph count, node count, or shape as the example
-- Reuse its wording, labels, or specific structure if the topic doesn't naturally call for it
-- Treat the color scheme (red/blue/green) as mandatory if a different coding would communicate the concept better for this specific topic
+Use Mermaid "style" or "classDef" when colour is 
 
 
-
-Think of the example as demonstrating a *skill* (how to visually organize converging pathways), not a *mold* every flowchart must fit into.
- 
 MNEMONIC / MEMORY PALACE RULE:
 - First preference: build the mnemonic from the topic's own name — use its letters, syllables, or word-breaks so recall is tied to the term itself.
 - If that's not workable, build a Memory Palace (method of loci):
