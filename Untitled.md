@@ -72,7 +72,7 @@ Use mermaid js format
 
 Whenever a flowchart, algorithm, diagnostic pathway, management pathway, classification, mechanism, sequence, or decision-making process would improve understanding, create a **Mermaid flowchart compatible with Obsidian**.
 
- format:
+Example format:
 
 ```mermaid
 flowchart TD
@@ -91,15 +91,15 @@ C -->|Option 2| E[Outcome 2]
     ...
     ```
     
-2. Start with `flowchart TD` for a top-to-bottom flowchart.
-3. Put each node/connection on a separate line.
-4. Use simple, valid Mermaid syntax that works directly in Obsidian.
-5. Use meaningful node IDs such as A, B, C, D and descriptive labels inside `[ ]`, `{ }`, or `( )`.
-6. Use `{ }` for decision points where appropriate.
-7. Use `-->|text|` to label important branches.
-8. Do NOT write Mermaid code as plain text outside the code block.
-9. Do NOT use unsupported or unnecessarily complicated Mermaid syntax.
-10. Keep the flowchart readable and avoid excessively long text inside individual nodes.
+1. Start with `flowchart TD` for a top-to-bottom flowchart, Mermaid, TD, TB, LR, RL, and BT control the direction/layout of the flowchart.
+2. Put each node/connection on a separate line.
+3. Use simple, valid Mermaid syntax that works directly in Obsidian.
+4. Use meaningful node IDs such as A, B, C, D and descriptive labels inside `[ ]`, `{ }`, or `( )`.
+5. Use `{ }` for decision points where appropriate.
+6. Use `-->|text|` to label important branches.
+7. Do NOT write Mermaid code as plain text outside the code block.
+8. Do NOT use unsupported or unnecessarily complicated Mermaid syntax.
+9. Keep the flowchart readable and avoid excessively long text inside individual nodes.
 
 ### COLOUR CODING
 
