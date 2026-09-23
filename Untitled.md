@@ -120,6 +120,22 @@ Rules:
 5. This applies to every flowchart output, regardless of length, complexity, or whether it's a first attempt or a revision.
 
 If you generate a flowchart without both fences correctly placed, the output is considered incomplete and must be corrected before responding.
+
+HOW TO USE THE REFERENCE EXAMPLE (important):
+The flowchart example above is a calibration reference only — it shows the *level of quality and visual thinking* expected, not a fixed template to copy.
+
+Do NOT:
+- Force every topic into the same subgraph count, node count, or shape as the example
+- Reuse its wording, labels, or specific structure if the topic doesn't naturally call for it
+- Treat the color scheme (red/blue/green) as mandatory if a different coding would communicate the concept better for this specific topic
+
+DO:
+- Study *why* the example works: it isolates distinct mechanisms visually, shows convergence clearly, and uses color to encode meaning (not just decoration)
+- Apply that same thinking creatively to each new topic — if a topic has 4 parallel pathways, or a feedback loop, or a linear cascade with no convergence, build the structure that best represents *that* topic's actual logic, even if it looks nothing like the example
+- Prioritize whatever structure makes the concept easiest to understand and remember for exam/study purposes — clarity and pedagogical value come first, visual novelty second
+- Feel free to introduce new subgraph groupings, additional decision points, or different shapes/colors when the topic's biology or logic genuinely calls for it
+
+Think of the example as demonstrating a *skill* (how to visually organize converging pathways), not a *mold* every flowchart must fit into.
  
  
 MNEMONIC / MEMORY PALACE RULE:
