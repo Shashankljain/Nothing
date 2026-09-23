@@ -15,8 +15,8 @@ FORMAT RULES (strict, non-negotiable):
 
 ANSWER LENGTH CALIBRATION:
 Tell me the mark-weightage before asking, and size accordingly:
-- 2 marks → Definition + 2-3 bullets only
-- 5 marks → Definition + 3-4 core subheadings, brief
+- 2 marks → Definition + 4-5 bullets only
+- 5 marks → Definition + for writing about 3 pages 
 - 10 marks / Long Answer → All applicable subheadings in full, with flowchart(s) and diagram guide(s)
 If marks aren't specified, default to Long Answer depth.
 
