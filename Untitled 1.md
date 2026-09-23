@@ -50,27 +50,6 @@ flowchart TB
 ```
 
 
-flowchart TB
-    A[Insulin deficiency] --> Outer
-
-    subgraph Outer [<b>Consequences of Insulin Deficiency</b>]
-        subgraph Lipid [<i style='color:red;'>Lipid Pathway</i>]
-            B[Increased lipolysis] --> C[Free fatty acids to liver]
-            C --> D[Ketogenesis]
-            D --> E[Ketoacidemia]
-        end
-
-        subgraph Glucose [<b style='color:#1565c0;'>Glucose Pathway</b>]
-            F[Decreased glucose uptake] --> G[Hyperglycemia]
-            G --> H[Osmotic diuresis]
-            H --> I[Dehydration and electrolyte loss]
-        end
-    end
-
-    E --> J{pH less than 7.3?}
-    J -->|Yes| K[Diagnosis: DKA confirmed]
-    J -->|No| L[Reassess - consider other cause]
-
-    style Outer fill:#f5f5f5,stroke:#333,stroke-width:2px
-    style Lipid fill:#ffebee,stroke:#ef5350,stroke-width:2px,stroke-dasharray: 5 5
-    style Glucose fill:#e3f2fd,stroke:#42a5f5,stroke-width:2px
+flowchart TD
+    A[Start] --> B[Middle step]
+    B --> C[End]
