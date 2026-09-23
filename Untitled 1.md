@@ -17,3 +17,10 @@ flowchart TD
     F --> J{pH less than 7.3?}
     J -->|Yes| K[Diagnosis: DKA confirmed]
     J -->|No| L[Reassess - consider other cause]
+
+
+```mermaid
+flowchart LR
+    A --> B
+    B --> C
+```
