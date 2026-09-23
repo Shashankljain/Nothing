@@ -50,13 +50,17 @@
             }
           },
           {
-            "id": "19da43961c5fd2a6",
+            "id": "ec3494577e80797d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled 2"
             }
           }
         ],
@@ -153,6 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Untitled 2.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -208,10 +213,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "19da43961c5fd2a6",
+  "active": "ec3494577e80797d",
   "lastOpenFiles": [
-    "Untitled.md",
     "Untitled 2.md",
+    "Untitled.md",
     "Untitled 1.md",
     "Hi/Gen med.md",
     "Hi/Surgery.md",
