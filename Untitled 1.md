@@ -5,6 +5,15 @@
     C -->|Yes| D[Outcome A]
     C -->|No| E[Outcome B] 
 
+
+
+```mermaid
+flowchart LR
+    A --> B
+    B --> C
+```
+
+```mermaid
 flowchart TD
     A[Insulin deficiency] --> B[Increased lipolysis]
     A --> C[Decreased glucose uptake by cells]
@@ -17,10 +26,4 @@ flowchart TD
     F --> J{pH less than 7.3?}
     J -->|Yes| K[Diagnosis: DKA confirmed]
     J -->|No| L[Reassess - consider other cause]
-
-
-```mermaid
-flowchart LR
-    A --> B
-    B --> C
 ```
