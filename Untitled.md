@@ -43,10 +43,8 @@ MANDATORY SUBHEADINGS (use whichever apply, skip the rest):
 
 Tag any subheading whose content is repeatedly emphasized across sources with [⭐ High-Yield], so I know what to prioritize under time pressure.
 
-CLINICAL PEARL / VIVA-VOCE CORNER:
+CLINICAL PEARL :
 End the main content with:
-### Viva Alert
-- 1-2 questions an examiner is likely to fire orally on this topic, each with a crisp one-line answer.
 
 EXAM TRAP:
 Where the source material or common student experience shows a frequent confusion (similar drug names, look-alike conditions, easily swapped values), add:
