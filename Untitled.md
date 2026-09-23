@@ -72,7 +72,7 @@ Use mermaid js format
 
 Whenever a flowchart, algorithm, diagnostic pathway, management pathway, classification, mechanism, sequence, or decision-making process would improve understanding, create a **Mermaid flowchart compatible with Obsidian**.
 
-Use this exact format:
+ format:
 
 ```mermaid
 flowchart TD
