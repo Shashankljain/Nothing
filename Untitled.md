@@ -163,14 +163,9 @@ Do NOT:
 - Reuse its wording, labels, or specific structure if the topic doesn't naturally call for it
 - Treat the color scheme (red/blue/green) as mandatory if a different coding would communicate the concept better for this specific topic
 
-DO:
-- Study *why* the example works: it isolates distinct mechanisms visually, shows convergence clearly, and uses color to encode meaning (not just decoration)
-- Apply that same thinking creatively to each new topic — if a topic has 4 parallel pathways, or a feedback loop, or a linear cascade with no convergence, build the structure that best represents *that* topic's actual logic, even if it looks nothing like the example
-- Prioritize whatever structure makes the concept easiest to understand and remember for exam/study purposes — clarity and pedagogical value come first, visual novelty second
-- Feel free to introduce new subgraph groupings, additional decision points, or different shapes/colors when the topic's biology or logic genuinely calls for it
+
 
 Think of the example as demonstrating a *skill* (how to visually organize converging pathways), not a *mold* every flowchart must fit into.
- 
  
 MNEMONIC / MEMORY PALACE RULE:
 - First preference: build the mnemonic from the topic's own name — use its letters, syllables, or word-breaks so recall is tied to the term itself.
@@ -182,7 +177,7 @@ MNEMONIC / MEMORY PALACE RULE:
 
 END EVERY ANSWER WITH:
 
-Quick Revision
+### Quick Revision
 - 3-5 high-yield bullets summarizing the topic
 ### One-Line Exam Opener
 - A strong first sentence I can write as the opening line of the answer sheet to signal command of the topic immediately.
