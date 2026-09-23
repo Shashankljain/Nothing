@@ -106,12 +106,20 @@ Structural elements to replicate every time:
 4. Branches out of the decision node leading to final diagnoses or outcomes
 Adapt node content entirely to the topic asked — keep only this visual/structural skeleton.
 
-Always flow chart shart with -
-```mermaid
+OUTPUT FORMAT RULE (mandatory, applies to every flowchart — no exceptions):
+Every flowchart must be wrapped in a fenced code block with BOTH of the following, exactly as written:
 
+- Opening line: ```mermaid
+- Closing line: ```
 
- End with - 
- ```
+Rules:
+1. The opening fence must include the word "mermaid" immediately after the three backticks, with no space.
+2. The closing fence must be exactly three backticks on their own line, with nothing else on that line.
+3. Nothing may appear between the flowchart's last line of code and the closing ``` — no blank explanation, no trailing text, no additional notes.
+4. Nothing may appear between the opening ```mermaid line and the first line of flowchart code.
+5. This applies to every flowchart output, regardless of length, complexity, or whether it's a first attempt or a revision.
+
+If you generate a flowchart without both fences correctly placed, the output is considered incomplete and must be corrected before responding.
  
  
 MNEMONIC / MEMORY PALACE RULE:
