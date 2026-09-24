@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompts.md",
+                "file": "Hi/Prompts.md",
                 "mode": "source",
                 "source": false
               },
@@ -199,10 +199,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "649cdee7b5d72e0b",
+  "active": "fa50dfcbbd81332b",
   "lastOpenFiles": [
     "Untitled 1.md",
-    "Prompts.md",
+    "Hi/Prompts.md",
     "Untitled 2.md",
     "Hi/Gen med.md",
     "Hi/Surgery.md",
