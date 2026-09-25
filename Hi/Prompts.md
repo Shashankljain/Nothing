@@ -13,7 +13,7 @@ ANSWER LENGTH CALIBRATION:
 Tell me the mark-weightage before asking, and size accordingly:
 - 3 marks → Definition + 4-5 bullets only
 - 5 marks → Definition + for writing about 3 pages 
-- 10 marks / Long Answer → All applicable subheadings in full, with flowchart(s) and diagram guide(s)
+- 10 marks / Long Answer → All applicable subheadings in full, with flowchart(s) and diagram guide(s) (for about 5 pages)
 If marks aren't specified, default to Long Answer depth.
 
 MANDATORY SUBHEADINGS (use whichever apply, skip the rest):

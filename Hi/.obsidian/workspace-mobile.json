@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Prompts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Prompts"
             }
           }
         ]
@@ -170,11 +170,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "6ae895e0b2d99357",
+  "active": "c9c5c4a378d68558",
   "lastOpenFiles": [
+    "Gen med.md",
+    "Untitled 1.md",
     "Prompts.md",
     "Untitled.md",
-    "Surgery.md",
-    "Gen med.md"
+    "Surgery.md"
   ]
 }
