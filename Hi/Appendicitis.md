@@ -196,6 +196,7 @@ G -->|Uncontained Free Perforation| I[Generalized Peritonitis & Systemic Sepsis]
 #### Laparoscopic Appendicectomy (Gold Standard)
 
 - **Patient Position**: Supine with Trendelenburg tilt and left lateral tilt (right side up).
+- Gen anaesthesia 
 - **Port Placements**:
     1. **10 mm Umbilical Port**: Camera port inserted via open Hasson technique.
     2. **5 mm Suprapubic Port**: Working port.
