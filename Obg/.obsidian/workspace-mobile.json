@@ -1,108 +1,33 @@
 {
   "main": {
-    "id": "f1e84750e88250ff",
+    "id": "a2d7dac70e5005ea",
     "type": "split",
     "children": [
       {
-        "id": "51a056e6d0ca39d5",
+        "id": "4031bbe4268b0b6b",
         "type": "tabs",
         "children": [
           {
-            "id": "c9c5c4a378d68558",
+            "id": "605ca98ee05af4d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompts.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Prompts"
-            }
-          },
-          {
-            "id": "13c88e9cc5948fc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OBG.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OBG"
-            }
-          },
-          {
-            "id": "2fe0e49fe7428a82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obstetrics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obstetrics"
-            }
-          },
-          {
-            "id": "e0e5d70ef6f8929d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GDM"
-            }
-          },
-          {
-            "id": "f0a7b1f53ca69428",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Appendicitis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Appendicitis"
-            }
-          },
-          {
-            "id": "33c1e2113e8822ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Surgery/Appendicitis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Appendicitis"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6b378f4c790ba9fd",
+    "id": "7ca66f6dd50b3d5e",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "6ae895e0b2d99357",
+        "id": "3e4948034c049545",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -117,7 +42,7 @@
         }
       },
       {
-        "id": "0e5cadbdf7195d8e",
+        "id": "8234636335bd2c1a",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -134,7 +59,7 @@
         }
       },
       {
-        "id": "66bdb9de8a8cdd2b",
+        "id": "4c1f4211710ebd62",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -149,7 +74,7 @@
         }
       },
       {
-        "id": "c970e93497dc5f82",
+        "id": "f152187da68cd0b9",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -163,7 +88,7 @@
         }
       },
       {
-        "id": "21b306a5f32196b2",
+        "id": "690b6eac40b0320c",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -179,16 +104,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "b65a43814355475a",
+    "id": "737e9822d8959ed8",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "5cd342c69f94615a",
+        "id": "5af9e975b91b0b0a",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Surgery/Appendicitis.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -202,7 +126,7 @@
         }
       },
       {
-        "id": "cb5f7379a9da3308",
+        "id": "511d45b7349f1272",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -215,7 +139,7 @@
         }
       },
       {
-        "id": "253a1c92f2882631",
+        "id": "820c96084d8a57f8",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -242,19 +166,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "6ae895e0b2d99357",
-  "lastOpenFiles": [
-    "Surgery/Appendix.md",
-    "Surgery/Appendicitis.md",
-    "Prompts/Gen med.md",
-    "OBG/GDM.md",
-    "Prompts/Prompts.md",
-    "OBG/Obstetrics.md",
-    "Surgery",
-    "Prompts",
-    "Untitled.md",
-    "Surgery.md",
-    "OBG/OBG.md",
-    "OBG"
-  ]
+  "active": "605ca98ee05af4d3",
+  "lastOpenFiles": []
 }
