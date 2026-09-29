@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Surgery/Appendicitis.md",
+                "file": "Surgery/Appendix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Appendicitis"
+              "title": "Appendix"
             }
           }
         ],
@@ -188,7 +188,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Surgery/Appendicitis.md",
+            "file": "Surgery/Appendix.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -242,10 +242,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "6ae895e0b2d99357",
+  "active": "33c1e2113e8822ab",
   "lastOpenFiles": [
-    "Surgery/Appendix.md",
     "Surgery/Appendicitis.md",
+    "Surgery/Appendix.md",
     "Prompts/Gen med.md",
     "OBG/GDM.md",
     "Prompts/Prompts.md",
