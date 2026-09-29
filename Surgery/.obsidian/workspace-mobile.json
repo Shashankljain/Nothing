@@ -1,37 +1,76 @@
 {
   "main": {
-    "id": "a2d7dac70e5005ea",
+    "id": "1bf7403b3805c629",
     "type": "split",
     "children": [
       {
-        "id": "4031bbe4268b0b6b",
+        "id": "0c44e8c12fbeffce",
         "type": "tabs",
         "children": [
           {
-            "id": "605ca98ee05af4d3",
+            "id": "97ee6eaad8016570",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "cea1fe54a7fa3641",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gsgs.md",
+                "file": "Lump RIF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gsgs"
+              "title": "Lump RIF"
+            }
+          },
+          {
+            "id": "7459314438512d20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Appendicular mass.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Appendicular mass"
+            }
+          },
+          {
+            "id": "11249ffa7ca27b87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ochsner-Sherren Regime.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ochsner-Sherren Regime"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7ca66f6dd50b3d5e",
+    "id": "5b6cb25b714539ae",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "3e4948034c049545",
+        "id": "10a2f2f23a196303",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -46,7 +85,7 @@
         }
       },
       {
-        "id": "8234636335bd2c1a",
+        "id": "5ac08747c20f49f6",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -63,7 +102,7 @@
         }
       },
       {
-        "id": "4c1f4211710ebd62",
+        "id": "3d39f27f54759e4f",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -78,7 +117,7 @@
         }
       },
       {
-        "id": "f152187da68cd0b9",
+        "id": "d6e49290a2f23358",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -92,7 +131,7 @@
         }
       },
       {
-        "id": "690b6eac40b0320c",
+        "id": "bed2c49aec26176f",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -108,11 +147,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "737e9822d8959ed8",
+    "id": "ff30295acb78a6da",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "5af9e975b91b0b0a",
+        "id": "29f4a858bdeabf8e",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -130,7 +169,7 @@
         }
       },
       {
-        "id": "511d45b7349f1272",
+        "id": "5e23bfd4345b2123",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -143,7 +182,7 @@
         }
       },
       {
-        "id": "820c96084d8a57f8",
+        "id": "07355000d1567602",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -170,8 +209,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "605ca98ee05af4d3",
+  "active": "11249ffa7ca27b87",
   "lastOpenFiles": [
-    "Gsgs.md"
+    "Ochsner-Sherren Regime.md",
+    "Appendicular mass.md",
+    "Lump RIF.md",
+    "Appendix.md",
+    "Appendicitis.md"
   ]
 }
