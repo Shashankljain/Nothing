@@ -8,31 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba5e04d449b843f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hi/Surgery/Appendicitis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Appendicitis"
-            }
-          },
-          {
             "id": "649cdee7b5d72e0b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hi/Prompts.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Prompts"
+              "title": "New tab"
             }
           }
         ]
@@ -184,10 +166,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "ba5e04d449b843f1",
+  "active": "fa50dfcbbd81332b",
   "lastOpenFiles": [
-    "Hi/Surgery/Appendix.md",
+    "Untitled",
+    "Surgery/Ochsner-Sherren Regime.md",
+    "Surgery/Lump RIF.md",
+    "Surgery/Appendix.md",
+    "Surgery/Appendicular mass.md",
+    "Surgery/Appendicitis.md",
+    "Surgery",
+    "Prompts/Singi.md",
+    "Prompts/All prompts.md",
+    "Prompts",
+    "OBG/Obstetrics.md",
+    "OBG/Medical and surgical illness.md",
+    "OBG/GDM.md",
+    "OBG",
     "Hi/Surgery/Appendicitis.md",
+    "Obg/Gsgs.md",
+    "Hi/Surgeryy.md",
+    "Hi/Surgery/Appendix.md",
     "Obg",
     "Hi/Surgery",
     "Hi/Prompts/Prompts.md",
@@ -201,23 +199,10 @@
     "Hi/Prompts.md",
     "Untitled 2.md",
     "Hi/Surgery.md",
-    "Prompts",
     "Hi",
     "Prompts/Forensic.md",
     "Prompts/Com med.md",
-    "Com med/Health programmes in India.md",
-    "Pedistian.md",
-    "Forensic/Traumatic asphyxia.md",
     "Com med/RCH.canvas",
-    "Com med/NLEP.md",
-    "Com med/RNTCP.md",
-    "Com med/NRHM.md",
-    "Com med/NSSK.md",
-    "TT/Final.md",
-    "Com med/Geriatrics health edu.md",
-    "Com med/PM in geriatrics.md",
-    "Com med/Geriatrics.md",
-    "Com med/Counterfeit medicines.md",
     "Forensic/image 104.jpg",
     "Forensic/image 103.jpg",
     "IMG_20260907_231600767.jpg",
@@ -231,8 +216,6 @@
     "Forensic/Sign,symptom,feature,tx.canvas",
     "Lyrics",
     "TT",
-    "Com med/Untitled.base",
-    "Com med/BGS Road 9.m4a",
     "Com med/Untitled.canvas",
     "Untitled.canvas"
   ]
