@@ -185,7 +185,7 @@ _(Note: Primary management of CTEV is physical/surgical; systemic medications ar
 2. **Age 3 – 5 Years**: **PMSTR + Dilwyn-Evans Procedure** (calcaneocuboid joint resection and fusion for lateral column shortening).
 3. **Age 5 – 8 Years**: **Dilwyn-Evans Procedure + Dwyer's Osteotomy** (open-wedge calcaneal osteotomy to correct heel varus).
 4. **Age 8 – 10 Years**: **Wedge Tarsectomy** (dorsolateral bony wedge removal from midtarsal area).
-5. **Age > 10 Years**: **Triple Arthrodesis** (fusion of **Subtalar**, **Talonavicular**, and **Calcaneocuboid** joints).
+5. **Age > 10 Years**: **==Triple Arthrodesis==** (fusion of **Subtalar**, **Talonavicular**, and **Calcaneocuboid** joints).
 6. **Severe Rigid / Relapsed Cases**: **Joshi's External Stabilization System (JESS)** / **Ilizarov Technique**.
 
 ---
