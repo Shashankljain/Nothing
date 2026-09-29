@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Singi.md",
+                "file": "All prompts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Singi"
+              "title": "All prompts"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Singi.md",
+            "file": "All prompts.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
     "OBG/Obstetrics.md",
     "OBG/GDM.md",
     "Surgeryy.md",
-    "Prompts.md",
+    "All prompts.md",
     "Surgery",
     "Prompts",
     "Surgery.md",
