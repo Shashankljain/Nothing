@@ -54,7 +54,7 @@
     - **Contracted Tendons (Posterior & Medial)**: **Tendoachilles**, **Tibialis posterior** (**most important muscle in pathology**), **Flexor digitorum longus (FDL)**, and **Flexor hallucis longus (FHL)**.
     - **Contracted Ligaments & Capsules**: **Posterior ankle & subtalar joint capsules**, **talonavicular ligament**, **spring ligament**, superficial **deltoid ligament**, and **plantar fascia**.
 
-```
+```mermaid
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
@@ -122,7 +122,7 @@ E3 --> F
 
 ### 8. Treatment / Management [⭐ High-Yield]
 
-```
+```mermaid
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
