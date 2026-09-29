@@ -124,7 +124,7 @@ G -->|Uncontained Free Perforation| I[Generalized Peritonitis & Systemic Sepsis]
     - **Diagnostic criteria**: Non-compressible tubular structure in RIF with outer diameter **>6 mm**, target sign, periappendiceal free fluid, or appendicolith.
     - Diagnostic accuracy **>90%**.
 - **Contrast-Enhanced CT Scan (Abdomen & Pelvis)**:
-    - Gold standard in adults and elderly (sensitivity & specificity **~95%**).
+    - ==Gold standard== in adults and elderly (sensitivity & specificity **~95%**).
     - **Diagnostic criteria**: Distended appendix with outer diameter **>7 mm**, circumferential wall enhancement, periappendiceal fat stranding, cecal pole thickening, appendicolith, or fluid collection.
     - **Low-Dose CT Protocol**: Recommended in young adults to reduce radiation exposure by **80%**.
 - **MRI Abdomen / Pelvis**: Indicated in pregnant patients when ultrasound is equivocal.
