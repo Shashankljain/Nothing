@@ -49,8 +49,7 @@
               "title": "Prompts"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,7 +198,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "fa50dfcbbd81332b",
+  "active": "20d460f3f3e7e2e6",
   "lastOpenFiles": [
     "Untitled 1.md",
     "Hi/Prompts.md",
