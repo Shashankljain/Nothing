@@ -1,3 +1,4 @@
+[[Appendix ]]
 # Acute Appendicitis
 
 **Mark-Weightage: 10 Marks / Long Answer (Defaulted as not specified)**
@@ -58,7 +59,7 @@
 
 ### FLOWCHART — PATHOPHYSIOLOGY OF ACUTE APPENDICITIS
 
-```
+```mermaid
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
