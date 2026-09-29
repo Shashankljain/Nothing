@@ -11,10 +11,14 @@
             "id": "6279a238370b1a8f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Chapters.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Chapters"
             }
           }
         ]
@@ -167,5 +171,7 @@
     }
   },
   "active": "6279a238370b1a8f",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Chapters.md"
+  ]
 }
