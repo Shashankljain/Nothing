@@ -39,7 +39,7 @@ Surgical wounds are classified based on the degree of bacterial contamination at
 
 Normal wound healing in skin proceeds through four overlapping phases:
 
-```
+```mermaid
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
