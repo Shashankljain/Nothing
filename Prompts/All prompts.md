@@ -155,7 +155,16 @@ Where the source material or common student experience shows a frequent confusio
 - The mix-up, and the one distinguishing fact that resolves it.
 
 DOSAGE RULE:
-G
+Give all the drugs under following heading's
+- Name
+- Mechanism of action (if given in the sources - mention page number of textbook ),which receptors 
+- Dose
+- Dosage
+- Frequency
+- Features
+- Side effects
+- When to start / stop
+- 
 
 DIAGRAM RULE:
 Since you cannot generate actual images, whenever a topic conventionally requires a diagram (anatomy, physiology pathway, mechanism, cycle, structure), output a "Diagram Guide" instead:
