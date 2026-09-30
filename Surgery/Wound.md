@@ -1,4 +1,4 @@
-# Wound and Biology of Wound Healing
+[[Wound & Wound Healing]]
 
 ## 1. Definition
 
@@ -119,6 +119,32 @@ O --> P[Tensile Strength Reaches Max ~80% at 12 Weeks]:::primary
 ---
 
 ## 5. Factors Affecting Wound Healing [⭐ High-Yield]
+
+```mermaid 
+flowchart TD
+
+classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
+classDef danger fill:#ffebee,stroke:#c62828,stroke-width:2px
+classDef success fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
+classDef warning fill:#fff8e1,stroke:#f57f17,stroke-width:2px
+
+A[Factors Affecting Wound Healing]:::primary --> B[Local Factors]:::danger
+A --> C[Systemic / General Factors]:::warning
+
+B --> B1[Tissue Hypoxia & Ischemia]:::danger
+B --> B2[Infection & High Bacterial Load]:::danger
+B --> B3[Foreign Bodies & Necrotic Slough]:::danger
+B --> B4[High Skin Tension & Recurrent Trauma]:::danger
+B --> B5[Prior Local Radiotherapy]:::danger
+B --> B6[Hematoma & Seroma Accumulation]:::danger
+
+C --> C1[Malnutrition: Hypoalbuminemia <2 g/dL]:::warning
+C --> C2[Vitamin Deficiencies: Vitamin C & A]:::warning
+C --> C3[Diabetes Mellitus & Microvascular Disease]:::warning
+C --> C4[Corticosteroid & Immunosuppressive Therapy]:::warning
+C --> C5[Anemia & Cigarette Smoking]:::warning
+C --> C6[Advancing Age, Uremia, Jaundice, Obesity]:::warning
+```
 
 ### A. Local Factors
 
