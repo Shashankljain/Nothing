@@ -98,7 +98,7 @@ Normal wound healing is a continuous, dynamic biological process divided into fo
 
 ### FLOWCHART — PHASES & CELLULAR CASCADE OF WOUND HEALING
 
-```
+```mermaid
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
@@ -119,7 +119,7 @@ I --> J[Maximal Tensile Strength: 70-80% at 3 Months]:::success
 
 ## 5. Factors Affecting Wound Healing (Local & Systemic) [⭐ High-Yield]
 
-```
+```mermaid 
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
