@@ -26,7 +26,7 @@
     - _Hyperphosphatemia & Early Hypocalcemia:_ Phosphate release binds serum Ca²⁺, depositing calcium phosphate into necrotic muscle.
     - _Lactic Acidosis:_ Release of accumulated anaerobic metabolic waste.
 
-```
+```mermaid
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px

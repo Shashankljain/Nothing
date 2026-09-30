@@ -23,16 +23,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDM.md",
+                "file": "Medical and surgical illness/Medical and surgical illness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GDM"
+              "title": "Medical and surgical illness"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,11 +181,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "e0dedf7a5b139611",
+  "active": "605ca98ee05af4d3",
   "lastOpenFiles": [
+    "Medical and surgical illness/Medical and surgical illness.md",
+    "Medical and surgical illness",
+    "Medical and surgical illness/GDM.md",
     "Chapters.md",
-    "GDM.md",
-    "Medical and surgical illness.md",
     "Obstetrics.md"
   ]
 }
