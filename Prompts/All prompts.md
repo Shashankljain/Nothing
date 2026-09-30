@@ -159,7 +159,7 @@ Give all the drugs under following heading's
 - Name
 - Mechanism of action (if given in the sources - mention page number of textbook ),which receptors 
 - Dose
-- Dosage/ toute
+- Dosage/ route 
 - Frequency
 - Features
 - Side effects
