@@ -123,7 +123,7 @@
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
-            "backlinkCollapsed": false,
+            "backlinkCollapsed": true,
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
@@ -171,7 +171,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "33c1e2113e8822ab",
+  "active": "5cd342c69f94615a",
   "lastOpenFiles": [
     "Singi.md",
     "Prompts/Gen med.md",
