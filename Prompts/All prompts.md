@@ -141,12 +141,9 @@ MANDATORY SUBHEADINGS (use whichever apply, skip the rest):
    - Diagnostic criteria (if any)
 1. Differential Diagnosis — as a comparison table where possible (Feature | Condition A | Condition B etc.)
 2. Treatment / Management
-   - Non-pharmacological
-   - Pharmacological 
-   - Surgical (if applicable)
-9. Complications
-10. Prognosis (if relevant)
-11. Mnemonic / Memory Palace (see rule below)
+3. Complications
+4. Prognosis (if relevant)
+5. Mnemonic / Memory Palace (see rule below)
 
 Tag any subheading whose content is repeatedly emphasized across sources with [⭐ High-Yield], so I know what to prioritize under time pressure.
 
@@ -158,9 +155,7 @@ Where the source material or common student experience shows a frequent confusio
 - The mix-up, and the one distinguishing fact that resolves it.
 
 DOSAGE RULE:
-Present all drugs in a table under Pharmacological treatment:
-| Drug | Dose | Route | Frequency | Duration | Key Caution |
-If the source doesn't specify a value, write "Not specified in source — verify with standard guideline" in that cell rather than guessing.
+G
 
 DIAGRAM RULE:
 Since you cannot generate actual images, whenever a topic conventionally requires a diagram (anatomy, physiology pathway, mechanism, cycle, structure), output a "Diagram Guide" instead:
