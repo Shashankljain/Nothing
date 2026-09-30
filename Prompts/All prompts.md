@@ -249,10 +249,7 @@ For example:
 - A poisoning → mechanism → features → management pathway
 - An injury → mechanism → findings → medico-legal significance
 - A classification → hierarchical classification diagram
-- A differential diagnosis → comparison/decision pathway
-- A complication → progression pathway
-- A procedure → stepwise procedural flowchart
-- A legal/medico-legal topic → appropriate legal/medico-legal decision pathway
+
 
 Do NOT create a flowchart merely for decoration. Use one when it genuinely improves understanding, recall, or exam revision.
 
