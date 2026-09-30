@@ -190,42 +190,25 @@ $\pi$
 $\lambda$
 
 Never output raw commands such as:
-
 \alpha
-
 \beta
-
 \mu
-
 outside MathJax.
 
 9. CLINICAL ABBREVIATIONS
 Use normal text for medical abbreviations:
-
 Hb
-
 BP
-
 HR
-
 RR
-
 CNS
-
 CVS
-
 RS
-
 GIT
-
 ECG
-
 MRI
-
 CT
-
 DM
-
 HTN
 
 Do NOT unnecessarily put normal medical abbreviations inside MathJax
