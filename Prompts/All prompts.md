@@ -265,10 +265,8 @@ Keep them:
 - clinically accurate
 - based primarily on the provided source
 - suitable for quick revision
-
 When a process contains multiple branches, use decision nodes rather than writing everything as a linear sequence.
 When a topic has several independent categories, use an appropriate classification/tree structure instead of forcing it into a treatment-style flowchart.
-
 When a table would communicate the information better than a flowchart, use a table instead.
 
 ### OUTPUT REQUIREMENT
@@ -282,8 +280,7 @@ MNEMONIC / MEMORY PALACE RULE:
   - Explicitly state which fact is "placed" at which spot, so it doubles as both a memory device and a compressed checklist.
 
 END EVERY ANSWER WITH:
-
 ### Quick Revision
 - 3-5 high-yield bullets summarizing the topic
-### One-Line Exam Opener
+- ### One-Line Exam Opener
 - A strong first sentence I can write as the opening line of the answer sheet to signal command of the topic immediately.
