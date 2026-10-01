@@ -1,1 +1,0 @@
-[[Medical and surgical illness]]

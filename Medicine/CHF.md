@@ -149,6 +149,8 @@ L --> M[Break Vicious Cycle, Reverse Remodeling & Improve Survival]:::success
 - **Paroxysmal Nocturnal Dyspnoea (PND):** Sudden awakening at night with severe breathlessness and suffocation, forcing the patient to sit upright or go to an open window.
 - **Cough:** Dry or productive of frothy, pink blood-tinged sputum.
 - **Low Output Symptoms:** Fatigue, listlessness, cold peripheries, confusion, and oliguria.
+- Shortness of breath
+- Pedal edema
 
 #### Signs
 
@@ -164,7 +166,7 @@ L --> M[Break Vicious Cycle, Reverse Remodeling & Improve Survival]:::success
 - Right upper quadrant abdominal discomfort (secondary to hepatic capsule stretching from liver congestion).
 - Abdominal distension (ascites) and anorexia/nausea (gastrointestinal mucosal congestion).
 
-#### Signs
+#### Signs - (all right side)
 
 - **Elevated Jugular Venous Pressure (JVP):** Prominent 'a' wave (if in sinus rhythm) or irregular 'v' waves (triscuspid regurgitation / AF).
 - **Hepatomegaly:** Tender, smooth enlargement of the liver (**Nutmeg liver**).
@@ -178,8 +180,8 @@ L --> M[Break Vicious Cycle, Reverse Remodeling & Improve Survival]:::success
 
 ### A. Laboratory Investigations
 
-- **Serum Biomarkers (BNP / NT-proBNP):** B-type Natriuretic Peptide is released by ventricular myocytes under increased wall stretch.
-    - **Diagnostic Utility:** High sensitivity; a normal BNP (<100 pg/mL) has a high negative predictive value to rule out heart failure.
+- **Serum Biomarkers (BNP / ==NT-proBNP==):** B-type Natriuretic Peptide is released by ventricular myocytes under increased wall stretch.
+    - **Diagnostic Utility:** High sensitivity; a ==normal BNP (<100 pg/mL)== has a high negative predictive value to rule out heart failure.
     - **Prognostic Utility:** Serial levels monitor response to therapy and disease progression.
 - **Renal Function Tests & Electrolytes:** Serum urea and creatinine (detects prerenal azotemia/cardiorenal syndrome); Hyponatraemia (marker of severe advanced HF and excess ADH secretion); Hypokalaemia or Hyperkalaemia.
 - **Full Blood Count (FBC):** Identifies anaemia (precipitant or aggravator) or leucocytosis (infection).
@@ -196,13 +198,13 @@ L --> M[Break Vicious Cycle, Reverse Remodeling & Improve Survival]:::success
 - **Cardiomegaly:** Cardiothoracic ratio >0.50 on PA view.
 - **Pulmonary Venous Congestion:** Prominence and distension of upper lobe blood vessels (stag-antler sign).
 - **Interstitial Oedema:** Septal lines or **Kerley B lines** (short horizontal lines at lung bases).
-- **Alveolar Oedema:** Hazy opacification spreading bilaterally from hilar regions in a "bat-wing" or "butterfly" distribution.
+- **Alveolar Oedema:** Hazy opacification spreading bilaterally from hilar regions in a "==bat-wing" or "butterfly" distribution.==
 - **Pleural Effusions:** Usually bilateral or right-sided.
 
 ### D. Echocardiography (Gold Standard Bedside Investigation)
 
 - Confirms diagnosis and categorises HF into **HFrEF** (EF <40%) vs **HFpEF** (EF ≥50%).
-- Evaluates left ventricular wall thickness (concentric hypertrophy in hypertension), chamber dimensions, regional wall motion abnormalities (CAD), valvular stenosis/regurgitation, and diastolic filling parameters.
+- Evaluates ==left ventricular wall thickness== (concentric hypertrophy in hypertension), chamber dimensions, regional wall motion abnormalities (CAD), valvular stenosis/regurgitation, and diastolic filling parameters.
 
 ### E. Advanced Imaging
 
@@ -328,6 +330,10 @@ L --> M[Break Vicious Cycle, Reverse Remodeling & Improve Survival]:::success
 - **Ivabradine (5–7.5 mg PO BD):** Selective \(I_f\) current inhibitor in SA node. Slows heart rate without negative inotropy. Indicated in stable HFrEF in sinus rhythm with HR ≥70 bpm despite maximum tolerated β-blocker dose (SHIFT trial).
 - **Digoxin (0.125–0.25 mg PO OD):** Inhibits Na⁺/K⁺ ATPase (positive inotropy) and increases vagal tone (slows AV conduction). Indicated in HFrEF co-existing with Atrial Fibrillation or severe symptomatic HFrEF despite optimal therapy. Reduces hospitalisations, no mortality benefit.
 
+
+SGLT2 inhibitor - 
+- Dapaglifazone
+- 
 ---
 
 ### C. Device & Interventional Therapy
