@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "GTT"
             }
+          },
+          {
+            "id": "486f47ba59db1fc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "GTT.md",
+            "file": "Untitled.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -200,8 +214,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "b429edf35edc4042",
+  "active": "486f47ba59db1fc6",
   "lastOpenFiles": [
+    "Untitled.md",
     "GTT.md",
     "GDM.md",
     "Chapters.md",
