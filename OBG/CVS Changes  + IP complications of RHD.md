@@ -124,7 +124,7 @@
     4. Elevated left atrial pressure transmits retrogradely to pulmonary veins and capillaries, producing **Pulmonary Venous Congestion and Pulmonary Edema**.
     5. Long-term backpressure leads to **Reactive Pulmonary Arterial Hypertension (PAH)** and eventual **Right Ventricular Failure**.
 
-```
+```mermaid
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
