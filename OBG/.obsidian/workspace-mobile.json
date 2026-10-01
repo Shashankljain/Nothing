@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medical and surgical illness/GDM.md",
+                "file": "Chapters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GDM"
+              "title": "Chapters"
             }
           },
           {
@@ -131,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Medical and surgical illness/GDM.md",
+            "file": "Chapters.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,9 +187,9 @@
   },
   "active": "605ca98ee05af4d3",
   "lastOpenFiles": [
+    "Medical and surgical illness/GDM.md",
     "Medical and surgical illness/Medical and surgical illness.md",
     "Medical and surgical illness",
-    "Medical and surgical illness/GDM.md",
     "Chapters.md",
     "Obstetrics.md"
   ]
