@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Changes in preg + IP complications of RHD.md",
+                "file": "CVS Changes  + IP complications of RHD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Changes in preg + IP complications of RHD"
+              "title": "CVS Changes  + IP complications of RHD"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,7 +174,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Heart disease in preg.md",
+            "file": "CVS Changes  + IP complications of RHD.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -228,11 +228,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "27449d7c1a37001d",
+  "active": "dc385efd4c13c296",
   "lastOpenFiles": [
     "Heart disease in preg.md",
     "NYHA + Management.md",
-    "Changes in preg + IP complications of RHD.md",
+    "CVS Changes  + IP complications of RHD.md",
     "Medical and surgical illness/Medical and surgical illness.md",
     "Chapters.md",
     "Medical and surgical illness/GDM.md",
