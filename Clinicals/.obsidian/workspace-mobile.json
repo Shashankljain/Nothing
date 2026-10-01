@@ -11,10 +11,14 @@
             "id": "20ea4a4a8e2eb0ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "OBG/Examination.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Examination"
             }
           }
         ]
@@ -113,6 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "OBG/Examination.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,6 +175,7 @@
   },
   "active": "20ea4a4a8e2eb0ab",
   "lastOpenFiles": [
+    "OBG/Examination.md",
     "OBG/Untitled.base",
     "OBG/GDM.md",
     "OBG/Untitled.canvas",
