@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Changes in preg + IP complications of RHD"
             }
+          },
+          {
+            "id": "b122366e22ea031c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NYHA + Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NYHA + Management"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Changes in preg + IP complications of RHD.md",
+            "file": "NYHA + Management.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -200,8 +214,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "dc385efd4c13c296",
+  "active": "b122366e22ea031c",
   "lastOpenFiles": [
+    "NYHA + Management.md",
     "Changes in preg + IP complications of RHD.md",
     "Medical and surgical illness/Medical and surgical illness.md",
     "Chapters.md",
