@@ -59,8 +59,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +208,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "902a2bd21a1c5930",
+  "active": "9cece6322240ef09",
   "lastOpenFiles": [
     "Wound and wound healing/Classification.md",
     "Wound and wound healing/Wound & Wound Healing.md",
