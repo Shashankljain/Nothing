@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fluid and electrolyte imbalance.md",
+                "file": "Fluid and electrolyte imbalance/Fluid and electrolyte imbalance.md",
                 "mode": "source",
                 "source": false
               },
@@ -188,7 +188,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Fluid and electrolyte imbalance.md",
+            "file": "Fluid and electrolyte imbalance/Fluid and electrolyte imbalance.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -244,13 +244,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "6d6400bd7b71268f",
+  "active": "055b452379fd5ad1",
   "lastOpenFiles": [
-    "Hypocalcemia.md",
-    "Tx Hyponatremia.md",
-    "Hypokalemia.md",
-    "Hyperkalemia.md",
-    "Fluid and electrolyte imbalance.md",
+    "Fluid and electrolyte imbalance",
+    "Fluid and electrolyte imbalance/Hypocalcemia.md",
+    "Fluid and electrolyte imbalance/Tx Hyponatremia.md",
+    "Fluid and electrolyte imbalance/Hypokalemia.md",
+    "Fluid and electrolyte imbalance/Hyperkalemia.md",
+    "Fluid and electrolyte imbalance/Fluid and electrolyte imbalance.md",
     "Chapters.md"
   ]
 }
