@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medicine/Cardiology.md",
+                "file": "Medicine/MR+ MVP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cardiology"
+              "title": "MR+ MVP"
             }
           }
         ],
@@ -132,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Medicine/Cardiology.md",
+            "file": "Medicine/MR+ MVP.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -188,13 +188,13 @@
   },
   "active": "7f63f1742ea6b73f",
   "lastOpenFiles": [
+    "Medicine/Cardiology.md",
     "Medicine/As Ar.md",
     "Medicine/AS AR.pdf",
     "Medicine/MR+ MVP.md",
     "Medicine/Sketchy Notes IM.pdf",
     "Medicine/mr mvp.pdf",
     "Medicine/IMG_2392.jpeg",
-    "Medicine/Cardiology.md",
     "Medicine"
   ]
 }
