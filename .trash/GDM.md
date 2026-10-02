@@ -1,4 +1,4 @@
-[[Obstetrics]]
+[[Medical and surgical illness]]
 # Gestational Diabetes Mellitus (GDM) [⭐ High-Yield]
 
 ### Mark Weightage
