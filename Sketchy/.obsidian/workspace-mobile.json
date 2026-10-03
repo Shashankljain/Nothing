@@ -11,10 +11,14 @@
             "id": "3bd16ff1d8ecbf48",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -113,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Medicine/MR+ MVP.md",
+            "file": "Untitled.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,6 +173,7 @@
   },
   "active": "3bd16ff1d8ecbf48",
   "lastOpenFiles": [
+    "Untitled.md",
     "Medicine/MR+ MVP.md",
     "Medicine/MS.md",
     "Medicine/MS.pdf",
