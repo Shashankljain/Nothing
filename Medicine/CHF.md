@@ -252,7 +252,7 @@ L --> M[Break Vicious Cycle, Reverse Remodeling & Improve Survival]:::success
 - **Side Effects:** Dry persistent cough (up to 10–15%, due to bradykinin accumulation), first-dose hypotension, hyperkalaemia, acute drop in GFR, angioedema, skin rash, dysgeusia.
 - **When to Start / Stop:**
     - _Start:_ In all stable HFrEF patients with Systolic BP >100 mmHg.
-    - _Monitoring:_ Check serum K⁺ and renal function (urea/creatinine) before starting and 1–2 weeks after initiation or dose escalation.
+    - _Monitoring:_ Check serum ==K⁺ and renal function (urea/creatinine)== before starting and 1–2 weeks after initiation or dose escalation.
     - _Stop / Hold:_ Do NOT start if baseline K⁺ >5.5 mmol/L. Stop/reduce dose if K⁺ >6.0 mmol/L or if serum creatinine rises by >30% (or GFR drops >25%). Temporarily stop during acute gastrointestinal illness causing dehydration ("sick-day rules"). Contraindicated in bilateral renal artery stenosis and pregnancy.
 
 #### 2. Angiotensin Receptor Blockers (ARBs)
@@ -273,7 +273,7 @@ L --> M[Break Vicious Cycle, Reverse Remodeling & Improve Survival]:::success
 - **Drug Name:** Sacubitril + Valsartan (Entresto / Vymada).
 - **Mechanism of Action:** Dual-action molecule:
     - _Sacubitril:_ Inhibits Neprilysin (neutral endopeptidase), preventing the degradation of endogenous natriuretic peptides (ANP, BNP), bradykinin, and adrenomedullin → increases blood levels of NPs → causes vasodilation, natriuresis, diuresis, and anti-remodeling.
-    - _Valsartan:_ Selectively blocks AT₁ receptors.
+    - _Valsartan:_ Selectively blocks AT₁ receptors.==(to prevent action of angiotensin 2)==
 - **Dose & Route:** 24/26 mg, 49/51 mg, or 97/103 mg PO BD (commonly available as 50 mg, 100 mg, and 200 mg combination tablets).
 - **Frequency:** Twice daily (oral).
 - **Key Features:** Landmark PARADIGM-HF trial demonstrated a **20% additional reduction in cardiovascular death or HF hospitalisation** compared to Enalapril alone. Replaces ACEI or ARB in symptomatic HFrEF (NYHA Class II–IV).
@@ -327,18 +327,19 @@ L --> M[Break Vicious Cycle, Reverse Remodeling & Improve Survival]:::success
 
 #### 7. Other Adjunctive Agents
 
-- **Ivabradine (5–7.5 mg PO BD):** Selective \(I_f\) current inhibitor in SA node. Slows heart rate without negative inotropy. Indicated in stable HFrEF in sinus rhythm with HR ≥70 bpm despite maximum tolerated β-blocker dose (SHIFT trial).
+- **Ivabradine (5–7.5 mg PO BD):** Selective \(I_f\) current inhibitor in SA node. Slows heart rate **==without negative inotropy==**. Indicated in stable HFrEF in sinus rhythm with HR ≥70 bpm despite maximum tolerated β-blocker dose (SHIFT trial).
 - **Digoxin (0.125–0.25 mg PO OD):** Inhibits Na⁺/K⁺ ATPase (positive inotropy) and increases vagal tone (slows AV conduction). Indicated in HFrEF co-existing with Atrial Fibrillation or severe symptomatic HFrEF despite optimal therapy. Reduces hospitalisations, no mortality benefit.
 
 
 SGLT2 inhibitor - 
-- Dapaglifazone
+- Dapaglifozin
+- Empaglifozin
 - 
 ---
 
 ### C. Device & Interventional Therapy
 
-- **Cardiac Resynchronisation Therapy (CRT / CRT-D):** Biventricular pacing indicated in patients with NYHA Class II–IV, LVEF ≤35%, sinus rhythm, and Left Bundle Branch Block (LBBB with QRS >130–150 ms) to restore synchronous ventricular contraction, improve symptoms, and reduce mortality.
+- **Cardiac Resynchronisation Therapy (CRT / CRT-D):** Biventricular pacing indicated in patients with NYHA Class II–IV, LVEF ≤35%, sinus rhythm, and Left Bundle Branch Block (LBBB with QRS >130–150 ms) to restore ==synchronous ventricular contraction, improve symptoms, and reduce mortality.==
 - **Implantable Cardioverter-Defibrillator (ICD):** Recommended for primary or secondary prevention of sudden cardiac death from ventricular tachycardia/fibrillation in patients with LVEF ≤35%.
 
 ---
