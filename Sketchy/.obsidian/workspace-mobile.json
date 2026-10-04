@@ -11,10 +11,15 @@
             "id": "3bd16ff1d8ecbf48",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Medicine/As Ar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "As Ar"
             }
           }
         ]
@@ -113,6 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Medicine/As Ar.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
