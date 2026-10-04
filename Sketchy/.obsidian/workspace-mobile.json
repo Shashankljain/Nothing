@@ -11,15 +11,12 @@
             "id": "3bd16ff1d8ecbf48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Medicine/As Ar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Medicine/MS.pdf"
               },
-              "icon": "lucide-file",
-              "title": "As Ar"
+              "icon": "lucide-file-text",
+              "title": "MS"
             }
           }
         ]
@@ -176,8 +173,8 @@
   },
   "active": "3bd16ff1d8ecbf48",
   "lastOpenFiles": [
-    "Medicine/Cardiology.md",
     "Medicine/As Ar.md",
+    "Medicine/Cardiology.md",
     "Medicine/MS.md",
     "Medicine/TR.md",
     "Medicine/TR.pdf",
