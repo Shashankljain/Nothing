@@ -18,8 +18,19 @@
               "icon": "lucide-file-text",
               "title": "MS"
             }
+          },
+          {
+            "id": "fec0a2f3eb4b0783",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,15 +182,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3bd16ff1d8ecbf48",
+  "active": "fec0a2f3eb4b0783",
   "lastOpenFiles": [
+    "Medicine/Dcm + rcm.md",
+    "Medicine/DCM+RCM.pdf",
+    "Medicine/MS.pdf",
     "Medicine/As Ar.md",
     "Medicine/Cardiology.md",
     "Medicine/MS.md",
     "Medicine/TR.md",
     "Medicine/TR.pdf",
     "Medicine/MR+ MVP.md",
-    "Medicine/MS.pdf",
     "Medicine/AS AR.pdf",
     "Medicine/Sketchy Notes IM.pdf",
     "Medicine/mr mvp.pdf",
