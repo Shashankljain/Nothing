@@ -212,7 +212,7 @@ J --> K[Postpartum: Propped Up Position + Legs Dependent + Inj Frusemide IV + IC
 1. **Active Management of Third Stage of Labor (AMSTL)**:
     - Administer **Inj. Oxytocin 10 IU IM or slow IV infusion** (in 500 mL Normal Saline).
 2. **ABSOLUTE CONTRAINDICATION**:
-    - **Methylergometrine / Ergometrine is STRICTLY CONTRAINDICATED**.
+    - **==Methylergometrine / Ergometrine== is STRICTLY CONTRAINDICATED**.
     - _Reason_: Ergometrine induces tetanic uterine contraction and severe peripheral venoconstriction, pushing a sudden 400–500 mL autotransfusion surge into the central circulation, precipitating fatal acute pulmonary edema.
 3. **Diuretic Therapy**: Administer **Inj. Frusemide 20–40 mg IV** immediately after delivery to promote diuresis and unload central venous pressure.
 4. **Post-Delivery Position**: Keep patient propped up with legs kept dependent (lower than heart level) to pool blood in extremities and dampen the autotransfusion surge.

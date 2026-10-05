@@ -23,10 +23,15 @@
             "id": "fec0a2f3eb4b0783",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Fetal heart tracing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Fetal heart tracing"
             }
           }
         ],
@@ -126,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Medicine/As Ar.md",
+            "file": "Fetal heart tracing.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -184,6 +189,13 @@
   },
   "active": "fec0a2f3eb4b0783",
   "lastOpenFiles": [
+    "OBS.md",
+    "Fetal heart tracing.md",
+    "Normal physiology.md",
+    "Fetal physio.md",
+    "Sketchy_obs_Final.pdf",
+    "Fetal physiology.pdf",
+    "OBS",
     "Medicine/Dcm + rcm.md",
     "Medicine/DCM+RCM.pdf",
     "Medicine/MS.pdf",
