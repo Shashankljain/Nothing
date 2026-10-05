@@ -1,5 +1,4 @@
 [[Immunisation]]
-# Types of Vaccines & MMR Vaccine [⭐ High-Yield]
 
 ### 1. Definition [⭐ High-Yield]
 
