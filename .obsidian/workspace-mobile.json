@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AUB.md",
+                "file": "Clinicals/OBG/AUB.md",
                 "mode": "source",
                 "source": false
               },
@@ -187,8 +187,8 @@
   },
   "active": "5f65eed58c0dbc78",
   "lastOpenFiles": [
-    "Sketchy/Medicine/MR+ MVP.md",
     "AUB.md",
+    "Sketchy/Medicine/MR+ MVP.md",
     "Untitled",
     "Surgery/Ochsner-Sherren Regime.md",
     "Surgery/Lump RIF.md",
