@@ -63,7 +63,7 @@ The disease is characterized by autoimmune inflammatory lesions involving the he
 
 ### Pathophysiology Flowchart
 
-```
+```mermaid
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
@@ -264,10 +264,10 @@ Continuous antibiotic administration is mandatory to prevent recurrent GABHS pha
                ┌────────────────────────────┼────────────────────────────┐
                ▼                            ▼                            ▼
 ┌────────────────────────────┐ ┌────────────────────────────┐ ┌────────────────────────────┐
-│   ARF WITHOUT CARDITIS     │ │  ARF WITH CARDITIS         │ │ ARF WITH CARDITIS &        │
-│                            │ │  (NO RESIDUAL DISEASE)     │ │ RESIDUAL RHD / SURGERY     │
-│  5 Years OR until age 21   │ │  10 Years OR until age 21  │ │ 10 Years OR until age 40   │
-│  (Whichever is longer)     │ │  (Whichever is longer)     │ │ (Lifelong in severe cases) │
+│   ARF WITHOUT CARDITIS     │ │ARF WITH CARDITI  │ │ ARF WITH CARDITIS &  │
+│                            ││  (NO RESIDUAL DISEASE)     │ │ RESIDUAL RHD /                                                                  SURGERY     │
+│  5 Years OR until age 21   │ │  10 Years OR until age 21  │ │ 10 Years OR                                                                  until age 40   │
+│  (Whichever is longer)     │ │  (Whichever is longer)     │ │ (Lifelong in                                                                 severe cases) │
 └────────────────────────────┘ └────────────────────────────┘ └────────────────────────────┘
 ```
 
