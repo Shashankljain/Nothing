@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clinicals/OBG/AUB.md",
+                "file": "Sketchy/Medicine/Ecg.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AUB"
+              "title": "Ecg"
             }
           }
         ],
@@ -185,8 +185,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "fa50dfcbbd81332b",
+  "active": "5f65eed58c0dbc78",
   "lastOpenFiles": [
+    "Clinicals/OBG/AUB.md",
     "Sketchy/Medicine/Ecg.png",
     "Sketchy/Medicine/Ecg.md",
     "AUB.md",
@@ -232,7 +233,6 @@
     "IMG_20260907_225709274 1.jpg",
     "IMG_20260907_225709274.jpg",
     "Forensic/image 102.jpg",
-    "Forensic/image 99.jpg",
     "Forensic/Sign,symptom,feature,tx.canvas",
     "Lyrics",
     "Com med/Untitled.canvas",
