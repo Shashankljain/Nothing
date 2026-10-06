@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sketchy/Medicine/Ecg.md",
+                "file": "Clinicals/OBG/AUB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ecg"
+              "title": "AUB"
             }
           }
         ],
@@ -187,9 +187,9 @@
   },
   "active": "5f65eed58c0dbc78",
   "lastOpenFiles": [
+    "Sketchy/Medicine/Ecg.md",
     "Clinicals/OBG/AUB.md",
     "Sketchy/Medicine/Ecg.png",
-    "Sketchy/Medicine/Ecg.md",
     "AUB.md",
     "Sketchy/Medicine/MR+ MVP.md",
     "Untitled",
