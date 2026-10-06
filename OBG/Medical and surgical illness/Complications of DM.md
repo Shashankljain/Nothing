@@ -1,4 +1,4 @@
-[[Medical and surgical illness]]
+[[C20-Medical and surgical illness]]
 # Diabetes in Pregnancy: Fetal and Neonatal Complications [⭐ High-Yield]
 
 ### Definition

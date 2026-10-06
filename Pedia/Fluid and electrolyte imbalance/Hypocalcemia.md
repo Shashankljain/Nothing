@@ -1,6 +1,6 @@
 **(Mark-Weightage Calibration: 3 Marks)**
 
-[[Fluid and electrolyte imbalance]]
+[[C6-Fluid and electrolyte imbalance]]
 # Hypocalcemia — Clinical Features [⭐ High-Yield]
 
 ### 1. Definition [⭐ High-Yield]

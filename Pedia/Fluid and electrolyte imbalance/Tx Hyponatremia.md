@@ -1,4 +1,4 @@
-[[Fluid and electrolyte imbalance]]
+[[C6-Fluid and electrolyte imbalance]]
 # Treatment of Hyponatremia [⭐ High-Yield]
 
 ### 1. Definition [⭐ High-Yield]

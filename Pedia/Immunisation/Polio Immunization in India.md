@@ -1,4 +1,4 @@
-[[Immunisation]]
+[[C10-Immunisation]]
 
 ### 1. Definition [⭐ High-Yield]
 

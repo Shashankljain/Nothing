@@ -1,4 +1,4 @@
-[[Cardiology]]
+[[C16-Cardiology]]
 # Acute Rheumatic Fever
 
 ## 1. Definition [⭐ High-Yield]

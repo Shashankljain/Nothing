@@ -1,4 +1,4 @@
-[[Medical and surgical illness]]
+[[C20-Medical and surgical illness]]
 # Heart Disease in Pregnancy (NYHA Grade II) [⭐ High-Yield]
 
 ### Mark Weightage

@@ -1,4 +1,4 @@
-[[Wound & Wound Healing]]
+[[C2-Wound & Wound Healing]]
 # Classification of Wounds and Principles of Management of a Severely Injured Person
 
 ## 1. Definition

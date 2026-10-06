@@ -1,4 +1,4 @@
-[[Appendix]]
+[[C47-Appendix]]
 # Differential Diagnosis of Lump in Right Iliac Fossa, Clinical Features of Acute Appendicitis & Management of Appendicular Mass in Elderly
 
 **Mark-Weightage: 10 Marks / Long Answer (Defaulted as not specified)**

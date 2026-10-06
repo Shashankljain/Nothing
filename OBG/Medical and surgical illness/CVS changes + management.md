@@ -1,4 +1,4 @@
-[[Medical and surgical illness]]
+[[C20-Medical and surgical illness]]
 # Cardiovascular Changes in Pregnancy & Intrapartum Management of Heart Disease [⭐ High-Yield]
 
 ### Mark Weightage

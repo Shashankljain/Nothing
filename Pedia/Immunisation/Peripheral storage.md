@@ -1,4 +1,4 @@
-[[Immunisation]]
+[[C10-Immunisation]]
 # Vaccine Storage in Peripheral Health Center [⭐ High-Yield]
 
 ### 1. Definition [⭐ High-Yield]

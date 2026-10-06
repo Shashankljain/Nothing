@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cardiology/RHF.md",
+                "file": "Cardiology/C16-Cardiology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RHF"
+              "title": "C16-Cardiology"
             }
           }
         ]
@@ -117,6 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Cardiology/C16-Cardiology.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -172,13 +173,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "24689fe6af4c239d",
+  "active": "9aed4b70bcaeb902",
   "lastOpenFiles": [
-    "Cardiology/CHF.md",
-    "Cardiology/Cardiology.md",
-    "Untitled.md",
-    "Cardiology",
+    "Chapters.md",
     "Cardiology/RHF.md",
-    "Chapters.md"
+    "Cardiology/CHF.md",
+    "Cardiology/C16-Cardiology.md",
+    "Untitled.md",
+    "Cardiology"
   ]
 }

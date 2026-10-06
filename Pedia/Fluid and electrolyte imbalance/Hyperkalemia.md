@@ -1,4 +1,4 @@
-[[Fluid and electrolyte imbalance]]
+[[C6-Fluid and electrolyte imbalance]]
 # Hyperkalemia — Causes, Clinical Features & Management [⭐ High-Yield]
 
 ### 1. Definition [⭐ High-Yield]

@@ -1,4 +1,4 @@
-[[Wound & Wound Healing]]
+[[C2-Wound & Wound Healing]]
 # Crush Syndrome
 
 ## 1. Definition

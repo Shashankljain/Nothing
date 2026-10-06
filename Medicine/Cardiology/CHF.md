@@ -1,4 +1,4 @@
-[[Cardiology]]
+[[C16-Cardiology]]
 # Chronic Heart Failure / Congestive Cardiac Failure (with Hypertension)
 
 ## 1. Definition [⭐ High-Yield]

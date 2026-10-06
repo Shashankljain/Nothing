@@ -1,4 +1,4 @@
-[[Medical and surgical illness]]
+[[C20-Medical and surgical illness]]
 # NYHA Grading of Cardiac Disease & Intrapartum Management of NYHA Grade I at 36 Weeks [⭐ High-Yield]
 
 ### Mark Weightage

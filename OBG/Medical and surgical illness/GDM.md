@@ -1,4 +1,4 @@
-[[Medical and surgical illness]]
+[[C20-Medical and surgical illness]]
 # Gestational Diabetes Mellitus (GDM) [⭐ High-Yield]
 
 ### Mark Weightage

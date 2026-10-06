@@ -1,4 +1,4 @@
-[[Medical and surgical illness]]
+[[C20-Medical and surgical illness]]
 # Glucose Tolerance Test (GTT) in Obstetrics [⭐ High-Yield]
 
 ### Mark Weightage

@@ -1,4 +1,4 @@
-[[Medical and surgical illness]]
+[[C20-Medical and surgical illness]]
 # Management of 25-Year-Old Primigravida with 7 Months Amenorrhea (28–30 Weeks) Complicated by Rheumatic Heart Disease [⭐ High-Yield]
 
 ### Mark Weightage

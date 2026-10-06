@@ -1,4 +1,4 @@
-[[Immunisation]]
+[[C10-Immunisation]]
 # Immunization Against Rubella (Rubella Vaccine) [⭐ High-Yield]
 
 ### 1. Definition [⭐ High-Yield]

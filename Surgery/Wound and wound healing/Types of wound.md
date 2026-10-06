@@ -1,4 +1,4 @@
-[[Wound & Wound Healing]]
+[[C2-Wound & Wound Healing]]
 # Types of Wounds
 
 ## 1. Definition

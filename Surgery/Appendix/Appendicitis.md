@@ -1,4 +1,4 @@
-[[Appendix ]]
+[[C47-Appendix]]
 # Acute Appendicitis
 
 **Mark-Weightage: 10 Marks / Long Answer (Defaulted as not specified)**
