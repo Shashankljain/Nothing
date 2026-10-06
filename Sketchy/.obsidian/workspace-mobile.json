@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecg.md",
+                "file": "Medicine/Ecg.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -164,7 +164,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ecg.md",
+            "file": "Medicine/Ecg.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -220,11 +220,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "85a7c7794e606874",
+  "active": "4d04a1e5996f1f8e",
   "lastOpenFiles": [
-    "IMG_2414.png",
+    "Medicine/Ecg.png",
     "Medicine/MR+ MVP.md",
-    "Ecg.md",
+    "Medicine/Ecg.md",
     "Medicine/Cardiology.md",
     "Medicine/Dcm + rcm.md",
     "OBS/Examination.md",

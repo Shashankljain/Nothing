@@ -1,0 +1,2 @@
+[[Cardiology]]
+![[Ecg.png]]
