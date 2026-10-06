@@ -35,7 +35,7 @@ IMNCI is structured around three mutually reinforcing core components:
 
 ### 4. Pathophysiology / Operational Flowchart of IMNCI [⭐ High-Yield]
 
-```
+```mermaid
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
