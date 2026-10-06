@@ -92,12 +92,12 @@ E -->|Uncontained Free Breakdown| H[Generalized Peritonitis]:::danger
 
 ## 8. Treatment / Management [⭐ High-Yield]
 
-### Non-Pharmacological Management (Ochsner-Sherren Regime)
+### Non-Pharmacological Management (==Ochsner-Sherren Regime==)
 
 - **Rationale**: Based on the principle that inflammation is already localized; immediate surgery is technically difficult and risks damaging matted bowel or causing a faecal fistula.
 - **Protocol**:
     1. **Strict NPO (Nil Per Os)** status with IV crystalloid resuscitation.
-    2. **Monitoring**: 4-hourly recording of pulse rate and body temperature.
+    2. **Monitoring**: (Vital sign) 4-hourly recording of pulse rate and body temperature.
     3. **Skin Pencil Marking**: Mark the physical margins of the mass on the abdominal wall daily to monitor regression or expansion.
     4. **Fluid Balance**: Strict fluid intake and output charting.
 
