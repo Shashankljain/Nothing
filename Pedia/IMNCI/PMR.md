@@ -1,3 +1,4 @@
+[[C32-IMNCI]]
 # Perinatal Mortality Rate and Factors Responsible in India [⭐ High-Yield]
 
 ### 1. Definition [⭐ High-Yield]

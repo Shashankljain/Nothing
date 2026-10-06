@@ -1,3 +1,4 @@
+[[C32-IMNCI]]
 **(Mark-Weightage Calibration: Defaulting to 10 Marks / Long Answer Depth)**
 
 # Integrated Management of Neonatal and Childhood Illness (IMNCI) — Components and Role in Reducing Mortality [⭐ High-Yield]

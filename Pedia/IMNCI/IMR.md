@@ -1,3 +1,4 @@
+[[C32-IMNCI]]
 #(Mark-Weightage Calibration: 5 Marks)
 
 # Infant Mortality Rate (IMR) — Definition, Factors & Reduction Measures [⭐ High-Yield]

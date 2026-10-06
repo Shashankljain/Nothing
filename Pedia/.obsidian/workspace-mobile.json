@@ -93,16 +93,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IMNCI/C32-imnci.md",
+                "file": "IMNCI/C32-IMNCI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C32-imnci"
+              "title": "C32-IMNCI"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -198,7 +198,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "IMNCI/C32-imnci.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -254,15 +253,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "ad329882ee1641b7",
+  "active": "4e547a644d262659",
   "lastOpenFiles": [
-    "IMNCI/C32-imnci.md",
-    "IMNCI/EPMR.md",
-    "Chapters.md",
+    "IMNCI/C32-IMNCI.md",
     "IMNCI/IMR.md",
     "IMNCI/PMR.md",
-    "IMNCI/Aim, principle - IMNCI.md",
     "IMNCI/IMNCI.md",
+    "IMNCI/EPMR.md",
+    "Chapters.md",
+    "IMNCI/Aim, principle - IMNCI.md",
     "IMNCI/Imnci diarrhea.md",
     "Immunisation/H. Influenzae Type B (Hib) Vaccine.md",
     "Immunisation/Polio Immunization in India.md",
