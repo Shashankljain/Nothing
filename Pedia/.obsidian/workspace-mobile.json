@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C32-imnci.md",
+                "file": "IMNCI/C32-imnci.md",
                 "mode": "source",
                 "source": false
               },
@@ -198,7 +198,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "C32-imnci.md",
+            "file": "IMNCI/C32-imnci.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -256,7 +256,7 @@
   },
   "active": "ad329882ee1641b7",
   "lastOpenFiles": [
-    "C32-imnci.md",
+    "IMNCI/C32-imnci.md",
     "IMNCI/EPMR.md",
     "Chapters.md",
     "IMNCI/IMR.md",
