@@ -31,9 +31,19 @@
               "icon": "lucide-file",
               "title": "N,V+ hyperemesis gravidarum"
             }
+          },
+          {
+            "id": "68e438dfcd41f743",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,8 +196,12 @@
   },
   "active": "4d04a1e5996f1f8e",
   "lastOpenFiles": [
-    "OBS/N,V + Hyperemesis.pdf",
+    "OBS/PIH.md",
+    "OBS/PIH.pdf",
+    "Pathological.md",
+    "OBS/Intro to obs.md",
     "OBS/N,V+ hyperemesis gravidarum.md",
+    "OBS/N,V + Hyperemesis.pdf",
     "OBS/Prenatal screening.md",
     "OBS/Routine prenatal.md",
     "Medicine/Ecg.md",
@@ -201,7 +215,6 @@
     "OBS/routine prenatal exam..pdf",
     "OBS/Physio of preg.md",
     "OBS/physiology of preg.pdf",
-    "OBS/Intro to obs.md",
     "OBS/intro to obs.pdf",
     "OBS/Fetal heart tracing.md",
     "Medicine/MS.pdf",
@@ -210,11 +223,9 @@
     "OBS/Sketchy_obs_Final.pdf",
     "OBS/Fetal physiology.pdf",
     "OBS",
-    "Medicine/DCM+RCM.pdf",
     "Medicine/As Ar.md",
     "Medicine/MS.md",
     "Medicine/TR.md",
-    "Medicine/TR.pdf",
     "Medicine/IMG_2392.jpeg"
   ]
 }
