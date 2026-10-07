@@ -35,8 +35,7 @@
               "title": "C20-Medical and surgical illness"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,10 +185,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "8ab2966eb0eaa870",
+  "active": "605ca98ee05af4d3",
   "lastOpenFiles": [
-    "Obstetrics.md",
     "Medical and surgical illness/C20-Medical and surgical illness.md",
+    "Obstetrics.md",
     "Chapters - OBS.md",
     "Medical and surgical illness/ASB.md",
     "Medical and surgical illness/Complications of DM.md",

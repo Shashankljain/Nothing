@@ -216,11 +216,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4d04a1e5996f1f8e",
+  "active": "85a7c7794e606874",
   "lastOpenFiles": [
     "Medicine/Ecg.png",
     "Medicine/MR+ MVP.md",
