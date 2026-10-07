@@ -158,10 +158,10 @@ I -->|Secondary Penicillin Prophylaxis| L[Prevention of Recurrences & Halting RH
 - **Low-Risk Population:** ARF incidence <2 per 100,000 school-aged children per year.
 - **Moderate / High-Risk Population:** ARF incidence ≥2 per 100,000 per year (e.g., endemic regions in India, Asia, Africa, Indigenous populations).
 
-|Diagnostic Category|Low-Risk Population|Moderate / High-Risk Population|
-|:--|:--|:--|
-|**Major Criteria**|• Carditis (Clinical or Subclinical)• Polyarthritis• Chorea• Erythema marginatum• Subcutaneous nodules|• Carditis (Clinical or Subclinical)• Monoarthritis / Polyarthritis / Polyarthralgia• Chorea• Erythema marginatum• Subcutaneous nodules|
-|**Minor Criteria**|• Polyarthralgia• Fever (≥38.5°C)• ESR ≥60 mm/hr and/or CRP ≥3.0 mg/dL• Prolonged PR interval on ECG|• Monoarthralgia• Fever (≥38.0°C)• ESR ≥30 mm/hr and/or CRP ≥3.0 mg/dL• Prolonged PR interval on ECG|
+| Diagnostic Category | Low-Risk Population                                                                                    | Moderate / High-Risk Population                                                                                                         |
+| :------------------ | :----------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| **Major Criteria**  | • Carditis (Clinical or Subclinical)• Polyarthritis• Chorea• Erythema marginatum• Subcutaneous nodules | • Carditis (Clinical or Subclinical)• Monoarthritis / Polyarthritis / Polyarthralgia• Chorea• Erythema marginatum• Subcutaneous nodules |
+| **Minor Criteria**  | • Polyarthralgia• Fever (≥38.5°C)• ESR ≥60 mm/hr and/or CRP ≥3.0 mg/dL• Prolonged PR interval on ECG   | • Monoarthralgia• Fever (≥38.0°C)• ESR ≥30 mm/hr and/or CRP ≥3.0 mg/dL• Prolonged PR interval on ECG                                    |
 
 #### Requirements for Diagnosis
 
