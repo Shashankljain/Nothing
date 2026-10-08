@@ -183,7 +183,7 @@ H --> I[9. Expulsion of Trunk: Anterior Shoulder First Under Pubic Arch, Then Po
 
 ### 8. Management of Labor in L.O.A. Position [⭐ High-Yield]
 
-```
+```mermaid 
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
