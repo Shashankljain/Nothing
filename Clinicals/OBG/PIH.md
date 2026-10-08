@@ -1,4 +1,4 @@
-[[OBG]]
+[[OBS]]
 # Hypertensive Disorders of Pregnancy (HDP) — Comprehensive Viva Analysis & Case Masterclass
 
 This detailed clinical case and viva analysis is based strictly on the transcript of the clinical case presentation **"PREGNANCY INDUCED HYPERTENSION - Clinical Case Presentation"**.

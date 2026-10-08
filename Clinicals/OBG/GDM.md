@@ -1,4 +1,4 @@
-[[OBG]]
+[[OBS]]
 # Gestational Diabetes Mellitus — Comprehensive Clinical Case & Viva Analysis
 
 ---
