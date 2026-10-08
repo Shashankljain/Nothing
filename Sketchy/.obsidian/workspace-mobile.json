@@ -36,14 +36,34 @@
             "id": "68e438dfcd41f743",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Medicine/Ecg intro.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Ecg intro"
+            }
+          },
+          {
+            "id": "f40b759bf582052d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,8 +214,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "68e438dfcd41f743",
+  "active": "f40b759bf582052d",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Medicine/Ecg intro.md",
     "OBS/PIH.md",
     "OBS/PIH.pdf",
     "Pathological.md",
@@ -204,7 +226,6 @@
     "OBS/N,V + Hyperemesis.pdf",
     "OBS/Prenatal screening.md",
     "OBS/Routine prenatal.md",
-    "Medicine/Ecg.md",
     "Medicine/MR+ MVP.md",
     "Medicine/Ecg.png",
     "Medicine/Cardiology.md",

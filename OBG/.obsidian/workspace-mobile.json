@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physiology of ovulation.md",
+                "file": "Fundamental of reproduction/Physiology of ovulation.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C2-FUNDAMENTAL OF REPRODUCTION.md",
+                "file": "Chapters - OBS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C2-FUNDAMENTAL OF REPRODUCTION"
+              "title": "Chapters - OBS"
             }
           }
         ],
@@ -132,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "C2-FUNDAMENTAL OF REPRODUCTION.md",
+            "file": "Chapters - OBS.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -188,12 +188,15 @@
   },
   "active": "2f221d24149d9aa6",
   "lastOpenFiles": [
-    "Physiology of ovulation.md",
-    "C2-FUNDAMENTAL OF REPRODUCTION.md",
+    "Untitled.md",
+    "Chapters - OBS.md",
+    "Fundamental of reproduction/C2-FUNDAMENTAL OF REPRODUCTION.md",
+    "Fundamental of reproduction",
+    "Untitled 1.md",
+    "Fundamental of reproduction/Physiology of ovulation.md",
     "Normal labour/Restitution.md",
     "Normal labour/False labour pain.md",
     "Normal labour/Normal labour + 3rd stage.md",
-    "Chapters - OBS.md",
     "Normal labour/Signs of Placental Separation.md",
     "Normal labour/Brandt-Andrews Technique.md",
     "Normal labour/Asynclitism.md",
@@ -212,10 +215,7 @@
     "Physiological changes/Cardiologic and Hematologic Changes.md",
     "Physiological changes/Breast changes.md",
     "Physiological changes/Supine Hypotension Syndrome.md",
-    "Physiological changes/Urinary tract changes.md",
-    "Physiological changes/C5-Physiological changes.md",
     "Physiological changes",
-    "Obstetrics.md",
     "Medical and surgical illness"
   ]
 }

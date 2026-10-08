@@ -1,4 +1,4 @@
-[[C13- Normal labour]]
+[[C2-FUNDAMENTAL OF REPRODUCTION]]
 # Physiology of Ovulation [⭐ High-Yield]
 
 ### Mark Weightage
