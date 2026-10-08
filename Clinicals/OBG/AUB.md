@@ -1,4 +1,4 @@
-[[OBG]]
+[[GYN]]
 # Abnormal Uterine Bleeding (AUB) — Comprehensive Clinical Case & Viva Analysis
 
 ---
