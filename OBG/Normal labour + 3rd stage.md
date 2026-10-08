@@ -51,7 +51,7 @@
     - **Anteroposterior**: Suboccipitobregmatic (**9.5 cm**) when head is well flexed, or Suboccipitofrontal (**10.0 cm**) in slight deflexion.
     - **Transverse**: Biparietal diameter (**9.5 cm**).
 
-```
+```mermaid 
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
@@ -107,7 +107,7 @@ H --> I[9. Expulsion of Trunk: Anterior Shoulder First Under Pubic Arch, Then Po
     - _Schultze Mechanism (Central - 80%)_: Retroplacental hematoma forms centrally; placenta delivers like an inverted umbrella with fetal surface presenting first; minimal external bleeding until delivery.
     - _Mathews-Duncan Mechanism (Marginal - 20%)_: Separation starts at lower margin; blood escapes externally throughout; maternal surface presents first.
 
-```
+```mermaid 
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
