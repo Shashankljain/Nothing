@@ -22,48 +22,21 @@
             }
           },
           {
-            "id": "201342025f15ea14",
+            "id": "d030d5bbaca0fd8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dvt.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dvt"
-            }
-          },
-          {
-            "id": "bb2c5caecd611ab2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Varicose Veins—Complications.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Varicose Veins—Complications"
-            }
-          },
-          {
-            "id": "c235ba3275efaccf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Saphena Varix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Saphena Varix"
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Varicose vein.md",
+            "file": "Untitled.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -213,12 +186,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "e44a428f7a3df389",
+  "active": "d030d5bbaca0fd8b",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Varicose vein.md",
     "Saphena Varix.md",
     "Varicose Veins—Complications.md",
     "Dvt.md",
-    "Varicose vein.md",
     "Appendix/C47-Appendix.md",
     "Venous disease/C15- Venous disease.md",
     "Chapters.md",
