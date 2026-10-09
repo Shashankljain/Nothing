@@ -71,7 +71,7 @@ The standardized CEAP system categorizes chronic venous disorders based on **Cl
 
 ### Surgical Anatomy of Lower Limb Veins [⭐ High-Yield]
 
-```
+```mermaid 
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
@@ -124,7 +124,7 @@ Valved communicating channels connecting the superficial system to the deep syst
 
 ### Pathophysiology [⭐ High-Yield]
 
-```
+```mermaid 
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
@@ -226,7 +226,7 @@ Combines B-mode real-time anatomical imaging with Spectral/Color Doppler flow an
 
 ### Treatment / Management [⭐ High-Yield]
 
-```
+```mermaid 
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
