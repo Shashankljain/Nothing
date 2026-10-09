@@ -35,8 +35,7 @@
               "title": "C47-Appendix"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,11 +185,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "ed7d49b2c1202ab4",
+  "active": "9cece6322240ef09",
   "lastOpenFiles": [
+    "Appendix/C47-Appendix.md",
     "Wound and wound healing/C2-Wound & Wound Healing.md",
     "Chapters.md",
-    "Appendix/C47-Appendix.md",
     "Appendix/Appendicular Mass.md",
     "Appendix/Appendicular mass.md",
     "Appendix/Appendicitis.md",
