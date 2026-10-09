@@ -63,8 +63,7 @@
               "title": "C25-CTEV"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,10 +213,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "d50456ce4878c7c8",
+  "active": "6279a238370b1a8f",
   "lastOpenFiles": [
-    "Chapters.md",
     "CTEV/C25-CTEV.md",
+    "Chapters.md",
     "CTEV/DB splint.md",
     "CTEV"
   ]
