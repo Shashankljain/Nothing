@@ -81,3 +81,28 @@ Zindagi ke atabommai
 Janta kattu kuntive
 
 
+[F]Devaru Preethiya Olage
+
+  
+
+[M]Eruthane~~
+
+[F]Ho Ellara Hrudayada Balige
+
+[M]Baruthane~~
+
+[F]Avanu Time-U Nodalla
+
+Endu Jaathi Kelallaa
+
+Kalla Kedi Anthaanu
+
+Bedha Bhava Maadallaa
+
+Ivanu Yavoora Cheluva Shiva
+
+  
+
+[M]Helallaa~~ Helallaa~~
+
+Ninganthu~~ Naa Helallaa~~
