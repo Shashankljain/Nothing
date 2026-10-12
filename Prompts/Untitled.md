@@ -106,3 +106,109 @@ Ivanu Yavoora Cheluva Shiva
 [M]Helallaa~~ Helallaa~~
 
 Ninganthu~~ Naa Helallaa~~
+
+
+
+Badtameezee ek bimari hai
+
+Ek aisi bimari
+
+Jo dheere dheere waqt ke saath
+
+Budhaape mein badal jaati hai.
+
+Main kehta hoon jab
+
+tak budhaapa nahi aata,
+
+Thodi badtameezee hie kar lete hai
+
+  
+
+  
+
+Pan mein pudina dekha,
+
+Naak ka nageena dekha
+
+Chikni chameli dekhi
+
+Chikna kameena dekha
+
+Chaand ne cheater hoke cheat kiya toh
+
+Saare taare bole gilli gilli akhaa
+
+  
+
+(Chorus: Pa para para… Pa para para…
+
+Pa para para… para ra para ra
+
+Pa para para… Pa para para…
+
+Pa para para… para ra para ra)
+
+  
+
+  
+
+Meri baat, teri baat
+
+Zyada baatein boori baat
+
+Thaali mein katora leke
+
+Aaloo bhat, Muli bhat
+
+Mere peeche kisi ne repeat kiya toh
+
+Saala maine tere muh pe maara mukka
+
+  
+
+(Chorus: Pa para para… Pa para para…
+
+Pa para para… para ra para ra
+
+Pa para para… Pa para para…
+
+Pa para para… para ra para ra)
+
+  
+
+  
+
+Ispe bhoot koi chadha hai
+
+Theharna jaane naa
+
+Ab toh kya bura kya bhala hai
+
+Fark pehchaane na
+
+Zid pakad ke khada hai kambakht
+
+Chhodna jaane na
+
+  
+
+Badtameez dil, batameez dil, batamiz dil
+
+Maane na, maane na
+
+Badtameez dil, batameez dil, batamiz dil
+
+Maane na, maane na
+
+  
+
+Yeh jo haal hai, sawaal hai, kamaal hai
+
+Jaane na jaane na
+
+Badtameez dil, battameez dil
+
+badtameez dil
+
+Maane naa..
