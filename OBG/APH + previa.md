@@ -43,7 +43,14 @@ Previa (35%)     Placentae (35%)              Previa            Sinus           
     - Risk of **Placenta Accreta Spectrum (PAS)** rises dramatically with prior C-sections: **3% with 1 prior CD**, escalating up to **61% with ≥3 prior CDs**.
 - **Multiparity & Advanced Maternal Age (>35 years)**: Atrophic endometrial changes or scarring from repeated pregnancies favor lower segment implantation (4-fold risk elevation).
 - **Hyperplacentosis**: Multiple gestation (twins/triplets) or large placental size encroaches into the lower uterine segment.
-- **Maternal Smoking & Substance Use**: Carbon monoxide-induced hypoxemia triggers compensatory placental hypertrophy.
+- **Maternal Smoking & Substance Use**: Carbon monoxide-induced hypoxemia triggers compensatory placental hypertrophy, COCAIN abuse
+- Preeclampsia 
+- Hydramnious
+- Increased age
+- Submucous fibroid
+- RTA
+- Folic acid deficiency
+- Thrombophelia
 
 ---
 
@@ -74,7 +81,7 @@ Previa (35%)     Placentae (35%)              Previa            Sinus           
     - Sonography at 17 weeks identifies low-lying placenta in ~15% of cases; however, >90% resolve by 34–36 weeks.
     - This apparent "migration" occurs due to progressive LUS elongation relocating the placental margin upward, alongside **trophotropism** (preferential growth of trophoblastic tissue toward the more vascular fundus).
 
-```
+```mermaid 
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
