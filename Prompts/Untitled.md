@@ -212,3 +212,41 @@ Badtameez dil, battameez dil
 badtameez dil
 
 Maane naa..
+
+
+
+
+
+Gramaphonina gaana chanda
+
+tatto tamateya taala chanda
+
+matkada haadi maado jagala chanda
+
+  
+
+kaddu tinnuva koli chanda
+
+kalla battiya sendi chanda
+
+hallada edi kaayi chanda chanda
+
+  
+
+Ajja ajji kalla nota
+
+sandi gondi preethi pata
+
+kenakutaithe maayagaathiya maiya maata..
+
+  
+
+  
+
+Ghallu ghallenuthav dosthi
+
+ghallu ghallenuthav
+
+masti kustiyalli dosthi
+
+ghallu ghallenuthav
