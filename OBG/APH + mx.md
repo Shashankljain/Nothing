@@ -145,7 +145,7 @@ F -->|GA >= 37 Wks OR Active Bleeding OR Fetal Distress| H[Active Management: Im
 
 #### A. Imaging Studies (Placentography - Gold Standard)
 
-- **Transvaginal Sonography (TVS)**: The **investigation of choice (IOC)**. Safe, highly accurate (100% sensitivity), and does not provoke bleeding when the probe is placed in the lower vagina.
+- **Transvaginal Sonography (TVS)**: The **investigation of choice (IOC)**. Safe, highly accurate (==100% sensitivity==), and does not provoke bleeding when the probe is placed in the lower vagina.
 - **Transabdominal Sonography (TAS)**: Primary screening tool; requires a full bladder (may falsely diagnose PP due to lower segment compression).
 - **Color Doppler Ultrasound**: Evaluates subplacental vascularity and detects co-existing **Placenta Accreta Spectrum (PAS)** (turbulent vascular lakes, loss of retroplacental sonolucent zone).
 - **Magnetic Resonance Imaging (MRI)**: Superior for posterior placenta previa, deep myometrial invasion, and bladder wall involvement in PAS.
