@@ -130,7 +130,6 @@ F -->|GA >= 37 Wks OR Active Bleeding OR Fetal Distress| H[Active Management: Im
 
 - **General Examination**: Anemia and hypovolemia are strictly **proportionate to visible blood loss**.
 - **Abdominal Examination**: (Tender + rigid )
-	- Height of uterus is more than POG.
     - Uterus is **soft, relaxed, and completely non-tender**.
     - Height of uterus corresponds to the period of amenorrhea.
     - **High Floating Head**: Presenting part remains unengaged at term.
