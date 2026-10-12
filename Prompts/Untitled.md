@@ -109,25 +109,8 @@ Ninganthu~~ Naa Helallaa~~
 
 
 
-Badtameezee ek bimari hai
 
-Ek aisi bimari
-
-Jo dheere dheere waqt ke saath
-
-Budhaape mein badal jaati hai.
-
-Main kehta hoon jab
-
-tak budhaapa nahi aata,
-
-Thodi badtameezee hie kar lete hai
-
-  
-
-  
-
-Pan mein pudina dekha,
+==Pan mein pudina dekha,==
 
 Naak ka nageena dekha
 
@@ -217,7 +200,7 @@ Maane naa..
 
 
 
-Gramaphonina gaana chanda
+==Gramaphonina== gaana chanda
 
 tatto tamateya taala chanda
 
