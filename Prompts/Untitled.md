@@ -30,7 +30,7 @@ Muddaadi Ayyayyayyo..
 Kacchaguli Thaalalaare..
 
 
-Inthakana manchi polikedi
+==Inthakana== manchi polikedi
 
 Naku thattaledu gaani ammu
 
@@ -81,7 +81,7 @@ Zindagi ke atabommai
 Janta kattu kuntive
 
 
-[F]Devaru Preethiya Olage
+[F]==Devaru== Preethiya Olage
 
   
 
