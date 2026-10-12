@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OBS/PIH.md",
+                "file": "OBS/Pathological/PIH.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -76,9 +76,19 @@
               "icon": "lucide-file",
               "title": "PIH"
             }
+          },
+          {
+            "id": "54d7a3f18f757061",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -174,7 +184,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Medicine/Ecg.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -229,9 +238,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "aad656008b6d7421",
+  "active": "4d04a1e5996f1f8e",
   "lastOpenFiles": [
-    "Pathological.md",
+    "OBS/Pathological/GDM.md",
+    "OBS/Pathological/GDM.pdf",
+    "OBS/Examination/prenatal screening.pdf",
+    "OBS/Pathological",
+    "OBS/Examination/Sketchy_obs_Final.pdf",
+    "OBS/Examination/routine prenatal exam..pdf",
+    "OBS/Normal physio/Intro to obs.md",
+    "OBS/Examination",
+    "OBS/Pathological/GDM 1.md",
+    "OBS/Normal physio",
+    "OBS/Pathological/PIH.md",
+    "OBS/Pathological/Pathological.md",
     "Medicine/Cardiology/ACS.md",
     "Medicine/Cardiology",
     "Medicine/Cardiology/ACS.pdf",
@@ -239,29 +259,20 @@
     "IMG_2420.png",
     "Medicine/Cardiology/IMG_2420.jpeg",
     "Medicine/Cardiology/Ecg intro.md",
-    "OBS/PIH.md",
-    "OBS/PIH.pdf",
-    "OBS/Intro to obs.md",
-    "OBS/N,V+ hyperemesis gravidarum.md",
-    "OBS/N,V + Hyperemesis.pdf",
-    "OBS/Prenatal screening.md",
-    "OBS/Routine prenatal.md",
+    "OBS/Pathological/PIH.pdf",
+    "OBS/Normal physio/N,V+ hyperemesis gravidarum.md",
+    "OBS/Examination/Prenatal screening.md",
+    "OBS/Examination/Routine prenatal.md",
     "Medicine/Cardiology/MR+ MVP.md",
     "Medicine/Cardiology/Ecg.png",
     "Medicine/Cardiology/Cardiology.md",
     "Medicine/Cardiology/Dcm + rcm.md",
-    "OBS/Examination.md",
-    "OBS/Normal physiology.md",
-    "OBS/prenatal screening.pdf",
-    "OBS/routine prenatal exam..pdf",
-    "OBS/Physio of preg.md",
-    "OBS/physiology of preg.pdf",
-    "OBS/intro to obs.pdf",
-    "OBS/Fetal heart tracing.md",
-    "Medicine/Cardiology/MS.pdf",
+    "OBS/Examination/Examination.md",
+    "OBS/Normal physio/Normal physiology.md",
+    "OBS/Normal physio/Physio of preg.md",
+    "OBS/Examination/Fetal heart tracing.md",
     "OBS/OBS.md",
-    "OBS/Fetal physio.md",
-    "OBS/Sketchy_obs_Final.pdf",
+    "OBS/Normal physio/Fetal physio.md",
     "Medicine/Cardiology/As Ar.md",
     "Medicine/Cardiology/MS.md",
     "Medicine/Cardiology/TR.md",

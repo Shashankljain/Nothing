@@ -1,0 +1,2 @@
+[[Pathological]]
+![[GDM.pdf]]
