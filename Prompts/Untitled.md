@@ -1,5 +1,14 @@
 
-Belageddu Yaara Mukhava Naanu Nodidhe..
+Sanje thangali thampagi beesi,
+Hoova kampannu haadhige haasi
+thandide hithava namagagi
+thandide hithava namagagi
+Nodi banaadi, mele haradi,
+theladi oladi nalivanthe
+Naavu adona inneke ba chinthe
+Jeeva Hoovagideee...
+
+==Belageddu Yaara Mukhava Naanu Nodidhe==..
 
 Andaano Adhrushtaano Munde Kunthide
 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sketchy/Medicine/Cardiology/TR.md",
+                "file": "Prompts/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TR"
+              "title": "Untitled"
             }
           }
         ],
@@ -187,6 +187,7 @@
   },
   "active": "5f65eed58c0dbc78",
   "lastOpenFiles": [
+    "Sketchy/Medicine/Cardiology/TR.md",
     "Sketchy/Medicine/Cardiology/MR+ MVP.md",
     "Sketchy/Medicine/Cardiology/Dcm + rcm.md",
     "Sketchy/Medicine/Cardiology/Ecg interpretation.jpeg",
@@ -222,7 +223,6 @@
     "OBG/GDM.md",
     "OBG",
     "Hi/Surgery/Appendicitis.md",
-    "Obg/Gsgs.md",
     "Obg",
     "Hi/Surgery",
     "Hi/Prompts",
