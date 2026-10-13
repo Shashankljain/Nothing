@@ -25,12 +25,12 @@
             "id": "5f65eed58c0dbc78",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "Sketchy/Medicine/Cardiology/IMG_20261008_192252248.jpg"
+                "file": "Sketchy/Medicine/Cardiology/DCM+RCM.pdf"
               },
-              "icon": "lucide-image",
-              "title": "IMG_20261008_192252248"
+              "icon": "lucide-file-text",
+              "title": "DCM+RCM"
             }
           }
         ],
@@ -185,8 +185,8 @@
   },
   "active": "5f65eed58c0dbc78",
   "lastOpenFiles": [
-    "Sketchy/Medicine/Cardiology/Ecg intro.md",
     "Sketchy/Medicine/Cardiology/IMG_20261008_192252248.jpg",
+    "Sketchy/Medicine/Cardiology/Ecg intro.md",
     "Clinicals/OBG/AUB.md",
     "Prompts/Untitled.md",
     "Sketchy/Pathological.md",
@@ -220,7 +220,6 @@
     "Hi/Surgery/Appendix.md",
     "Obg",
     "Hi/Surgery",
-    "Hi/Prompts/Prompts.md",
     "Hi/Prompts",
     "Hi/OBG",
     "Com med/RCH.canvas",
