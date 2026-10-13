@@ -1,2 +1,2 @@
 [[Cardiology]]
-![[IMG_2420.jpeg]]
+![[Ecg interpretation.jpeg]]

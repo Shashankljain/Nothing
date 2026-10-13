@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompts/Untitled.md",
+                "file": "Sketchy/Medicine/Cardiology/MR+ MVP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "MR+ MVP"
             }
           }
         ],
@@ -187,11 +187,14 @@
   },
   "active": "5f65eed58c0dbc78",
   "lastOpenFiles": [
-    "Sketchy/Medicine/Cardiology/DCM+RCM.pdf",
+    "Sketchy/Medicine/Cardiology/Dcm + rcm.md",
+    "Sketchy/Medicine/Cardiology/Ecg interpretation.jpeg",
+    "Sketchy/Medicine/Cardiology/Ecg interpretation.md",
     "Sketchy/Medicine/Cardiology/IMG_20261008_192252248.jpg",
+    "Prompts/Untitled.md",
+    "Sketchy/Medicine/Cardiology/DCM+RCM.pdf",
     "Sketchy/Medicine/Cardiology/Ecg intro.md",
     "Clinicals/OBG/AUB.md",
-    "Prompts/Untitled.md",
     "Sketchy/Pathological.md",
     "Sketchy/OBS/PIH.pdf",
     "Sketchy/OBS/PIH.md",
@@ -220,11 +223,9 @@
     "Hi/Surgery/Appendicitis.md",
     "Obg/Gsgs.md",
     "Hi/Surgeryy.md",
-    "Hi/Surgery/Appendix.md",
     "Obg",
     "Hi/Surgery",
     "Hi/Prompts",
-    "Hi/OBG",
     "Com med/RCH.canvas",
     "Forensic/image 104.jpg",
     "Forensic/image 103.jpg",
@@ -233,7 +234,6 @@
     "IMG_20260907_225713243.jpg",
     "IMG_20260907_225709274 2.jpg",
     "IMG_20260907_225709274 1.jpg",
-    "IMG_20260907_225709274.jpg",
     "Forensic/Sign,symptom,feature,tx.canvas",
     "Com med/Untitled.canvas",
     "Untitled.canvas"
