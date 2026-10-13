@@ -25,12 +25,14 @@
             "id": "5f65eed58c0dbc78",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Sketchy/Medicine/Cardiology/DCM+RCM.pdf"
+                "file": "Prompts/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DCM+RCM"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -185,6 +187,7 @@
   },
   "active": "5f65eed58c0dbc78",
   "lastOpenFiles": [
+    "Sketchy/Medicine/Cardiology/DCM+RCM.pdf",
     "Sketchy/Medicine/Cardiology/IMG_20261008_192252248.jpg",
     "Sketchy/Medicine/Cardiology/Ecg intro.md",
     "Clinicals/OBG/AUB.md",
