@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Venous disease/Varicose vein.md",
+                "file": "Chapters.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Varicose vein"
+              "title": "Chapters"
             }
           },
           {
@@ -187,8 +187,8 @@
   },
   "active": "e44a428f7a3df389",
   "lastOpenFiles": [
-    "Venous disease/Varicose Veins—Complications.md",
     "Venous disease/Varicose vein.md",
+    "Venous disease/Varicose Veins—Complications.md",
     "Venous disease/Bisgaard's Method of Treatment.md",
     "Venous disease/Saphena Varix.md",
     "Venous disease/Dvt.md",
