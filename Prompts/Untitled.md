@@ -133,18 +133,6 @@ Saare taare bole gilli gilli akhaa
 
   
 
-(Chorus: Pa para para… Pa para para…
-
-Pa para para… para ra para ra
-
-Pa para para… Pa para para…
-
-Pa para para… para ra para ra)
-
-  
-
-  
-
 Meri baat, teri baat
 
 Zyada baatein boori baat
