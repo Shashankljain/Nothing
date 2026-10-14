@@ -36,8 +36,8 @@
          ┌────────────────────────────────────────────┼────────────────────────────────────────────┐
          ▼                                            ▼                                            ▼
 ┌─────────────────────────┐                  ┌─────────────────────────┐                  ┌─────────────────────────┐
-│ Revealed Variety (20%)  │                  │ Concealed Variety (15%) │                  │  Mixed Variety (65%)    │
-│ Blood escapes via os    │                  │ Clot retained in uterus │                  │ Both concealed & revealed│
+│ Revealed Variety (20%)  │  │ Concealed Variety (15%) │  │  Mixed Variety (65%)    │
+│ Blood escapes via os    ││ Clot retained in uterus │ Both concealed & revealed│
 └─────────────────────────┘                  └─────────────────────────┘                  └─────────────────────────┘
 ```
 
@@ -87,11 +87,12 @@ F -->|Fetal Death IUFD + Stable Vitals OR Normal FHS in Labor| H[Vaginal Deliver
 
 - **Dark Red Vaginal Bleeding**: Non-recurrent, continuous dark blood or serosanguineous discharge.
 - **Continuous Abdominal Pain**: Severe, unremitting, agonizing lower abdominal or back pain.
+- Uterine tenderness 
 
 #### B. Physical Signs
 
 - **General Examination**:
-    - Pallor and degree of shock are **severely out of proportion to visible external blood loss** in concealed and mixed varieties.
+    - Pallor and degree of ==shock are **severely out of proportion to visible external blood loss** in concealed== and mixed varieties.
 - **Abdominal Examination**:
     - **Uterine Contour & Feel**: Uterus is **tense, tender, rigid, and "==woody-hard=="** on palpation.
     - **Uterine Height**: Fundal height may be ==greater== than expected for the period of amenorrhea due to concealed intra-uterine clot accumulation.
@@ -103,7 +104,7 @@ F -->|Fetal Death IUFD + Stable Vitals OR Normal FHS in Labor| H[Vaginal Deliver
 ### 6. Diagnosis & Investigations [⭐ High-Yield]
 
 - **Clinical Diagnosis**: Primarily a clinical diagnosis based on the classic triad of **dark vaginal bleeding, continuous abdominal pain, and a woody-hard tender uterus**.
-- **Ultrasonography (TVS / TAS)**: Demonstrates retroplacental hyperechoic/heterogeneous hematoma, "jello sign" (shimmering of placental tissue on movement), and rules out placenta previa.
+- **Ultrasonography (TVS / TAS)**: Demonstrates retroplacental hyperechoic/heterogeneous hematoma, "jello sign" (shimmering of placental tissue on movement), and ==negative results doesn’t rules out== placenta previa.
 - **Laboratory DIC Profile**:
     - **Serum Fibrinogen**: Reduced (<150 mg/dL; critical level <100 mg/dL).
     - **Platelet Count**: Thrombocytopenia (<100,000/μL).
