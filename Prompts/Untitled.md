@@ -148,7 +148,6 @@ Saala maine tere muh pe maara mukka
   
 
 
-
 Ispe bhoot koi chadha hai
 
 Theharna jaane naa
