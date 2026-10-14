@@ -80,9 +80,9 @@ J -->|Mistaken for Femoral Hernia| L[Inadvertent Incision / Suture Placement in 
 #### Duplex Ultrasound Scanning (Investigation of Choice / Gold Standard)
 
 - **Patient Positioning**: Performed in the **standing position**.
-- **B-Mode Findings**: Identifies the saccular dilatation of the terminal GSV and demonstrates its direct anatomical continuity with the Common Femoral Vein (CFV).
+- **B-Mode Findings**: Identifies the ==saccular dilatation== of the terminal GSV and demonstrates its direct anatomical continuity with the Common Femoral Vein (CFV).
 - **"Mickey Mouse" Sign**: Transverse B-mode view at the groin showing the Common Femoral Artery (CFA), Common Femoral Vein (CFV), and the expanded Great Saphenous Vein (GSV).
-- **Spectral Doppler Findings**: Demonstrates retrograde venous flow / reflux lasting **≥0.5 seconds** across the SFJ on calf release or Valsalva maneuver.
+- **Spectral Doppler Findings**: Demonstrates retrograde venous flow / reflux lasting **==≥0.5 seconds==** across the SFJ on calf release or Valsalva maneuver.
 
 ---
 
