@@ -151,12 +151,15 @@
             "id": "68e2d4e69e6a41ed",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Medicine/Cardiology/Bradycardia DDx.pdf"
+                "file": "Medicine/Cardiology/Bradycardia ECG.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Bradycardia DDx"
+              "icon": "lucide-file",
+              "title": "Bradycardia ECG"
             }
           }
         ],
@@ -312,6 +315,7 @@
   },
   "active": "68e2d4e69e6a41ed",
   "lastOpenFiles": [
+    "Medicine/Cardiology/Bradycardia DDx.pdf",
     "Medicine/Cardiology/ACS.md",
     "OBS/Pathological/GDM.md",
     "Medicine/Cardiology/Narrow tachycardia Mx.md",
@@ -323,7 +327,6 @@
     "Medicine/Cardiology/Bradycardia ECG.md",
     "Medicine/Cardiology/Bradycardia ECG.pdf",
     "Medicine/Cardiology/Bradycardia DDx.md",
-    "Medicine/Cardiology/Bradycardia DDx.pdf",
     "OBS/Pathological/GDM.pdf",
     "OBS/Examination/prenatal screening.pdf",
     "OBS/Pathological",
