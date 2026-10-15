@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bradycardia DDx.md",
+                "file": "Medicine/Cardiology/Bradycardia DDx.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bradycardia ECG.md",
+                "file": "Medicine/Cardiology/Bradycardia ECG.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrow tachycardia-2.md",
+                "file": "Medicine/Cardiology/Narrow tachycardia-2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrow tachycardia -1.md",
+                "file": "Medicine/Cardiology/Narrow tachycardia -1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -153,13 +153,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrow tachycardia Mx.md",
+                "file": "OBS/Pathological/GDM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Narrow tachycardia Mx"
+              "title": "GDM"
             }
           }
         ],
@@ -315,16 +315,16 @@
   },
   "active": "68e2d4e69e6a41ed",
   "lastOpenFiles": [
-    "Narrow complex tach- Mx.pdf",
-    "Narrow tachycardia -1.md",
-    "Narrow tachycardia Mx.md",
-    "Narrow complex tachy -1.pdf",
-    "Narrow tachycardia-2.md",
-    "Narrow complex tach -2.pdf",
-    "Bradycardia ECG.md",
-    "Bradycardia ECG.pdf",
-    "Bradycardia DDx.md",
-    "Bradycardia DDx.pdf",
+    "Medicine/Cardiology/Narrow tachycardia Mx.md",
+    "Medicine/Cardiology/Narrow complex tach- Mx.pdf",
+    "Medicine/Cardiology/Narrow tachycardia -1.md",
+    "Medicine/Cardiology/Narrow complex tachy -1.pdf",
+    "Medicine/Cardiology/Narrow tachycardia-2.md",
+    "Medicine/Cardiology/Narrow complex tach -2.pdf",
+    "Medicine/Cardiology/Bradycardia ECG.md",
+    "Medicine/Cardiology/Bradycardia ECG.pdf",
+    "Medicine/Cardiology/Bradycardia DDx.md",
+    "Medicine/Cardiology/Bradycardia DDx.pdf",
     "OBS/Pathological/GDM.md",
     "OBS/Pathological/GDM.pdf",
     "OBS/Examination/prenatal screening.pdf",
@@ -332,7 +332,6 @@
     "OBS/Examination/Sketchy_obs_Final.pdf",
     "OBS/Examination/routine prenatal exam..pdf",
     "OBS/Normal physio/Intro to obs.md",
-    "OBS/Examination",
     "OBS/Pathological/GDM 1.md",
     "OBS/Pathological/PIH.md",
     "OBS/Pathological/Pathological.md",
