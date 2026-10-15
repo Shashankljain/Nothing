@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Normal labour/Mech of labour+ LOA.md",
+                "file": "Chapters - OBS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mech of labour+ LOA"
+              "title": "Chapters - OBS"
             }
           }
         ],
@@ -132,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Normal labour/Mech of labour+ LOA.md",
+            "file": "Chapters - OBS.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -188,6 +188,7 @@
   },
   "active": "cc3f14a0f70aa5cb",
   "lastOpenFiles": [
+    "Normal labour/Mech of labour+ LOA.md",
     "Teratoma.md",
     "Normal labour/C13- Normal labour.md",
     "Normal labour/C13- Normal Labour.md",
@@ -216,7 +217,6 @@
     "Normal labour/Restitution.md",
     "Normal labour/False labour pain.md",
     "Normal labour/Normal labour + 3rd stage.md",
-    "Normal labour/Signs of Placental Separation.md",
     "Normal labour",
     "Physiological changes",
     "Medical and surgical illness"
