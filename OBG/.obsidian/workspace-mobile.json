@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hyeremesis G.md",
+                "file": "Vomiting in preg/Hyeremesis G.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hyperemesis MX.md",
+                "file": "Chapters - OBS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hyperemesis MX"
+              "title": "Chapters - OBS"
             }
           }
         ],
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Hyperemesis MX.md",
+            "file": "Chapters - OBS.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -216,8 +216,8 @@
   },
   "active": "6f73cbd1ed5df17c",
   "lastOpenFiles": [
-    "Hyperemesis MX.md",
-    "Hyeremesis G.md",
+    "Vomiting in preg/Hyperemesis MX.md",
+    "Vomiting in preg/Hyeremesis G.md",
     "Vomiting in preg/C15- Vomiting in preg.md",
     "Chapters - OBS.md",
     "Vomiting in preg",
