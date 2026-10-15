@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A.md",
+                "file": "AMTSL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A"
+              "title": "AMTSL"
             }
           }
         ],
@@ -202,7 +202,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "A.md",
+            "file": "AMTSL.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -258,7 +258,7 @@
   },
   "active": "cc3f14a0f70aa5cb",
   "lastOpenFiles": [
-    "A.md",
+    "AMTSL.md",
     "Mx of 2nd stage.md",
     "LUS + significance.md",
     "Mech + reason.md",
