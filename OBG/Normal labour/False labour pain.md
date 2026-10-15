@@ -1,4 +1,4 @@
-[[C13- Normal labour]]
+[[Normal labour/C13- Normal labour]]
 # False Labor Pains (Spurious Labor) [⭐ High-Yield]
 
 ### Mark Weightage

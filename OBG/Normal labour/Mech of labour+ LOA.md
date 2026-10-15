@@ -1,4 +1,4 @@
-[[C13- Normal labour]]
+[[Normal labour/C13- Normal labour]]
 # Mechanism of Normal Labor & Management of Left Occipito-Anterior (L.O.A.) Position [⭐ High-Yield]
 
 ### Mark Weightage

@@ -1,4 +1,4 @@
-[[C13- Normal labour]]
+[[Normal labour/C13- Normal labour]]
 # Fetal Axis Pressure [⭐ High-Yield]
 
 ### Definition [⭐ High-Yield]

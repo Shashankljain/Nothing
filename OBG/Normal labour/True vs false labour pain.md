@@ -1,4 +1,4 @@
-[[C13- Normal labour]]
+[[Normal labour/C13- Normal labour]]
 # Differentiation Between True and False Labor Pains [⭐ High-Yield]
 
 ### Mark Weightage

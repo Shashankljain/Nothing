@@ -1,4 +1,4 @@
-[[C13- Normal labour]]
+[[Normal labour/C13- Normal labour]]
 # Brandt-Andrews Technique (Controlled Cord Traction - CCT) [⭐ High-Yield]
 
 ### Definition

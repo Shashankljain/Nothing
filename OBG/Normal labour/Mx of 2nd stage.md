@@ -1,4 +1,4 @@
-[[C13- Normal labour]]
+[[Normal labour/C13- Normal labour]]
 # Management of Second Stage of Labor [⭐ High-Yield]
 
 ### Mark Weightage

@@ -1,4 +1,4 @@
-[[C13- Normal labour]]
+[[Normal labour/C13- Normal labour]]
 # Normal Labor: Definition, Mechanism, and Third Stage Management [⭐ High-Yield]
 
 ### Mark Weightage

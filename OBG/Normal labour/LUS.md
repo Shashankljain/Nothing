@@ -1,4 +1,4 @@
-[[C13- Normal labour]]
+[[Normal labour/C13- Normal labour]]
 # Lower Uterine Segment and Its Significance [⭐ High-Yield]
 
 ### Mark Weightage

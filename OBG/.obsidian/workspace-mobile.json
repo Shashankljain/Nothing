@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AMTSL.md",
+                "file": "Normal labour/Asynclitism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AMTSL"
+              "title": "Asynclitism"
             }
           }
         ],
@@ -202,7 +202,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "AMTSL.md",
+            "file": "Normal labour/Asynclitism.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -258,7 +258,9 @@
   },
   "active": "cc3f14a0f70aa5cb",
   "lastOpenFiles": [
+    "Normal labour/C13- Normal Labour.md",
     "AMTSL.md",
+    "N Labour",
     "Mx of 2nd stage.md",
     "LUS + significance.md",
     "Mech + reason.md",
@@ -285,7 +287,6 @@
     "Normal labour/Brandt-Andrews Technique.md",
     "Normal labour/Asynclitism.md",
     "Normal labour/True vs false labour pain.md",
-    "Normal labour/FAP.md",
     "Normal labour",
     "Physiological changes",
     "Medical and surgical illness"

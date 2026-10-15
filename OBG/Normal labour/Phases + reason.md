@@ -1,4 +1,4 @@
-[[C13- Normal labour]]
+[[Normal labour/C13- Normal labour]]
 # Mechanism of Normal Labor: Phases, Mechanics, and Reasons [⭐ High-Yield]
 
 ### Mark Weightage

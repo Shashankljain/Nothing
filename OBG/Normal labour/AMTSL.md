@@ -1,4 +1,4 @@
-[[C13- Normal labour]]
+[[Normal labour/C13- Normal labour]]
 # Active Management of Third Stage of Labor (AMTSL) [⭐ High-Yield]
 
 ### Mark Weightage
