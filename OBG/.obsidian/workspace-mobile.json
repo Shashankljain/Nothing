@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "NL + LOA"
             }
+          },
+          {
+            "id": "42fc8b5c8a9f70ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "NL + LOA.md",
+            "file": "Untitled.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -200,8 +214,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "91779da0f6834d8a",
+  "active": "42fc8b5c8a9f70ca",
   "lastOpenFiles": [
+    "Untitled.md",
     "NL + LOA.md",
     "NL +mech. + 3rd stage.md",
     "Chapters - OBS.md",
@@ -229,7 +244,6 @@
     "Normal labour/AMTSL.md",
     "Normal labour/Mx of 2nd stage.md",
     "Normal labour/Mech of labour+ LOA.md",
-    "Normal labour/Phases + reason.md",
     "Normal labour",
     "Physiological changes",
     "Medical and surgical illness"
