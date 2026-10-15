@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Mech + reason"
             }
+          },
+          {
+            "id": "15aecde6f778029d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +174,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mech + reason.md",
+            "file": "Untitled.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -214,8 +228,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "42fc8b5c8a9f70ca",
+  "active": "15aecde6f778029d",
   "lastOpenFiles": [
+    "Untitled.md",
     "Mech + reason.md",
     "NL + LOA.md",
     "NL +mech. + 3rd stage.md",
@@ -243,7 +258,6 @@
     "Normal labour/FAP.md",
     "Normal labour/AMTSL.md",
     "Normal labour/Mx of 2nd stage.md",
-    "Normal labour/Mech of labour+ LOA.md",
     "Normal labour",
     "Physiological changes",
     "Medical and surgical illness"
