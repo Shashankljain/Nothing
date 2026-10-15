@@ -151,17 +151,6 @@ Saala maine tere muh pe maara mukka
 
   
 
-(Chorus: Pa para para… Pa para para…
-
-Pa para para… para ra para ra
-
-Pa para para… Pa para para…
-
-Pa para para… para ra para ra)
-
-  
-
-  
 
 Ispe bhoot koi chadha hai
 
