@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Anti arrhythmia drugs.md",
+            "file": "A.fib.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "908925695ed2d4ae",
+  "active": "1f704410d3506a9a",
   "lastOpenFiles": [
     "Anti arrhythmia drugs.md",
     "Pacemaker.md",

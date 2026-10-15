@@ -238,7 +238,7 @@ Management revolves around three primary pillars: **(1) Rate vs Rhythm Control*
 - **Side Effects:** Proarrhythmic risk, conversion to 1:1 conducted atrial flutter, dizziness.
 - **When to Start / Stop:** **Strictly contraindicated in CAD, previous MI, or LV dysfunction** (increases mortality).
 
-##### b. Amiodarone (Class III Antiarrhythmic)
+##### b. Amiodarone (Class III Antiarrhythmic) - rate + rhythm control
 
 - **Mechanism of Action:** (KDT Textbook p. 578; Davidson p. 480). Multichannel blocker (K⁺, Na⁺, Ca²⁺) and non-competitive α/β-blocker → prolongs action potential duration and effective refractory period across all cardiac tissues.
 - **Dose & Route:**
