@@ -153,13 +153,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OBS/Pathological/GDM.md",
+                "file": "Medicine/Cardiology/ACS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "GDM"
+              "title": "ACS"
             }
           }
         ],
@@ -315,6 +315,7 @@
   },
   "active": "68e2d4e69e6a41ed",
   "lastOpenFiles": [
+    "OBS/Pathological/GDM.md",
     "Medicine/Cardiology/Narrow tachycardia Mx.md",
     "Medicine/Cardiology/Narrow complex tach- Mx.pdf",
     "Medicine/Cardiology/Narrow tachycardia -1.md",
@@ -325,7 +326,6 @@
     "Medicine/Cardiology/Bradycardia ECG.pdf",
     "Medicine/Cardiology/Bradycardia DDx.md",
     "Medicine/Cardiology/Bradycardia DDx.pdf",
-    "OBS/Pathological/GDM.md",
     "OBS/Pathological/GDM.pdf",
     "OBS/Examination/prenatal screening.pdf",
     "OBS/Pathological",
