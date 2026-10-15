@@ -151,15 +151,12 @@
             "id": "68e2d4e69e6a41ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Medicine/Cardiology/ACS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Medicine/Cardiology/Bradycardia DDx.pdf"
               },
-              "icon": "lucide-file",
-              "title": "ACS"
+              "icon": "lucide-file-text",
+              "title": "Bradycardia DDx"
             }
           }
         ],
@@ -315,6 +312,7 @@
   },
   "active": "68e2d4e69e6a41ed",
   "lastOpenFiles": [
+    "Medicine/Cardiology/ACS.md",
     "OBS/Pathological/GDM.md",
     "Medicine/Cardiology/Narrow tachycardia Mx.md",
     "Medicine/Cardiology/Narrow complex tach- Mx.pdf",
@@ -335,7 +333,6 @@
     "OBS/Pathological/GDM 1.md",
     "OBS/Pathological/PIH.md",
     "OBS/Pathological/Pathological.md",
-    "Medicine/Cardiology/ACS.md",
     "Medicine/Cardiology/Ecg interpretation.md",
     "IMG_2420.png",
     "Medicine/Cardiology/IMG_2420.jpeg",
