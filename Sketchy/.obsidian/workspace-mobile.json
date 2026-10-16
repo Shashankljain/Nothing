@@ -162,8 +162,7 @@
               "title": "R-L shunt"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,7 +258,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Medicine/Cardiology/R-L shunt.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -314,11 +312,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "68e2d4e69e6a41ed",
+  "active": "609af2f9fbf41ff1",
   "lastOpenFiles": [
+    "Medicine/Cardiology/R-L shunt.md",
     "R-L shunt.pdf",
     "OBS/Normal physio/Fetal physio.md",
-    "Medicine/Cardiology/R-L shunt.md",
     "Medicine/Cardiology/Bradycardia ECG.md",
     "Medicine/Cardiology/Bradycardia DDx.pdf",
     "Medicine/Cardiology/ACS.md",
@@ -335,7 +333,6 @@
     "OBS/Examination/prenatal screening.pdf",
     "OBS/Pathological",
     "OBS/Examination/Sketchy_obs_Final.pdf",
-    "OBS/Examination/routine prenatal exam..pdf",
     "OBS/Normal physio/Intro to obs.md",
     "OBS/Pathological/GDM 1.md",
     "OBS/Pathological/PIH.md",
