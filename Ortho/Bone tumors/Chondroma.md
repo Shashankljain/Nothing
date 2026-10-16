@@ -12,7 +12,7 @@
 - **Site & Age Predilection**: Most common primary bone tumor affecting the small short tubular bones of the hands and feet (phalanges and metacarpals); most frequently seen in young adults aged 15–30 years.
 - **Clinical Presentation**: Presents as a slow-growing, painless, hard swelling of a digit, or manifests for the first time as an acute pathological fracture following minor trivial trauma.
 - **Radiological Appearance (X-Ray)**: Demonstrates a well-circumscribed, central radiolucent (lytic) metaphyseal/diaphyseal lesion with cortical thinning and characteristic "popcorn" or "ring-and-arc" matrix calcifications.
-- **Associated Syndromes**: Multiple enchondromas occur in **Ollier's disease** (multiple enchondromatosis) and **Maffucci's syndrome** (multiple enchondromas combined with soft tissue cavernous hemangiomas).
+- **Associated Syndromes**: Multiple enchondromas occur in **==Ollier's disease==** (multiple enchondromatosis) and ==**Maffucci's syndrome*==* (multiple enchondromas combined with soft tissue ==cavernous hemangiomas==).
 - **Management**: Definitively treated by **extended curettage** of the cartilaginous cavity followed by **autologous bone grafting**.
 
 ---

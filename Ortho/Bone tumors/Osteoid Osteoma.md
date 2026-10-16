@@ -39,7 +39,7 @@ Based on the anatomical location within the bone architecture:
 
 ### 4. Pathophysiology [⭐ High-Yield]
 
-```
+```mermaid 
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
@@ -67,7 +67,7 @@ E3 --> F
 #### A. Symptoms
 
 - **Classical Pain Pattern**:
-    - Deep, boring, nagging local bone pain that is characteristically **worse at night** ("night pain").
+    - Deep, boring, nagging local bone pain that is characteristically **==worse at night==** ("night pain").
     - **Aspirin / NSAID Response**: Pain is **dramatically and rapidly relieved by salicylates (aspirin) or NSAIDs**(due to inhibition of prostaglandin synthesis within the nidus).
 - **Referred Pain**: Lesions in the spine may cause radicular pain or secondary painful scoliosis.
 - **Gait Disturbances**: Antalgic limp when lower limb bones (femur/tibia) are involved.
@@ -90,11 +90,11 @@ E3 --> F
     - In dense cortical lesions, the small central nidus may be obscured by the intense surrounding sclerosis.
 2. **Computed Tomography (CT Scan) — Investigation of Choice (IOC)**:
     - **CT scan is the gold standard imaging modality** to confirm osteoid osteoma.
-    - Accurately identifies and localizes the small radiolucent nidus with central punctate calcification embedded inside the dense sclerotic bone.
+    - Accurately identifies and localizes the small radiolucent nidus with central punctate calcification embedded inside the dense sclerotic bone. - ==BULLS EYE LESION==
 3. **Magnetic Resonance Imaging (MRI)**:
     - Useful for detecting associated bone marrow edema and soft tissue changes, but may overestimate the lesion size or miss a tiny calcified nidus.
 4. **Radionuclide Bone Scan (Tc-99m)**:
-    - Shows intense focal radioactive uptake (**Double Density Sign**: central high uptake in the nidus surrounded by a lower uptake zone in the reactive sclerotic bone).
+    - Shows intense focal radioactive uptake (**==Double Density Sign==**: central high uptake in the nidus surrounded by a lower uptake zone in the reactive sclerotic bone).
 
 ---
 
@@ -112,7 +112,7 @@ E3 --> F
 
 ### 8. Treatment / Management [⭐ High-Yield]
 
-```
+```mermaid 
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
