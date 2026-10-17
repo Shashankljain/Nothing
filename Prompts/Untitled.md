@@ -55,7 +55,7 @@ Malli antunnane ammu
 
 Idhi chepakunda vache thummo
 
-Premanaapaleru nannu nammu
+Premanaapalvu nannu nammu
 
   
 
