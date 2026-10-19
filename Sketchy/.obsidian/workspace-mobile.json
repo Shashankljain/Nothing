@@ -66,12 +66,15 @@
             "id": "eca846c05d9594e8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Medicine/Cardiology/Ecg.png"
+                "file": "Medicine/Cardiology/Ecg interpretation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Ecg"
+              "icon": "lucide-file",
+              "title": "Ecg interpretation"
             }
           }
         ],
@@ -171,7 +174,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Medicine/Cardiology/Ecg.png",
+            "file": "Medicine/Cardiology/Ecg interpretation.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -228,6 +231,7 @@
   },
   "active": "eca846c05d9594e8",
   "lastOpenFiles": [
+    "Medicine/Cardiology/Ecg.png",
     "Medicine/Cardiology/Htn presentation.md",
     "Medicine/Cardiology/Htn presentation.pdf",
     "Medicine/Cardiology/Htn Mx.md",
@@ -263,7 +267,6 @@
     "OBS/Examination/Prenatal screening.md",
     "OBS/Examination/Routine prenatal.md",
     "Medicine/Cardiology/MR+ MVP.md",
-    "Medicine/Cardiology/Ecg.png",
     "Medicine/Cardiology/Cardiology.md",
     "Medicine/Cardiology/Dcm + rcm.md",
     "Medicine/IMG_2392.jpeg"
