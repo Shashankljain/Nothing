@@ -66,15 +66,12 @@
             "id": "eca846c05d9594e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Medicine/Cardiology/Htn presentation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Medicine/Cardiology/Ecg.png"
               },
-              "icon": "lucide-file",
-              "title": "Htn presentation"
+              "icon": "lucide-image",
+              "title": "Ecg"
             }
           }
         ],
@@ -174,6 +171,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Medicine/Cardiology/Ecg.png",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -228,10 +226,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4d04a1e5996f1f8e",
+  "active": "eca846c05d9594e8",
   "lastOpenFiles": [
-    "Medicine/Cardiology/Htn presentation.pdf",
     "Medicine/Cardiology/Htn presentation.md",
+    "Medicine/Cardiology/Htn presentation.pdf",
     "Medicine/Cardiology/Htn Mx.md",
     "Medicine/Cardiology/Htn Mx.pdf",
     "Medicine/Cardiology/Htn emergency.md",
@@ -255,7 +253,6 @@
     "Medicine/Cardiology/Narrow complex tachy -1.pdf",
     "Medicine/Cardiology/Narrow complex tach -2.pdf",
     "Medicine/Cardiology/Bradycardia ECG.pdf",
-    "OBS/Pathological/GDM.pdf",
     "OBS/Normal physio/Intro to obs.md",
     "OBS/Pathological/GDM 1.md",
     "OBS/Pathological/Pathological.md",
