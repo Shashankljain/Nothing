@@ -31,9 +31,54 @@
               "icon": "lucide-file",
               "title": "Wide complex tachycardia ECG"
             }
+          },
+          {
+            "id": "29316f426d8e0c0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medicine/Cardiology/Htn emergency.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Htn emergency"
+            }
+          },
+          {
+            "id": "c0db6719d56292aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medicine/Cardiology/Htn Mx.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Htn Mx"
+            }
+          },
+          {
+            "id": "eca846c05d9594e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medicine/Cardiology/Htn presentation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Htn presentation"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,8 +230,14 @@
   },
   "active": "4d04a1e5996f1f8e",
   "lastOpenFiles": [
-    "Medicine/Cardiology/wide complex ecg.pdf",
+    "Medicine/Cardiology/Htn presentation.pdf",
+    "Medicine/Cardiology/Htn presentation.md",
+    "Medicine/Cardiology/Htn Mx.md",
+    "Medicine/Cardiology/Htn Mx.pdf",
+    "Medicine/Cardiology/Htn emergency.md",
+    "Medicine/Cardiology/Htn emergency.pdf",
     "Medicine/Cardiology/Wide complex tachycardia ECG.md",
+    "Medicine/Cardiology/wide complex ecg.pdf",
     "Medicine/Cardiology/R-L shunt.md",
     "Medicine/Cardiology/Narrow tachycardia -1.md",
     "Medicine/Cardiology/Narrow tachycardia-2.md",
@@ -205,9 +256,6 @@
     "Medicine/Cardiology/Narrow complex tach -2.pdf",
     "Medicine/Cardiology/Bradycardia ECG.pdf",
     "OBS/Pathological/GDM.pdf",
-    "OBS/Examination/prenatal screening.pdf",
-    "OBS/Pathological",
-    "OBS/Examination/Sketchy_obs_Final.pdf",
     "OBS/Normal physio/Intro to obs.md",
     "OBS/Pathological/GDM 1.md",
     "OBS/Pathological/Pathological.md",
@@ -221,9 +269,6 @@
     "Medicine/Cardiology/Ecg.png",
     "Medicine/Cardiology/Cardiology.md",
     "Medicine/Cardiology/Dcm + rcm.md",
-    "OBS/Examination/Examination.md",
-    "OBS/Normal physio/Normal physiology.md",
-    "OBS/Normal physio/Physio of preg.md",
     "Medicine/IMG_2392.jpeg"
   ]
 }
