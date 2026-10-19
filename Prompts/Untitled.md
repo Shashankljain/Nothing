@@ -1,4 +1,4 @@
-
+W
 Sanje thangali thampagi beesi,
 Hoova kampannu haadhige haasi
 thandide hithava namagagi
@@ -55,7 +55,7 @@ Malli antunnane ammu
 
 Idhi chepakunda vache thummo
 
-Premanaapaleru nannu nammu
+Premanaapalvu nannu nammu
 
   
 
