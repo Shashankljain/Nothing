@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Previous LSCS 2.md",
+                "file": "OBG/Anemia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Previous LSCS 2"
+              "title": "Anemia"
             }
           }
         ],
@@ -228,8 +228,8 @@
   },
   "active": "a6dab4282f069811",
   "lastOpenFiles": [
-    "Previous LSCS 2.md",
-    "Previous LSCS 1.md",
+    "OBG/Previous LSCS 2.md",
+    "OBG/Previous LSCS 1.md",
     "OBG/AUB.md",
     "OBG/Anemia.md",
     "OBG/OBS.md",
