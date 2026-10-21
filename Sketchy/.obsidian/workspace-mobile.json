@@ -66,15 +66,12 @@
             "id": "eca846c05d9594e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Medicine/Cardiology/Ecg interpretation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "OBS/Examination/prenatal screening.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Ecg interpretation"
+              "icon": "lucide-file-text",
+              "title": "prenatal screening"
             }
           }
         ],
@@ -231,8 +228,10 @@
   },
   "active": "eca846c05d9594e8",
   "lastOpenFiles": [
-    "Medicine/Cardiology/Htn emergency.pdf",
+    "OBS/Examination/Sketchy_obs_Final.pdf",
+    "OBS/Examination/Routine prenatal.md",
     "Medicine/Cardiology/Ecg interpretation.md",
+    "Medicine/Cardiology/Htn emergency.pdf",
     "Medicine/Cardiology/Ecg.png",
     "Medicine/Cardiology/Htn presentation.md",
     "Medicine/Cardiology/Htn presentation.pdf",
@@ -265,7 +264,6 @@
     "Medicine/Cardiology/Ecg intro.md",
     "OBS/Normal physio/N,V+ hyperemesis gravidarum.md",
     "OBS/Examination/Prenatal screening.md",
-    "OBS/Examination/Routine prenatal.md",
     "Medicine/Cardiology/MR+ MVP.md",
     "Medicine/Cardiology/Cardiology.md",
     "Medicine/Cardiology/Dcm + rcm.md",
