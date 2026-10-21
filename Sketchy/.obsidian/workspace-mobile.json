@@ -66,12 +66,15 @@
             "id": "eca846c05d9594e8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "OBS/Examination/prenatal screening.pdf"
+                "file": "OBS/Examination/Fetal heart tracing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "prenatal screening"
+              "icon": "lucide-file",
+              "title": "Fetal heart tracing"
             }
           }
         ],
@@ -228,6 +231,7 @@
   },
   "active": "eca846c05d9594e8",
   "lastOpenFiles": [
+    "OBS/Examination/prenatal screening.pdf",
     "OBS/Examination/Sketchy_obs_Final.pdf",
     "OBS/Examination/Routine prenatal.md",
     "Medicine/Cardiology/Ecg interpretation.md",
@@ -255,7 +259,6 @@
     "Medicine/Cardiology/Narrow complex tach- Mx.pdf",
     "Medicine/Cardiology/Narrow complex tachy -1.pdf",
     "Medicine/Cardiology/Narrow complex tach -2.pdf",
-    "Medicine/Cardiology/Bradycardia ECG.pdf",
     "OBS/Normal physio/Intro to obs.md",
     "OBS/Pathological/GDM 1.md",
     "OBS/Pathological/Pathological.md",
