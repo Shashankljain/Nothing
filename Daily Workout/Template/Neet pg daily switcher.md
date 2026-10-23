@@ -95,7 +95,6 @@ if (d.day() === 0 || d.day() === 6) {
 `;
 }
 %>
-
 # 📚 Daily NEET PG Study Checklist
 
 **Date:** 2026-10-23
@@ -144,4 +143,3 @@ if (d.day() === 0 || d.day() === 6) {
 - [ ] Revision completed
 
 **Tomorrow's target:**
-
