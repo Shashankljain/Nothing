@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Neet pg daily switcher.md",
+                "file": "Daily activities/2026-10-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neet pg daily switcher"
+              "title": "2026-10-23"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Template/Neet pg daily switcher.md",
+            "file": "Daily activities/2026-10-23.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Template/Neet pg daily switcher.md",
+            "file": "Daily activities/2026-10-23.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -150,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Template/Neet pg daily switcher.md",
+            "file": "Daily activities/2026-10-23.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -176,8 +176,8 @@
   },
   "active": "52bc78217a17656f",
   "lastOpenFiles": [
-    "Daily activities/2026-10-23.md",
     "Template/Neet pg daily switcher.md",
+    "Daily activities/2026-10-23.md",
     "Daily activities/2026-10-24.md",
     "Daily activities",
     "Template"
