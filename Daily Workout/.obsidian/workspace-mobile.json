@@ -39,10 +39,14 @@
             "id": "312796fb347cb2af",
             "type": "leaf",
             "state": {
-              "type": "planner-weekly",
-              "state": {},
-              "icon": "table-2",
-              "title": "Oct, 23–Oct, 25"
+              "type": "markdown",
+              "state": {
+                "file": "Daily activities/23-Oct-26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23-Oct-26"
             }
           }
         ],
@@ -142,6 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Daily activities/23-Oct-26.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
