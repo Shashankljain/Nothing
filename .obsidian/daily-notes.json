@@ -1,3 +1,5 @@
 {
-  "format": "DD-MMM-YY"
+  "format": "DD-MMM-YY",
+  "folder": "Daily Workout/Daily activities",
+  "template": "Daily Workout/Template/Neet pg daily switcher.md"
 }
