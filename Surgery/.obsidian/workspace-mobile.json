@@ -76,9 +76,19 @@
               "icon": "lucide-file",
               "title": "Trichobezoar of the Stomach"
             }
+          },
+          {
+            "id": "1e80a50ec684ae2f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -174,7 +184,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Trichobezoar of the Stomach.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -228,7 +237,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "a98d117c754cb00c",
+  "active": "1e80a50ec684ae2f",
   "lastOpenFiles": [
     "Trichobezoar of the Stomach.md",
     "Gastroscopy.md",
