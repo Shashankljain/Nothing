@@ -67,7 +67,7 @@
 
 ### 4. Pathophysiology [⭐ High-Yield]
 
-```
+```mermaid
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
@@ -180,7 +180,7 @@ Plain radiography remains the principal diagnostic investigation showing the **
 
 ### 9. Treatment & Management [⭐ High-Yield]
 
-```
+```mermaid
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
