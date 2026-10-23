@@ -223,16 +223,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "k-plex:Open K-Plex": false
     }
   },
   "active": "a6dab4282f069811",
   "lastOpenFiles": [
+    "OBG/OBS.md",
+    "OBG/Anemia.md",
     "OBG/Previous LSCS 2.md",
     "OBG/Previous LSCS 1.md",
     "OBG/AUB.md",
-    "OBG/Anemia.md",
-    "OBG/OBS.md",
     "OBG/PIH.md",
     "OBG/GYN.md",
     "OBG/Examination.md",

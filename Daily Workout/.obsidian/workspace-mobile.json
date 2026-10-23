@@ -34,9 +34,36 @@
               "icon": "lucide-file",
               "title": "23-Oct-26"
             }
+          },
+          {
+            "id": "ad0234e34720c84a",
+            "type": "leaf",
+            "state": {
+              "type": "k-plex-react-view",
+              "state": {
+                "centerPresentation": {
+                  "embedCentralNode": false,
+                  "centralNodeMarkdownMode": "source"
+                },
+                "plexSession": {
+                  "version": 1,
+                  "ownerId": "ad0234e34720c84a",
+                  "centerPath": "folder:/",
+                  "targetId": null,
+                  "documentSyncMode": "off",
+                  "sidecarOpen": false,
+                  "sidecarPosition": "right",
+                  "sidecarLastFilePath": "",
+                  "sidecarLastUrl": "",
+                  "sidecarMarkdownMode": "source"
+                }
+              },
+              "icon": "brain-circuit",
+              "title": "K-Plex"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,10 +214,11 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "k-plex:Open K-Plex": false
     }
   },
-  "active": "9335f945f2aed366",
+  "active": "ad0234e34720c84a",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-10-23 17.26.31.excalidraw.md",
     "dad-1.jpg",
