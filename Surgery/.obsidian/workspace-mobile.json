@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +174,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ramstedt's Operation.md",
+            "file": "PUD -10.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "bb6e0ef07b70b59c",
+  "active": "f9784354465547ca",
   "lastOpenFiles": [
     "Ramstedt's Operation.md",
     "Gastroscopy.md",
