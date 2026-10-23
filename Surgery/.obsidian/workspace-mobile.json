@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Perforated Peptic Ulcer.md",
+            "file": "PUD -10.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "9f8ce1c4fd9d081d",
+  "active": "f9784354465547ca",
   "lastOpenFiles": [
     "Perforated Peptic Ulcer.md",
     "PUD -5.md",
