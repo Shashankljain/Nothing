@@ -120,17 +120,17 @@
             }
           },
           {
-            "id": "a1c5877796a57ab1",
+            "id": "77a81a9c2698121f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spread of Carcinoma Stomach.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spread of Carcinoma Stomach"
+              "title": "Untitled"
             }
           }
         ],
@@ -230,7 +230,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Spread of Carcinoma Stomach.md",
+            "file": "Untitled.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -284,10 +284,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "a1c5877796a57ab1",
+  "active": "77a81a9c2698121f",
   "lastOpenFiles": [
-    "Spread of Carcinoma Stomach.md",
+    "Untitled.md",
     "Early Gastric Cancer.md",
+    "Spread of Carcinoma Stomach.md",
     "Complications of Peptic Ulcer Surgery.md",
     "Bleeding Peptic Ulcer.md",
     "Hourglass Stomach.md",
@@ -312,7 +313,6 @@
     "Breast/ANDI.md",
     "Breast/C31-Breast.md",
     "Breast/Mondor's Disease.md",
-    "Breast/Sentinel Lymph Node Biopsy (SLNB).md",
     "Breast",
     "Electrolyte and Nutrition",
     "Venous disease",
