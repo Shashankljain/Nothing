@@ -36,30 +36,13 @@
             }
           },
           {
-            "id": "ad0234e34720c84a",
+            "id": "312796fb347cb2af",
             "type": "leaf",
             "state": {
-              "type": "k-plex-react-view",
-              "state": {
-                "centerPresentation": {
-                  "embedCentralNode": false,
-                  "centralNodeMarkdownMode": "source"
-                },
-                "plexSession": {
-                  "version": 1,
-                  "ownerId": "ad0234e34720c84a",
-                  "centerPath": "folder:/",
-                  "targetId": null,
-                  "documentSyncMode": "off",
-                  "sidecarOpen": false,
-                  "sidecarPosition": "right",
-                  "sidecarLastFilePath": "",
-                  "sidecarLastUrl": "",
-                  "sidecarMarkdownMode": "source"
-                }
-              },
-              "icon": "brain-circuit",
-              "title": "K-Plex"
+              "type": "planner-weekly",
+              "state": {},
+              "icon": "table-2",
+              "title": "Oct, 19–Oct, 25"
             }
           }
         ],
@@ -159,7 +142,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily activities/23-Oct-26.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -200,6 +182,26 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "813ec9b4d717e318",
+        "type": "leaf",
+        "state": {
+          "type": "planner-timeline",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Timeline"
+        }
+      },
+      {
+        "id": "133aff78cce21294",
+        "type": "leaf",
+        "state": {
+          "type": "planner-time-tracker",
+          "state": {},
+          "icon": "timer",
+          "title": "Time Tracker"
+        }
       }
     ],
     "currentTab": 0
@@ -215,14 +217,16 @@
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "k-plex:Open K-Plex": false
+      "k-plex:Open K-Plex": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "ad0234e34720c84a",
+  "active": "312796fb347cb2af",
   "lastOpenFiles": [
+    "Daily activities/23-Oct-26.md",
     "Excalidraw/Drawing 2026-10-23 17.26.31.excalidraw.md",
     "dad-1.jpg",
-    "Daily activities/23-Oct-26.md",
     "Excalidraw",
     "Template/Neet pg daily switcher.md",
     "Daily activities/2026-10-24.md",
