@@ -1,0 +1,2 @@
+[[Cardiology]]
+![[chronic HF.pdf]]
