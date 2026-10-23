@@ -64,17 +64,17 @@
             }
           },
           {
-            "id": "4b470d9cc6e66f3b",
+            "id": "3bb42ce4a2b48dfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Complications of Peptic Ulcer Surgery.md",
+                "file": "Sister Mary Joseph's Nodule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Complications of Peptic Ulcer Surgery"
+              "title": "Sister Mary Joseph's Nodule"
             }
           }
         ],
@@ -174,7 +174,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Complications of Peptic Ulcer Surgery.md",
+            "file": "Sister Mary Joseph's Nodule.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -228,16 +228,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "4b470d9cc6e66f3b",
+  "active": "3bb42ce4a2b48dfe",
   "lastOpenFiles": [
+    "Sister Mary Joseph's Nodule.md",
+    "Gastroscopy.md",
+    "Complications of Peptic Ulcer Surgery.md",
     "Bleeding Peptic Ulcer.md",
     "Hourglass Stomach.md",
-    "Complications of Peptic Ulcer Surgery.md",
     "Krukenberg Tumor.md",
     "Early Gastric Cancer.md",
     "Spread of Carcinoma Stomach.md",
     "Free Gas Under Diaphragm.md",
-    "Gastroscopy.md",
     "Ramstedt's Operation.md",
     "PUD -10.md",
     "Highly Selective Vagotomy (HSV).md",
@@ -256,7 +257,6 @@
     "Breast/Retromammary Abscess.md",
     "Breast/ANDI.md",
     "Breast/C31-Breast.md",
-    "Breast/Mondor's Disease.md",
     "Breast",
     "Electrolyte and Nutrition",
     "Venous disease",
