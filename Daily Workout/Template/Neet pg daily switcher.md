@@ -1,1 +1,147 @@
-<%*\nconst noteDate = moment(tp.file.title, "YYYY-MM-DD", true);\nconst day = noteDate.isValid() ? noteDate.day() : moment().day();\nconst date = noteDate.isValid()\n  ? noteDate.format("YYYY-MM-DD")\n  : moment().format("YYYY-MM-DD");\n\nif (day === 0 || day === 6) {\ntR += # 📅 Weekly NEET PG Review\n\n**Week ending:** ${date}\n\n## 1. Weekly Progress\n- [ ] Review videos completed\n- [ ] Check topics covered\n- [ ] Review MCQ performance\n- [ ] Identify weak topics\n- [ ] Complete pending high-priority revisions\n\n## 2. MCQ Analysis\n- MCQs attempted:\n- Overall accuracy:\n- Strongest topic:\n- Weakest topic:\n- Most common mistake:\n\n## 3. Retention Check\n- [ ] Revise difficult concepts\n- [ ] Revisit recurring mistakes\n- [ ] Test recall of older topics\n- [ ] Review D+1, D+3 and D+7 revisions due\n\n## 4. Backlog Management\n- Topics pending:\n- Videos pending:\n- Revisions pending:\n\n## 5. Plan the Next Week\n- [ ] Set Medicine video targets\n- [ ] Set daily MCQ targets\n- [ ] Schedule weak-topic revision\n- [ ] Reserve catch-up time\n\n**Main priority next week:**\n**One thing to improve:**\n;\n} else {\ntR += # 📚 Daily NEET PG Study Checklist\n\n**Date:** ${date}\n**Subject:** Medicine\n**College:** 8 AM – 4 PM\n\n## 1. PrepLadder — Video Lectures\n- [ ] Video 1 (1–1.5 hrs)\n- [ ] Video 2 (1–1.5 hrs)\n- [ ] Video 3 (optional)\n- [ ] Video 4 (extra-study day only)\n- [ ] Recall important concepts without notes\n- [ ] Mark high-yield points in PrepLadder notes\n\n## 2. Marrow — MCQ Practice\n- [ ] Solve 30 topic-wise MCQs\n- [ ] Review incorrect answers\n- [ ] Review guessed answers, even if correct\n- [ ] Understand why the correct option is right\n- [ ] Understand key differences from tempting wrong options\n- [ ] Record recurring mistakes and knowledge gaps\n\n## 3. Targeted Reading\n- [ ] Read difficult concepts or high-yield tables\n- [ ] Clarify doubts using a trusted source\n- [ ] Recall key facts without looking\n\n## 4. Active Revision\n- [ ] Recall today's topic\n- [ ] Review today's MCQ mistakes\n- [ ] Complete due D+1 revision\n- [ ] Complete due D+3 revision\n- [ ] Complete due D+7 revision\n\n## 5. Daily Performance\n- Videos completed:\n- MCQs attempted:\n- Correct answers:\n- Accuracy (%):\n- Weakest concept:\n- First task for tomorrow:\n\n## 6. Priority\n- [ ] Essential learning completed\n- [ ] MCQ explanations reviewed\n- [ ] Revision completed\n\n**Tomorrow's target:**\n;\n}\n%>
+
+<%*
+const noteDate = moment(tp.file.title, "YYYY-MM-DD", true);
+const d = noteDate.isValid() ? noteDate : moment();
+const date = d.format("YYYY-MM-DD");
+
+if (d.day() === 0 || d.day() === 6) {
+  tR += `# 📅 Weekly NEET PG Review
+
+**Week ending:** ${date}
+
+## 1. Weekly Progress
+- [ ] Review videos completed
+- [ ] Check topics covered
+- [ ] Review MCQ performance
+- [ ] Identify weak topics
+- [ ] Complete pending high-priority revisions
+
+## 2. MCQ Analysis
+- MCQs attempted:
+- Overall accuracy:
+- Strongest topic:
+- Weakest topic:
+- Most common mistake:
+
+## 3. Retention Check
+- [ ] Revise difficult concepts
+- [ ] Revisit recurring mistakes
+- [ ] Test recall of older topics
+- [ ] Review D+1, D+3 and D+7 revisions due
+
+## 4. Backlog Management
+- Topics pending:
+- Videos pending:
+- Revisions pending:
+
+## 5. Plan the Next Week
+- [ ] Set Medicine video targets
+- [ ] Set daily MCQ targets
+- [ ] Schedule weak-topic revision
+- [ ] Reserve catch-up time
+
+**Main priority next week:**
+**One thing to improve:**
+`;
+} else {
+  tR += `# 📚 Daily NEET PG Study Checklist
+
+**Date:** ${date}
+**Subject:** Medicine
+**College:** 8 AM – 4 PM
+
+## 1. PrepLadder — Video Lectures
+- [ ] Video 1 (1–1.5 hrs)
+- [ ] Video 2 (1–1.5 hrs)
+- [ ] Video 3 (optional)
+- [ ] Video 4 (extra-study day only)
+- [ ] Recall important concepts without notes
+- [ ] Mark high-yield points in PrepLadder notes
+
+## 2. Marrow — MCQ Practice
+- [ ] Solve 30 topic-wise MCQs
+- [ ] Review incorrect answers
+- [ ] Review guessed answers, even if correct
+- [ ] Understand why the correct option is right
+- [ ] Understand key differences from tempting wrong options
+- [ ] Record recurring mistakes and knowledge gaps
+
+## 3. Targeted Reading
+- [ ] Read difficult concepts or high-yield tables
+- [ ] Clarify doubts using a trusted source
+- [ ] Recall key facts without looking
+
+## 4. Active Revision
+- [ ] Recall today's topic
+- [ ] Review today's MCQ mistakes
+- [ ] Complete due D+1 revision
+- [ ] Complete due D+3 revision
+- [ ] Complete due D+7 revision
+
+## 5. Daily Performance
+- Videos completed:
+- MCQs attempted:
+- Correct answers:
+- Accuracy (%):
+- Weakest concept:
+- First task for tomorrow:
+
+## 6. Priority
+- [ ] Essential learning completed
+- [ ] MCQ explanations reviewed
+- [ ] Revision completed
+
+**Tomorrow's target:**
+`;
+}
+%>
+
+# 📚 Daily NEET PG Study Checklist
+
+**Date:** 2026-10-23
+**Subject:** Medicine
+**College:** 8 AM – 4 PM
+
+## 1. PrepLadder — Video Lectures
+- [ ] Video 1 (1–1.5 hrs)
+- [ ] Video 2 (1–1.5 hrs)
+- [ ] Video 3 (optional)
+- [ ] Video 4 (extra-study day only)
+- [ ] Recall important concepts without notes
+- [ ] Mark high-yield points in PrepLadder notes
+
+## 2. Marrow — MCQ Practice
+- [ ] Solve 30 topic-wise MCQs
+- [ ] Review incorrect answers
+- [ ] Review guessed answers, even if correct
+- [ ] Understand why the correct option is right
+- [ ] Understand key differences from tempting wrong options
+- [ ] Record recurring mistakes and knowledge gaps
+
+## 3. Targeted Reading
+- [ ] Read difficult concepts or high-yield tables
+- [ ] Clarify doubts using a trusted source
+- [ ] Recall key facts without looking
+
+## 4. Active Revision
+- [ ] Recall today's topic
+- [ ] Review today's MCQ mistakes
+- [ ] Complete due D+1 revision
+- [ ] Complete due D+3 revision
+- [ ] Complete due D+7 revision
+
+## 5. Daily Performance
+- Videos completed:
+- MCQs attempted:
+- Correct answers:
+- Accuracy (%):
+- Weakest concept:
+- First task for tomorrow:
+
+## 6. Priority
+- [ ] Essential learning completed
+- [ ] MCQ explanations reviewed
+- [ ] Revision completed
+
+**Tomorrow's target:**
+
