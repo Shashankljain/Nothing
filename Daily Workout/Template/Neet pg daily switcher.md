@@ -47,10 +47,9 @@ if (d.day() === 0 || d.day() === 6) {
   tR += `# 📚 Daily NEET PG Study Checklist
 
 **Date:** ${date}
-**Subject:** Medicine
-**College:** 8 AM – 4 PM
+**Subject:** 
 
-## 1. PrepLadder — Video Lectures
+## 1. Video Lectures
 - [ ] Video 1 (1–1.5 hrs)
 - [ ] Video 2 (1–1.5 hrs)
 - [ ] Video 3 (optional)

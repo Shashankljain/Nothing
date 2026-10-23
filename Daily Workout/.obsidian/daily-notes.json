@@ -1,4 +1,5 @@
 {
   "template": "Template/Neet pg daily switcher.md",
-  "folder": "Daily activities"
+  "folder": "Daily activities",
+  "format": "DD-MMM-YY"
 }
