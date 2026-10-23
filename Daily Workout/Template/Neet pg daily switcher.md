@@ -49,13 +49,21 @@ if (d.day() === 0 || d.day() === 6) {
 **Date:** ${date}
 **Subject:** 
 
+
+# Ask yourself -
+- [ ] -Are you working towards your goal? 
+- [ ] Are you better then yesterday?
+- [ ] Solving mcq daily?
+- [ ] Did u help someone today?
+
+
 ## 1. Video Lectures
 - [ ] Video 1 (1–1.5 hrs)
 - [ ] Video 2 (1–1.5 hrs)
 - [ ] Video 3 (optional)
 - [ ] Video 4 (extra-study day only)
 - [ ] Recall important concepts without notes
-- [ ] Mark high-yield points in PrepLadder notes
+- [ ] Mark high-yield points in notes
 
 ## 2. Marrow — MCQ Practice
 - [ ] Solve 30 topic-wise MCQs

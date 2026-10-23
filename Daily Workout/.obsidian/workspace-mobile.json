@@ -36,7 +36,35 @@
             }
           },
           {
-            "id": "312796fb347cb2af",
+            "id": "99e59dbd472b43a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Neet pg daily switcher.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neet pg daily switcher"
+            }
+          },
+          {
+            "id": "922cb6c92b0cd21a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily activities/23-Oct-26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23-Oct-26"
+            }
+          },
+          {
+            "id": "f686a03c55bc597e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -222,19 +250,18 @@
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "k-plex:Open K-Plex": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "312796fb347cb2af",
+  "active": "f686a03c55bc597e",
   "lastOpenFiles": [
     "Daily activities/23-Oct-26.md",
+    "Template/Neet pg daily switcher.md",
     "Daily activities/24-Oct-26.md",
     "Excalidraw/Drawing 2026-10-23 17.26.31.excalidraw.md",
     "dad-1.jpg",
     "Excalidraw",
-    "Template/Neet pg daily switcher.md",
     "Daily activities/2026-10-24.md",
     "Daily activities/2026-10-23.md",
     "Daily activities",
