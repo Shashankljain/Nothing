@@ -25,10 +25,14 @@
             "id": "f9784354465547ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ],
@@ -128,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Breast/C31-Breast.md",
+            "file": "Untitled.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -184,6 +188,7 @@
   },
   "active": "f9784354465547ca",
   "lastOpenFiles": [
+    "Untitled.md",
     "Stomach/C43- Stomach.md",
     "Chapters.md",
     "Stomach",
@@ -211,7 +216,6 @@
     "Electrolyte and Nutrition/Feeding Jejunostomy.md",
     "Electrolyte and Nutrition/Metabolic Acidosis.md",
     "Electrolyte and Nutrition/Hypokalemic Alkalosis.md",
-    "Venous disease/Bisgaard's Method of Treatment.md",
     "Electrolyte and Nutrition",
     "Venous disease",
     "Appendix",
