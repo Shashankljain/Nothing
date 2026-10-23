@@ -49,7 +49,7 @@
 - **Selective Adiposity**: Fat accumulates selectively around the fetal shoulders and trunk, leading to **fetal macrosomia**and **shoulder dystocia**.
 - **Absence of Malformations**: In true GDM, hyperglycemia develops **after organogenesis** (>20–24 weeks), so **gross congenital anomalies (GCA) do NOT occur**.
 
-```
+```mermaid
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
