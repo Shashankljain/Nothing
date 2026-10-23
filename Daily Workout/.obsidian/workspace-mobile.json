@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "23-Oct-26"
             }
+          },
+          {
+            "id": "71782ecde1d02455",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-10-23 17.26.31.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-23 17.26.31.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,13 +198,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9335f945f2aed366",
+  "active": "71782ecde1d02455",
   "lastOpenFiles": [
-    "Template/Neet pg daily switcher.md",
     "Daily activities/23-Oct-26.md",
+    "Excalidraw/Drawing 2026-10-23 17.26.31.excalidraw.md",
+    "Excalidraw",
+    "Template/Neet pg daily switcher.md",
     "Daily activities/2026-10-24.md",
     "Daily activities/2026-10-23.md",
     "Daily activities",
