@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "23-Oct-26"
             }
-          },
-          {
-            "id": "71782ecde1d02455",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-10-23 17.26.31.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-23 17.26.31.excalidraw"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,10 +190,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "71782ecde1d02455",
+  "active": "9335f945f2aed366",
   "lastOpenFiles": [
-    "Daily activities/23-Oct-26.md",
     "Excalidraw/Drawing 2026-10-23 17.26.31.excalidraw.md",
+    "dad-1.jpg",
+    "Daily activities/23-Oct-26.md",
     "Excalidraw",
     "Template/Neet pg daily switcher.md",
     "Daily activities/2026-10-24.md",
