@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -244,10 +244,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4b4c96db76a260e3",
+  "active": "eca846c05d9594e8",
   "lastOpenFiles": [
-    "acute pericarditis.pdf",
     "acute pericarditis.md",
+    "acute pericarditis.pdf",
     "Medicine/Cardiology/pericarditis,cardiac tamponad,constrictive pericarditis.md",
     "pericarditis,cardiac tamponad,constrictive pericarditis.pdf",
     "OBS/Examination/Fetal heart tracing.md",
@@ -276,7 +276,6 @@
     "Medicine/Cardiology/ACS.md",
     "OBS/Pathological/GDM.md",
     "Medicine/Cardiology/Narrow tachycardia Mx.md",
-    "Medicine/Cardiology/Narrow complex tach- Mx.pdf",
     "OBS/Normal physio/Intro to obs.md",
     "OBS/Pathological/GDM 1.md",
     "OBS/Pathological/Pathological.md",
