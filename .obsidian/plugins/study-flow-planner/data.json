@@ -1,0 +1,81 @@
+{
+  "events": [
+    {
+      "id": "a",
+      "date": "2026-10-23",
+      "allDay": false,
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "title": "Team meeting",
+      "color": "#4a7fe8",
+      "notes": "Stand-up",
+      "done": false,
+      "noteLink": "",
+      "tags": ""
+    },
+    {
+      "id": "b",
+      "date": "2026-10-24",
+      "allDay": false,
+      "startTime": "14:00",
+      "endTime": "15:30",
+      "title": "Q2 Presentation",
+      "color": "#e05c5c",
+      "notes": "",
+      "done": false,
+      "noteLink": "",
+      "tags": ""
+    },
+    {
+      "id": "c",
+      "date": "2026-10-22",
+      "allDay": false,
+      "startTime": "08:00",
+      "endTime": "08:30",
+      "title": "Gym",
+      "color": "#3aaa6e",
+      "notes": "",
+      "done": true,
+      "noteLink": "",
+      "tags": ""
+    },
+    {
+      "id": "d",
+      "date": "2026-10-26",
+      "allDay": true,
+      "title": "Holiday",
+      "color": "#c9722b",
+      "notes": "",
+      "done": false,
+      "noteLink": "",
+      "tags": ""
+    },
+    {
+      "id": "e",
+      "date": "2026-10-23",
+      "allDay": false,
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "title": "Client lunch",
+      "color": "#7c5cbf",
+      "notes": "Yhh",
+      "done": false,
+      "noteLink": "",
+      "tags": ""
+    },
+    {
+      "id": "f",
+      "date": "2026-10-28",
+      "allDay": false,
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "title": "Dentist",
+      "color": "#2bbfc9",
+      "notes": "",
+      "done": false,
+      "noteLink": "",
+      "tags": ""
+    }
+  ],
+  "studyMode": null
+}
