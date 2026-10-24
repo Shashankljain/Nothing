@@ -64,21 +64,21 @@
             }
           },
           {
-            "id": "251d1dee9a6422af",
+            "id": "409ffeb897e18826",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linitis Plastica.md",
+                "file": "Double Contrast Study.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linitis Plastica"
+              "title": "Double Contrast Study"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -228,8 +228,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "f079e0a1a7b462dd",
+  "active": "409ffeb897e18826",
   "lastOpenFiles": [
+    "Double Contrast Study.md",
     "Virchow's Lymph Node.md",
     "Linitis Plastica.md",
     "Stomach/Chronic Duodenal Ulcer.md",
@@ -255,7 +256,6 @@
     "Stomach/Blood Supply and Lymphatic Drainage of Stomach.md",
     "Stomach/GIST.md",
     "Stomach/C43- Stomach.md",
-    "Chapters.md",
     "Stomach",
     "Breast",
     "Electrolyte and Nutrition",
