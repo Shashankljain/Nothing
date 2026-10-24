@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chronic Duodenal Ulcer.md",
+                "file": "Stomach/Chronic Duodenal Ulcer.md",
                 "mode": "source",
                 "source": false
               },
@@ -224,11 +224,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "632ab79cf37552ee",
+  "active": "10a2f2f23a196303",
   "lastOpenFiles": [
-    "Chronic Duodenal Ulcer.md",
+    "Stomach/Chronic Duodenal Ulcer.md",
     "Stomach/Congenital (Infantile) Hypertrophic Pyloric Stenosis.md",
-    "Carcinoma of the Stomach.md",
+    "Stomach/Carcinoma of the Stomach.md",
     "Stomach/Sister Mary Joseph's Nodule.md",
     "Stomach/Gastroscopy.md",
     "Stomach/Complications of Peptic Ulcer Surgery.md",
