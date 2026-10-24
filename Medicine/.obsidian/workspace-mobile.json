@@ -237,8 +237,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "k-plex:Open K-Plex": false
+      "bases:Create new base": false
     }
   },
   "active": "9af3e51cee2ffcd2",
