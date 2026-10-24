@@ -76,9 +76,19 @@
               "icon": "lucide-file",
               "title": "IHD"
             }
+          },
+          {
+            "id": "11b76c6b5777989a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -230,7 +240,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "013ae38866c006e3",
+  "active": "11b76c6b5777989a",
   "lastOpenFiles": [
     "IHD.md",
     "Cardiology/CCF.md",
