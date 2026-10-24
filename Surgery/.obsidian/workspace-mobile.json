@@ -53,46 +53,28 @@
             "id": "f079e0a1a7b462dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gastroscopy.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Gastroscopy"
+              "title": "New tab"
             }
           },
           {
-            "id": "3bb42ce4a2b48dfe",
+            "id": "632ab79cf37552ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stomach/Congenital (Infantile) Hypertrophic Pyloric Stenosis.md",
+                "file": "Chronic Duodenal Ulcer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Congenital (Infantile) Hypertrophic Pyloric Stenosis"
-            }
-          },
-          {
-            "id": "373d3c8452f7ea0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Carcinoma of the Stomach.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Carcinoma of the Stomach"
+              "title": "Chronic Duodenal Ulcer"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -242,8 +224,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "373d3c8452f7ea0b",
+  "active": "632ab79cf37552ee",
   "lastOpenFiles": [
+    "Chronic Duodenal Ulcer.md",
     "Stomach/Congenital (Infantile) Hypertrophic Pyloric Stenosis.md",
     "Carcinoma of the Stomach.md",
     "Stomach/Sister Mary Joseph's Nodule.md",
@@ -270,7 +253,6 @@
     "Stomach",
     "Breast/Inflammatory Carcinoma of the Breast.md",
     "Breast/Retromammary Abscess.md",
-    "Breast/ANDI.md",
     "Breast",
     "Electrolyte and Nutrition",
     "Venous disease",
