@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immunological Tests for Diagnosis of Pregnancy.md",
+                "file": "Chapters - OBS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Immunological Tests for Diagnosis of Pregnancy"
+              "title": "Chapters - OBS"
             }
           }
         ],
@@ -202,16 +202,17 @@
   },
   "active": "ce51ebcf9ca533e2",
   "lastOpenFiles": [
-    "Immunological Tests for Diagnosis of Pregnancy.md",
-    "Dx in 1st  T.md",
-    "C7-Diagnosis of Pregnancy.md",
+    "Teratoma.md",
     "Chapters - OBS.md",
+    "Diagnosis of pregnancy/C7-Diagnosis of Pregnancy.md",
+    "Diagnosis of pregnancy",
+    "Diagnosis of pregnancy/Dx in 1st  T.md",
+    "Diagnosis of pregnancy/Immunological Tests for Diagnosis of Pregnancy.md",
     "Vomiting in preg/Hyeremesis G.md",
     "Vomiting in preg/C15- Vomiting in preg.md",
     "Vomiting in preg/Hyperemesis MX.md",
     "Vomiting in preg",
     "Normal labour/Mech of labour+ LOA.md",
-    "Teratoma.md",
     "Normal labour/C13- Normal labour.md",
     "Normal labour/C13- Normal Labour.md",
     "Normal labour/Asynclitism.md",
@@ -230,7 +231,6 @@
     "Antepartum hemorrhage/Placenta Accreta -mx.md",
     "Antepartum hemorrhage/DD- Lower Abdominal Pain in Third T.md",
     "Antepartum hemorrhage",
-    "Antepartum hemorrhage/Couvelaire Uterus (Uteroplacental Apoplexy).md",
     "Fundamental of reproduction",
     "Normal labour",
     "Physiological changes",

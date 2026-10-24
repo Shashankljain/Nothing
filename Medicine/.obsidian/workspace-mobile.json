@@ -41,54 +41,100 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cardiology/C16-Cardiology.md",
+                "file": "Cardiology/CHF with HTN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C16-Cardiology"
+              "title": "CHF with HTN"
             }
           },
           {
-            "id": "1e1754f69a08e850",
+            "id": "57f8a52aef688843",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pacemaker.md",
+                "file": "Cardiology/CCF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pacemaker"
+              "title": "CCF"
             }
           },
           {
-            "id": "908925695ed2d4ae",
+            "id": "013ae38866c006e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anti arrhythmia drugs.md",
+                "file": "Cardiology/IHD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anti arrhythmia drugs"
+              "title": "IHD"
             }
           },
           {
-            "id": "67c62f2611cfaabd",
+            "id": "73f071027d0f0644",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Cardiology/RHF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RHF"
+            }
+          },
+          {
+            "id": "7ec66a1780a395db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IE"
+            }
+          },
+          {
+            "id": "a1ac43d244bb37cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SBE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SBE"
+            }
+          },
+          {
+            "id": "71fe9437f6c9d878",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cardiomyopathies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cardiomyopathies"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -184,7 +230,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cardiology/C16-Cardiology.md",
+            "file": "Cardiomyopathies.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -237,19 +283,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "k-plex:Open K-Plex": false
+      "bases:Create new base": false
     }
   },
-  "active": "9af3e51cee2ffcd2",
+  "active": "71fe9437f6c9d878",
   "lastOpenFiles": [
-    "Cardiology/CHF.md",
-    "Cardiology/C16-Cardiology.md",
-    "Anti arrhythmia drugs.md",
-    "A.fib.md",
-    "Pacemaker.md",
-    "Chapters.md",
+    "Cardiomyopathies.md",
+    "SBE.md",
+    "IE.md",
     "Cardiology/RHF.md",
+    "Cardiology/Essential & Accelerated Hypertension.md",
+    "Cardiology/IHD.md",
+    "Cardiology/Acute MI + cardiogenic shock.md",
+    "Cardiology/CSA.md",
+    "Cardiology/CCF.md",
+    "Cardiology/CHF with HTN.md",
+    "Cardiology/Anti arrhythmia drugs.md",
+    "Cardiology/Pacemaker.md",
+    "Cardiology/C16-Cardiology.md",
+    "Cardiology/A.fib.md",
+    "Chapters.md",
     "Cardiology"
   ]
 }
