@@ -81,10 +81,14 @@
             "id": "11b76c6b5777989a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CSA.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CSA"
             }
           }
         ],
@@ -242,6 +246,7 @@
   },
   "active": "11b76c6b5777989a",
   "lastOpenFiles": [
+    "CSA.md",
     "IHD.md",
     "Cardiology/CCF.md",
     "Cardiology/CHF with HTN.md",
