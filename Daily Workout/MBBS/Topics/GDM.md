@@ -3,8 +3,8 @@
 type: topic
 subject:OBG
 posting:Sx
-date_studied: 2026-10-22
-d1_due: 2026-10-23
+date_studied: 2026-10-25
+d1_due: 2026-10-26
 d3_due: 2026-10-28
 d7_due: 2026-11-01
 d1_done: false
