@@ -1,19 +1,29 @@
+🔥 Revisions Due Today
 
-## 📅 Upcoming Revisions — Next 7 Days
+TABLE WITHOUT ID
 
-```dataview
-TABLE subject AS "Subject",
-d1_due AS "D+1 Due",
-d3_due AS "D+3 Due",
-d7_due AS "D+7 Due"
+  file.link AS "Topic",
+
+  subject AS "Subject",
+
+  choice(d1_done = false AND date(d1_due) <= date(today), "D+1 ", "") +
+
+  choice(d3_done = false AND date(d3_due) <= date(today), "D+3 ", "") +
+
+  choice(d7_done = false AND date(d7_due) <= date(today), "D+7", "") AS "Revision Due"
+
 FROM "MBBS/Topics"
+
 WHERE type = "topic"
+
 AND (
-  (d1_done = false AND date(d1_due) > date(today) AND date(d1_due) <= date(today) + dur(7 days))
-  OR
-  (d3_done = false AND date(d3_due) > date(today) AND date(d3_due) <= date(today) + dur(7 days))
-  OR
-  (d7_done = false AND date(d7_due) > date(today) AND date(d7_due) <= date(today) + dur(7 days))
+
+  (d1_done = false AND date(d1_due) <= date(today))
+
+  OR (d3_done = false AND date(d3_due) <= date(today))
+
+  OR (d7_done = false AND date(d7_due) <= date(today))
+
 )
-SORT d1_due ASC
-```
+
+SORT file.name ASC
