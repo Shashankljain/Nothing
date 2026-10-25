@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MBBS/Topics/ breast.md",
+                "file": "MBBS/Topics/GDM.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "breast"
+              "title": "GDM"
             }
           }
         ],
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MBBS/Topics/ breast.md",
+            "file": "MBBS/Topics/GDM.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -242,8 +242,8 @@
   },
   "active": "005c76829993479b",
   "lastOpenFiles": [
-    "MBBS/Templates/Topic template.md",
     "MBBS/Topics/ breast.md",
+    "MBBS/Templates/Topic template.md",
     "MBBS/Topics/GDM.md",
     "MBBS/Revision dashboard.md",
     "MBBS/Daily notes/26-Oct-26.md",
