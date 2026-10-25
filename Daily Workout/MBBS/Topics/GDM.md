@@ -122,6 +122,22 @@ d7_done: false
 - [ ] D+3 revision — `= this.d3_due`
 - [ ] D+7 revision — `= this.d7_due`
 
+## Revision Controls
+
+### D+1 Revision
+Due: `= this.d1_due`
+
+`INPUT[toggle:d1_done]`
+
+### D+3 Revision
+Due: `= this.d3_due`
+
+`INPUT[toggle:d3_done]`
+
+### D+7 Revision
+Due: `= this.d7_due`
+
+`INPUT[toggle:d7_done]`
 **Difficult concepts to revisit:**
 - 
 
