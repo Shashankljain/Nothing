@@ -183,7 +183,13 @@ date: ${date}
 - [ ] Active recall attempted
 - [ ] Revision completed as time permits
 
+🔁 Daily Revision Routine
 
+- ☐ Open [[MBBS/Revision Dashboard]]
+- ☐ Complete overdue D+1, D+3 and D+7 revisions
+- ☐ Use active recall before checking the topic notes
+- ☐ Update each revision toggle after completing it
+- ☐ Record difficult points in the topic’s Doubts section
 `;
 }
 %>
