@@ -182,6 +182,8 @@ date: ${date}
 - [ ] Textbook understanding checked
 - [ ] Active recall attempted
 - [ ] Revision completed as time permits
+
+
 `;
 }
 %>
