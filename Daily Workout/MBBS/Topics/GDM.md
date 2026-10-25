@@ -1,7 +1,7 @@
 
 ---
 type: topic
-subject:OBG
+subject: OBG
 posting:Sx
 date_studied: 2026-10-25
 d1_due: 2026-10-26
