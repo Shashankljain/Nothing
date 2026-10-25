@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "MBBS/Templates/Daily switcher.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -242,13 +242,14 @@
   },
   "active": "1c21718e41ea26e4",
   "lastOpenFiles": [
+    "Topics.md",
+    "MBBS/Templates/Daily switcher.md",
     "Subject progress dashboard.md",
     "MBBS/Revision dashboard.md",
     "MBBS/Topics/GDM.md",
     "MBBS/Topics/Mi.md",
     "MBBS/Templates/Topic template.md",
     "MBBS/Daily notes/25-10-2026.md",
-    "MBBS/Templates/Daily switcher.md",
     "Template/Neet pg daily switcher.md",
     "MBBS/Weekly reviews",
     "MBBS/Daily notes",

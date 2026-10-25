@@ -113,8 +113,7 @@ date: ${date}
 - [ ] Practise differential diagnosis
 - [ ] Review relevant viva / practical questions
 
-**Topic note:** [[Topics/]]
-
+**Topic note:** [[Topic
 **What I understood:**
 
 **What remains confusing:**
