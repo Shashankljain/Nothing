@@ -1,6 +1,6 @@
 ---
 type: topic
-subject:
+subject: Obg
 posting:
 date_studied: 2026-10-26
 d1_due: 2026-10-27
