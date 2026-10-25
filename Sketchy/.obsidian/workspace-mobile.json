@@ -126,15 +126,12 @@
             "id": "d12d63420069f191",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Medicine/Cardiology/HF Mx.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Medicine/Cardiology/Hypertrophic cardiomyopathy.jpg"
               },
-              "icon": "lucide-file",
-              "title": "HF Mx"
+              "icon": "lucide-image",
+              "title": "Hypertrophic cardiomyopathy"
             }
           }
         ],
@@ -291,8 +288,8 @@
   },
   "active": "d12d63420069f191",
   "lastOpenFiles": [
-    "Medicine/Cardiology/HF Mx.pdf",
     "Medicine/Cardiology/HF Mx.md",
+    "Medicine/Cardiology/HF Mx.pdf",
     "Medicine/Cardiology/ADHF Mx.md",
     "Medicine/Cardiology/ADHF Mx.pdf",
     "Medicine/Cardiology/Chronic HF.md",
@@ -314,7 +311,6 @@
     "Medicine/Cardiology/Htn Mx.pdf",
     "Medicine/Cardiology/Htn emergency.md",
     "Medicine/Cardiology/Wide complex tachycardia ECG.md",
-    "Medicine/Cardiology/wide complex ecg.pdf",
     "Medicine/Cardiology/R-L shunt.md",
     "Medicine/Cardiology/Narrow tachycardia -1.md",
     "Medicine/Cardiology/Narrow tachycardia-2.md",
