@@ -56,7 +56,7 @@
               "type": "markdown",
               "state": {
                 "file": "MBBS/Revision dashboard.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -242,9 +242,10 @@
   },
   "active": "005c76829993479b",
   "lastOpenFiles": [
+    "MBBS/Topics/Mi.md",
+    "MBBS/Revision dashboard.md",
     "MBBS/Topics/GDM.md",
     "MBBS/Topics/ breast.md",
-    "MBBS/Revision dashboard.md",
     "MBBS/Templates/Topic template.md",
     "MBBS/Templates/Daily switcher.md",
     "MBBS/Daily notes/26-Oct-26.md",
@@ -252,7 +253,6 @@
     "MBBS/Topics/Heart.md",
     "Topics.md",
     "Subject progress dashboard.md",
-    "MBBS/Topics/Mi.md",
     "MBBS/Daily notes/25-10-2026.md",
     "Template/Neet pg daily switcher.md",
     "MBBS/Weekly reviews",
