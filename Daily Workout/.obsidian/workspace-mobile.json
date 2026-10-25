@@ -56,7 +56,7 @@
               "type": "markdown",
               "state": {
                 "file": "MBBS/Revision dashboard.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -244,9 +244,9 @@
   "lastOpenFiles": [
     "MBBS/Topics/ breast.md",
     "MBBS/Daily notes/26-Oct-26.md",
+    "MBBS/Revision dashboard.md",
     "MBBS/Topics.md",
     "MBBS/Topics/Heart.md",
-    "MBBS/Revision dashboard.md",
     "MBBS/Templates/Daily switcher.md",
     "Topics.md",
     "Subject progress dashboard.md",
