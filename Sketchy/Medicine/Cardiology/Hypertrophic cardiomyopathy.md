@@ -1,0 +1,2 @@
+[[Cardiology]]
+![[Hypertrophic cardiomyopathy.jpg]]
