@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MBBS/Topics/GDmm.md",
+                "file": "MBBS/Revision dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GDmm"
+              "title": "Revision dashboard"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,7 +226,7 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "005c76829993479b",
+  "active": "1f0eb5dc7b1b2a15",
   "lastOpenFiles": [
     "MBBS/Topics/GDmm.md",
     "MBBS/Revision dashboard.md",
