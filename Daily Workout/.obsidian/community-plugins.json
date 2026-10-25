@@ -2,5 +2,6 @@
   "templater-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-day-planner",
-  "obsidian-mind-map"
+  "obsidian-mind-map",
+  "dataview"
 ]
