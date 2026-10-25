@@ -146,7 +146,7 @@ date: ${date}
 - [ ] Draw a flowchart or diagram from memory
 - [ ] Answer relevant clinical / viva questions
 
-**Topic note:** [[Topics/]]
+**Topic note:** [[MBBS/Topics/]]
 
 **What I understood:**
 
@@ -185,7 +185,7 @@ date: ${date}
 
 🔁 Daily Revision Routine
 
-- ☐ Open [[MBBS/Revision Dashboard]]
+- [ ]Open [[MBBS/Revision Dashboard]]
 - ☐ Complete overdue D+1, D+3 and D+7 revisions
 - ☐ Use active recall before checking the topic notes
 - ☐ Update each revision toggle after completing it
