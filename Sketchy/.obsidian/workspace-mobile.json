@@ -126,15 +126,12 @@
             "id": "d12d63420069f191",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Medicine/Cardiology/Dcm + rcm.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Medicine/Cardiology/pericarditis,cardiac tamponad,constrictive pericarditis.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Dcm + rcm"
+              "icon": "lucide-file-text",
+              "title": "pericarditis,cardiac tamponad,constrictive pericarditis"
             }
           }
         ],
@@ -291,6 +288,7 @@
   },
   "active": "d12d63420069f191",
   "lastOpenFiles": [
+    "Medicine/Cardiology/Dcm + rcm.md",
     "Medicine/Cardiology/Hypertrophic cardiomyopathy.jpg",
     "Medicine/Cardiology/HF Mx.md",
     "Medicine/Cardiology/HF Mx.pdf",
