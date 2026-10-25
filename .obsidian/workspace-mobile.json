@@ -11,14 +11,10 @@
             "id": "649cdee7b5d72e0b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sketchy/Medicine/MR+ MVP.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MR+ MVP"
+              "title": "New tab"
             }
           },
           {
@@ -49,8 +45,7 @@
               "title": "Hypertrophic cardiomyopathy"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,8 +196,23 @@
       "study-flow-planner:Study Flow Planner": false
     }
   },
-  "active": "fa50dfcbbd81332b",
+  "active": "649cdee7b5d72e0b",
   "lastOpenFiles": [
+    "Daily Workout/Subject progress dashboard.md",
+    "Daily Workout/Requirements.md",
+    "Daily Workout/MBBS/Topics/Mi.md",
+    "Daily Workout/MBBS/Topics/Heart.md",
+    "Daily Workout/MBBS/Topics/GDM.md",
+    "Daily Workout/MBBS/Topics/ breast.md",
+    "Daily Workout/MBBS/Topics",
+    "Daily Workout/MBBS/Topics.md",
+    "Daily Workout/MBBS/Templates/Topic template.md",
+    "Daily Workout/MBBS/Templates/Daily switcher.md",
+    "Daily Workout/MBBS/Templates",
+    "Daily Workout/MBBS/Revision dashboard.md",
+    "Daily Workout/MBBS/Daily notes/26-Oct-26.md",
+    "Daily Workout/MBBS/Daily notes",
+    "Daily Workout/MBBS",
     "Sketchy/Medicine/Cardiology/Hypertrophic cardiomyopathy.jpg",
     "Daily Workout/Daily activities/23-Oct-26.md",
     "Sketchy/Medicine/Cardiology/Hypertrophic cardiomyopathy.md",
@@ -221,16 +231,6 @@
     "Surgery/PUD -5.md",
     "Surgery/PUD -10.md",
     "Surgery/Perforated Peptic Ulcer.md",
-    "Surgery/Krukenberg Tumor.md",
-    "Surgery/Hourglass Stomach.md",
-    "Surgery/Highly Selective Vagotomy (HSV).md",
-    "Surgery/H.pylori.md",
-    "Surgery/GIST.md",
-    "Surgery/Gastroscopy.md",
-    "Surgery/Free Gas Under Diaphragm.md",
-    "Surgery/Early Gastric Cancer.md",
-    "Surgery/Congenital (Infantile) Hypertrophic Pyloric Stenosis.md",
-    "Surgery/Complications of Peptic Ulcer Surgery.md",
     "OBG/Vomiting in preg",
     "Sketchy/Medicine/Cardiology/Ecg interpretation.jpeg",
     "Sketchy/Medicine/Cardiology/IMG_20261008_192252248.jpg",
@@ -238,10 +238,6 @@
     "Sketchy/OBS/PIH.pdf",
     "Sketchy/OBS/N,V + Hyperemesis.pdf",
     "Sketchy/Medicine/Ecg.png",
-    "Surgery",
-    "Prompts",
-    "OBG",
-    "Obg",
     "Com med/RCH.canvas",
     "Forensic/image 104.jpg",
     "Forensic/image 103.jpg",
@@ -249,7 +245,6 @@
     "IMG_20260907_231058984.jpg",
     "IMG_20260907_225713243.jpg",
     "IMG_20260907_225709274 2.jpg",
-    "IMG_20260907_225709274 1.jpg",
     "Forensic/Sign,symptom,feature,tx.canvas",
     "Com med/Untitled.canvas",
     "Untitled.canvas"
