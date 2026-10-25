@@ -3,5 +3,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-day-planner",
   "obsidian-mind-map",
-  "dataview"
+  "dataview",
+  "obsidian-meta-bind-plugin"
 ]

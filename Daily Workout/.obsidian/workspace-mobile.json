@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MBBS/Revision dashboard.md",
-                "mode": "preview",
+                "file": "MBBS/Topics/ breast.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Revision dashboard"
+              "title": "breast"
             }
           }
         ],
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MBBS/Revision dashboard.md",
+            "file": "MBBS/Topics/ breast.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -242,17 +242,17 @@
   },
   "active": "005c76829993479b",
   "lastOpenFiles": [
+    "MBBS/Templates/Topic template.md",
     "MBBS/Topics/ breast.md",
-    "MBBS/Daily notes/26-Oct-26.md",
+    "MBBS/Topics/GDM.md",
     "MBBS/Revision dashboard.md",
+    "MBBS/Daily notes/26-Oct-26.md",
     "MBBS/Topics.md",
     "MBBS/Topics/Heart.md",
     "MBBS/Templates/Daily switcher.md",
     "Topics.md",
     "Subject progress dashboard.md",
-    "MBBS/Topics/GDM.md",
     "MBBS/Topics/Mi.md",
-    "MBBS/Templates/Topic template.md",
     "MBBS/Daily notes/25-10-2026.md",
     "Template/Neet pg daily switcher.md",
     "MBBS/Weekly reviews",
