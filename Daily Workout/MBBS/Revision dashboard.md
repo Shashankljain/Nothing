@@ -3,4 +3,3 @@
 LIST
 FROM "MBBS/Topics"
 ```
-    
