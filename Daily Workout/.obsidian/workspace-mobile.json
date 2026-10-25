@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subject progress dashboard.md",
-                "mode": "source",
+                "file": "MBBS/Templates/Daily switcher.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subject progress dashboard"
+              "title": "Daily switcher"
             }
           },
           {
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Subject progress dashboard.md",
+            "file": "MBBS/Templates/Daily switcher.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -242,8 +242,8 @@
   },
   "active": "1c21718e41ea26e4",
   "lastOpenFiles": [
-    "MBBS/Revision dashboard.md",
     "Subject progress dashboard.md",
+    "MBBS/Revision dashboard.md",
     "MBBS/Topics/GDM.md",
     "MBBS/Topics/Mi.md",
     "MBBS/Templates/Topic template.md",
