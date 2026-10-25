@@ -1,5 +1,6 @@
 
-```dataview
-TABLE type, d1_due, d1_done, date(d1_due), date(today)
+```dataview id="k8m2vp"
+TABLE subject, d1_due, d1_done
 FROM "MBBS/Topics"
+WHERE d1_done = false
 ```
