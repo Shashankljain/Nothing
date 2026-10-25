@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MBBS/Templates/Daily switcher.md",
+                "file": "MBBS/Daily notes/26-Oct-26.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Daily switcher"
+              "title": "26-Oct-26"
             }
           }
         ],
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MBBS/Templates/Daily switcher.md",
+            "file": "MBBS/Daily notes/26-Oct-26.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -242,8 +242,8 @@
   },
   "active": "005c76829993479b",
   "lastOpenFiles": [
-    "MBBS/Daily notes/26-Oct-26.md",
     "MBBS/Templates/Daily switcher.md",
+    "MBBS/Daily notes/26-Oct-26.md",
     "Subject progress dashboard.md",
     "Topics.md",
     "MBBS/Topics/Heart.md",
