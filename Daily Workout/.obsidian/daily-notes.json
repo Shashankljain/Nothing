@@ -1,5 +1,5 @@
 {
-  "template": "Template/Neet pg daily switcher.md",
-  "folder": "Daily activities",
+  "template": "MBBS/Templates/Daily switcher.md",
+  "folder": "MBBS/Daily notes",
   "format": "DD-MMM-YY"
 }

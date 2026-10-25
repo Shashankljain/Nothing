@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MBBS/Revision dashboard.md",
+                "file": "MBBS/Daily notes/26-Oct-26.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Revision dashboard"
+              "title": "26-Oct-26"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MBBS/Templates/Daily switcher.md",
+            "file": "MBBS/Daily notes/26-Oct-26.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -240,12 +240,14 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "1c21718e41ea26e4",
+  "active": "005c76829993479b",
   "lastOpenFiles": [
-    "Topics.md",
-    "MBBS/Templates/Daily switcher.md",
-    "Subject progress dashboard.md",
     "MBBS/Revision dashboard.md",
+    "MBBS/Daily notes/26-Oct-26.md",
+    "MBBS/Templates/Daily switcher.md",
+    "MBBS/Topics.md",
+    "Topics.md",
+    "Subject progress dashboard.md",
     "MBBS/Topics/GDM.md",
     "MBBS/Topics/Mi.md",
     "MBBS/Templates/Topic template.md",
