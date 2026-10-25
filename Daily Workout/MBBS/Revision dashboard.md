@@ -3,6 +3,8 @@
 
 ```dataview
 TABLE subject AS "Subject",
+
+
 d1_due AS "D+1 Due",
 d3_due AS "D+3 Due",
 d7_due AS "D+7 Due"
