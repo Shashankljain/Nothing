@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MBBS/Topics/Heart.md",
+                "file": "Subject progress dashboard.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Heart"
+              "title": "Subject progress dashboard"
             }
           }
         ],
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MBBS/Topics/Heart.md",
+            "file": "Subject progress dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -242,6 +242,8 @@
   },
   "active": "005c76829993479b",
   "lastOpenFiles": [
+    "Topics.md",
+    "MBBS/Topics/Heart.md",
     "MBBS/Revision dashboard.md",
     "MBBS/Topics/GDM.md",
     "MBBS/Topics/Mi.md",
@@ -250,8 +252,6 @@
     "MBBS/Templates/Daily switcher.md",
     "MBBS/Daily notes/26-Oct-26.md",
     "MBBS/Topics.md",
-    "MBBS/Topics/Heart.md",
-    "Topics.md",
     "Subject progress dashboard.md",
     "MBBS/Daily notes/25-10-2026.md",
     "Template/Neet pg daily switcher.md",
