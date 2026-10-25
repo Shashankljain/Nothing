@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Workout/Subject progress dashboard.md",
+                "file": "Daily Workout/MBBS/Revision dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subject progress dashboard"
+              "title": "Revision dashboard"
             }
           },
           {
@@ -202,10 +202,10 @@
   },
   "active": "649cdee7b5d72e0b",
   "lastOpenFiles": [
+    "Daily Workout/Requirements.md",
+    "Daily Workout/Subject progress dashboard.md",
     "Daily Workout/MBBS/Daily notes/26-Oct-26.md",
     "Daily Workout/MBBS/Topics/GDM.md",
-    "Daily Workout/Subject progress dashboard.md",
-    "Daily Workout/Requirements.md",
     "Daily Workout/MBBS/Topics/Mi.md",
     "Daily Workout/MBBS/Topics/Heart.md",
     "Daily Workout/MBBS/Topics/ breast.md",
