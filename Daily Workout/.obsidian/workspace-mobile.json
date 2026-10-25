@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MBBS/Daily notes/26-Oct-26.md",
+                "file": "MBBS/Revision dashboard.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "26-Oct-26"
+              "title": "Revision dashboard"
             }
           }
         ],
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MBBS/Daily notes/26-Oct-26.md",
+            "file": "MBBS/Revision dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -242,10 +242,12 @@
   },
   "active": "005c76829993479b",
   "lastOpenFiles": [
-    "MBBS/Revision dashboard.md",
+    "MBBS/Topics/ breast.md",
     "MBBS/Daily notes/26-Oct-26.md",
-    "MBBS/Templates/Daily switcher.md",
     "MBBS/Topics.md",
+    "MBBS/Topics/Heart.md",
+    "MBBS/Revision dashboard.md",
+    "MBBS/Templates/Daily switcher.md",
     "Topics.md",
     "Subject progress dashboard.md",
     "MBBS/Topics/GDM.md",
