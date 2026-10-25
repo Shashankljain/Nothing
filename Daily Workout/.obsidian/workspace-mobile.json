@@ -28,8 +28,8 @@
               "type": "markdown",
               "state": {
                 "file": "MBBS/Revision dashboard.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Revision dashboard"
