@@ -126,12 +126,15 @@
             "id": "d12d63420069f191",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Medicine/Cardiology/Hypertrophic cardiomyopathy.jpg"
+                "file": "Medicine/Cardiology/Dcm + rcm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Hypertrophic cardiomyopathy"
+              "icon": "lucide-file",
+              "title": "Dcm + rcm"
             }
           }
         ],
@@ -288,6 +291,7 @@
   },
   "active": "d12d63420069f191",
   "lastOpenFiles": [
+    "Medicine/Cardiology/Hypertrophic cardiomyopathy.jpg",
     "Medicine/Cardiology/HF Mx.md",
     "Medicine/Cardiology/HF Mx.pdf",
     "Medicine/Cardiology/ADHF Mx.md",
