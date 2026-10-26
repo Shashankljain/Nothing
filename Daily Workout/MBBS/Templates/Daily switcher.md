@@ -1,89 +1,12 @@
 
-<%*
-const parsed = moment(tp.file.title, "YYYY-MM-DD", true);
-const d = parsed.isValid() ? parsed : moment();
-const date = d.format("YYYY-MM-DD");
-const day = d.day();
-
-if (day === 0 || day === 6) {
-  tR += `---
-type: weekly-review
-date: ${date}
 ---
-
-# 📅 Weekly MBBS Review
-
-## 1. Current Posting
-
-**Posting / subject:**
-
-- [ ] Review videos completed
-- [ ] Review corresponding textbook sections
-- [ ] Check understanding of mechanisms
-- [ ] Review clinical cases and practical learning
-- [ ] Identify unfinished topics
-
-**Topics completed:**
-- 
-
-**Topics pending:**
-- 
-
-## 2. Parallel Subject
-
-**Subject studied:**
-
-- [ ] Review videos completed
-- [ ] Review corresponding textbook sections
-- [ ] Check conceptual understanding
-- [ ] Review unfinished topics
-
-**Topics completed:**
-- 
-
-**Topics pending:**
-- 
-
-## 3. Concept Mastery
-
-- [ ] Explain important topics without notes
-- [ ] Connect clinical features with pathophysiology
-- [ ] Explain investigations and their interpretation
-- [ ] Justify management principles
-- [ ] Practise relevant clinical cases and viva questions
-
-**Concepts I still find difficult:**
-- 
-
-## 4. Revision Dashboard
-
-- [ ] Open the revision dashboard
-- [ ] Complete overdue D+1, D+3 and D+7 revisions
-- [ ] Identify topics needing further review
-
-## 5. Next Week
-
-**Current posting priorities:**
-1.
-2.
-
-**Parallel subject priorities:**
-1.
-2.
-
-**Clinical / practical goal:**
-
-**Main improvement for next week:**
-`;
-} else {
-  tR += `---
 type: daily-log
-date: ${date}
+date: 2026-10-26
 ---
 
 # 📚 Daily MBBS Study Plan
 
-**Date:** ${date}
+**Date:** 2026-10-26
 **College hours:** 9 AM – 4 PM
 
 # A. CURRENT POSTING — PRIMARY TRACK
@@ -190,6 +113,4 @@ date: ${date}
 - ☐ Use active recall before checking the topic notes
 - ☐ Update each revision toggle after completing it
 - ☐ Record difficult points in the topic’s Doubts section
-`;
-}
-%>
+

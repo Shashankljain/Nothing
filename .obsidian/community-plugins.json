@@ -1,5 +1,7 @@
 [
   "templater-obsidian",
   "study-flow-planner",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "dataview",
+  "obsidian-meta-bind-plugin"
 ]

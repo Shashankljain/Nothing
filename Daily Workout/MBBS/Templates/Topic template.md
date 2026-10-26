@@ -2,16 +2,16 @@
 type: topic
 subject:
 posting:
-date_studied: <% tp.date.now("YYYY-MM-DD") %>
-d1_due: <% tp.date.now("YYYY-MM-DD", 1) %>
-d3_due: <% tp.date.now("YYYY-MM-DD", 3) %>
-d7_due: <% tp.date.now("YYYY-MM-DD", 7) %>
+date_studied: 2026-10-26
+d1_due: 2026-10-27
+d3_due: 2026-10-29
+d7_due: 2026-11-02
 d1_done: false
 d3_done: false
 d7_done: false
 ---
 
-# <% tp.file.title %>
+# Topic template
 
 ## 1. Learning Objectives
 - [ ] Understand the definition and basic concepts
