@@ -128,10 +128,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Medicine/Cardiology/pericarditis,cardiac tamponad,constrictive pericarditis.pdf"
+                "file": "Medicine/Cardiology/Narrow complex tach -2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "pericarditis,cardiac tamponad,constrictive pericarditis"
+              "title": "Narrow complex tach -2"
             }
           }
         ],
@@ -165,7 +165,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "M",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -288,6 +288,9 @@
   },
   "active": "d12d63420069f191",
   "lastOpenFiles": [
+    "Medicine/Cardiology/Narrow complex tachy -1.pdf",
+    "Medicine/Cardiology/Narrow complex tach- Mx.pdf",
+    "Medicine/Cardiology/pericarditis,cardiac tamponad,constrictive pericarditis.pdf",
     "Medicine/Cardiology/Dcm + rcm.md",
     "Medicine/Cardiology/Hypertrophic cardiomyopathy.jpg",
     "Medicine/Cardiology/HF Mx.md",
@@ -299,7 +302,6 @@
     "Medicine/Cardiology/pericarditis,cardiac tamponad,constrictive pericarditis.md",
     "Medicine/Cardiology/acute pericarditis.md",
     "Medicine/Cardiology/acute pericarditis.pdf",
-    "Medicine/Cardiology/pericarditis,cardiac tamponad,constrictive pericarditis.pdf",
     "OBS/Examination/Fetal heart tracing.md",
     "OBS/Examination/prenatal screening.pdf",
     "OBS/Examination/Sketchy_obs_Final.pdf",
@@ -310,7 +312,6 @@
     "Medicine/Cardiology/Htn presentation.md",
     "Medicine/Cardiology/Htn presentation.pdf",
     "Medicine/Cardiology/Htn Mx.md",
-    "Medicine/Cardiology/Htn Mx.pdf",
     "Medicine/Cardiology/Htn emergency.md",
     "Medicine/Cardiology/Wide complex tachycardia ECG.md",
     "Medicine/Cardiology/R-L shunt.md",
@@ -325,7 +326,6 @@
     "Medicine/Cardiology/Narrow tachycardia Mx.md",
     "OBS/Normal physio/Intro to obs.md",
     "OBS/Pathological/GDM 1.md",
-    "OBS/Pathological/Pathological.md",
     "IMG_2420.png",
     "Medicine/Cardiology/IMG_2420.jpeg",
     "Medicine/IMG_2392.jpeg"
