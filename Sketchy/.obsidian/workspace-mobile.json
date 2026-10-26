@@ -126,12 +126,15 @@
             "id": "d12d63420069f191",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Medicine/Cardiology/Narrow complex tach -2.pdf"
+                "file": "Medicine/Cardiology/Ecg interpretation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Narrow complex tach -2"
+              "icon": "lucide-file",
+              "title": "Ecg interpretation"
             }
           }
         ],
@@ -288,6 +291,7 @@
   },
   "active": "d12d63420069f191",
   "lastOpenFiles": [
+    "Medicine/Cardiology/Narrow complex tach -2.pdf",
     "Medicine/Cardiology/Narrow complex tachy -1.pdf",
     "Medicine/Cardiology/Narrow complex tach- Mx.pdf",
     "Medicine/Cardiology/pericarditis,cardiac tamponad,constrictive pericarditis.pdf",
@@ -310,7 +314,6 @@
     "Medicine/Cardiology/Htn emergency.pdf",
     "Medicine/Cardiology/Ecg.png",
     "Medicine/Cardiology/Htn presentation.md",
-    "Medicine/Cardiology/Htn presentation.pdf",
     "Medicine/Cardiology/Htn Mx.md",
     "Medicine/Cardiology/Htn emergency.md",
     "Medicine/Cardiology/Wide complex tachycardia ECG.md",
