@@ -18,127 +18,32 @@
             }
           },
           {
-            "id": "1a6caa2f7f8851c9",
+            "id": "57bcbff6eb4fc988",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medicine/Cardiology/Wide complex tachycardia ECG.md",
+                "file": "OBS/Examination/Antenatal testing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Wide complex tachycardia ECG"
+              "title": "Antenatal testing"
             }
           },
           {
-            "id": "29316f426d8e0c0f",
+            "id": "2e8c4d0a6556e3e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Medicine/Cardiology/Htn emergency.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Htn emergency"
-            }
-          },
-          {
-            "id": "c0db6719d56292aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Medicine/Cardiology/Htn Mx.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Htn Mx"
-            }
-          },
-          {
-            "id": "eca846c05d9594e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Medicine/Cardiology/pericarditis,cardiac tamponad,constrictive pericarditis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "pericarditis,cardiac tamponad,constrictive pericarditis"
-            }
-          },
-          {
-            "id": "aaad508f2be1eff9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Medicine/Cardiology/Chronic HF.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Chronic HF"
-            }
-          },
-          {
-            "id": "3dc2e58cb01d6c3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Medicine/Cardiology/ADHF Mx.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "ADHF Mx"
-            }
-          },
-          {
-            "id": "4b4c96db76a260e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "acute pericarditis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "acute pericarditis"
-            }
-          },
-          {
-            "id": "d12d63420069f191",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Medicine/Cardiology/Narrow tachycardia-2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Narrow tachycardia-2"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -289,8 +194,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d12d63420069f191",
+  "active": "2e8c4d0a6556e3e8",
   "lastOpenFiles": [
+    "OBS/Examination/Antenatal testing.md",
+    "OBS/Examination/Antenatal testing.pdf",
+    "OBS/Examination/Prenatal screening.md",
+    "OBS/Examination/prenatal screening.pdf",
+    "OBS/Examination/Fetal heart tracing.md",
+    "OBS/Examination/Examination.md",
+    "OBS/Examination/Routine prenatal.md",
+    "Medicine/Cardiology/Narrow tachycardia-2.md",
+    "Medicine/Cardiology/ADHF Mx.md",
+    "Medicine/Cardiology/Chronic HF.md",
+    "Medicine/Cardiology/pericarditis,cardiac tamponad,constrictive pericarditis.md",
+    "Medicine/Cardiology/Htn Mx.md",
+    "Medicine/Cardiology/Htn emergency.md",
+    "Medicine/Cardiology/Wide complex tachycardia ECG.md",
     "Medicine/Cardiology/Narrow tachycardia -1.md",
     "Medicine/Cardiology/Narrow tachycardia Mx.md",
     "Medicine/Cardiology/Ecg interpretation.md",
@@ -302,32 +221,18 @@
     "Medicine/Cardiology/Hypertrophic cardiomyopathy.jpg",
     "Medicine/Cardiology/HF Mx.md",
     "Medicine/Cardiology/HF Mx.pdf",
-    "Medicine/Cardiology/ADHF Mx.md",
     "Medicine/Cardiology/ADHF Mx.pdf",
-    "Medicine/Cardiology/Chronic HF.md",
     "Medicine/Cardiology/chronic HF.pdf",
-    "Medicine/Cardiology/pericarditis,cardiac tamponad,constrictive pericarditis.md",
     "Medicine/Cardiology/acute pericarditis.md",
     "Medicine/Cardiology/acute pericarditis.pdf",
-    "OBS/Examination/Fetal heart tracing.md",
-    "OBS/Examination/prenatal screening.pdf",
-    "OBS/Examination/Sketchy_obs_Final.pdf",
-    "OBS/Examination/Routine prenatal.md",
     "Medicine/Cardiology/Ecg.png",
     "Medicine/Cardiology/Htn presentation.md",
-    "Medicine/Cardiology/Htn Mx.md",
-    "Medicine/Cardiology/Htn emergency.md",
-    "Medicine/Cardiology/Wide complex tachycardia ECG.md",
     "Medicine/Cardiology/R-L shunt.md",
-    "Medicine/Cardiology/Narrow tachycardia-2.md",
     "Medicine/Cardiology/Bradycardia ECG.md",
     "Medicine/Cardiology/Bradycardia DDx.md",
     "OBS/Pathological/PIH.md",
     "OBS/Normal physio/Fetal physio.md",
     "Medicine/Cardiology/ACS.md",
-    "OBS/Pathological/GDM.md",
-    "OBS/Normal physio/Intro to obs.md",
-    "OBS/Pathological/GDM 1.md",
     "IMG_2420.png",
     "Medicine/Cardiology/IMG_2420.jpeg",
     "Medicine/IMG_2392.jpeg"
