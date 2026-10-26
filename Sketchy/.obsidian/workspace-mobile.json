@@ -36,10 +36,10 @@
             "id": "2e8c4d0a6556e3e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -196,6 +196,15 @@
   },
   "active": "2e8c4d0a6556e3e8",
   "lastOpenFiles": [
+    "Medicine/Cardiology/R-L shunt.md",
+    "OBS/Pathological/PIH.md",
+    "OBS/Pathological/PIH.pdf",
+    "OBS/Pathological/GDM.md",
+    "OBS/Pathological/GDM 1.md",
+    "OBS/Pathological/GDM.pdf",
+    "OBS/Labor/N and abnormal labor.md",
+    "OBS/Labor",
+    "OBS/Labor/N and Abnormal labor.pdf",
     "OBS/Examination/Antenatal testing.md",
     "OBS/Examination/Antenatal testing.pdf",
     "OBS/Examination/Prenatal screening.md",
@@ -220,19 +229,11 @@
     "Medicine/Cardiology/Dcm + rcm.md",
     "Medicine/Cardiology/Hypertrophic cardiomyopathy.jpg",
     "Medicine/Cardiology/HF Mx.md",
-    "Medicine/Cardiology/HF Mx.pdf",
-    "Medicine/Cardiology/ADHF Mx.pdf",
-    "Medicine/Cardiology/chronic HF.pdf",
     "Medicine/Cardiology/acute pericarditis.md",
-    "Medicine/Cardiology/acute pericarditis.pdf",
     "Medicine/Cardiology/Ecg.png",
     "Medicine/Cardiology/Htn presentation.md",
-    "Medicine/Cardiology/R-L shunt.md",
     "Medicine/Cardiology/Bradycardia ECG.md",
     "Medicine/Cardiology/Bradycardia DDx.md",
-    "OBS/Pathological/PIH.md",
-    "OBS/Normal physio/Fetal physio.md",
-    "Medicine/Cardiology/ACS.md",
     "IMG_2420.png",
     "Medicine/Cardiology/IMG_2420.jpeg",
     "Medicine/IMG_2392.jpeg"
