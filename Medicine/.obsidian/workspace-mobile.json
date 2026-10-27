@@ -64,13 +64,17 @@
             }
           },
           {
-            "id": "146d4d046b0e335d",
+            "id": "1d3e3050a3de3ccb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "CSA -5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSA -5"
             }
           }
         ],
@@ -170,7 +174,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "RAAS.md",
+            "file": "CSA -5.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -226,14 +230,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "146d4d046b0e335d",
+  "active": "1d3e3050a3de3ccb",
   "lastOpenFiles": [
+    "Cardiology/CSA.md",
+    "CSA -5.md",
     "Cardiology/RAAS.md",
+    "Cardiology/V.fib.md",
     "Cardiology/IHD.md",
     "Cardiology/CPR.md",
     "Cardiology/C16-Cardiology.md",
     "Cardiology/CHF.md",
-    "Cardiology/V.fib.md",
     "Cardiology/SSS.md",
     "Cardiology/Acute Pulmonary Edema.md",
     "Cardiology/D.Dx for Peripheral Edema.md",
@@ -248,7 +254,6 @@
     "Cardiology/SBE.md",
     "Cardiology/Essential & Accelerated Hypertension.md",
     "Cardiology/Acute MI + cardiogenic shock.md",
-    "Cardiology/CSA.md",
     "Cardiology/Anti arrhythmia drugs.md",
     "Cardiology/Pacemaker.md",
     "Cardiology"
