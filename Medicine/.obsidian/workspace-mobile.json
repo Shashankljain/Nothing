@@ -76,9 +76,19 @@
               "icon": "lucide-file",
               "title": "V.fib"
             }
+          },
+          {
+            "id": "146d4d046b0e335d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -174,7 +184,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "V.fib.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -230,7 +239,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "4e100eb87a34f092",
+  "active": "146d4d046b0e335d",
   "lastOpenFiles": [
     "V.fib.md",
     "RAAS.md",
