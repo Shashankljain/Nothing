@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cardiomyopathies.md",
+                "file": "Cardiology/Cardiomyopathies.md",
                 "mode": "source",
                 "source": false
               },
@@ -286,9 +286,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "71fe9437f6c9d878",
+  "active": "3dac681564b14ac0",
   "lastOpenFiles": [
-    "Cardiomyopathies.md",
+    "Cardiology/Cardiomyopathies.md",
     "SBE.md",
     "IE.md",
     "Cardiology/RHF.md",
