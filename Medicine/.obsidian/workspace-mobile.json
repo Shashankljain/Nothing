@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cardiology/Cardiomyopathies.md",
+                "file": "Cardiology/A.fib.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cardiomyopathies"
+              "title": "A.fib"
             }
           }
         ],
@@ -286,7 +286,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "3dac681564b14ac0",
+  "active": "71fe9437f6c9d878",
   "lastOpenFiles": [
     "Cardiology/Cardiomyopathies.md",
     "Cardiology/SBE.md",
