@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHF.md",
+                "file": "Cardiology/C16-Cardiology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CHF"
+              "title": "C16-Cardiology"
             }
           },
           {
@@ -81,14 +81,14 @@
             "id": "146d4d046b0e335d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,6 +184,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "RAAS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -239,17 +240,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "146d4d046b0e335d",
+  "active": "6c1112ad0194fdbc",
   "lastOpenFiles": [
-    "V.fib.md",
+    "Cardiology/IHD.md",
+    "CPR.md",
+    "Cardiology/C16-Cardiology.md",
+    "CHF.md",
     "RAAS.md",
+    "V.fib.md",
     "SSS.md",
     "Acute Pulmonary Edema.md",
     "D.Dx for Peripheral Edema.md",
     "Chronic Cor Pulmonale.md",
-    "CHF.md",
-    "CPR.md",
-    "Cardiology/IHD.md",
     "Cardiology/IE.md",
     "Cardiology/A.fib.md",
     "Cardiology/RHF.md",
@@ -263,7 +265,6 @@
     "Cardiology/CSA.md",
     "Cardiology/Anti arrhythmia drugs.md",
     "Cardiology/Pacemaker.md",
-    "Cardiology/C16-Cardiology.md",
     "Cardiology"
   ]
 }
