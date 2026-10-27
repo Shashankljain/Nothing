@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Anorectal Abscess"
             }
+          },
+          {
+            "id": "c3f3a4610f77ce20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goodsall's Rule.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Goodsall's Rule"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +174,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Anorectal Abscess.md",
+            "file": "Goodsall's Rule.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -214,8 +228,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "57018821f83362be",
+  "active": "c3f3a4610f77ce20",
   "lastOpenFiles": [
+    "Goodsall's Rule.md",
     "Anorectal Abscess.md",
     "Imperforate Anus.md",
     "Carcinoma of the Upper 1-3rd of rectum.md",
@@ -242,7 +257,6 @@
     "Stomach/Sister Mary Joseph's Nodule.md",
     "Stomach/Gastroscopy.md",
     "Stomach/Complications of Peptic Ulcer Surgery.md",
-    "Stomach/Bleeding Peptic Ulcer.md",
     "Stomach",
     "Breast",
     "Electrolyte and Nutrition",
