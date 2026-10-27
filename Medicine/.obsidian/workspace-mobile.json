@@ -62,37 +62,9 @@
               "icon": "lucide-file",
               "title": "RAAS"
             }
-          },
-          {
-            "id": "0dc7670b51ed9db3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chronic Cor Pulmonale.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chronic Cor Pulmonale"
-            }
-          },
-          {
-            "id": "59080e074512a36d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D.Dx for Peripheral Edema.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "D.Dx for Peripheral Edema"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "D.Dx for Peripheral Edema.md",
+            "file": "RAAS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -244,7 +216,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "59080e074512a36d",
+  "active": "6c1112ad0194fdbc",
   "lastOpenFiles": [
     "D.Dx for Peripheral Edema.md",
     "Chronic Cor Pulmonale.md",
