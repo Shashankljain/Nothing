@@ -4,95 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "8d49ec9b34bcd99f",
+        "id": "9cd5e32969f1a7cd",
         "type": "tabs",
         "children": [
           {
-            "id": "7aae7f6246c18561",
+            "id": "31e0cf90526f247d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stomach/C43- Stomach.md",
+                "file": "Rectum and anal canal/C-48 Rectum and anal canal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C43- Stomach"
+              "title": "C-48 Rectum and anal canal"
             }
           },
           {
-            "id": "f9784354465547ca",
+            "id": "63971ce1c9e9e029",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PUD -10.md",
+                "file": "Carcinoma of the Upper 1-3rd of rectum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PUD -10"
+              "title": "Carcinoma of the Upper 1-3rd of rectum"
             }
           },
           {
-            "id": "535aa6e0ca2fb2ef",
+            "id": "fcac3e89cc3be6c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PUD -5.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PUD -5"
-            }
-          },
-          {
-            "id": "f079e0a1a7b462dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stomach/Virchow's Lymph Node.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Virchow's Lymph Node"
-            }
-          },
-          {
-            "id": "fb7c23067d302606",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stomach/Vagotomy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vagotomy"
-            }
-          },
-          {
-            "id": "e19ae093c7811938",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stomach/Complications of Peptic (Gastric) Ulcer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Complications of Peptic (Gastric) Ulcer"
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,13 +200,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "e19ae093c7811938",
+  "active": "fcac3e89cc3be6c2",
   "lastOpenFiles": [
-    "Breast/Phyllodes Tumor.md",
-    "2026-10-24.md",
+    "Untitled.md",
+    "Carcinoma of the Upper 1-3rd of rectum.md",
+    "Rectum and anal canal/C-48 Rectum and anal canal.md",
+    "Chapters.md",
     "Stomach/Complications of Peptic (Gastric) Ulcer.md",
     "Stomach/Vagotomy.md",
     "Stomach/Virchow's Lymph Node.md",
+    "Stomach/C43- Stomach.md",
+    "Rectum and anal canal",
+    "Breast/Phyllodes Tumor.md",
+    "2026-10-24.md",
     "Stomach/Double Contrast Study.md",
     "Stomach/Linitis Plastica.md",
     "Stomach/Chronic Duodenal Ulcer.md",
@@ -265,11 +229,6 @@
     "Stomach/Free Gas Under Diaphragm.md",
     "Stomach/Ramstedt's Operation.md",
     "Stomach/PUD -10.md",
-    "Stomach/Highly Selective Vagotomy (HSV).md",
-    "Stomach/Trichobezoar of the Stomach.md",
-    "Stomach/H.pylori.md",
-    "Stomach/Upper Gastrointestinal Bleed (Hematemesis) - Mx.md",
-    "Stomach/PUD -5.md",
     "Stomach",
     "Breast",
     "Electrolyte and Nutrition",
