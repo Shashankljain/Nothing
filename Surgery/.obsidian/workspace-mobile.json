@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9cd5e32969f1a7cd",
+        "id": "1438cdd184a60c3f",
         "type": "tabs",
         "children": [
           {
-            "id": "31e0cf90526f247d",
+            "id": "a4b350b23ae98d18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rectum and anal canal/C-48 Rectum and anal canal.md",
+                "file": "Colonoscopy — Indications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C-48 Rectum and anal canal"
-            }
-          },
-          {
-            "id": "63971ce1c9e9e029",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Carcinoma of the Upper 1-3rd of rectum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Carcinoma of the Upper 1-3rd of rectum"
-            }
-          },
-          {
-            "id": "527aa805d39522c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Imperforate Anus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Imperforate Anus"
-            }
-          },
-          {
-            "id": "57018821f83362be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anorectal Abscess.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anorectal Abscess"
-            }
-          },
-          {
-            "id": "c3f3a4610f77ce20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goodsall's Rule.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Goodsall's Rule"
+              "title": "Colonoscopy — Indications"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Goodsall's Rule.md",
+            "file": "Colonoscopy — Indications.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -228,19 +171,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "c3f3a4610f77ce20",
+  "active": "a4b350b23ae98d18",
   "lastOpenFiles": [
+    "Colonoscopy — Indications.md",
     "Goodsall's Rule.md",
     "Anorectal Abscess.md",
     "Imperforate Anus.md",
     "Carcinoma of the Upper 1-3rd of rectum.md",
+    "Rectum and anal canal/C-48 Rectum and anal canal.md",
     "Rectal Prolapse.md",
     "Rectal prolapse.md",
     "Hemorrhoids (3rd Degree).md",
     "Pilonidal Sinus.md",
     "Ischiorectal Abscess.md",
     "Fistula in Ano (Classification & Management).md",
-    "Rectum and anal canal/C-48 Rectum and anal canal.md",
     "Chapters.md",
     "Stomach/Complications of Peptic (Gastric) Ulcer.md",
     "Stomach/Vagotomy.md",
@@ -256,7 +200,6 @@
     "Stomach/Carcinoma of the Stomach.md",
     "Stomach/Sister Mary Joseph's Nodule.md",
     "Stomach/Gastroscopy.md",
-    "Stomach/Complications of Peptic Ulcer Surgery.md",
     "Stomach",
     "Breast",
     "Electrolyte and Nutrition",
