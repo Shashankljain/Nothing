@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rectum and anal canal/Colonoscopy — Indications.md",
+                "file": "Hemorrhage/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Colonoscopy — Indications"
+              "title": "Untitled"
             }
           },
           {
@@ -185,11 +185,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "10a2f2f23a196303",
+  "active": "a4b350b23ae98d18",
   "lastOpenFiles": [
-    "Untitled",
-    "Rectum and anal canal/Solitary Rectal Ulcer Syndrome.md",
     "Rectum and anal canal/Colonoscopy — Indications.md",
+    "Hemorrhage/Untitled.md",
+    "Hemorrhage",
+    "Rectum and anal canal/Solitary Rectal Ulcer Syndrome.md",
     "Rectum and anal canal/Goodsall's Rule.md",
     "Rectum and anal canal/Anorectal Abscess.md",
     "Rectum and anal canal/Imperforate Anus.md",
