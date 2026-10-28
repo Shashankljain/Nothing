@@ -175,6 +175,7 @@ A **Definite Clinical Diagnosis** of IE requires:
 
 ---
 
+
 ### B. Laboratory & Imaging Findings
 
 1. **Blood Cultures (Most Crucial Initial Test):** Draw 3 sets of blood cultures from different venipuncture sites under strict aseptic technique prior to starting antibiotics.
