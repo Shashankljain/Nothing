@@ -69,7 +69,7 @@
 
 ### Pathophysiology Flowchart
 
-```
+```mermaid 
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
@@ -169,7 +169,7 @@ A **Definite Clinical Diagnosis** of IE requires:
 
 1. **Predisposition:** Known predisposing heart condition or IV drug misuse.
 2. **Fever:** Temperature ≥38.0°C.
-3. **Vascular Phenomena:** Major arterial emboli, septic pulmonary infarcts, mycotic aneurysm, intracranial hemorrhage, conjunctival hemorrhage, or Janeway lesions.
+3. **Vascular Phenomena:** Major arterial emboli, septic pulmonary infarcts, mycotic aneurysm, intracranial hemorrhage, conjunctival hemorrhage, or ==Janeway lesions.==
 4. **Immunological Phenomena:** Glomerulonephritis, Osler nodes, Roth spots, or positive Rheumatoid Factor.
 5. **Microbiological Evidence:** Positive blood culture not meeting major criteria or serological evidence of active infection.
 
