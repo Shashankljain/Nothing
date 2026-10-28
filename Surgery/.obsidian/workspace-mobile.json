@@ -53,10 +53,14 @@
             "id": "49cd366da1804acb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Hemorrhagic Shock.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Hemorrhagic Shock"
             }
           }
         ],
@@ -212,6 +216,7 @@
   },
   "active": "49cd366da1804acb",
   "lastOpenFiles": [
+    "Hemorrhagic Shock.md",
     "Complications of Blood Transfusion.md",
     "Hemorrhage/C6 - Hemorrhage and blood transfusion.md",
     "Rectum and anal canal/Colonoscopy — Indications.md",
@@ -239,7 +244,6 @@
     "Stomach/Double Contrast Study.md",
     "Stomach/Linitis Plastica.md",
     "Stomach/Chronic Duodenal Ulcer.md",
-    "Stomach/Congenital (Infantile) Hypertrophic Pyloric Stenosis.md",
     "Stomach",
     "Breast",
     "Electrolyte and Nutrition",
