@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6d7553198308740c",
+        "id": "906ebe0d5e7d1db9",
         "type": "tabs",
         "children": [
           {
-            "id": "2153b73cfa42f964",
+            "id": "0ad2a54875a8f26b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Patho/Vascular/DVT.md",
+                "file": "Esophagial disorder and GERD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "DVT"
+              "title": "Esophagial disorder and GERD"
             }
           }
         ]
@@ -173,13 +173,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2153b73cfa42f964",
+  "active": "0ad2a54875a8f26b",
   "lastOpenFiles": [
+    "Esophagial disorder and GERD.pdf",
+    "Esophagial disorder and GERD.md",
+    "Patho/Vascular/DVT.md",
+    "Patho/Git/GIT.md",
+    "Patho/Git",
     "Patho/Vascular/Vascular.md",
     "Patho/Patho.md",
     "Patho/Vascular/DVT.pdf",
-    "Patho/Vascular/DVT.md",
-    "Untitled",
     "Patho/Vascular",
     "Patho",
     "Pharma/Blood/Warfarin.md",
@@ -195,7 +198,6 @@
     "Obstetrics/Pathological/PIH.pdf",
     "Obstetrics/Pathological/GDM.md",
     "OBS/Pathological/GDM 1.md",
-    "Obstetrics/Pathological/GDM.pdf",
     "Obstetrics/Labor/N and abnormal labor.md",
     "Obstetrics/Examination/Antenatal testing.md",
     "Obstetrics/Examination/Prenatal screening.md",
@@ -208,8 +210,6 @@
     "Medicine/Cardiology/pericarditis,cardiac tamponad,constrictive pericarditis.md",
     "Medicine/Cardiology/Htn Mx.md",
     "Medicine/Cardiology/Htn emergency.md",
-    "Medicine/Cardiology/Wide complex tachycardia ECG.md",
-    "Medicine/Cardiology/Narrow tachycardia -1.md",
     "Medicine/Cardiology/Hypertrophic cardiomyopathy.jpg",
     "Medicine/Cardiology/Ecg.png",
     "IMG_2420.png",
