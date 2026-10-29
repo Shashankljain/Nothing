@@ -4,95 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "8d49ec9b34bcd99f",
+        "id": "1438cdd184a60c3f",
         "type": "tabs",
         "children": [
           {
-            "id": "7aae7f6246c18561",
+            "id": "3fb3dbbf0415a712",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stomach/C43- Stomach.md",
+                "file": "Hemorrhage/Secondary Hemorrhage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C43- Stomach"
+              "title": "Secondary Hemorrhage"
             }
           },
           {
-            "id": "f9784354465547ca",
+            "id": "71d3cb48d2ec8452",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PUD -10.md",
+                "file": "Hemorrhage/Indications for Blood Transfusion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PUD -10"
-            }
-          },
-          {
-            "id": "535aa6e0ca2fb2ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PUD -5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PUD -5"
-            }
-          },
-          {
-            "id": "f079e0a1a7b462dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stomach/Virchow's Lymph Node.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Virchow's Lymph Node"
-            }
-          },
-          {
-            "id": "fb7c23067d302606",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stomach/Vagotomy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vagotomy"
-            }
-          },
-          {
-            "id": "e19ae093c7811938",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stomach/Complications of Peptic (Gastric) Ulcer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Complications of Peptic (Gastric) Ulcer"
+              "title": "Indications for Blood Transfusion"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Sister Mary Joseph's Nodule.md",
+            "file": "Hemorrhage/Indications for Blood Transfusion.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -242,34 +186,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "e19ae093c7811938",
+  "active": "71d3cb48d2ec8452",
   "lastOpenFiles": [
-    "Breast/Phyllodes Tumor.md",
-    "2026-10-24.md",
+    "Untitled.md",
+    "Hemorrhage/Indications for Blood Transfusion.md",
+    "Hemorrhage/Secondary Hemorrhage.md",
+    "Hemorrhage/FFP.md",
+    "Hemorrhage/Reactionary Hemorrhage.md",
+    "Hemorrhage/Massive Blood Transfusion.md",
+    "Hemorrhage/Hemorrhagic Shock.md",
+    "Hemorrhage/Complications of Blood Transfusion.md",
+    "Rectum and anal canal/Solitary Rectal Ulcer Syndrome.md",
+    "Hemorrhage/C6 - Hemorrhage and blood transfusion.md",
+    "Rectum and anal canal/Colonoscopy — Indications.md",
+    "Hemorrhage",
+    "Rectum and anal canal/Goodsall's Rule.md",
+    "Rectum and anal canal/Anorectal Abscess.md",
+    "Rectum and anal canal/Imperforate Anus.md",
+    "Rectum and anal canal/Carcinoma of the Upper 1-3rd of rectum.md",
+    "Rectum and anal canal/C-48 Rectum and anal canal.md",
+    "Rectum and anal canal/Rectal Prolapse 1.md",
+    "Rectum and anal canal/Rectal prolapse.md",
+    "Rectum and anal canal/Hemorrhoids (3rd Degree).md",
+    "Rectum and anal canal/Pilonidal Sinus.md",
+    "Rectum and anal canal/Ischiorectal Abscess.md",
+    "Rectum and anal canal/Fistula in Ano (Classification & Management).md",
+    "Chapters.md",
     "Stomach/Complications of Peptic (Gastric) Ulcer.md",
     "Stomach/Vagotomy.md",
     "Stomach/Virchow's Lymph Node.md",
-    "Stomach/Double Contrast Study.md",
-    "Stomach/Linitis Plastica.md",
-    "Stomach/Chronic Duodenal Ulcer.md",
-    "Stomach/Congenital (Infantile) Hypertrophic Pyloric Stenosis.md",
-    "Stomach/Carcinoma of the Stomach.md",
-    "Stomach/Sister Mary Joseph's Nodule.md",
-    "Stomach/Gastroscopy.md",
-    "Stomach/Complications of Peptic Ulcer Surgery.md",
-    "Stomach/Bleeding Peptic Ulcer.md",
-    "Stomach/Hourglass Stomach.md",
-    "Stomach/Krukenberg Tumor.md",
-    "Stomach/Early Gastric Cancer.md",
-    "Stomach/Spread of Carcinoma Stomach.md",
-    "Stomach/Free Gas Under Diaphragm.md",
-    "Stomach/Ramstedt's Operation.md",
-    "Stomach/PUD -10.md",
-    "Stomach/Highly Selective Vagotomy (HSV).md",
-    "Stomach/Trichobezoar of the Stomach.md",
-    "Stomach/H.pylori.md",
-    "Stomach/Upper Gastrointestinal Bleed (Hematemesis) - Mx.md",
-    "Stomach/PUD -5.md",
+    "Rectum and anal canal",
     "Stomach",
     "Breast",
     "Electrolyte and Nutrition",

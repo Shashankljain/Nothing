@@ -22,31 +22,27 @@
             }
           },
           {
-            "id": "98b158fe039d5ced",
+            "id": "981b6a97505d264a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dx in 1st  T.md",
+                "file": "DISEASES OF THE FETUS AND THE NEWBORN/Erbs palsy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dx in 1st  T"
+              "title": "Erbs palsy"
             }
           },
           {
-            "id": "ce51ebcf9ca533e2",
+            "id": "8a17d45a1af14db7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapters - OBS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapters - OBS"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -146,7 +142,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dx in 1st  T.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -200,10 +195,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "ce51ebcf9ca533e2",
+  "active": "3e4948034c049545",
   "lastOpenFiles": [
-    "Teratoma.md",
+    "DISEASES OF THE FETUS AND THE NEWBORN/Non-Immune Hydrops Fetalis (NIHF).md",
+    "DISEASES OF THE FETUS AND THE NEWBORN/Erbs palsy.md",
     "Chapters - OBS.md",
+    "DISEASES OF THE FETUS AND THE NEWBORN/MAS.md",
+    "DISEASES OF THE FETUS AND THE NEWBORN/Physiological Jaundice.md",
+    "DISEASES OF THE FETUS AND THE NEWBORN/Neonatal Resuscitation Protocol.md",
+    "DISEASES OF THE FETUS AND THE NEWBORN/Cephalhematoma.md",
+    "DISEASES OF THE FETUS AND THE NEWBORN/Birth Asphyxia Neonatorum.md",
+    "DISEASES OF THE FETUS AND THE NEWBORN/Neonatal Jaundice.md",
+    "DISEASES OF THE FETUS AND THE NEWBORN/C33-DISEASES OF THE FETUS AND THE NEWBORN.md",
+    "Term pregnancy/C31- Term newborn.md",
+    "DISEASES OF THE FETUS AND THE NEWBORN/TORCH.md",
+    "DISEASES OF THE FETUS AND THE NEWBORN",
+    "Term pregnancy",
+    "Term pregnancy/Advantages of Breastfeeding over Top Feeding.md",
+    "Term pregnancy/BFHI.md",
+    "Term pregnancy/Counseling Regarding Breastfeeding.md",
+    "Normal labour/Mech of labour+ LOA.md",
+    "Teratoma.md",
     "Diagnosis of pregnancy/C7-Diagnosis of Pregnancy.md",
     "Diagnosis of pregnancy",
     "Diagnosis of pregnancy/Dx in 1st  T.md",
@@ -212,24 +224,10 @@
     "Vomiting in preg/C15- Vomiting in preg.md",
     "Vomiting in preg/Hyperemesis MX.md",
     "Vomiting in preg",
-    "Normal labour/Mech of labour+ LOA.md",
     "Normal labour/C13- Normal labour.md",
     "Normal labour/C13- Normal Labour.md",
     "Normal labour/Asynclitism.md",
-    "AMTSL.md",
     "N Labour",
-    "Mx of 2nd stage.md",
-    "LUS + significance.md",
-    "Mech + reason.md",
-    "NL + LOA.md",
-    "NL +mech. + 3rd stage.md",
-    "Fundamental of reproduction/Physiology of ovulation.md",
-    "Antepartum hemorrhage/APH + previa.md",
-    "Antepartum hemorrhage/PP.md",
-    "Antepartum hemorrhage/Abruptio Placentae.md",
-    "Antepartum hemorrhage/APH + mx.md",
-    "Antepartum hemorrhage/Placenta Accreta -mx.md",
-    "Antepartum hemorrhage/DD- Lower Abdominal Pain in Third T.md",
     "Antepartum hemorrhage",
     "Fundamental of reproduction",
     "Normal labour",
