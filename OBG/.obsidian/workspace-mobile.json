@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C31- Term newborn.md",
+                "file": "Term pregnancy/C31- Term newborn.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +35,7 @@
               "title": "C31- Term newborn"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "C31- Term newborn.md",
+            "file": "Chapters - OBS.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -186,13 +185,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "98b158fe039d5ced",
+  "active": "2f221d24149d9aa6",
   "lastOpenFiles": [
+    "Term pregnancy/C31- Term newborn.md",
+    "Term pregnancy",
     "Untitled.md",
-    "C31- Term newborn.md",
-    "Advantages of Breastfeeding over Top Feeding.md",
-    "BFHI.md",
-    "Counseling Regarding Breastfeeding.md",
+    "Term pregnancy/Advantages of Breastfeeding over Top Feeding.md",
+    "Term pregnancy/BFHI.md",
+    "Term pregnancy/Counseling Regarding Breastfeeding.md",
     "Normal labour/Mech of labour+ LOA.md",
     "Chapters - OBS.md",
     "Teratoma.md",
@@ -216,7 +216,6 @@
     "NL +mech. + 3rd stage.md",
     "Fundamental of reproduction/Physiology of ovulation.md",
     "Antepartum hemorrhage/APH + previa.md",
-    "Antepartum hemorrhage/PP.md",
     "Antepartum hemorrhage",
     "Fundamental of reproduction",
     "Normal labour",
