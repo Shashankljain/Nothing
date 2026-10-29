@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microbio/Untitled.md",
+                "file": "Patho/Git/PUD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "PUD"
             }
           }
         ],
@@ -149,7 +149,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Medicine/Cardiology/pericarditis,cardiac tamponad,constrictive pericarditis.md",
+            "file": "Patho/Git/PUD.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -204,12 +204,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4d04a1e5996f1f8e",
+  "active": "65b0e0c46995aa8b",
   "lastOpenFiles": [
-    "Microbio/Microbio.md",
-    "Microbio/Untitled.md",
-    "Microbio",
+    "Microbio/H.pylori.md",
     "Patho/Git/PUD.md",
+    "Microbio/H.pylori.pdf",
+    "Microbio/Microbio.md",
+    "Microbio",
     "Patho/Git/PUD.pdf",
     "Patho/Git/Esophagial disorder and GERD.md",
     "Patho/Git/Esophagial disorder and GERD.pdf",
@@ -227,7 +228,6 @@
     "Pharma/Blood/heparin.pdf",
     "Pharma/Blood/Blood.md",
     "Pharma/Pharma.md",
-    "Pharma/Blood",
     "Medicine/Cardiology/R-L shunt.md",
     "Obstetrics/Pathological/PIH.md",
     "Obstetrics/Pathological/GDM.md",
@@ -241,7 +241,6 @@
     "Medicine/Cardiology/Narrow tachycardia-2.md",
     "Medicine/Cardiology/ADHF Mx.md",
     "Medicine/Cardiology/Chronic HF.md",
-    "Medicine/Cardiology/pericarditis,cardiac tamponad,constrictive pericarditis.md",
     "Medicine/Cardiology/Hypertrophic cardiomyopathy.jpg",
     "Medicine/Cardiology/Ecg.png",
     "IMG_2420.png",
