@@ -50,17 +50,17 @@
             }
           },
           {
-            "id": "6794d416c3481ec8",
+            "id": "403fb867e60e1874",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neonatal Jaundice.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neonatal Jaundice"
+              "title": "Untitled"
             }
           }
         ],
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Neonatal Jaundice.md",
+            "file": "Untitled.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -214,10 +214,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "6794d416c3481ec8",
+  "active": "403fb867e60e1874",
   "lastOpenFiles": [
-    "Neonatal Jaundice.md",
+    "Untitled.md",
     "Physiological Jaundice.md",
+    "Neonatal Jaundice.md",
     "MAS.md",
     "Chapters - OBS.md",
     "DISEASES OF THE FETUS AND THE NEWBORN/C33-DISEASES OF THE FETUS AND THE NEWBORN.md",
@@ -246,7 +247,6 @@
     "Mx of 2nd stage.md",
     "LUS + significance.md",
     "Mech + reason.md",
-    "NL + LOA.md",
     "Antepartum hemorrhage",
     "Fundamental of reproduction",
     "Normal labour",
