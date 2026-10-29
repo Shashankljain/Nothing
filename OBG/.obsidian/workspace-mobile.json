@@ -49,8 +49,7 @@
               "title": "Mech of labour+ LOA"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +145,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Normal labour/Mech of labour+ LOA.md",
+            "file": "Chapters - OBS.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -200,8 +199,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "ce51ebcf9ca533e2",
+  "active": "2f221d24149d9aa6",
   "lastOpenFiles": [
+    "Normal labour/Mech of labour+ LOA.md",
     "Chapters - OBS.md",
     "Teratoma.md",
     "Diagnosis of pregnancy/C7-Diagnosis of Pregnancy.md",
@@ -212,7 +212,6 @@
     "Vomiting in preg/C15- Vomiting in preg.md",
     "Vomiting in preg/Hyperemesis MX.md",
     "Vomiting in preg",
-    "Normal labour/Mech of labour+ LOA.md",
     "Normal labour/C13- Normal labour.md",
     "Normal labour/C13- Normal Labour.md",
     "Normal labour/Asynclitism.md",
