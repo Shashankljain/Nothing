@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Workout/Subject progress dashboard.md",
+                "file": "Surgery/Chapters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subject progress dashboard"
+              "title": "Chapters"
             }
           },
           {
@@ -48,8 +48,23 @@
               "icon": "lucide-file",
               "title": "Hypertrophic cardiomyopathy"
             }
+          },
+          {
+            "id": "a77b43a8e142b766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Workout/Daily activities/23-Oct-26.md",
+            "file": "Surgery/Chapters.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -200,10 +215,14 @@
       "study-flow-planner:Study Flow Planner": false
     }
   },
-  "active": "649cdee7b5d72e0b",
+  "active": "a77b43a8e142b766",
   "lastOpenFiles": [
-    "Daily Workout/MBBS/Revision dashboard.md",
+    "Untitled.md",
+    "Surgery/Chapters.md",
+    "Daily Workout/MBBS/Daily notes/27-Oct-26.md",
+    "Daily Workout/MBBS/Daily notes/28-Oct-26.md",
     "Daily Workout/Subject progress dashboard.md",
+    "Daily Workout/MBBS/Revision dashboard.md",
     "Daily Workout/MBBS/Daily notes/26-Oct-26.md",
     "Daily Workout/Requirements.md",
     "Daily Workout/MBBS/Topics/GDM.md",
@@ -231,10 +250,6 @@
     "Surgery/Stomach",
     "Surgery/Spread of Carcinoma Stomach.md",
     "Surgery/Sister Mary Joseph's Nodule.md",
-    "Surgery/Ramstedt's Operation.md",
-    "Surgery/PUD -5.md",
-    "Surgery/PUD -10.md",
-    "Surgery/Perforated Peptic Ulcer.md",
     "OBG/Vomiting in preg",
     "Sketchy/Medicine/Cardiology/Ecg interpretation.jpeg",
     "Sketchy/Medicine/Cardiology/IMG_20261008_192252248.jpg",
