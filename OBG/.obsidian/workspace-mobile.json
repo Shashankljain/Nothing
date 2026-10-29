@@ -25,14 +25,10 @@
             "id": "98b158fe039d5ced",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dx in 1st  T.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Dx in 1st  T"
+              "title": "New tab"
             }
           },
           {
@@ -201,8 +197,8 @@
   },
   "active": "2f221d24149d9aa6",
   "lastOpenFiles": [
-    "Normal labour/Mech of labour+ LOA.md",
     "Chapters - OBS.md",
+    "Normal labour/Mech of labour+ LOA.md",
     "Teratoma.md",
     "Diagnosis of pregnancy/C7-Diagnosis of Pregnancy.md",
     "Diagnosis of pregnancy",
