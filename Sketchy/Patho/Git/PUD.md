@@ -1,2 +1,2 @@
-[[GIT]]
+[[Patho/Git/GIT]]
 ![[PUD.pdf]]

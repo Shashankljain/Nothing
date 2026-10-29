@@ -78,9 +78,39 @@
               "icon": "lucide-file-text",
               "title": "H2 antagonist ,PPI"
             }
+          },
+          {
+            "id": "fcf570a0ae6a60a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medicine/GIT/Upper abdominal pain DDx.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Upper abdominal pain DDx"
+            }
+          },
+          {
+            "id": "1df241d25b3c5d24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medicine/GIT/Upper abdominal pain DDx.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Upper abdominal pain DDx"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -176,7 +206,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Pharma/Gi and endo/H2 antagonist ,PPI.pdf",
+            "file": "Medicine/GIT/Upper abdominal pain DDx.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -231,10 +261,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4d04a1e5996f1f8e",
+  "active": "1df241d25b3c5d24",
   "lastOpenFiles": [
-    "Pharma/Gi and endo/H2 antagonist, PPI.md",
+    "Medicine/GIT/GIT.md",
+    "Medicine/GIT/Upper abdominal pain DDx.md",
+    "Medicine/GIT",
+    "Pharma/Gi and endo/H2 antagonist ,PPI 1.pdf",
+    "Medicine/GIT/Upper Abdominal pain DDx.pdf",
     "Pharma/Gi and endo/H2 antagonist ,PPI.pdf",
+    "Pharma/Gi and endo/H2 antagonist, PPI.md",
     "Pharma/Gi and endo/Gi and endo.md",
     "Patho/Git/PUD.md",
     "Pharma/Gi and endo",
@@ -250,9 +285,6 @@
     "Patho/Git",
     "Patho/Vascular/Vascular.md",
     "Patho/Patho.md",
-    "Patho/Vascular/DVT.pdf",
-    "Patho/Vascular",
-    "Patho",
     "Pharma/Blood/Warfarin.md",
     "Pharma/Blood/Heparin.md",
     "Pharma/Blood/Blood.md",
@@ -266,8 +298,6 @@
     "Obstetrics/Examination/Prenatal screening.md",
     "Obstetrics/Examination/Fetal heart tracing.md",
     "Obstetrics/Examination/Examination.md",
-    "Obstetrics/Examination/Routine prenatal.md",
-    "Medicine/Cardiology/Narrow tachycardia-2.md",
     "Medicine/Cardiology/Hypertrophic cardiomyopathy.jpg",
     "Medicine/Cardiology/Ecg.png",
     "IMG_2420.png",
