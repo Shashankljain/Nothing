@@ -98,12 +98,15 @@
             "id": "1df241d25b3c5d24",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Medicine/Cardiology/Hypertrophic cardiomyopathy.jpg"
+                "file": "Medicine/GIT/Upper abdominal pain DDx.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Hypertrophic cardiomyopathy"
+              "icon": "lucide-file",
+              "title": "Upper abdominal pain DDx"
             }
           }
         ],
@@ -260,6 +263,8 @@
   },
   "active": "1df241d25b3c5d24",
   "lastOpenFiles": [
+    "Medicine/Cardiology/Hypertrophic cardiomyopathy.md",
+    "Medicine/Cardiology/Hypertrophic cardiomyopathy.jpg",
     "Medicine/GIT/Upper abdominal pain DDx.md",
     "Medicine/GIT/GIT.md",
     "Medicine/GIT",
@@ -295,7 +300,6 @@
     "Obstetrics/Examination/Prenatal screening.md",
     "Obstetrics/Examination/Fetal heart tracing.md",
     "Obstetrics/Examination/Examination.md",
-    "Medicine/Cardiology/Hypertrophic cardiomyopathy.jpg",
     "Medicine/Cardiology/Ecg.png",
     "IMG_2420.png",
     "Medicine/Cardiology/IMG_2420.jpeg",
