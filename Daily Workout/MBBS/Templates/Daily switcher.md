@@ -13,7 +13,7 @@ date: 2026-10-26
 
 **Posting / subject:**
 **Topic:**
-**Video resource:**
+**Videos:**
 **Textbook / chapter:**
 **Planned study time:**
 
