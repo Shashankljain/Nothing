@@ -98,15 +98,12 @@
             "id": "1df241d25b3c5d24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Medicine/GIT/Upper abdominal pain DDx.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Medicine/Cardiology/Hypertrophic cardiomyopathy.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Upper abdominal pain DDx"
+              "icon": "lucide-image",
+              "title": "Hypertrophic cardiomyopathy"
             }
           }
         ],
@@ -263,8 +260,8 @@
   },
   "active": "1df241d25b3c5d24",
   "lastOpenFiles": [
-    "Medicine/GIT/GIT.md",
     "Medicine/GIT/Upper abdominal pain DDx.md",
+    "Medicine/GIT/GIT.md",
     "Medicine/GIT",
     "Pharma/Gi and endo/H2 antagonist ,PPI 1.pdf",
     "Medicine/GIT/Upper Abdominal pain DDx.pdf",
