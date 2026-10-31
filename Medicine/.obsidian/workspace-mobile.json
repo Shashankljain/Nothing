@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Auscultation in Cardiac Diseases.md",
+                "file": "Cardiology/Dynamic Auscultation in Cardiac Diseases.md",
                 "mode": "source",
                 "source": false
               },
@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dynamic Auscultation in Cardiac Diseases.md",
+            "file": "Cardiology/Dynamic Auscultation in Cardiac Diseases.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -202,9 +202,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "08fe5925be9767c1",
+  "active": "3dac681564b14ac0",
   "lastOpenFiles": [
-    "Dynamic Auscultation in Cardiac Diseases.md",
+    "Cardiology/Dynamic Auscultation in Cardiac Diseases.md",
     "Water Hammer Pulse (Corrigan's Pulse).md",
     "Cardiology/Unstable Angina.md",
     "Cardiology/VSD.md",

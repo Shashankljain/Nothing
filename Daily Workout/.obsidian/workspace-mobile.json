@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MBBS/Templates/Daily switcher.md",
+                "file": "MBBS/Daily notes/31-Oct-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily switcher"
+              "title": "31-Oct-26"
             }
           },
           {
@@ -256,9 +256,9 @@
   },
   "active": "3e9fd0a8eed09816",
   "lastOpenFiles": [
+    "MBBS/Templates/Daily switcher.md",
     "MBBS/Templates/Topic template.md",
     "MBBS/Topics.md",
-    "MBBS/Templates/Daily switcher.md",
     "MBBS/Daily notes/27-Oct-26.md",
     "MBBS/Daily notes/26-Oct-26.md",
     "Requirements.md",
