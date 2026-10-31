@@ -35,8 +35,7 @@
               "title": "VSD"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "VSD.md",
+            "file": "Unstable Angina.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "3ce4126d3042cfa1",
+  "active": "090e051192b106dc",
   "lastOpenFiles": [
     "VSD.md",
     "Unstable Angina.md",
