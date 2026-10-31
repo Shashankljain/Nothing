@@ -50,17 +50,17 @@
             }
           },
           {
-            "id": "63597001d5caf800",
+            "id": "fd6482794aa889ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MS.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MS"
+              "title": "Untitled"
             }
           }
         ],
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MS.md",
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -216,8 +216,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "63597001d5caf800",
+  "active": "fd6482794aa889ef",
   "lastOpenFiles": [
+    "Untitled.md",
     "MS.md",
     "Marfan's Syndrome.md",
     "Secondary Hypertension.md",
@@ -243,7 +244,6 @@
     "Cardiology/A.fib.md",
     "Cardiology/CCF.md",
     "Cardiology/CHF with HTN.md",
-    "Chapters.md",
     "Cardiology"
   ]
 }
