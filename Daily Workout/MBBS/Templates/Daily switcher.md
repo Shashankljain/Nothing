@@ -35,16 +35,19 @@ date: ${date}
 
 **Subject studied:**
 
-- [ ] Review videos completed
-- [ ] Review corresponding textbook sections
-- [ ] Check conceptual understanding
-- [ ] Review unfinished topics
-
 **Topics completed:**
 - 
 
 **Topics pending:**
 - 
+
+
+- [ ] Review videos completed
+- [ ] Review corresponding textbook sections
+- [ ] Check conceptual understanding
+- [ ] Review unfinished topics
+
+
 
 ## 3. Concept Mastery
 
