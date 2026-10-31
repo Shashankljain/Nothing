@@ -17,17 +17,19 @@ date: ${date}
 
 **Posting / subject:**
 
+**Topics completed:**
+- 
+
+**Topics pending:**
+- 
+
 - [ ] Review videos completed
 - [ ] Review corresponding textbook sections
 - [ ] Check understanding of mechanisms
 - [ ] Review clinical cases and practical learning
 - [ ] Identify unfinished topics
 
-**Topics completed:**
-- 
 
-**Topics pending:**
-- 
 
 ## 2. Parallel Subject
 
