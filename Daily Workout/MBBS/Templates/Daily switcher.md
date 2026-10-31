@@ -39,6 +39,11 @@ date: ${date}
 
 **Subject studied:**
 
+
+**Plan today's day**
+- [ ] 
+
+
 **Topics completed:**
 - 
 
