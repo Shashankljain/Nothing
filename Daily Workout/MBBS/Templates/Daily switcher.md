@@ -17,6 +17,10 @@ date: ${date}
 
 **Posting / subject:**
 
+**Plan today's day**
+- [ ] 
+
+
 **Topics completed:**
 - 
 
