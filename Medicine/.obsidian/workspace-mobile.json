@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cardiology/IE.md",
+                "file": "Acute MI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IE"
+              "title": "Acute MI"
             }
           }
         ],
@@ -246,6 +246,7 @@
   },
   "active": "42ea1c9f98ad4ead",
   "lastOpenFiles": [
+    "Cardiology/IE.md",
     "Acute MI.md",
     "Cardiology/CSA -5.md",
     "Cardiology/CSA.md",
@@ -259,7 +260,6 @@
     "Cardiology/Acute Pulmonary Edema.md",
     "Cardiology/D.Dx for Peripheral Edema.md",
     "Cardiology/Chronic Cor Pulmonale.md",
-    "Cardiology/IE.md",
     "Cardiology/A.fib.md",
     "Cardiology/RHF.md",
     "Cardiology/CCF.md",
