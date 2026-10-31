@@ -95,9 +95,9 @@ date: ${date}
 
 **Posting / subject:**
 **Topic:**
-**Video resource:**
-**Textbook / chapter:**
-**Planned study time:**
+**Plan today's day**
+- [ ] 
+
 
 ## 1. Video learning
 - [ ] Watch planned lecture
@@ -130,9 +130,8 @@ date: ${date}
 
 **Subject:** 
 **Topic:**
-**Video resource:**
-**Textbook / chapter:**
-**Planned study time:**
+**Plan today day**
+- [ ] 
 
 ## 1. Video learning
 - [ ] Watch planned lecture
