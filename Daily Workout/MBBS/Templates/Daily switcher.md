@@ -1,8 +1,8 @@
 
 <%*
-const parsed = moment(tp.file.title, "YYYY-MM-DD", true);
+const parsed = moment(tp.file.title, "DD-MM-YYYY", true);
 const d = parsed.isValid() ? parsed : moment();
-const date = d.format("YYYY-MM-DD");
+const date = d.format("DD-MM-YYYY");
 const day = d.day();
 
 if (day === 0 || day === 6) {
