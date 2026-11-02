@@ -16,7 +16,9 @@ date: ${date}
 ## 1. Current Posting
 
 **Posting / subject:**
+
 **Today's posting**
+- [ ] 
 
 
 **Plan today's day**
