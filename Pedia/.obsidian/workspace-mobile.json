@@ -63,8 +63,7 @@
               "title": "Opv advantages"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,7 +215,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "622829c73fcd74ee",
+  "active": "6023846dad285eaa",
   "lastOpenFiles": [
     "Opv advantages.md",
     "Immunisation/Indradhanush.md",
