@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MBBS/Topics/cardio.md",
+                "file": "Daily Workout/MBBS/Daily notes/02-Nov-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cardio"
+              "title": "02-Nov-26"
             }
           }
         ],
@@ -157,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MBBS/Topics/cardio.md",
+            "file": "Daily Workout/MBBS/Daily notes/02-Nov-26.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -217,8 +217,9 @@
   },
   "active": "a77b43a8e142b766",
   "lastOpenFiles": [
-    "Daily Workout/MBBS/Daily notes/02-Nov-26.md",
     "MBBS/Topics/cardio.md",
+    "Daily Workout/MBBS/Topics/Topics.md",
+    "Daily Workout/MBBS/Daily notes/02-Nov-26.md",
     "MBBS/Topics",
     "MBBS/Topics 1.md",
     "Daily Workout/MBBS/Daily notes/31-Oct-26.md",
@@ -226,7 +227,6 @@
     "MBBS",
     "Daily Workout/MBBS/Templates/Daily switcher.md",
     "Daily Workout/MBBS/Revision dashboard.md",
-    "Daily Workout/MBBS/Topics/Topics.md",
     "Untitled.md",
     "Untitled",
     "Daily Workout/MBBS/Daily notes/01-Nov-26.md",
