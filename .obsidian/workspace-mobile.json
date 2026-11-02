@@ -43,7 +43,7 @@
               "state": {
                 "file": "Daily Workout/MBBS/Revision dashboard.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Revision dashboard"
