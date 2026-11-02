@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Workout/MBBS/Topics/Labour.md",
+                "file": "Daily Workout/MBBS/Revision dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Labour"
+              "title": "Revision dashboard"
             }
           }
         ],
@@ -143,7 +143,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Workout/MBBS/Topics/Labour.md",
+            "file": "Daily Workout/MBBS/Revision dashboard.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,9 +203,8 @@
   },
   "active": "71676e2f8f956168",
   "lastOpenFiles": [
+    "Daily Workout/MBBS/Topics/Labour.md",
     "Daily Workout/MBBS/Templates/Topic template.md",
-    "Daily Workout/MBBS/Topics/Labour.md",
-    "Daily Workout/MBBS/Topics/Labour.md",
     "Daily Workout/MBBS/Templates/Daily switcher.md",
     "Daily Workout/MBBS/Daily notes/26-Oct-26.md",
     "Daily Workout/MBBS/Revision dashboard.md",
