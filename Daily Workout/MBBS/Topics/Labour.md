@@ -4,8 +4,8 @@ subject:
 posting:
 date_studied: 2026-10-31
 d1_due: 2026-11-01
-d3_due: 2026-11-04
-d7_due: 2026-11-02
+d3_due: 2026-11-03
+d7_due: 2026-11-05
 d1_done: false
 d3_done: false
 d7_done: false
