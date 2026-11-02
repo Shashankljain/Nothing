@@ -63,8 +63,8 @@ d7_done: false
 ## 6. Investigations
 
 | Investigation | Expected finding | Rationale |
-|---|---|---|
-| | | |
+| ------------- | ---------------- | --------- |
+|               |                  |           |
 
 ## 7. Diagnosis
 
