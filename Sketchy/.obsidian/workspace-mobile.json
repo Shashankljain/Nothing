@@ -100,13 +100,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medicine/GIT/Upper abdominal pain DDx.md",
+                "file": "Medicine/Cardiology/Narrow tachycardia Mx.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Upper abdominal pain DDx"
+              "title": "Narrow tachycardia Mx"
             }
           }
         ],
@@ -206,7 +206,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Medicine/GIT/Upper abdominal pain DDx.md",
+            "file": "Medicine/Cardiology/Narrow tachycardia Mx.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -263,9 +263,20 @@
   },
   "active": "1df241d25b3c5d24",
   "lastOpenFiles": [
+    "Medicine/Cardiology/TR.md",
+    "Medicine/Cardiology/Narrow tachycardia -1.md",
+    "Medicine/Cardiology/Narrow tachycardia-2.md",
+    "Medicine/Cardiology/IMG_20261008_192252248.jpg",
+    "Medicine/Cardiology/ACS.pdf",
+    "Medicine/Cardiology/ADHF Mx.pdf",
+    "Medicine/Cardiology/Htn emergency.md",
+    "Medicine/Cardiology/HF Mx.pdf",
+    "Medicine/Cardiology/Ecg interpretation.md",
+    "Medicine/Cardiology/Ecg interpretation.jpeg",
+    "Medicine/Cardiology/HF Mx.md",
+    "Medicine/GIT/Upper abdominal pain DDx.md",
     "Medicine/Cardiology/Hypertrophic cardiomyopathy.md",
     "Medicine/Cardiology/Hypertrophic cardiomyopathy.jpg",
-    "Medicine/GIT/Upper abdominal pain DDx.md",
     "Medicine/GIT/GIT.md",
     "Medicine/GIT",
     "Pharma/Gi and endo/H2 antagonist ,PPI 1.pdf",
@@ -279,12 +290,9 @@
     "Microbio/H.pylori.pdf",
     "Microbio/Microbio.md",
     "Microbio",
-    "Patho/Git/PUD.pdf",
     "Patho/Git/Esophagial disorder and GERD.md",
-    "Patho/Git/Esophagial disorder and GERD.pdf",
     "Patho/Vascular/DVT.md",
     "Patho/Git/GIT.md",
-    "Patho/Git",
     "Patho/Vascular/Vascular.md",
     "Patho/Patho.md",
     "Pharma/Blood/Warfarin.md",
@@ -294,12 +302,6 @@
     "Medicine/Cardiology/R-L shunt.md",
     "Obstetrics/Pathological/PIH.md",
     "Obstetrics/Pathological/GDM.md",
-    "OBS/Pathological/GDM 1.md",
-    "Obstetrics/Labor/N and abnormal labor.md",
-    "Obstetrics/Examination/Antenatal testing.md",
-    "Obstetrics/Examination/Prenatal screening.md",
-    "Obstetrics/Examination/Fetal heart tracing.md",
-    "Obstetrics/Examination/Examination.md",
     "Medicine/Cardiology/Ecg.png",
     "IMG_2420.png",
     "Medicine/Cardiology/IMG_2420.jpeg",
