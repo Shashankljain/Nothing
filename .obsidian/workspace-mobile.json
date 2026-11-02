@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Workout/MBBS/Daily notes/01-Nov-26.md",
-                "mode": "preview",
+                "file": "Daily Workout/MBBS/Daily notes/26-Oct-26.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "01-Nov-26"
+              "title": "26-Oct-26"
             }
           }
         ],
@@ -143,7 +143,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Workout/MBBS/Daily notes/01-Nov-26.md",
+            "file": "Daily Workout/MBBS/Daily notes/26-Oct-26.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,6 +203,7 @@
   },
   "active": "71676e2f8f956168",
   "lastOpenFiles": [
+    "Daily Workout/MBBS/Daily notes/01-Nov-26.md",
     "Daily Workout/MBBS/Revision dashboard.md",
     "Daily Workout/MBBS/Topics/Labour.md",
     "Daily Workout/MBBS/Templates/Topic template.md",
@@ -220,7 +221,6 @@
     "MBBS/Topics.md",
     "MBBS",
     "Untitled",
-    "Daily Workout/MBBS/Daily notes/01-Nov-26.md",
     "Daily Workout/MBBS/Daily notes/27-Oct-26.md",
     "Surgery/Rectum and anal canal/Solitary Rectal Ulcer Syndrome.md",
     "Surgery/Rectum and anal canal/Rectal prolapse.md",
