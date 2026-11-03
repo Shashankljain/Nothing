@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Barlow's Test.md",
+                "file": "Chapters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Barlow's Test"
+              "title": "Chapters"
+            }
+          },
+          {
+            "id": "67137d3809222f25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Barlow's Test.md",
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -200,11 +214,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "aab2199cb52fa48c",
+  "active": "67137d3809222f25",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Chapters.md",
     "Barlow's Test.md",
     "Congenital Dislocation of the Hip.md",
-    "Chapters.md",
     "Prolapsed Intervertebral Disc/C-29 Prolapsed Intervertebral Disc.md",
     "POLIOMYELITIS/Triple Deformity of Knee.md",
     "POLIOMYELITIS/27- POLIOMYELITIS.md",
