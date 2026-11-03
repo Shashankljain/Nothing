@@ -144,7 +144,9 @@ date: ${date}
 # B. PARALLEL SUBJECT — MANUAL SELECTION
 
 **Subject:** 
+
 **Topic:**
+
 **Plan today day**
 - [ ] 
 
