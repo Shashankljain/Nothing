@@ -9,13 +9,17 @@
 
 ### Etiology / Causes / Risk Factors
 
-- **Increased Intra-Abdominal Pressure**: Chronic constipation with prolonged straining, pregnancy, pelvic tumors, and chronic coughing or heavy lifting.
-- **Anatomical & Age-Related Degeneration**: Fragmentation and loss of elasticity of the supporting fibroelastic connective tissue framework (Parks' ligament), accelerating with aging.
-- **Venous Factors**: Absence of valves in the portal venous system, causing high hydrostatic back-pressure in the superior rectal venous plexus during straining.
+- **Increased Intra-Abdominal Pressure**: ==Chronic constipation== with prolonged straining, ==pregnancy==, pelvic tumors, and chronic coughing ==(COPD)== or heavy lifting,
+- **Anatomical & Age-Related Degeneration**: Fragmentation and loss of elasticity of the supporting fibroelastic connective tissue framework (Parks' ligament), accelerating with aging,BPH
+- **Venous Factors**: Absence of valves in the portal venous system, causing high hydrostatic back-pressure in the superior rectal venous plexus during straining, ==Portal HTN==
 - **Lifestyle & Dietary Factors**: Low-fiber diet leading to hard, scybalous stools and shearing forces acting on the anoderm during evacuation.
 
 ---
 
+Internal and external hemorrhoid
+
+Internal - above dentate line, Painless
+External- below, painful
 ### Classification (Goligher's Degrees of Internal Hemorrhoids) [⭐ High-Yield]
 
 ```
@@ -29,17 +33,17 @@
                       * Require MANUAL reduction
 ```
 
-- **1st Degree**: Bleed only; no mucosal prolapse beyond the anal verge.
-- **2nd Degree**: Prolapse during defecation or straining but **reduce spontaneously**.
-- **3rd Degree [⭐ High-Yield]**: Prolapse outside the anal canal during straining and **require manual reduction** by the patient.
-- **4th Degree**: Permanently prolapsed, irreducible externalized masses; frequently associated with a significant cutaneous skin component ("mixed" hemorrhoids).
-- **Anatomical Clock Positions**: Classically located at the **3, 7, and 11 o'clock positions** in the lithotomy position (corresponding to the main terminal branches of the superior rectal artery).
+- **1st Degree**: Bleed only; ==no mucosal prolapse== beyond the anal verge.
+- **2nd Degree**: Prolapse during defecation or straining but **==reduce spontaneously==**.
+- **3rd Degree [⭐ High-Yield]**: Prolapse outside the anal canal during straining and **==require manual reduction==** by the patient.
+- **4th Degree**: ==Permanently prolapsed==, irreducible externalized masses; frequently associated with a significant cutaneous skin component ("mixed" hemorrhoids).
+- **Anatomical Clock Positions**: Classically located at the **==3, 7, and 11 o'clock positions==** in the lithotomy position (corresponding to the main terminal branches of the superior rectal artery).
 
 ---
 
 ### Pathophysiology [⭐ High-Yield]
 
-```
+```mermaid 
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
@@ -146,7 +150,7 @@ Non-Operative / Office Interventions               Surgical Operations (Gold Sta
 
 - Popular in North America; identical ligation and excision of the hemorrhoid, but the mucosal and anoderm defects are **sutured closed** with a continuous absorbable suture.
 
-##### C. Stapled Haemorrhoidopexy (Procedure for Prolapse and Haemorrhoids - PPH / Longo's Operation) [⭐ High-Yield]
+##### C. ==Stapled Haemorrhoidopexy== (Procedure for Prolapse and Haemorrhoids - PPH / Longo's Operation) [⭐ High-Yield]
 
 - **Technique**: A specialized circular stapling device is inserted transanally. A purse-string suture placed 3–4 cm above the dentate line pulls a circumferential strip of submucosa and mucosa into the stapler.
 - **Mechanism**: Excises a ring of redundant mucosa/submucosa, interrupting arterial blood supply and stapling the mucosal edges together, thereby **resuspending the prolapsed anal cushions** back into their anatomical position.
@@ -164,11 +168,11 @@ Complications are divided into disease-related complications and postoperative s
                                           |
      +------------------------------------+------------------------------------+
      |                                                                         |
-Complications of the Disease Itself                                Postoperative Complications
-* Strangulation & Acute Thrombosis                                 * Early: Severe Pain, Urinary Retention,
-* Ulceration & Mucosal Necrosis                                             Reactionary Hemorrhage
-* Gangrene & Portal Pyaemia (Septic Emboli)                        * Late: Secondary Hemorrhage, Anal Stricture,
-* Severe Iron-Deficiency Anemia                                             Fissure, Incontinence
+Complications of the Disease Itself                  Postoperative Complications
+* Strangulation & Acute Thrombosis       * Early: Severe Pain, Urinary Retention,
+* Ulceration & Mucosal Necrosis                        Reactionary Hemorrhage
+* Gangrene & Portal Pyaemia (Septic Emboli)  * Late: Secondary Hemorrhage, Anal                                                        Stricture,
+* Severe Iron-Deficiency Anemia                     Fissure, Incontinence
 ```
 
 #### 1. Complications of Untreated / Acute Disease [⭐ High-Yield]

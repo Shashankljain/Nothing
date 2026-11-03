@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hemorrhage/Indications for Blood Transfusion.md",
+                "file": "Rectum and anal canal/Hemorrhoids (3rd Degree).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Indications for Blood Transfusion"
+              "title": "Hemorrhoids (3rd Degree)"
             }
           }
         ],
@@ -132,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Hemorrhage/Indications for Blood Transfusion.md",
+            "file": "Rectum and anal canal/Hemorrhoids (3rd Degree).md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -188,8 +188,8 @@
   },
   "active": "71d3cb48d2ec8452",
   "lastOpenFiles": [
-    "Untitled.md",
     "Hemorrhage/Indications for Blood Transfusion.md",
+    "Untitled.md",
     "Hemorrhage/Secondary Hemorrhage.md",
     "Hemorrhage/FFP.md",
     "Hemorrhage/Reactionary Hemorrhage.md",
