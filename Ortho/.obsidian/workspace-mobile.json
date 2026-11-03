@@ -49,8 +49,7 @@
               "title": "PIVD"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,10 +199,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "81aef977b16ee5f2",
+  "active": "6279a238370b1a8f",
   "lastOpenFiles": [
-    "Prolapsed Intervertebral Disc/C-29 Prolapsed Intervertebral Disc.md",
     "PIVD.md",
+    "Prolapsed Intervertebral Disc/C-29 Prolapsed Intervertebral Disc.md",
     "Prolapsed Intervertebral Disc",
     "Chapters.md",
     "Bone tumors/Classification.md",
