@@ -1,4 +1,4 @@
-
+[[C28-Bone tumors]]
 # Giant Cell Tumor / Osteoclastoma of Distal Radius & Distal Ulna [⭐ High-Yield]
 
 ---

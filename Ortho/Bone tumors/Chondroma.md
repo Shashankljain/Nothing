@@ -1,6 +1,6 @@
 
 **Mark Weightage: 3 Marks**
-
+[[C28-Bone tumors]]
 # Chondroma (Enchondroma) [⭐ High-Yield]
 
 ### Definition [⭐ High-Yield]

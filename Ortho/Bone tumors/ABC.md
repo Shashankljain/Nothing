@@ -1,6 +1,6 @@
 
 **Mark Weightage: 5 Marks (3-page answer sheet calibration)**
-
+[[C28-Bone tumors]]
 # Aneurysmal Bone Cyst (ABC) [⭐ High-Yield]
 
 ---

@@ -1,6 +1,6 @@
 
 # Classification of Bone Tumors [⭐ High-Yield]
-
+[[C28-Bone tumors]]
 ---
 
 ### 1. Definition [⭐ High-Yield]
