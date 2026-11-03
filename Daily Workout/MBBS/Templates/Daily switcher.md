@@ -107,7 +107,9 @@ date: ${date}
 # A. CURRENT POSTING — PRIMARY TRACK
 
 **Posting / subject:**
+
 **Topic:**
+
 **Plan today's day**
 - [ ] 
 

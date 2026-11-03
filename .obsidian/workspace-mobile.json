@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Workout/MBBS/Daily notes/02-Nov-26.md",
+                "file": "Daily Workout/MBBS/Templates/Daily switcher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-Nov-26"
+              "title": "Daily switcher"
             }
           }
         ],
@@ -189,9 +189,11 @@
   },
   "active": "aec5b9cc338d5a6d",
   "lastOpenFiles": [
+    "Daily Workout/MBBS/Templates/Topic template.md",
+    "Daily Workout/MBBS/Daily notes/03-Nov-26.md",
+    "Daily Workout/MBBS/Daily notes/02-Nov-26.md",
     "Daily Workout/MBBS/Revision dashboard.md",
     "Daily Workout/Subject progress dashboard.md",
-    "Daily Workout/MBBS/Daily notes/02-Nov-26.md",
     "Daily Workout/MBBS/Templates/Daily switcher.md",
     "MBBS/Topics/Labour.md",
     "MBBS/Topics/Hernia.md",
@@ -199,7 +201,6 @@
     "Daily Workout/MBBS/Topics/Topics.md",
     "Daily Workout/MBBS/Daily notes/26-Oct-26.md",
     "Daily Workout/MBBS/Topics/Labour.md",
-    "Daily Workout/MBBS/Templates/Topic template.md",
     "Daily Workout/MBBS/Daily notes/05-Nov-26.md",
     "Daily Workout/MBBS/Daily notes/31-Oct-26.md",
     "Sketchy/Medicine/Cardiology/Hypertrophic cardiomyopathy.md",
@@ -217,7 +218,6 @@
     "Surgery/Rectum and anal canal/Ischiorectal Abscess.md",
     "Surgery/Rectum and anal canal/Imperforate Anus.md",
     "Surgery/Rectum and anal canal/Hemorrhoids (3rd Degree).md",
-    "Surgery/Rectum and anal canal/Goodsall's Rule.md",
     "Surgery/Rectum and anal canal",
     "Surgery/Hemorrhage",
     "Sketchy/Pharma/Blood/warfarin.pdf",
