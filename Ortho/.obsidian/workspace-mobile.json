@@ -77,8 +77,7 @@
               "title": "Triple Deformity of Knee"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +173,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "POLIOMYELITIS/Triple Deformity of Knee.md",
+            "file": "Chapters.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -228,10 +227,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "34c9345987282fba",
+  "active": "6279a238370b1a8f",
   "lastOpenFiles": [
-    "POLIOMYELITIS/27- POLIOMYELITIS.md",
     "POLIOMYELITIS/Triple Deformity of Knee.md",
+    "POLIOMYELITIS/27- POLIOMYELITIS.md",
     "POLIOMYELITIS",
     "Chapters.md",
     "Bone tumors/Simple Bone Cyst.md",
