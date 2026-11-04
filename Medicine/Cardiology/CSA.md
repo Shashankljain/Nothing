@@ -3,6 +3,8 @@
 
 # Chronic Stable Angina
 
+Angina equivalent- chest pain ,syncope,dizziness,palpitations,fatigue 
+
 ## 1. Definition [⭐ High-Yield]
 
 **Angina Pectoris** is a clinical pain syndrome resulting from transient myocardial ischaemia, which occurs whenever there is an adverse imbalance between myocardial oxygen supply and myocardial oxygen demand.
