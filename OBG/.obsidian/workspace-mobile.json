@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preg. Induced HTN.md",
+                "file": "HTN in preg/Preg. Induced HTN.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PIH + Imminent eclampsia.md",
+                "file": "HTN in preg/PIH + Imminent eclampsia.md",
                 "mode": "source",
                 "source": false
               },
@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "PIH + Imminent eclampsia.md",
+            "file": "HTN in preg/PIH + Imminent eclampsia.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -200,16 +200,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "78cb0f081fe359b4",
+  "active": "3e4948034c049545",
   "lastOpenFiles": [
-    "PIH + Imminent eclampsia.md",
-    "Preg. Induced HTN.md",
-    "Eclampsia.md",
-    "GHTN, Pre eclampsia.md",
-    "Mild Pre-eclampsia at 36 W.md",
+    "HTN in preg/PIH + Imminent eclampsia.md",
+    "HTN in preg/Preg. Induced HTN.md",
+    "HTN in preg/Eclampsia.md",
+    "HTN in preg/GHTN, Pre eclampsia.md",
+    "HTN in preg/Mild Pre-eclampsia at 36 W.md",
     "Chapters - OBS.md",
-    "Preeclampsia + Mx at 34W.md",
-    "PIH and Mx of intrapartum eclampsia.md",
+    "HTN in preg/Preeclampsia + Mx at 34W.md",
+    "HTN in preg/PIH and Mx of intrapartum eclampsia.md",
     "DISEASES OF THE FETUS AND THE NEWBORN/Erbs palsy.md",
     "HTN in preg/C18-Hypertensive disorder of preg.md",
     "HTN in preg",
