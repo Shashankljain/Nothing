@@ -2,7 +2,7 @@
 type: topic
 subject: Medicine
 posting:
-date_studied: 06-11-2026
+date_studied: 04-11-2026
 d1_due: 07-11-2026
 d3_due: 09-11-2026
 d7_due: 13-11-2026
