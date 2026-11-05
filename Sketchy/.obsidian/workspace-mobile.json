@@ -100,13 +100,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medicine/Cardiology/Bradycardia ECG.md",
+                "file": "Medicine/Cardiology/Narrow tachycardia-2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bradycardia ECG"
+              "title": "Narrow tachycardia-2"
             }
           }
         ],
@@ -206,7 +206,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Medicine/Cardiology/Bradycardia ECG.md",
+            "file": "Medicine/Cardiology/Narrow tachycardia-2.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -263,19 +263,22 @@
   },
   "active": "1df241d25b3c5d24",
   "lastOpenFiles": [
-    "Medicine/Cardiology/Bradycardia DDx.pdf",
+    "Medicine/Cardiology/Narrow complex tachy -1.pdf",
+    "Medicine/Cardiology/Ecg interpretation.jpeg",
+    "Medicine/Cardiology/Narrow tachycardia -1.md",
+    "Medicine/Cardiology/Bradycardia ECG.md",
+    "Medicine/Cardiology/Ecg intro.md",
     "Medicine/Cardiology/Ecg interpretation.md",
+    "Medicine/Cardiology/Bradycardia DDx.pdf",
     "Medicine/Cardiology/Ecg.png",
     "Medicine/Cardiology/Narrow tachycardia Mx.md",
     "Medicine/Cardiology/TR.md",
-    "Medicine/Cardiology/Narrow tachycardia -1.md",
     "Medicine/Cardiology/Narrow tachycardia-2.md",
     "Medicine/Cardiology/IMG_20261008_192252248.jpg",
     "Medicine/Cardiology/ACS.pdf",
     "Medicine/Cardiology/ADHF Mx.pdf",
     "Medicine/Cardiology/Htn emergency.md",
     "Medicine/Cardiology/HF Mx.pdf",
-    "Medicine/Cardiology/Ecg interpretation.jpeg",
     "Medicine/Cardiology/HF Mx.md",
     "Medicine/GIT/Upper abdominal pain DDx.md",
     "Medicine/Cardiology/Hypertrophic cardiomyopathy.md",
@@ -292,7 +295,6 @@
     "Microbio/H.pylori.md",
     "Microbio/H.pylori.pdf",
     "Microbio/Microbio.md",
-    "Microbio",
     "Patho/Git/Esophagial disorder and GERD.md",
     "Patho/Vascular/DVT.md",
     "Patho/Git/GIT.md",
@@ -301,8 +303,6 @@
     "Pharma/Blood/Warfarin.md",
     "Pharma/Blood/Heparin.md",
     "Pharma/Blood/Blood.md",
-    "Pharma/Pharma.md",
-    "Medicine/Cardiology/R-L shunt.md",
     "IMG_2420.png",
     "Medicine/Cardiology/IMG_2420.jpeg",
     "Medicine/IMG_2392.jpeg"
