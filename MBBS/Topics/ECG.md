@@ -2,9 +2,9 @@
 type: topic
 subject:
 posting:
-date_studied: 05-11-2026
-d1_due: 06-11-2026
-d3_due: 08-11-2026
+date_studied: 06-11-2026
+d1_due: 07-11-2026
+d3_due: 09-11-2026
 d7_due: 12-11-2026
 d1_done: false
 d3_done: false
