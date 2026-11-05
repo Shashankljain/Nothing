@@ -22,7 +22,7 @@ date: ${date}
 
 
 **Plan today's day**
-- [ ] 
+- [ ] music practice 
 
 
 **Topics completed:**
@@ -45,7 +45,7 @@ date: ${date}
 
 
 **Plan today's day**
-- [ ] 
+- [ ] music 
 
 
 **Topics completed:**
