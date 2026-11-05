@@ -100,13 +100,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medicine/Cardiology/Narrow tachycardia-2.md",
+                "file": "Medicine/Cardiology/Wide complex tachycardia ECG.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Narrow tachycardia-2"
+              "title": "Wide complex tachycardia ECG"
             }
           }
         ],
@@ -206,7 +206,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Medicine/Cardiology/Narrow tachycardia-2.md",
+            "file": "Medicine/Cardiology/Wide complex tachycardia ECG.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -263,17 +263,18 @@
   },
   "active": "1df241d25b3c5d24",
   "lastOpenFiles": [
+    "Medicine/Cardiology/Narrow tachycardia -1 (regular).md",
     "Medicine/Cardiology/Narrow complex tachy -1.pdf",
+    "Medicine/Cardiology/Narrow tachycardia Mx (Rate + rhythm).md",
+    "Medicine/Cardiology/Narrow complex tach- Mx (Rate+ rhythm).pdf",
+    "Medicine/Cardiology/Narrow tachycardia-2 irregularly irregular.md",
     "Medicine/Cardiology/Ecg interpretation.jpeg",
-    "Medicine/Cardiology/Narrow tachycardia -1.md",
     "Medicine/Cardiology/Bradycardia ECG.md",
     "Medicine/Cardiology/Ecg intro.md",
     "Medicine/Cardiology/Ecg interpretation.md",
     "Medicine/Cardiology/Bradycardia DDx.pdf",
     "Medicine/Cardiology/Ecg.png",
-    "Medicine/Cardiology/Narrow tachycardia Mx.md",
     "Medicine/Cardiology/TR.md",
-    "Medicine/Cardiology/Narrow tachycardia-2.md",
     "Medicine/Cardiology/IMG_20261008_192252248.jpg",
     "Medicine/Cardiology/ACS.pdf",
     "Medicine/Cardiology/ADHF Mx.pdf",
@@ -291,9 +292,7 @@
     "Pharma/Gi and endo/H2 antagonist, PPI.md",
     "Pharma/Gi and endo/Gi and endo.md",
     "Patho/Git/PUD.md",
-    "Pharma/Gi and endo",
     "Microbio/H.pylori.md",
-    "Microbio/H.pylori.pdf",
     "Microbio/Microbio.md",
     "Patho/Git/Esophagial disorder and GERD.md",
     "Patho/Vascular/DVT.md",
