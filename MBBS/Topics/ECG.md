@@ -3,10 +3,10 @@ type: topic
 subject: Medicine
 posting:
 date_studied: 04-11-2026
-d1_due: 07-11-2026
-d3_due: 09-11-2026
-d7_due: 13-11-2026
-d1_done: false
+d1_due: 05-11-2026
+d3_due: 07-11-2026
+d7_due: 11-11-2026
+d1_done: true
 d3_done: false
 d7_done: false
 ---
