@@ -45,7 +45,7 @@ date: ${date}
 
 
 **Plan today's day**
-- [ ] music 
+- [ ] Musicpractice 
 
 
 **Topics completed:**
