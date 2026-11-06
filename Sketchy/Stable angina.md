@@ -1,0 +1,2 @@
+[[Cardiology]]
+![[stable angina.pdf]]
