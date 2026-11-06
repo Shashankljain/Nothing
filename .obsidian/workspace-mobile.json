@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Workout/MBBS/Revision dashboard.md",
+                "file": "Daily Workout/MBBS/Daily notes/06-Nov-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revision dashboard"
+              "title": "06-Nov-26"
             }
           }
         ],
@@ -189,8 +189,9 @@
   },
   "active": "aec5b9cc338d5a6d",
   "lastOpenFiles": [
-    "MBBS/Topics/ECG.md",
     "Daily Workout/MBBS/Revision dashboard.md",
+    "Daily Workout/MBBS/Daily notes/06-Nov-26.md",
+    "MBBS/Topics/ECG.md",
     "MBBS/Topics/cardio.md",
     "Daily Workout/MBBS/Daily notes/04-Nov-26.md",
     "MBBS/Topics 1.md",
@@ -216,7 +217,6 @@
     "OBG/HELLP syndrome.md",
     "OBG/Complications of pre-eclampsia.md",
     "OBG/Antihypertensive Drugs in Pre-eclampsia.md",
-    "OBG/Anticonvulsants in Eclampsia.md",
     "Ortho/Prolapsed Intervertebral Disc",
     "Ortho/POLIOMYELITIS",
     "Ortho/Congenital Dislocation of the Hip",
