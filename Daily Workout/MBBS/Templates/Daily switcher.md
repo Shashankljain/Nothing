@@ -113,7 +113,8 @@ date: ${date}
 **Topic:**
 
 **Plan today's day**
-- [ ] Music prac
+- [ ] Music practice
+- [ ] 
 
 
 ## 1. Video learning
