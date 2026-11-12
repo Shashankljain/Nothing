@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cardiology/CSA.md",
+                "file": "Chapters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSA"
+              "title": "Chapters"
             }
           }
         ],
@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cardiology/Dynamic Auscultation in Cardiac Diseases.md",
+            "file": "Chapters.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -204,6 +204,7 @@
   },
   "active": "08fe5925be9767c1",
   "lastOpenFiles": [
+    "Cardiology/CSA.md",
     "Cardiology/Dynamic Auscultation in Cardiac Diseases.md",
     "Water Hammer Pulse (Corrigan's Pulse).md",
     "Cardiology/Unstable Angina.md",
@@ -226,7 +227,6 @@
     "Cardiology/C16-Cardiology.md",
     "Cardiology/IHD.md",
     "Cardiology/IE.md",
-    "Cardiology/CSA.md",
     "Cardiology/V.fib.md",
     "Cardiology/CPR.md",
     "Cardiology/CHF.md",
