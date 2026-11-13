@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cirrhosis of Liver.md",
+                "file": "Hepatology/Cirrhosis of Liver.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acute Viral Hepatitis.md",
+                "file": "Hepatology/Acute Viral Hepatitis.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acute Viral Hepatitis.md",
+                "file": "Hepatology/Acute Viral Hepatitis.md",
                 "mode": "source",
                 "source": false
               },
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Acute Viral Hepatitis.md",
+            "file": "Hepatology/Acute Viral Hepatitis.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -216,13 +216,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "0197bce1dddac7f8",
+  "active": "3dac681564b14ac0",
   "lastOpenFiles": [
     "Untitled.md",
-    "Acute Viral Hepatitis.md",
-    "Portal Hypertension.md",
-    "Jaundice.md",
-    "Cirrhosis of Liver.md",
+    "Hepatology/Acute Viral Hepatitis.md",
+    "Hepatology/Portal Hypertension.md",
+    "Hepatology/Jaundice.md",
+    "Hepatology/Cirrhosis of Liver.md",
     "Chapters.md",
     "Hepatology/C22- Hepatology.md",
     "Hepatology",
