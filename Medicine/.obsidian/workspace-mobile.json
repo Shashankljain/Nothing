@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Acute Viral Hepatitis"
             }
+          },
+          {
+            "id": "9acb96ab27ff4ef7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Acute Viral Hepatitis.md",
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -202,8 +216,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "5093e2551a9034e7",
+  "active": "9acb96ab27ff4ef7",
   "lastOpenFiles": [
+    "Untitled.md",
     "Acute Viral Hepatitis.md",
     "Cirrhosis of Liver.md",
     "Chapters.md",
@@ -230,7 +245,6 @@
     "Cardiology/CSA -5.md",
     "Cardiology/RAAS.md",
     "Cardiology/C16-Cardiology.md",
-    "Cardiology/IHD.md",
     "Cardiology"
   ]
 }
