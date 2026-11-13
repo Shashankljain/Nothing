@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Medical Management of Acute Variceal Bleeding"
             }
+          },
+          {
+            "id": "5779d0f8302a4946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +174,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Medical Management of Acute Variceal Bleeding.md",
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -216,8 +230,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "6b4851e831b17e22",
+  "active": "5779d0f8302a4946",
   "lastOpenFiles": [
+    "Untitled.md",
     "Medical Management of Acute Variceal Bleeding.md",
     "Hepatology/Acute Viral Hepatitis.md",
     "Hepatic Encephalopathy.md",
@@ -244,7 +259,6 @@
     "Cardiology/MR.md",
     "Cardiology/AR.md",
     "Cardiology/Causes of Hemoptysis in Mitral Stenosis.md",
-    "Cardiology/Marfan's Syndrome.md",
     "Cardiology"
   ]
 }
