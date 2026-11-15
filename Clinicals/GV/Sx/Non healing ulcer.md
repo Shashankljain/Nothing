@@ -77,9 +77,9 @@
 - **Mentor Question**: What do you look for in the General Examination of a case of an ulcer?
 - **Student Response & Mentor Synthesis**:
     1. **Nutritional Status**: State of nutrition, especially in the mucous membranes, amount of subcutaneous fat, and signs of vitamin deficiency.
-    2. **Stigmata of Tuberculosis**: Phlyctenular conjunctivitis, cervical lymphadenopathy, and neck sinuses.
-    3. **Stigmata of Leprosy**: Hypopigmented skin patches, anesthesia, nerve thickening (great auricular, ulnar, and posterior tibial nerves), trophic changes in fingers/toes, loss of eyebrows (madarosis), and leonine facies.
-    4. **Stigmata of Syphilis**: Mucosal snail-track ulcers, gummata, cutaneous rashes, and epitrochlear lymphadenopathy.
+    2. **Stigmata of Tuberculosis**: ==Phlyctenular conjunctivitis, cervical lymphadenopathy, and neck sinuses==.
+    3. **Stigmata of Leprosy**: ==Hypopigmented skin patches, anesthesia, nerve thickening (great auricular, ulnar, and posterior tibial nerves), trophic changes in fingers/toes, loss of eyebrows (madarosis), and leonine facies.==
+    4. **Stigmata of Syphilis**: ==Mucosal snail-track ulcers, gummata, cutaneous rashes, and epitrochlear lymphadenopathy.==
 
 ### Student GPE Findings
 
@@ -91,6 +91,12 @@
 - No icterus or cyanosis.
 - No signs of vitamin deficiency.
 - No stigmata of tuberculosis, leprosy, or syphilis.
+
+Define Ulcer-It is defined as the discontinued in the mucus membrane or skin surface due to molecular death of the cell
+What is molecular death of The cell? It is a process of slow chemical Destruction of the cell that exclude the traumatic or for restriction of continuity of skin which will be defined as wound
+
+Define Wound?
+It is defined as the forcible solution of the continuity of any of the soft tissue of the body.
 
 ---
 
@@ -106,13 +112,13 @@
 ### Viva Exchange: Ulcer Site Significance & Diabetic Healing Mechanics
 
 - **Mentor Question**: What does the site of the ulcer suggest?
-- **Student Response**: Being situated over a pressure-bearing area of the foot, the ulcer is likely to be **neurotrophic (neuropathic) or traumatic** in origin. It is unlikely to be arterial or venous.
+- **Student Response**: Being situated over a pressure-bearing area of the foot, the ulcer is likely to be **==neurotrophic (neuropathic) or traumatic==** in origin. It is unlikely to be arterial or venous.
 - **Mentor Question**: Why?
 - **Student Response**:
     - **Varicose Ulcers**: Typically situated over the lower third of the leg, usually on the medial side.
-    - **Arterial Ulcers**: Typically found over the tips of the toes, in between the toes, or on the dorsum of the foot.
+    - **Arterial Ulcers**: Typically found over the ==tips of the toes==, in ==between the toes==, or on the ==dorsum of the foot.==
 - **Mentor Question**: Where are diabetic ulcers characteristically situated?
-- **Student Response**: No particular site, sir, because delayed healing is systemic.
+- **Student Response**: ==No particular site, sir, because delayed healing is systemic==.
 - **Mentor Question**: What are the common factors that lead to ulcer formation and delayed healing in diabetes?
 - **Student Response & Pathophysiology (4 Key Factors)**:
     1. **Bacterial Proliferation**: Diabetes promotes the growth of bacteria in tissues due to hyperglycemia and hyperlipidemia.
@@ -138,7 +144,7 @@
     
 - **Mentor Question**: How does edge differ from margin?
     
-- **Student Response**: Margin is a two-dimensional line with no depth, whereas edge is a three-dimensional block of tissue between margin and floor.
+- **Student Response**: Margin is a ==two-dimensional line== with no depth, whereas edge is a ==three-dimensional block of tissue== between margin and floor.
     
 
 #### Types of Margins Mentioned
@@ -165,10 +171,10 @@ Sloping         Punched-Out       Undermined        Everted         Rolled / Bea
 ```
 
 1. **Sloping Edge**: Slopes gradually from intact skin to the floor. Characteristic of a **healing ulcer**.
-2. **Punched-Out Edge**: Drops at right angles to the floor. Seen in **Syphilitic Gumma** and **Trophic / Neuropathic ulcers**. Produced by equal, uniform tissue destruction across all planes (e.g. over bony points undergoing pressure necrosis).
-3. **Undermined Edge**: Subcutaneous tissue is destroyed faster than the overlying skin, causing the skin edge to overhang the floor. Characteristic of a **Tuberculous ulcer**.
-4. **Everted Edge**: Overgrowth of tissue in excess of central destruction causes tissue to roll outward. Characteristic of **Squamous Cell Carcinoma (Malignant Ulcer / Marjolin's Ulcer)**.
-5. **Rolled / Beaded Edge**: Slow, indolent growth of tissue produces a raised, smooth, rolled edge. Characteristic of **Basal Cell Carcinoma (Rodent Ulcer)**.
+2. **Punched-Out Edge**: Drops at right angles to the floor. Seen in **==Syphilitic Gumma** and **Trophic / Neuropathic ulcers**==. Produced by equal, uniform tissue destruction across all planes (e.g. over bony points undergoing pressure necrosis).
+3. **Undermined Edge**: (Cold abscess) Subcutaneous tissue is destroyed faster than the overlying skin, causing the skin edge to overhang the floor. Characteristic of a **Tuberculous ulcer**.
+4. **Everted Edge**: Overgrowth of tissue in excess of central destruction causes tissue to roll outward. Characteristic of **==Squamous Cell Carcinoma (Malignant Ulcer / Marjolin's Ulcer)**.==
+5. **Rolled / Beaded Edge**: Slow, indolent growth of tissue produces a raised, smooth, rolled edge. Characteristic of **==Basal Cell Carcinoma (Rodent Ulcer)==**.
 
 ---
 
@@ -180,23 +186,24 @@ Sloping         Punched-Out       Undermined        Everted         Rolled / Bea
     - **Discharge**: Scanty, seropurulent, foul-smelling discharge present.
 - **Mentor Question**: What does the floor of an ulcer mean?
     
-- **Student Response**: The floor is the exposed visible surface of the ulcer seen on inspection. Described with reference to discharge, slough, and granulation tissue.
+- **Student Response**: The floor is the exposed visible surface of the ulcer seen on inspection. Described with reference to ==discharge, slough, and granulation tissue.==
     
 - **Mentor Question**: What is slough?
     
-- **Student Response**: Slough is a dead piece of soft tissue that has not yet separated from living tissues.
+- **Student Response**: Slough is a ==dead piece of soft tissue that has not yet separated== from living tissues.
     
-    - **Wash-leather Slough**: Characteristic of a **Gummatous ulcer** (Syphilis) and post-radiation necrosis ulcers.
+    - **Wash-leather Slough**: Characteristic of a **==Gummatous ulcer** (Syphilis)== and ==post-radiation necrosis== ulcers.
 - **Mentor Question**: What is granulation tissue?
     
-- **Student Response**: Highly cellular and vascular tissue formed as a result of the body's response to control inflammation and promote healing. Microscopically made of macrophages, fibroblasts, and thin-walled capillaries.
+- **Student Response**: Highly cellular and vascular tissue formed as a result of the body's response to control inflammation and promote healing.
+- Microscopically made of ==macrophages, fibroblasts, and thin-walled capillaries==.
     
 
-|Feature|Healthy Granulation Tissue|Unhealthy Granulation Tissue|
-|---|---|---|
-|**Appearance**|Pink, covered with tiny red granulations|Pale, flabby, flat, or hypertrophic|
-|**Discharge**|Scanty, serous|Purulent / seropurulent, covered with slough|
-|**Palpation**|Non-tender; bleeds on light pressure|Non-tender / tender; flat or slough-covered|
+| Feature        | Healthy Granulation Tissue                   | Unhealthy Granulation Tissue                 |
+| -------------- | -------------------------------------------- | -------------------------------------------- |
+| **Appearance** | Pink, covered with tiny red granulations     | Pale, flabby, flat, or hypertrophic          |
+| **Discharge**  | Scanty, serous                               | Purulent / seropurulent, covered with slough |
+| **Palpation**  | ==Non-tender==; ==bleeds== on light pressure | Non-tender / tender; flat or slough-covered  |
 
 - **Inspection Findings Continued**:
     - **Surrounding Skin**: No edema, no dilated veins, no sinuses or fistulae, no hyperpigmentation.
@@ -215,8 +222,8 @@ Sloping         Punched-Out       Undermined        Everted         Rolled / Bea
     
 - **Student Response**:
     
-    - **Edema**: Soft swelling of subcutaneous tissue that pits on pressure (caused by fluid retention in intercellular spaces).
-    - **Induration**: Firm feel on palpation (caused by cellular infiltration of tissues).
+    - **Edema**: ==Soft swelling== of subcutaneous tissue that pits on pressure (caused by fluid retention in intercellular spaces).
+    - **Induration**: ==Firm== feel on palpation (caused by ==cellular infiltration== of tissues).
 - **Mentor Question**: What else do you look for on palpation of surrounding skin?
     
 - **Student Response**:
@@ -234,14 +241,14 @@ Sloping         Punched-Out       Undermined        Everted         Rolled / Bea
     - **Base Findings**: Base is firm, not indurated, fixed to the underlying deep fascia and flexor tendons over the 2nd and 3rd metatarsal heads. **NOT fixed to periosteum or bone**.
 - **Mentor Question**: How do you test fixity to underlying muscles or tendons?
     
-- **Student Response**: Test mobility of the ulcer with the underlying muscles/tendons relaxed versus contracted. When contracted, mobility becomes restricted in the longitudinal direction of the muscle fibers.
+- **Student Response**: Test mobility of the ulcer with the underlying muscles/tendons ==relaxed versus contracted.== When contracted, mobility becomes restricted in the longitudinal direction of the muscle fibers.
     
 - **Granulation Tissue Palpation**:
     
     - Non-tender; does not bleed on touch (indicating unhealthy granulation tissue).
 - **Mentor Question**: Does bleeding on touch indicate healthy granulation tissue?
     
-- **Student Response**: Yes, because thin-walled capillaries break under slight pressure. However, malignant tissue in carcinoma ulcers also bleeds on touch because it is friable.
+- **Student Response**: Yes, because thin-walled capillaries break under slight pressure. However, ==malignant tissue== in carcinoma ulcers also bleeds on touch because it is friable.
     
 
 ---
@@ -251,7 +258,7 @@ Sloping         Punched-Out       Undermined        Everted         Rolled / Bea
 - **Mentor Question**: What is the correct order of further examination after local examination?
 - **Student Response & Mentor Rule**:
     1. **Regional Lymph Nodes** _(ALWAYS examined immediately after local examination!)_
-    2. **Arteries, Veins, and Nerves** _(order depends on site of ulcer: if on leg medial malleolus → veins first; if on toes/dorsum → arteries first; if on sole → nerves/arteries first)_
+    2. **Arteries, Veins, and Nerves** _(order depends on site of ulcer: if on leg ==medial malleolus → veins first==; if on ==toes/dorsum → arteries== first; if on ==sole → nerves/arteries first==)_
     3. **Movements of Neighboring Joints** _(examined LAST)_
 
 ### Regional & Peripheral Findings
@@ -274,7 +281,7 @@ Sloping         Punched-Out       Undermined        Everted         Rolled / Bea
     - Abdomen soft; Liver and Spleen are **NOT palpable**.
 
 - **Mentor Question**: Why examine the spleen?
-- **Student Response**: Chronic leg ulcers are sometimes a feature of chronic hemolytic anemias (e.g. Sickle Cell Anemia, Thalassemia), in which the spleen is enlarged.
+- **Student Response**: Chronic leg ulcers are sometimes a feature of ==chronic hemolytic anemias== (e.g. Sickle Cell Anemia, Thalassemia), in which the spleen is enlarged.
     - Chest examination normal.
 
 ---
@@ -288,7 +295,7 @@ Sloping         Punched-Out       Undermined        Everted         Rolled / Bea
 - **Mentor Question**: Why do you say chronic and non-healing?
 - **Student Response**:
     - **Chronic**: Present for a period longer than the normal healing period of an uncomplicated ulcer at that site.
-    - **Non-Healing**: Granulation tissue is flat/pale, non-tender, base is firm, and it does not show the blue line of growing epithelium.
+    - **Non-Healing**: Granulation tissue is flat/pale, non-tender, base is firm, and it does ==not show the blue line of growing epithelium.==
 
 ---
 
@@ -353,14 +360,14 @@ Stage 1: Slough / Suppuration    Stage 2: Granulation Formation   Stage 3: Epith
 
 1. **Stage 1: Stage of Slough / Suppuration**:
     - _Assessment_: Floor covered with slough and purulent discharge. Send discharge/slough for culture.
-    - _Chemical Debridement_: Application of topical antibiotic ointments, hydrogen peroxide washes, or EUSOL/saline dressings.
-    - _Surgical Debridement_: Sharp debridement using a scalpel, scissors, or curette/scoop to remove dead slough tissue down to healthy bleeding tissue.
+    - _==Chemical Debridement==_: Application of topical antibiotic ointments, hydrogen peroxide washes, or EUSOL/saline dressings.
+    - _==Surgical Debridement==_: Sharp debridement using a scalpel, scissors, or curette/scoop to remove dead slough tissue down to healthy bleeding tissue.
 2. **Stage 2: Stage of Granulation Tissue Formation**:
-    - _Promote Granulation_: Dressings with saline, glycerine-acriflavine, or topical Platelet-Derived Growth Factor (PDGF) to stimulate granulation tissue.
-    - _Control Exuberant Granulation_: If granulation tissue becomes hypertrophic and rises above skin margins, scrape with a scoop or cauterize using **Silver Nitrate crystals** or hypertonic saline dressings.
+    - _==Promote Granulation==_: Dressings with saline, glycerine-acriflavine, or topical Platelet-Derived Growth Factor (PDGF) to stimulate granulation tissue.
+    - _==Control Exuberant Granulation==_: If granulation tissue becomes hypertrophic and rises above skin margins, scrape with a scoop or cauterize using **==Silver Nitrate crystals==** or hypertonic saline dressings.
 3. **Stage 3: Stage of Epithelization**:
-    - _Protect Epithelium_: Apply antibiotic ointment to floor, Scarlet Red ointment to margins, and expose to Infrared light to stimulate epithelial cell migration.
-    - **Skin Grafting Rule**: If the ulcer defect is **>4 to 5 cm in size**, complete epithelization cannot occur without significant fibrosis and contracture; **Split-Thickness Skin Grafting (STSG)** must be placed once a healthy granulation bed is established.
+    - _==Protect Epithelium==_: Apply antibiotic ointment to floor, Scarlet Red ointment to margins, and expose to Infrared light to stimulate epithelial cell migration.
+    - **Skin Grafting Rule**: If the ulcer defect is **>4 to 5 cm in size**, complete epithelization cannot occur without significant fibrosis and contracture; **==Split-Thickness Skin Grafting (STSG)==** must be placed once a healthy granulation bed is established.
 
 #### B. Systemic & General Treatment
 
