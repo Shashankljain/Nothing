@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "GV/Sx/VV presentation.md",
+            "file": "VV notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -216,10 +216,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "50d78ca4fc8678b4",
+  "active": "f55a5936ac4d9e18",
   "lastOpenFiles": [
-    "VV notes.md",
     "GV/Sx/VV presentation.md",
+    "VV notes.md",
     "GV/Sx/Sx.md",
     "Surgery/Ca Breast.md",
     "GV/Sx",
