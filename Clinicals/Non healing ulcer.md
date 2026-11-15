@@ -34,16 +34,16 @@
     - **Negative History for Acute Infection**: No history of severe pain or fever.
 - **Etiological & Specific Screening (Negative History)**:
     - **Bleeding**: No history of spontaneous bleeding from the ulcer.
-    - **Bony Fragments / Granules**: No history of discharge of bony fragments (rules out underlying chronic osteomyelitis) or sulfur granules (rules out actinomycosis).
+    - **Bony Fragments / Granules**: No history of discharge of bony fragments (rules out underlying ==chronic osteomyelitis==) or sulfur granules (rules out ==actinomycosis==).
     - **Functional Impairment**: No history of difficulty in walking.
     - **Acute Onset**: No history of sudden severe pain or rapid swelling.
-    - **Trauma History**: No history of apparent trauma. _(Why ask? Trauma may be the initiating factor, or may suggest an underlying retained foreign body)._
-    - **Preceding Swelling**: No history of a swelling preceding the ulcer _(rules out breaking down of a cyst, cold abscess, sinus/fistula, or a breaking down malignant mass)._
+    - **Trauma History**: No history of apparent trauma. _(Why ask? Trauma may be the initiating factor, or may suggest an underlying retained ==foreign body==)._
+    - **Preceding Swelling**: No history of a swelling preceding the ulcer _(rules out breaking down of a ==cyst, cold abscess, sinus/fistula, or a breaking down malignant mass==)._
     - **Neurological & Trophic Screening**:
         - No history of numbness in the distal feet, but patient reports he can feel his slipper/chappal and the ground while walking.
         - No history of loss of sensation anywhere else on the body.
     - **Venous Screening**: No history of varicose veins, leg edema, or dragging pain in the legs.
-    - **Arterial Screening**: No history of calf pain, swelling, intermittent claudication, or rest pain _(rules out peripheral arterial occlusive disease)._
+    - **Arterial Screening**: No history of calf pain, swelling, intermittent claudication, or rest pain _(rules out ==peripheral arterial occlusive disease==)._
     - **Diabetic Screening**: No history of polyuria or polydipsia; patient is not a known case of Diabetes Mellitus or Hypertension.
     - **Tuberculous & Constitutional Screening**: No history of high-grade fever, night sweats, loss of appetite, weight loss, cough with expectoration, or history of contact with a known case of tuberculosis.
     - **Malignancy Screening**: No history of recent rapid weight loss or gross bleeding from the ulcer.
@@ -57,7 +57,7 @@
 - **Past History**: Non-contributory; no past history of major medical or surgical illnesses.
 - **Family History**:
     - Non-contributory.
-    - Specific negative screening: No history of Diabetes Mellitus, Tuberculosis, or Leprosy in close family contacts.
+    - Specific negative screening: No history of ==Diabetes Mellitus, Tuberculosis, or Leprosy== in close family contacts.
 
 ---
 
@@ -80,9 +80,9 @@
     - Mild pallor of mucous membranes present.
     - No icterus, cyanosis, or pedal edema.
     - No signs of vitamin C, A, or B complex deficiencies.
-    - No stigmata of Tuberculosis (no phlyctenular conjunctivitis, lymphadenopathy, or neck sinuses).
-    - No stigmata of Leprosy (no hypopigmented skin patches, leonine facies, madarosis/loss of eyebrows, or thickened great auricular/ulnar nerves).
-    - No stigmata of Syphilis (no mucosal snail-track ulcers, gummata, or epitrochlear node enlargement).
+    - No stigmata of Tuberculosis (no ==phlyctenular conjunctivitis, lymphadenopathy, or neck sinuses==).
+    - No stigmata of Leprosy (no ==hypopigmented skin patches, leonine facies, madarosis/loss of eyebrows, or thickened great auricular/ulnar nerves==).
+    - No stigmata of Syphilis (no ==mucosal snail-track ulcers, gummata, or epitrochlear node enlargement==).
 
 ---
 
