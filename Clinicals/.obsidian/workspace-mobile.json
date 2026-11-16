@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GV/Sx/Hydrocoele.md",
+                "file": "GV/Sx/Inguinal hernia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hydrocoele"
+              "title": "Inguinal hernia"
             }
           }
         ],
@@ -80,7 +80,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Visible ",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -134,7 +134,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "ed0f28566a370c75",
@@ -146,11 +146,11 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "GV/Sx/Hydrocoele.md",
+            "file": "GV/Sx/Inguinal hernia.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
-            "showSearch": false,
+            "showSearch": true,
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
@@ -202,10 +202,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "afe6361d52c65806",
+  "active": "bb5a2037ea5bd0c8",
   "lastOpenFiles": [
-    "Untitled.md",
     "GV/Sx/Hydrocoele.md",
+    "Untitled.md",
     "Hydrocele.md",
     "Surgery/Ca Breast.md",
     "GV/Sx/Inguinal hernia.md",
