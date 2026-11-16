@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nephrotic Syndrome in Children.md",
+                "file": "Kidney disorder/Nephrotic Syndrome in Children.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nephrotic Syndrome -5.md",
+                "file": "Kidney disorder/Nephrotic Syndrome -5.md",
                 "mode": "source",
                 "source": false
               },
@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Nephrotic Syndrome in Children.md",
+            "file": "Kidney disorder/Nephrotic Syndrome in Children.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -204,10 +204,11 @@
   },
   "active": "c55d087e73933ad6",
   "lastOpenFiles": [
-    "Nephrotic Syndrome -5.md",
-    "Nephrotic Syndrome in Children.md",
+    "image.jpg",
+    "Kidney disorder/Nephrotic Syndrome -5.md",
+    "Kidney disorder/Nephrotic Syndrome in Children.md",
     "Chapters.md",
-    "Opv advantages.md",
+    "Immunisation/Opv advantages.md",
     "Immunisation/Indradhanush.md",
     "Kidney disorder/C17-Kidney disorder.md",
     "Acute ITP.md",
@@ -233,7 +234,6 @@
     "Fluid and electrolyte imbalance",
     "Fluid and electrolyte imbalance/Hypocalcemia.md",
     "Fluid and electrolyte imbalance/Tx Hyponatremia.md",
-    "Fluid and electrolyte imbalance/Hypokalemia.md",
-    "Fluid and electrolyte imbalance/Hyperkalemia.md"
+    "Fluid and electrolyte imbalance/Hypokalemia.md"
   ]
 }

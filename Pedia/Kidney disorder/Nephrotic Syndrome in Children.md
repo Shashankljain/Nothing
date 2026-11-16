@@ -142,15 +142,15 @@ Renal biopsy is **NOT required** prior to starting treatment in a child aged 
 
 ### 7. Differential Diagnosis [⭐ High-Yield]
 
-|Feature|**Minimal Change Disease (MCNS)**|**Focal Segmental Glomerulosclerosis (FSGS)**|**Acute Post-Streptococcal GN (PSGN)**|**Congenital Nephrotic Syndrome**|
-|:--|:--|:--|:--|:--|
-|**Typical Age**|**2–6 years**|Older children (>6 years)|5–15 years|**<3 months of life**|
-|**Edema Pattern**|**Insidious, massive anasarca**|Massive anasarca|Moderate facial/pedal edema|Massive edema from birth|
-|**Blood Pressure**|**Normal** (in >85–90%)|Frequently **Elevated**|**Hypertension**(common)|Normal or low|
-|**Hematuria**|Absent / Microscopic (<20%)|Common (microscopic/gross)|**Gross (Cola-colored)**|Absent|
-|**Serum C3**|**Normal**|Normal|**Markedly Low**(normalizes 8–12 wks)|Normal|
-|**Renal Biopsy**|**Normal glomeruli** on LM; effacement of podocyte foot processes on EM|Segmental sclerosis of glomerular tufts|Endocapillary proliferation with subepithelial humps|Microcystic dilatation of proximal tubules (Finnish type)|
-|**Steroid Response**|**Remission in >85–90%**|Unsatisfactory / Resistant|No role for steroids|**Resistant**|
+| Feature              | **Minimal Change Disease (MCNS)**                                                                 | **Focal Segmental Glomerulosclerosis (FSGS)** | **Acute Post-Streptococcal GN (PSGN)**               | **Congenital Nephrotic Syndrome**                         |
+| :------------------- | :------------------------------------------------------------------------------------------------ | :-------------------------------------------- | :--------------------------------------------------- | :-------------------------------------------------------- |
+| **Typical Age**      | **2–6 years**                                                                                     | Older children (>6 years)                     | 5–15 years                                           | **<3 months of life**                                     |
+| **Edema Pattern**    | **Insidious, massive anasarca**                                                                   | Massive anasarca                              | Moderate facial/pedal edema                          | Massive edema from birth                                  |
+| **Blood Pressure**   | **Normal** (in >85–90%)                                                                           | Frequently **Elevated**                       | **Hypertension**(common)                             | Normal or low                                             |
+| **Hematuria**        | ==Absent / Microscopic== (<20%), if present think of Nephritic presentation of nephrotic syndrome | Common (microscopic/gross)                    | **Gross (Cola-colored)**                             | Absent                                                    |
+| **Serum C3**         | **Normal**  if present think of Nephritic presentation of nephrotic syndrome                      | Normal                                        | **Markedly Low**(normalizes 8–12 wks)                | Normal                                                    |
+| **Renal Biopsy**     | **Normal glomeruli** on LM; effacement of podocyte foot processes on EM                           | Segmental sclerosis of glomerular tufts       | Endocapillary proliferation with subepithelial humps | Microcystic dilatation of proximal tubules (Finnish type) |
+| **Steroid Response** | **Remission in >85–90%**                                                                          | Unsatisfactory / Resistant                    | No role for steroids                                 | **Resistant**                                             |
 
 ---
 
@@ -178,9 +178,11 @@ D -->|No Remission after 6-8 Wks| G[Steroid Resistant SRNS -> Kidney Biopsy & Ge
     - **Prednisolone**: **2 mg/kg/day** (or **60 mg/m²/day**) as a single morning dose (maximum **60 mg/day**) for **6 weeks**.
 2. **Alternate-Day Steroid Phase**:
     - **Prednisolone**: **1.5 mg/kg/dose** (or **40 mg/m²/dose**) given as a single morning dose on alternate days (maximum **40 mg/day**) for **6 weeks**.
-    - Total duration of initial corticosteroid therapy is **12 weeks** (6 weeks daily + 6 weeks alternate days).
+    - Total duration of initial corticosteroid therapy is **==12 weeks==** (6 weeks daily + 6 weeks alternate days).
 
 #### B. Management of Relapses
+![[image.jpg]]
+
 
 - **Definition of Relapse**: Urine protein **3+ or 4+** on dipstick for **3 consecutive days** in a child previously in remission.
 - **Regimen**:
