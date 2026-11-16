@@ -32,14 +32,14 @@ This comprehensive, chronological study note contains all information from the c
     - Reappears on straining and standing; disappears on compressing or lying down.
 - **Reducibility Behavior**:
     - Initially reduced automatically on lying down.
-    - Presently requires manual manipulation by the patient to reduce it completely into the abdominal cavity.
+    - Presently requires ==manual manipulation== by the patient to reduce it completely into the abdominal cavity.
 - **Complications Screening in HPI**:
-    - No history of attacks of irreversibility with severe pain, abdominal distension, vomiting, or constipation (rules out intestinal obstruction, incarceration, or strangulation).
+    - No history of attacks of irreversibility with severe pain, abdominal distension, vomiting, or constipation (rules out ==intestinal obstruction, incarceration, or strangulation==).
 - **Etiological & Straining Factors Screening**:
     - Positive history of strenuous manual labor (works as a manual laborer).
     - Chronic smoker, but reports no history of chronic cough.
     - No history of chronic constipation or straining at stool.
-    - No history of straining at micturition, increased frequency, poor stream, or terminal dribbling (rules out prostatic enlargement / BPH).
+    - No history of straining at micturition, increased frequency, poor stream, or terminal dribbling (rules out ==prostatic enlargement / BPH).==
     - No history of massive abdominal distension.
     - No history of previous abdominal operations on the left side.
     - No history of trauma.
@@ -58,7 +58,7 @@ This comprehensive, chronological study note contains all information from the c
 - **Student Response**: Inguinal or femoral hernia, likely to be inguinal.
 - **Mentor Question**: Swelling appearing on standing and disappearing on lying down or compressing — can that happen with a Varicocele?
 - **Student Response**: Yes, sir.
-- **Mentor Question**: What is the difference between Varicocele and Inguinal Hernia on history?
+- **Mentor Question**: What is the difference between ==Varicocele== and Inguinal Hernia on history?
 
 #### Differentiating Inguinal Hernia vs. Varicocele vs. Hydrocele of Cord
 
@@ -68,7 +68,7 @@ This comprehensive, chronological study note contains all information from the c
 |**Reducibility Mechanism**|Reduces automatically or with manual manipulation on lying down.|Collapses automatically on lying down; fills slowly on standing.|Irreducible.|
 |**Palpation Feel**|Soft/elastic (Enterocele) or doughy (Omentocele).|Feels like a **"bag of worms"**.|Tense, smooth, cystic mass.|
 
-- **Significance of Manual Manipulation**: Indicates a reversible stage; since manipulation is required, it is more likely an inguinal hernia than a varicocele.
+- **Significance of Manual Manipulation**: Indicates a reversible stage; since manipulation is required, it is more likely an ==inguinal hernia== than a varicocele.
 - **Mentor Question**: What is the significance of asking for any past history of irreversibility or bowel obstruction?
 - **Student Response**: A history of such an incident stresses the **need for surgery as early as possible** to prevent recurrent obstruction or strangulation.
 
@@ -83,22 +83,22 @@ This comprehensive, chronological study note contains all information from the c
                                     │
      ┌──────────────────────────────┼──────────────────────────────┐
      ▼                              ▼                              ▼
-Anterior Abdominal Wall        Groin & Pelvic Region          Lumbar & Gluteal Region
-• Epigastric Hernia            • Inguinal Hernia (Inguinal)   • Superior Lumbar (Grynfeltt)
-• Umbilical & Paraumbilical    • Femoral Hernia (Femoral)     • Inferior Lumbar (Petit)
-• Divarication of Recti        • Obturator Hernia (Obturator) • Sciatic Hernia (Sciatic)
+Anterior Abdominal Wall        Groin & Pelvic Region     Lumbar & Gluteal Region
+• Epigastric Hernia    • Inguinal Hernia (Inguinal) • Superior Lumbar (Grynfeltt)
+• Umbilical & Paraumbilical • Femoral Hernia (Femoral)  • Inferior Lumbar (Petit)
+• Divarication of Recti • Obturator Hernia (Obturator) • Sciatic Hernia (Sciatic)
 • Incisional Hernia
 • Spigelian Hernia
 ```
 
 #### Detailed Anatomical Boundaries of Lumbar Triangles
 
-1. **Superior Lumbar Triangle of Grynfeltt-Lesshaft**:
+1. **Superior Lumbar Triangle of ==Grynfeltt-Lesshaft==**:
     - _Superior (Base)_: 12th rib.
     - _Medial Boundary_: Lateral border of Sacrospinalis (Erector spinae) muscle.
     - _Lateral Boundary_: Posterior border of Internal Oblique muscle.
     - _Floor_: Transversalis fascia.
-2. **Inferior Lumbar Triangle of Petit**:
+2. **Inferior Lumbar Triangle of ==Petit==**:
     - _Inferior (Base)_: Iliac crest.
     - _Medial Boundary_: Lateral border of Latissimus dorsi muscle.
     - _Lateral Boundary_: Posterior border of External Oblique muscle.
@@ -122,15 +122,16 @@ Anterior Abdominal Wall        Groin & Pelvic Region          Lumbar & Gluteal R
     
 - **Mentor Explanation**:
     
-    - Lateral incisions sever the **nerves supplying the lower arching fibers of Internal Oblique and Transversus Abdominis muscles** (ilioinguinal / iliohypogastric nerves).
-    - Nerve injury leads to weakness and atrophy of the **Conjoint Tendon**, weakening the posterior wall of the inguinal canal and producing a direct or incisional hernia.
+    - Lateral incisions sever the **nerves supplying the lower arching fibers of Internal Oblique and Transversus Abdominis muscles** ==(ilioinguinal / iliohypogastric nerves).==
+    - Nerve injury leads to weakness and atrophy of the **==Conjoint Tendon==**, weakening the posterior wall of the inguinal canal and producing a direct or incisional hernia.
+    
 - **Mentor Question**: What do you want to know regarding whether the patient has used a hernia truss?
     
 - **Student Response & Complications of Truss**:
     
-    1. Prolonged use of a truss causes **atrophy and thinning of underlying abdominal muscles**.
-    2. Causes **hyperpigmentation** and thickening of overlying skin.
-    3. Induces **adhesions between the sac and its contents**, making the hernia prone to obstruction.
+    1. Prolonged use of a truss causes **==atrophy and thinning== of underlying abdominal muscles**.
+    2. Causes **==hyperpigmentation==** and thickening of overlying skin.
+    3. Induces **==adhesions== between the sac and its contents**, making the hernia prone to obstruction.
 
 ---
 
@@ -154,7 +155,7 @@ Anterior Abdominal Wall        Groin & Pelvic Region          Lumbar & Gluteal R
     
 - **Student Response (3 Reasons)**:
     
-    1. **Visibility**: Small hernias and varicoceles are visible ONLY in the standing position and disappear completely in the supine position.
+    1. **Visibility**: Small hernias and varicoceles are visible ==ONLY== in the standing position and disappear completely in the supine position.
     2. **Enlargement Dynamics**: Demonstrates enlargement of a pre-existing swelling on standing.
     3. **Extent of Descent**: Allows evaluation of the maximum size and how far the hernia descends into the scrotum.
 - **Definition of Hernia**:
@@ -173,19 +174,28 @@ Anterior Abdominal Wall        Groin & Pelvic Region          Lumbar & Gluteal R
     - _Direct Inguinal Hernia_: Rarely descends into the scrotum (stops above the pubic tubercle).
 3. **Dimensions & Shape**:
     - Size: 8 cm × 2 cm.
-    - Shape: Pear-shaped / elliptical (runs along the axis of the inguinal canal). Direct hernias are more globular.
+    - Shape: Pear-shaped / elliptical (runs along the axis of the ==inguinal canal==, narrow at top and loose at base). Direct hernias are more globular.
     - Testis Displacement: Pushes the left testis to the opposite / inferior side.
 4. **Overlying Skin & Scar Evaluation**:
     - Skin is normal; no edema, no scars, no hyperpigmentation.
-    - _Significance of Hyperpigmentation_: Associated with prolonged use of a truss or skin infection.
+    - _Significance of Hyperpigmentation_: Associated with prolonged use of a truss 
+    - Significance of hypopigmentation- skin infection.(Tinea infection)
     - _Significance of Scar_: Scar of previous hernia repair indicates a **Recurrent Hernia**. A scar with past infection history indicates post-operative wound infection as the cause of recurrence.
     - **Surgical Rules for Recurrent Hernia**:
-        1. Mandatory use of **Polypropylene (Prolene) Mesh**.
+        1. Mandatory use of **==Polypropylene (Prolene) Mesh==**.
         2. Surgery is technically difficult due to fibrous adhesions.
-        3. **Patient Counseling**: Explain pre-operatively that **orchidectomy** may occasionally be required for an adequate repair.
+        3. **Patient Counseling**: Explain pre-operatively that **==orchidectomy==** may occasionally be required for an adequate repair.
 5. **Visible Peristalsis vs. Dartos Contractions**:
-    - Visible peristalsis is absent. Small skin movements noted are normal contraction movements of the scrotal skin (Dartos muscle).
-6. **Cough Impulse**: Visible expansile cough impulse present over the inguinal canal, external ring, and over the swelling.
+    - Visible peristalsis is absent. Small skin movements noted are normal contraction movements of the scrotal skin (==Dartos muscle==).
+    - Visible peristalsis is seen in -
+    1. EARLY OBSTRUCTED HERNIA
+    2. HEARNIA WITH THIN COVERING (CHILD)
+    3. RECURRENT HERNIA
+6.  **Cough Impulse**: Visible expansile cough impulse present over the inguinal canal, external ring, and over the swelling. Synchronised with the cough
+ - No impulse on coughing is seen in 
+ 1. OBSTRUCTED HERNIA
+ 2. OMENTOCOELE
+ 
 
 ---
 
@@ -196,11 +206,11 @@ Anterior Abdominal Wall        Groin & Pelvic Region          Lumbar & Gluteal R
 1. **Local Temperature & Tenderness**: Local temperature normal; non-tender.
 2. **Getting Above the Swelling**: **IMPOSSIBLE to get above the swelling**.
     - _Definition_: The ability to reach the upper end of the swelling within the scrotum to palpate only normal spermatic cord structures between the thumb in front and index finger behind.
-    - _Inability to get above swelling_: Confirms that the swelling is **inguinoscrotal** (arising from within the inguinal canal / abdominal cavity). Differentiates it from a femoral hernia, which lies lateral to the pubic tubercle and does not descend into the scrotum.
+    - _Inability to get above swelling_: Confirms that the swelling is **==inguinoscrotal==** (arising from within the inguinal canal / abdominal cavity). Differentiates it from a femoral hernia, which lies ==lateral to the pubic tubercle== and does not descend into the scrotum.
 3. **Relation to Testis & Spermatic Cord**:
     - Testis felt separately at the lower end of the swelling.
-    - Spermatic cord structures are thickened and cannot be felt separately from the swelling even after reduction.
-    - **Traction Test**: Performed to check relation to cord structures (e.g., encysted hydrocele of cord moves downward on traction on the testis).
+    - Spermatic cord structures are ==thickened== and ==cannot be felt separately== from the swelling even after reduction.
+    - **Traction Test**: Performed to check relation to cord structures (e.g., ==encysted hydrocele== of cord moves downward on traction on the testis).
 4. **Consistency & Contents**:
     - Soft and elastic consistency.
     - **Reduction Characteristics**: Reducible with a **gargling sound (borborygmi)**. Initial part of reduction is slightly difficult, while the remaining part reduces rapidly into the abdominal cavity — diagnostic of an **Enterocele** (gas-filled intestine).
