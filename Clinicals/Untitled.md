@@ -1,1242 +1,1148 @@
 [[Sx]]
 
-# BREAST LUMP – CASE PRESENTATION
-## General Surgery | Final MBBS
+# BREAST LUMP – SURGERY CASE PRESENTATION
 
-**Case:** Right breast lump in a 50-year-old female
+> [!abstract] CASE SUMMARY
+> **Patient:** 50-year-old female  
+> **Chief complaint:** Lump in the right breast for 3 months  
+> **Location:** Upper outer quadrant of right breast  
+> **Provisional diagnosis in the discussion:** Malignant tumour of the right breast, probably Stage III according to the Manchester classification discussed in the source.
 
 ---
 
-# 1. PATIENT PARTICULARS
+# 1. HISTORY TAKING
 
-- Age: 50 years
-- Sex: Female
-- Religion: Hindu
-- Occupation: Housewife
-- Residence: Perila
+## 1.1 History of Presenting Illness
 
-## Chief Complaint
+> [!question] 🔵 TUTOR – Question
+> What is the significance of a painless breast lump that has gradually increased in size in a 50-year-old woman?
 
-- Lump in the right breast for 3 months.
+> [!success] 🟢 STUDENT – Answer
+> - The patient noticed a small lump in the right breast 3 months ago.
+> - It has gradually increased in size.
+> - It is painless.
+> - There is no change in its position within the gland.
 
-# 2. HISTORY OF PRESENTING ILLNESS
-
-### History
-
-**STUDENT – Presentation:**
-
-- Patient was apparently well 3 months ago.
-- Noticed a small lump in the right breast.
-- Initially, no associated symptoms.
-- Lump gradually increased in size.
-- No change in position within the breast.
-- No pain.
-
-**TUTOR – Question: Why is this history important?**
-
-**STUDENT – Answer:**
-
-- Painless, progressively enlarging breast lump in a 50-year-old woman is highly suspicious of malignancy.
-- Even a stable lump requires consideration of malignancy.
-- Benign lesions such as fibroadenoma and fibroadenosis are uncommon after menopause.
-
-## 2.1 Age-Wise Distribution of Breast Tumours
-
-**TUTOR – Question: How does age affect the occurrence of breast tumours?**
-
-**STUDENT – Answer:**
-
-| Condition | Age group |
-|---|---|
-| Hard fibroadenoma | 20–30 years |
-| Soft fibroadenoma | 35–45 years |
-| Fibroadenosis | Around reproductive age, particularly near menopause |
-| Carcinoma | Any age, more frequent after 40 years |
-
-# 3. ASSOCIATED SYMPTOMS
-
-## 3.1 Pain
-
-**STUDENT – History:**
-
-- No pain associated with the lump.
-- No premenstrual breast pain.
-
-**TUTOR – Question: What is the significance of premenstrual pain?**
-
-**STUDENT – Answer:**
-
-Premenstrual breast pain is commonly associated with fibroadenosis.
-
-## 3.2 Mobility of Lump
-
-**TUTOR – Question: What type of tumour remains mobile within the breast gland?**
-
-**STUDENT – Answer:**
-
-Solid fibroadenoma.
-
-**TUTOR – Question: What is its special name?**
-
-**STUDENT – Answer:**
-
-Mouse of the mammary gland.
-
-## 3.3 Nipple Discharge
-
-**STUDENT – History:**
-
-- No bloody discharge.
-- No purulent discharge.
-
-**TUTOR – Question: What are the types of nipple discharge and their causes?**
-
-**STUDENT – Answer:**
-
-### A. Clear / Watery Discharge
-
-- Fibroadenosis
-- Ductal papilloma
-
-### B. Milky Discharge
-
-- Lactational milk secretion
-- Non-puerperal galactorrhoea
-- Galactocele
-- Mammary duct ectasia
-
-### C. Bloody Discharge
-
-- Ductal papilloma
-- Ductal carcinoma
-
-**TUTOR – Question: Why can blood appear dark in ductal papilloma?**
-
-**STUDENT – Answer:**
-
-Blood remains inside the obstructed duct for some time and becomes altered, producing dark-coloured discharge.
-
-### D. Purulent Discharge
-
-- Acute mastitis
-- Chronic breast abscess with duct ectasia
-
-## 3.4 Other Associated Symptoms
-
-**STUDENT – History:**
-
-- No fever.
-- No pain or pus.
-- No ulceration over the tumour.
-- No recent nipple changes.
-- No recent weight loss.
-- No enlarged axillary or cervical lymph nodes reported in history.
-- No shoulder or back pain.
-- No abdominal mass.
-- No swelling of the opposite breast.
-
-**TUTOR – Question: Why did you ask these questions?**
-
-**STUDENT – Answer:**
-
-To look for evidence of malignancy and distant metastasis.
-
-# 4. BILATERAL BREAST INVOLVEMENT
-
-**TUTOR – Question: What conditions can involve both breasts?**
-
-**STUDENT – Answer:**
-
-- Fibroadenosis
-- Multiple fibroadenomas
-- Approximately 3% of breast cancers
-
-# 5. ETIOLOGY AND RISK FACTORS
-
-## 5.1 History of Trauma and Infection
-
-**STUDENT – History:**
-
-- No history of trauma.
-- No fever at the time of onset.
-- No pain at the time of onset.
-
-## 5.2 Family History
-
-**STUDENT – History:**
-
-- No history of breast cancer in mother or sister.
-
-**TUTOR – Question: Why is family history important?**
-
-**STUDENT – Answer:**
-
-Breast cancer in a first-degree relative, particularly mother or sister, is an important risk factor.
-
-**TUTOR – Question: How much does the risk increase?**
-
-**STUDENT – Answer:**
-
-- Approximately 5–10 times higher than the general population, according to the discussion.
-- Risk is particularly high with BRCA gene mutations.
-
-## 5.3 Risk Factors for Breast Cancer
-
-**TUTOR – Question: What are the other risk factors?**
-
-**STUDENT – Answer:**
-
-1. Age above 40 years.
-2. Unmarried women.
-3. Married women with lower fertility.
-4. Absence of breastfeeding.
-5. Fibroadenosis with epithelial hyperplasia.
-6. Breast cancer in mother or sister.
-7. Previous cancer in the opposite breast.
-
-## 5.4 Contraceptive History
-
-**STUDENT – History:**
-
-- No history of taking contraceptive pills.
-
-## 5.5 Obstetric and Lactational History
-
-**STUDENT – History:**
-
-- No recent lactation.
-- No recent breastfeeding.
-- P4 – Four children.
-- Last childbirth was 15 years ago.
-- Breastfed all four children.
-
-**TUTOR – Question: What is the significance of breastfeeding?**
-
-**STUDENT – Answer:**
-
-The discussion associates absence of breastfeeding with increased susceptibility to fibroadenoma and breast cancer.
-
-**TUTOR – Question: What conditions occur during lactation?**
-
-**STUDENT – Answer:**
-
-- Acute mastitis
-- Breast abscess
-- Acute lactational carcinoma (less commonly)
-- Galactocele
-
-## 5.6 Previous Treatment History
-
-**STUDENT – History:**
-
-- No definitive treatment for the swelling.
-- No previous surgery.
-- No previous biopsy.
-
-# 6. LOCAL EXAMINATION OF BREAST
-
-**TUTOR – Instruction:**
-
-Always begin with local examination.
-
-Initially examine both breasts simultaneously by inspection.
-
-## 6.1 Inspection
-
-### A. General Inspection
-
-**STUDENT – Findings:**
-
-- Right nipple is slightly higher than the left.
-- Breast asymmetry is present.
-- Diffuse bulging in the upper outer quadrant of the right breast.
-
-### B. Examination While Leaning Forward
-
-**STUDENT – Findings:**
-
-- Right breast moves less than the left breast.
-
-**TUTOR – Question: What is the significance of reduced mobility?**
-
-**STUDENT – Answer:**
-
-It may indicate:
-
-- Underlying fibrosis.
-- Fixation due to malignant infiltration.
-
-**TUTOR – Question: Fixation to which structure?**
-
-**STUDENT – Answer:**
-
-Thoracic fascia.
-
-### C. Examination with Arms Raised Above the Head
-
-**STUDENT – Findings:**
-
-- Right nipple rises less than the left.
-- Swelling becomes more prominent.
-- Skin over the swelling becomes wrinkled.
-- No visible axillary swelling.
-
-**TUTOR – Question: What does reduced nipple elevation indicate?**
-
-**STUDENT – Answer:**
-
-It suggests fixation to pectoral fascia or pectoralis muscle.
-
-**TUTOR – Question: What is this examination method called?**
-
-**STUDENT – Answer:**
-
-Okina's method of examining the mammary glands.
-
-> **TUTOR – IMPORTANT POINT**
+> [!important] 🟡 TUTOR – Teaching Point
+> A painless, progressively enlarging breast lump in a woman aged 50 years is highly suspicious of malignancy.
 >
-> Raising the arms above the head makes certain signs of breast malignancy more prominent and exposes the undersurface of the breasts and axillary region.
+> Even a lump that remains stable for a long period may require suspicion of malignancy in this age group.
 
-# 7. DETAILED INSPECTION OF THE AFFECTED BREAST
+## 1.2 Age and Breast Tumours
 
-## 7.1 Site and Shape
+> [!question] 🔵 TUTOR – Question
+> How does age affect the occurrence of breast tumours?
 
-**STUDENT – Findings:**
+> [!success] 🟢 STUDENT – Answer
+> - Fibroadenoma and fibroadenosis are more commonly encountered during the reproductive age group.
+> - Hard fibroadenomas are described in younger women, approximately 20–30 years.
+> - Softer fibroadenomas may occur around 35–45 years.
+> - Fibroadenosis is more common around the reproductive and menopausal periods.
+> - Carcinoma can occur at any age but is more frequent after 40 years.
 
-- Diffuse bulge in the upper outer quadrant.
-- Right nipple displaced upwards and outwards.
-- Nipple deviated towards the left.
+> [!tip] 🟣 VIVA PEARL
+> A new breast lump in a postmenopausal woman should always be properly evaluated.
 
-The nipple displacement towards the tumour is considered suggestive of malignancy in this discussion.
+## 1.3 Pain
+
+> [!question] 🔵 TUTOR – Question
+> What is the significance of pain in a breast lump?
+
+> [!success] 🟢 STUDENT – Answer
+> - The patient has no pain.
+> - There is no premenstrual breast pain.
+> - Premenstrual pain is commonly associated with fibroadenosis.
+
+## 1.4 Nipple Discharge
+
+> [!question] 🔵 TUTOR – Question
+> What are the types of nipple discharge and their causes?
+
+> [!success] 🟢 STUDENT – Answer
+
+> **Clear / watery discharge**
+> - Fibroadenosis
+> - Ductal papilloma
+
+> **Milky discharge**
+> - Lactation
+> - Non-puerperal galactorrhoea
+> - Galactocele
+> - Mammary duct ectasia
+
+> **Bloody discharge**
+> - Ductal papilloma
+> - Ductal carcinoma
 
-## 7.2 Nipple Deviation vs Displacement
+> **Purulent discharge**
+> - Acute mastitis
+> - Chronic abscess
+> - Duct ectasia
 
-**TUTOR – Question: What is the difference between deviation and displacement?**
+> [!important] 🟡 TUTOR – Teaching Point
+> The discussion distinguishes:
+> - Fresh blood in carcinoma.
+> - Dark altered blood in ductal papilloma, attributed to blood remaining within an obstructed duct.
 
-**STUDENT – Answer:**
+> [!success] 🟢 STUDENT – Answer: Present Case
+> - No bloody nipple discharge.
+> - No purulent nipple discharge.
 
-### Deviation
+## 1.5 Symptoms Suggesting Malignancy or Metastasis
 
-- Change in the direction in which the nipple points.
-- Normally nipples point slightly downwards and outwards.
-- Abnormal inward or outward direction is called deviation.
-- It is an early sign.
+> [!question] 🔵 TUTOR – Question
+> Which symptoms should be asked about to look for malignancy and metastasis?
 
-### Displacement
+> [!success] 🟢 STUDENT – Answer
+> - Recent weight loss.
+> - Enlarged axillary lymph nodes.
+> - Enlarged cervical lymph nodes.
+> - Shoulder pain.
+> - Back pain.
+> - Abdominal lump or mass.
+> - Ulceration over the tumour.
+> - Recent nipple changes.
 
-- Actual change in the position of the nipple.
-- Assessed by comparing measurements from the clavicle and midline with the opposite breast.
+> [!success] 🟢 STUDENT – Present Case
+> There is no history of:
+> - Recent weight loss.
+> - Enlarged axillary or cervical lymph nodes.
+> - Shoulder or back pain.
+> - Abdominal mass.
+> - Tumour ulceration.
+> - Recent nipple changes.
 
-| Deviation | Displacement |
-|---|---|
-| Change in direction | Change in actual position |
-| Early sign | May occur later |
-| Based on nipple orientation | Based on anatomical measurements |
+> [!important] 🟡 TUTOR – Teaching Point
+> These questions help assess possible local progression and distant metastasis.
 
-## 7.3 Nipple Appearance
+## 1.6 Bilateral Breast Involvement
 
-**STUDENT – Findings:**
+> [!question] 🔵 TUTOR – Question
+> What conditions may affect both breasts?
 
-- No bulging.
-- No flattening.
-- No retraction.
-- No cracks or fissures.
-- No tears.
+> [!success] 🟢 STUDENT – Answer
+> - Fibroadenosis.
+> - Multiple fibroadenomas.
+> - Breast carcinoma may occasionally be bilateral.
 
-## 7.4 Examination for Nipple Discharge
+## 1.7 Aetiology and Risk Factors
 
-**TUTOR – Question: How did you check for nipple discharge?**
+> [!question] 🔵 TUTOR – Question
+> Why do we ask about a family history of breast cancer?
 
-**STUDENT – Answer:**
+> [!success] 🟢 STUDENT – Answer
+> - Breast cancer in the mother or sister is an important risk factor.
+> - A family history may indicate an increased risk.
+> - BRCA gene mutations are associated with a particularly high risk.
 
-1. Stroke the breast from the periphery towards the centre in each quadrant.
-2. Squeeze the areola beneath the nipple.
-3. Inspect the patient's clothing for evidence of discharge.
+> [!question] 🔵 TUTOR – Question
+> What are the other risk factors for breast cancer mentioned in the discussion?
 
-## 7.5 Nipple Retraction
+> [!success] 🟢 STUDENT – Answer
+> - Age above 40 years.
+> - Nulliparity or low parity.
+> - Not breastfeeding.
+> - Fibroadenosis with epithelial hyperplasia.
+> - Breast cancer in mother or sister.
+> - Previous cancer in the opposite breast.
 
-**TUTOR – Question: Under what conditions does nipple retraction occur?**
+> [!success] 🟢 STUDENT – Present Case
+> - No history of breast cancer in the mother or sister.
+> - No history of contraceptive pill use.
+> - No recent lactation.
+> - Patient has delivered four children.
+> - Last childbirth was 15 years ago.
+> - Breastfed all her children.
 
-**STUDENT – Answer:**
+> [!question] 🔵 TUTOR – Question
+> What is the significance of breastfeeding?
 
-### A. Congenital Retraction
+> [!success] 🟢 STUDENT – Answer
+> The discussion describes breastfeeding as protective against certain breast conditions, including breast cancer.
 
-- Bilateral.
-- Present since birth.
-- Due to failure of normal evagination of the nipple bud.
+## 1.8 Conditions During Lactation
 
-### B. Acquired Retraction
+> [!question] 🔵 TUTOR – Question
+> What breast conditions can occur during lactation?
 
-- Usually unilateral.
-- Develops recently.
-- Clinically significant.
-- Commonly associated with carcinoma.
-- May also occur due to fibrosis in chronic breast abscess.
+> [!success] 🟢 STUDENT – Answer
+> - Acute mastitis.
+> - Breast abscess.
+> - Galactocele.
+> - Rarely, lactational carcinoma.
 
-**TUTOR – Question: What is the mechanism of nipple retraction?**
+## 1.9 Previous Treatment
 
-**STUDENT – Answer:**
+> [!success] 🟢 STUDENT – Answer
+> - No definitive treatment has been performed for the lump.
+> - No previous surgery.
+> - No previous biopsy of the mass.
 
-- Congenital: Failure of normal evagination of nipple bud.
-- Carcinoma: Infiltration and contraction of major milk ducts.
-- Chronic abscess: Fibrosis and retraction of subareolar tissue.
+---
 
-# 8. EXAMINATION OF AREOLA
+# 2. LOCAL EXAMINATION OF THE BREAST
 
-**STUDENT – Findings:**
+## 2.1 General Principles
 
-- Normal size.
-- No cracks.
-- No tears.
-- No redness.
-- No shine.
-- No exudation.
-- No skin breakdown.
+> [!question] 🔵 TUTOR – Question
+> How do you begin the local examination of a patient with a breast lump?
 
-**TUTOR – Question: What do redness, exudation and destruction of the areola indicate?**
+> [!success] 🟢 STUDENT – Answer
+> - Begin with inspection.
+> - Examine both breasts simultaneously.
+> - Compare the affected and opposite breast.
+> - Examine in appropriate positions.
 
-**STUDENT – Answer:**
+> [!important] 🟡 TUTOR – Teaching Point
+> Always compare both breasts during inspection and palpation.
 
-- Eczema
-- Paget's disease of the nipple
+## 2.2 Inspection – Position of the Patient
 
-## 8.1 Eczema vs Paget's Disease
+> [!success] 🟢 STUDENT – Present Case
+> On examination in the sitting position:
+> - Right nipple is slightly higher than the left.
+> - There is asymmetry of the breasts.
+> - Diffuse protrusion is seen in the upper outer quadrant of the right breast.
+> - On bending forward, the right breast moves less than the left.
 
-**TUTOR – Question: How will you differentiate between them?**
+> [!question] 🔵 TUTOR – Question
+> What is the significance of reduced mobility of the breast on bending forward?
 
-**STUDENT – Answer:**
+> [!success] 🟢 STUDENT – Answer
+> - It may be due to underlying fibrosis.
+> - It may indicate fixation due to malignant infiltration.
+> - Fixation may be related to the thoracic fascia.
 
-| Feature | Eczema | Paget's disease |
-|---|---|---|
-| Laterality | Usually bilateral | Usually unilateral |
-| Age | Younger women | Older women |
-| Association | Often lactation | Breast malignancy |
-| Itching | Common | Usually absent |
-| Vesicles | May be present | Usually absent |
-| Nipple destruction | Not characteristic | Characteristic |
-| Steroid response | Rapid improvement | No significant response |
+## 2.3 Inspection with Arms Raised
 
-# 9. EXAMINATION OF BREAST SKIN
+> [!success] 🟢 STUDENT – Present Case
+> On raising both arms above the head:
+> - The right nipple rises less than the left.
+> - The swelling becomes more prominent.
+> - The skin over the swelling appears wrinkled.
+> - No visible axillary swelling is noted.
 
-**STUDENT – Findings:**
+> [!question] 🔵 TUTOR – Question
+> What does reduced nipple elevation indicate?
 
-- No redness.
-- No shine.
-- No swelling.
-- No dilated veins.
-- No skin retraction.
-- No wrinkling.
-- No sagging.
-- No peau d'orange.
-- No nodules.
-- No ulcers.
+> [!success] 🟢 STUDENT – Answer
+> It may indicate fixation to the pectoral fascia or pectoral muscle.
 
-**TUTOR – Question: What do redness, shine and swelling indicate?**
+> [!question] 🔵 TUTOR – Question
+> What is this method of examination called?
 
-**STUDENT – Answer:**
+> [!success] 🟢 STUDENT – Answer
+> The transcript identifies this as Okina's method of examining the mammary glands.
 
-- Acute mastitis.
-- Breast abscess.
+> [!important] 🟡 TUTOR – Teaching Point
+> Raising the arms:
+> - Makes visible signs of breast malignancy more prominent.
+> - Helps expose the inferior aspect of the breasts.
+> - Helps inspect the axilla.
 
-Dilated veins without acute inflammation may indicate sarcoma.
+## 2.4 Local Inspection of the Affected Breast
 
-## 9.1 Peau d'Orange Sign
+> [!success] 🟢 STUDENT – Present Case
+> - Diffuse bulge in the upper outer quadrant of the right breast.
+> - Nipple displaced upwards and outwards.
+> - Nipple deviated towards the left.
+> - Nipple is not bulging, flattened or retracted.
+> - No cracks or fissures.
 
-**TUTOR – Question: What is the peau d'orange sign?**
+## 2.5 Nipple Deviation vs Displacement
 
-**STUDENT – Answer:**
+> [!question] 🔵 TUTOR – Question
+> What is the difference between nipple deviation and nipple displacement?
 
-A characteristic dimpled appearance of breast skin resembling orange peel.
+> [!success] 🟢 STUDENT – Answer
 
-**Mechanism:**
+> **Nipple deviation**
+> - Change in the direction in which the nipple points.
+> - Normally, nipples point slightly downwards and outwards.
+> - A nipple pointing inwards or outwards indicates deviation.
 
-1. Obstruction of cutaneous lymphatic vessels by carcinoma.
-2. Oedema of the dermis.
-3. Skin remains attached at openings of hair follicles and sweat glands.
-4. These areas cannot swell.
-5. Characteristic dimpling appears.
+> **Nipple displacement**
+> - Actual change in the position of the nipple.
+> - Assessed by comparing measurements from the clavicle and midline with the opposite breast.
 
-## 9.2 Ulceration of Breast Skin
+> [!important] 🟡 TUTOR – Teaching Point
+> The discussion describes deviation as an earlier sign than displacement.
 
-**TUTOR – Question: In which conditions can breast skin ulceration occur?**
+## 2.6 Examination for Nipple Discharge
 
-**STUDENT – Answer:**
+> [!question] 🔵 TUTOR – Question
+> How do you examine for nipple discharge?
 
-- Fungating carcinoma.
-- Rapidly growing fibroadenoma.
-- Phyllodes tumour.
+> [!success] 🟢 STUDENT – Answer
+> 1. Stroke the breast from the periphery towards the centre in each quadrant.
+> 2. Compress the areola beneath the nipple.
+> 3. Inspect the patient's clothing for evidence of discharge.
 
-**Mechanism:**
+## 2.7 Nipple Retraction
 
-Pressure at the point of maximum tension causes atrophy of the overlying skin, eventually producing ulceration.
+> [!question] 🔵 TUTOR – Question
+> Under what conditions does nipple retraction occur?
 
-**TUTOR – Question: How will you clinically differentiate carcinoma from benign tumour with ulceration?**
+> [!success] 🟢 STUDENT – Answer
 
-**STUDENT – Answer:**
+> **Congenital retraction**
+> - Present from birth.
+> - Usually bilateral.
+> - Due to failure of normal evagination of the nipple bud.
 
-Try to pass a probe beneath the edge of the skin.
+> **Acquired retraction**
+> - Develops recently.
+> - Usually unilateral.
+> - Clinically significant.
+> - Commonly associated with carcinoma.
+> - May also occur in chronic abscess due to fibrosis.
 
-- In benign neoplasms, it may be possible to pass the probe.
-- In carcinoma, skin infiltration prevents passage.
+> [!question] 🔵 TUTOR – Question
+> What is the mechanism of nipple retraction?
 
-# 10. EXAMINATION OF OPPOSITE BREAST AND UPPER LIMB
+> [!success] 🟢 STUDENT – Answer
+> - In carcinoma: infiltration and contraction of the main milk ducts.
+> - In chronic abscess: fibrosis and retraction of subareolar tissue.
 
-**STUDENT – Findings:**
+> [!warning] 🔴 CLINICAL SIGNIFICANCE
+> Recent unilateral nipple retraction requires evaluation for underlying malignancy.
 
-- Left breast appears normal.
-- No swelling of the hands.
+## 2.8 Examination of the Areola
 
-**TUTOR – Question: In which condition does arm swelling occur with breast tumour?**
+> [!success] 🟢 STUDENT – Present Case
+> - Areola is of normal size.
+> - No cracks or fissures.
+> - No redness.
+> - No shine.
+> - No exudation.
+> - No skin destruction.
 
-**STUDENT – Answer:**
+> [!question] 🔵 TUTOR – Question
+> What does redness, exudation and destruction of the nipple-areolar region suggest?
 
-Carcinoma breast.
+> [!success] 🟢 STUDENT – Answer
+> - Eczema.
+> - Paget's disease of the breast.
 
-**TUTOR – Question: What is the mechanism?**
+## 2.9 Eczema vs Paget's Disease
 
-**STUDENT – Answer:**
+> [!question] 🔵 TUTOR – Question
+> How do you differentiate eczema from Paget's disease?
 
-Extensive infiltration of axillary lymph nodes and lymphatic vessels causes obstruction, resulting in lymphoedema of the arm.
+> [!success] 🟢 STUDENT – Answer
 
-### Other Causes of Arm Swelling After Treatment
+> **Eczema**
+> - Usually bilateral.
+> - More common in younger women.
+> - May occur during lactation.
+> - Itching is common.
+> - Vesicles may be present.
+> - Responds rapidly to topical steroid treatment.
 
-1. Radiation-induced fibrosis in the axilla causing lymphatic obstruction.
-2. Axillary lymphadenectomy causing lymphoedema.
-3. Postoperative axillary vein thrombosis causing venous oedema.
+> **Paget's disease**
+> - Usually unilateral.
+> - More common in older women.
+> - Occurs closer to menopause.
+> - Nipple destruction may occur.
+> - Swelling beneath the nipple may be present.
+> - Does not respond to topical steroid treatment in the same way as eczema.
 
-# 11. PALPATION OF BREAST
+> [!tip] 🟣 VIVA PEARL
+> Persistent unilateral eczematous changes of the nipple should raise suspicion of Paget's disease.
 
-> **TUTOR – IMPORTANT INSTRUCTION**
->
-> Always palpate the healthy, opposite breast first.
+## 2.10 Examination of Breast Skin
 
-## 11.1 Left Breast
+> [!success] 🟢 STUDENT – Present Case
+> - No redness.
+> - No shine.
+> - No swelling.
+> - No dilated veins.
+> - No skin retraction.
+> - No wrinkling or sagging.
+> - No peau d'orange.
+> - No satellite nodules.
+> - No ulceration.
 
-**STUDENT – Findings:**
+> [!question] 🔵 TUTOR – Question
+> What do redness, shine and swelling of the breast skin indicate?
 
-- Left mammary gland is normal.
+> [!success] 🟢 STUDENT – Answer
+> - Acute mastitis.
+> - Breast abscess.
 
-## 11.2 Right Breast
+> [!question] 🔵 TUTOR – Question
+> What do dilated veins without acute inflammation suggest?
 
-**STUDENT – Findings:**
+> [!success] 🟢 STUDENT – Answer
+> The discussion mentions sarcoma.
 
-- No local rise in temperature.
-- No tenderness.
+## 2.11 Peau d'Orange
 
-**STUDENT – Interpretation:**
+> [!question] 🔵 TUTOR – Question
+> What is the peau d'orange or lemon-peel appearance?
 
-No evidence of acute breast abscess.
+> [!success] 🟢 STUDENT – Answer
+> - Characteristic dimpled appearance of the skin.
+> - Resembles the surface of an orange.
+> - Occurs due to oedema of the dermis.
+> - Dimples correspond to hair follicles and sweat gland openings.
+> - These areas are firmly attached and cannot swell normally.
 
-**TUTOR – Teaching Point:**
+> [!important] 🟡 TUTOR – Teaching Point
+> In carcinoma, obstruction of cutaneous lymphatic vessels causes dermal oedema and produces the peau d'orange appearance.
 
-A chronic abscess (antibioma) may not be warm or painful.
+## 2.12 Ulceration of the Breast
 
-## 11.3 Flat-Palm Palpation
+> [!question] 🔵 TUTOR – Question
+> In which conditions can ulceration occur over a breast lump?
 
-**TUTOR – Question: Why specifically mention palpation with a flat palm?**
+> [!success] 🟢 STUDENT – Answer
+> - Carcinoma of the breast.
+> - Rapidly growing fibroadenoma.
+> - Phyllodes tumour.
 
-**STUDENT – Answer:**
+> [!question] 🔵 TUTOR – Question
+> What is the mechanism of ulceration in a rapidly growing benign tumour?
 
-Sometimes nodularity is felt when the breast tissue is palpated between the fingers.
+> [!success] 🟢 STUDENT – Answer
+> Pressure at the point of maximum tension may cause atrophy of the overlying skin, resulting in ulceration.
 
-However, when palpated using a flat palm, no definite nodule may be felt.
+## 2.13 Differentiating Skin Infiltration from Pressure Ulceration
 
-This is characteristic of fibroadenosis.
+> [!question] 🔵 TUTOR – Question
+> How would you clinically differentiate carcinoma from a benign tumour causing pressure ulceration?
 
-It can also occur in:
+> [!success] 🟢 STUDENT – Answer
+> Try to pass a probe beneath the edge of the skin:
+> - In a benign tumour, it may be possible to pass the probe beneath the skin.
+> - In carcinoma with skin infiltration, this is not possible.
 
-- Normal lactating breast.
-- Normal breast before menstruation.
+---
 
-**STUDENT – Findings:**
+# 3. OPPOSITE BREAST AND UPPER LIMB
 
-On flat-palm palpation, a definite nodule measuring 4 × 4 × 3 cm is felt in the upper outer quadrant.
+## 3.1 Opposite Breast
 
-**TUTOR – Teaching Point:**
+> [!success] 🟢 STUDENT – Present Case
+> The left mammary gland appears normal.
 
-Always mention the size of a lump in three dimensions whenever possible.
+## 3.2 Upper Limb Oedema
 
-## 11.4 Differential Diagnosis of Large Breast Mass
+> [!question] 🔵 TUTOR – Question
+> Under what conditions can arm swelling occur in a patient with a breast tumour?
 
-**TUTOR – Question: Suppose the lump is approximately 15 cm. What conditions will you consider?**
+> [!success] 🟢 STUDENT – Answer
+> Arm swelling may occur due to:
+> 1. Extensive infiltration of axillary lymph nodes and lymphatic vessels.
+> 2. Radiation-induced fibrosis in the axilla.
+> 3. Axillary lymphadenectomy resulting in loss of lymphatic drainage.
+> 4. Postoperative axillary vein thrombosis causing venous oedema.
 
-**STUDENT – Answer:**
+> [!important] 🟡 TUTOR – Teaching Point
+> Lymphatic obstruction can cause lymphoedema of the ipsilateral upper limb.
 
-1. Giant fibroadenoma.
-2. Phyllodes tumour.
-3. Colloid carcinoma.
-4. Sarcoma.
-5. Benign mammary hypertrophy.
-6. Filarial elephantiasis of the breast.
+> [!success] 🟢 STUDENT – Present Case
+> No swelling of the upper limbs is present.
 
-# 12. CHARACTERISTICS OF THE BREAST LUMP
+---
 
-## 12.1 Shape and Surface
+# 4. PALPATION OF THE BREAST
 
-**STUDENT – Findings:**
+## 4.1 General Principle
 
-- Spherical-shaped nodule.
-- Uneven surface.
-- Ill-defined borders.
-- Merges with surrounding breast tissue.
+> [!question] 🔵 TUTOR – Question
+> Which breast should be palpated first?
 
-**TUTOR – Question: Which lesions have irregular surfaces and ill-defined margins?**
+> [!success] 🟢 STUDENT – Answer
+> Always palpate the normal or opposite breast first.
 
-**STUDENT – Answer:**
+## 4.2 Temperature and Tenderness
 
-- Carcinoma breast.
-- Fibroadenosis.
+> [!success] 🟢 STUDENT – Present Case
+> - No local increase in temperature in the right breast.
+> - No tenderness.
 
-**TUTOR – Question: Which lesions are well-defined and spherical?**
+> [!question] 🔵 TUTOR – Question
+> What does absence of local warmth and tenderness suggest?
 
-**STUDENT – Answer:**
+> [!success] 🟢 STUDENT – Answer
+> It makes an acute abscess less likely.
 
-- Fibroadenoma.
-- Breast cyst.
+> [!important] 🟡 TUTOR – Teaching Point
+> A chronic abscess, also referred to in the discussion as an antibioma, may not be warm or painful.
 
-## 12.2 Breast Cyst
+## 4.3 Flat Palm Method
 
-**TUTOR – Question: What is a cyst?**
+> [!success] 🟢 STUDENT – Present Case
+> On palpation with a flat palm, a single nodule is felt in the upper outer quadrant.
 
-**STUDENT – Answer:**
+> [!question] 🔵 TUTOR – Question
+> Why is palpation with a flat palm important?
 
-A cyst is a collection of fluid within a cavity lined by epithelium or endothelium.
+> [!success] 🟢 STUDENT – Answer
+> - A nodular feeling may sometimes be produced when breast tissue is palpated between the fingers.
+> - However, when palpated with a flat palm, a true discrete lump can be distinguished from nodularity of the breast tissue.
+> - Fibroadenosis may produce nodularity without a discrete lump.
 
-**TUTOR – Question: What types of cysts can occur in the breast?**
+> [!important] 🟡 TUTOR – Teaching Point
+> Always mention the size of the lump in three dimensions.
 
-**STUDENT – Answer:**
+## 4.4 Size of the Lump
 
-1. Multiple cysts in fibroadenosis.
-2. Cystic disease.
-3. Cystic degeneration in malignant neoplasms.
-4. Chronic abscess.
-5. Galactocele.
-6. Cystic hygroma.
-7. Echinococcal cyst.
+> [!success] 🟢 STUDENT – Present Case
+> A lump measuring approximately **4 × 4 × 3 cm** is felt in the upper outer quadrant.
 
-## 12.3 Consistency
+> [!question] 🔵 TUTOR – Question
+> If the lump were much larger, approximately 15 cm, what conditions would you consider?
 
-**STUDENT – Findings:**
+> [!success] 🟢 STUDENT – Answer
+> - Giant fibroadenoma.
+> - Phyllodes tumour.
+> - Colloid carcinoma.
+> - Sarcoma.
+> - Benign mammary hypertrophy.
+> - Filarial elephantiasis of the breast.
 
-The lump is firm throughout.
+## 4.5 Surface and Margins
 
-**TUTOR – Question: Describe the consistency of different breast lesions.**
+> [!success] 🟢 STUDENT – Present Case
+> - Spherical lump.
+> - Uneven surface.
+> - Ill-defined margins.
+> - Merges with the surrounding breast tissue.
+> - Firm consistency throughout.
 
-**STUDENT – Answer:**
+> [!question] 🔵 TUTOR – Question
+> Which lesions commonly have an irregular surface and ill-defined margins?
 
-| Lesion | Consistency |
-|---|---|
-| Fibroadenoma | Firm, rubbery |
-| Fibroadenosis | India-rubber-like diffuse thickening |
-| Carcinoma | Hard as a rock |
-| Cyst | Soft |
-| Lipoma | Soft |
-| Abscess | Soft / fluctuant |
+> [!success] 🟢 STUDENT – Answer
+> - Breast carcinoma.
+> - Fibroadenosis.
 
-**STUDENT – Additional Finding:**
+> [!question] 🔵 TUTOR – Question
+> Which lesions are usually well-defined and spherical?
 
-No blood or other discharge is elicited on pressing the nipple.
+> [!success] 🟢 STUDENT – Answer
+> - Fibroadenoma.
+> - Breast cyst.
 
-# 13. SKIN FIXATION AND TETHERING
+## 4.6 Breast Cyst
 
-**STUDENT – Findings:**
+> [!question] 🔵 TUTOR – Question
+> What is a cyst?
 
-The lump is connected to the skin but is not fused to it.
+> [!success] 🟢 STUDENT – Answer
+> A cyst is a collection of fluid within a cavity lined by epithelium or endothelium.
 
-**TUTOR – Question: What does tethering mean?**
+> [!question] 🔵 TUTOR – Question
+> What types of cysts can occur in the breast?
 
-**STUDENT – Answer:**
+> [!success] 🟢 STUDENT – Answer
+> - Multiple cysts in fibroadenosis.
+> - Cystic degeneration in malignant neoplasms.
+> - Chronic abscess.
+> - Galactocele.
+> - Cystic hygroma.
+> - Echinococcal cyst.
 
-Tethering means the skin can be moved relative to the tumour to a limited extent, but becomes retracted when:
+## 4.7 Consistency of Breast Lumps
 
-- Skin is moved.
-- Patient raises the arm above the head.
-- An attempt is made to gather the skin into a fold over the tumour.
+> [!question] 🔵 TUTOR – Question
+> What is the consistency of different breast lumps?
 
-**Mechanism:**
+> [!success] 🟢 STUDENT – Answer
 
-1. Carcinoma infiltrates Cooper's ligaments.
-2. Cooper's ligaments connect breast tissue to skin.
-3. Skin is pulled inwards, producing tethering.
-4. At this stage, skin itself is not infiltrated.
+> **Fibroadenoma**
+> - Firm.
+> - Rubbery consistency.
 
-### Skin Fusion
+> **Fibroadenosis**
+> - Diffuse increased density.
+> - May feel like India rubber.
 
-When infiltration reaches the skin:
+> **Carcinoma**
+> - Hard consistency.
+> - Described as rock-hard.
 
-- Skin and tumour cannot be moved independently.
-- Skin cannot be pinched and lifted above the tumour.
-- Tumour is said to be fused to the skin.
+> **Soft lesions**
+> - Cysts.
+> - Lipomas.
+> - Abscesses.
 
-**TUTOR – Question: What is the significance of skin fixation?**
+> [!tip] 🟣 VIVA PEARL
+> Always describe consistency along with surface, margins, mobility and fixation.
 
-**STUDENT – Answer:**
+## 4.8 Relationship with the Skin – Tethering vs Fixation
 
-Skin fixation is strongly suggestive of carcinoma breast.
+> [!success] 🟢 STUDENT – Present Case
+> The lump is connected to the skin but is not fused with it.
 
-However, it can occasionally occur in:
+> [!question] 🔵 TUTOR – Question
+> What is meant by tethering of the skin?
 
-- Traumatic fat necrosis.
-- Chronic breast abscess.
+> [!success] 🟢 STUDENT – Answer
+> - The skin can be moved over the tumour to a limited extent.
+> - It gets pulled or retracted during movement.
+> - Retraction may become evident when the patient raises the arm.
+> - The skin may also be pulled when attempting to pinch it into a fold.
 
-# 14. FIXATION TO BREAST TISSUE, PECTORAL MUSCLE AND CHEST WALL
+> [!important] 🟡 TUTOR – Teaching Point
+> Tethering occurs when carcinoma involves Cooper's ligaments, which connect the breast tissue to the skin, without direct infiltration of the skin itself.
 
-**STUDENT – Findings:**
+> [!question] 🔵 TUTOR – Question
+> What happens when the tumour infiltrates the skin?
 
-- Lump is fixed within breast tissue.
-- Fixed to pectoralis muscle.
-- Not fixed to chest wall.
+> [!success] 🟢 STUDENT – Answer
+> - The skin and tumour cannot be moved independently.
+> - The skin cannot be pinched and lifted over the tumour.
+> - The tumour becomes fused to the skin.
 
-## 14.1 Fixation to Breast Tissue
+> [!question] 🔵 TUTOR – Question
+> What is the significance of fixation to the skin?
 
-**TUTOR – Question: How did you check fixation to breast tissue?**
+> [!success] 🟢 STUDENT – Answer
+> It strongly suggests carcinoma, although it may occasionally be seen in traumatic fat necrosis and chronic abscess.
 
-**STUDENT – Answer:**
+## 4.9 Fixation to Breast Tissue
 
-1. Stabilise surrounding breast tissue using the left hand.
-2. Spread thumb and remaining fingers on either side of the lump.
-3. Attempt to move the lump in different directions within the stabilised breast tissue.
-4. Lump remains immobile.
+> [!success] 🟢 STUDENT – Present Case
+> The lump is fixed within the breast tissue.
 
-This indicates fixation to breast tissue.
+> [!question] 🔵 TUTOR – Question
+> How do you examine fixation of the lump to the breast tissue?
 
-## 14.2 Fixation to Pectoralis Major
+> [!success] 🟢 STUDENT – Answer
+> 1. Stabilise the breast tissue around the lump with the left hand.
+> 2. Spread the thumb and fingers on either side of the lump.
+> 3. Attempt to move the lump in different directions within the stabilised breast tissue.
+> 4. Observe whether the lump is mobile or fixed.
 
-**TUTOR – Question: How did you check fixation to the pectoralis muscle?**
+## 4.10 Fixation to Pectoralis Major
 
-**STUDENT – Answer:**
+> [!question] 🔵 TUTOR – Question
+> How do you check fixation of the lump to the pectoralis major muscle?
 
-1. Ask the patient to place her hand on the thigh on the affected side.
-2. Assess mobility of the lump along and perpendicular to the muscle fibres.
-3. Ask the patient to press firmly against the thigh to contract pectoralis major.
-4. Reassess mobility.
+> [!success] 🟢 STUDENT – Answer
+> 1. Ask the patient to keep the hand on the thigh on the affected side.
+> 2. Assess mobility of the lump along and perpendicular to the muscle fibres.
+> 3. Ask the patient to press the hand firmly against the thigh to tense the pectoralis major.
+> 4. Reassess the mobility of the lump.
 
-**Interpretation:**
+> [!important] 🟡 TUTOR – Teaching Point
+> - A lump mobile over a relaxed muscle is less likely to be attached to the chest wall.
+> - Limited mobility when the muscle is tensed suggests fixation to the pectoralis major muscle or fascia.
 
-- Restricted mobility suggests fixation to pectoralis major muscle or fascia.
-- If the lump is mobile over the relaxed muscle, it is not attached to chest wall.
+## 4.11 Fixation to Serratus Anterior
 
-## 14.3 Fixation to Serratus Anterior
+> [!question] 🔵 TUTOR – Question
+> If the tumour is in the lower outer quadrant, which muscle should also be examined?
 
-**TUTOR – Question: If the tumour is in the lower outer quadrant, which additional muscle should be examined?**
+> [!success] 🟢 STUDENT – Answer
+> Serratus anterior muscle.
 
-**STUDENT – Answer:**
+> [!question] 🔵 TUTOR – Question
+> How do you examine fixation to serratus anterior?
 
-Serratus anterior muscle.
+> [!success] 🟢 STUDENT – Answer
+> 1. Ask the patient to stand approximately 2 feet away from a wall.
+> 2. Ask the patient to press against the wall with the outstretched arm on the affected side.
+> 3. Assess the mobility of the lump.
 
-**TUTOR – Question: How will you examine it?**
+---
 
-**STUDENT – Answer:**
+# 5. AXILLARY LYMPH NODE EXAMINATION
 
-1. Ask the patient to stand approximately 2 feet away from a wall.
-2. Ask her to press against the wall using the outstretched arm on the affected side.
-3. Assess mobility of the tumour.
+## 5.1 Present Case Findings
 
-# 15. EXAMINATION OF REGIONAL LYMPH NODES
+> [!success] 🟢 STUDENT – Present Case
+> - One mobile, firm lymph node is palpable in the medial chain of the right axilla.
+> - Size: approximately 3 × 2 cm.
+> - Other lymph nodes in both axillae and the neck are not palpable.
 
-## 15.1 Axillary Lymph Nodes
+## 5.2 Groups of Axillary Lymph Nodes
 
-**STUDENT – Findings:**
+> [!question] 🔵 TUTOR – Question
+> Which groups of lymph nodes do you examine in the axilla?
 
-- One mobile, firm lymph node measuring 3 × 2 cm is palpable in the medial chain.
-- Other lymph nodes in both axillae are not palpable.
-- Cervical lymph nodes are not palpable.
+> [!success] 🟢 STUDENT – Answer
+> Five main groups are examined:
 
-## 15.2 Groups of Axillary Lymph Nodes
+> 1. **Apical group** – At the apex of the axilla.
+> 2. **Central group** – Medially along the chest wall.
+> 3. **Anterior / pectoral group** – Beneath the anterior axillary fold.
+> 4. **Brachial group** – Laterally along the brachial vessels.
+> 5. **Posterior / subscapular group** – Beneath the posterior axillary fold.
 
-**TUTOR – Question: What groups of axillary lymph nodes did you examine?**
+## 5.3 Technique of Axillary Lymph Node Palpation
 
-**STUDENT – Answer:**
+> [!question] 🔵 TUTOR – Question
+> How do you palpate the axillary lymph node groups?
 
-Five main groups:
+> [!success] 🟢 STUDENT – Answer
 
-| Group | Location |
-|---|---|
-| Apical | Apex of axilla |
-| Central | Central part of axilla |
-| Anterior / Pectoral | Beneath anterior axillary fold |
-| Brachial | Along brachial vessels on lateral wall |
-| Posterior / Subscapular | Beneath posterior axillary fold |
+> **Position**
+> - Abduct the patient's shoulder.
+> - Flex the forearm.
+> - Support the patient's arm on your forearm.
 
-## 15.3 Method of Palpation
+> **Central group**
+> - Hold the patient by the opposite shoulder.
+> - Use the other hand to palpate the central group.
+> - Slide the fingers along the chest wall deep into the axilla.
 
-**TUTOR – Question: How did you palpate the axillary lymph nodes?**
+> **Apical group**
+> - Push the fingers as high as possible into the apex of the axilla.
 
-**STUDENT – Answer:**
+> **Anterior / pectoral group**
+> - Turn the palm forwards beneath the anterior axillary fold.
+> - Palpate the pectoral group against the anterior axillary fold.
 
-### Patient Position
+> **Brachial group**
+> - Insert the hand into the axilla.
+> - Palpate the brachial group against the humerus.
 
-- Shoulder abducted.
-- Forearm flexed and supported.
-- Patient's arm relaxed.
+> **Posterior / subscapular group**
+> - Stand behind the patient.
+> - Palpate beneath the posterior axillary fold.
 
-### Steps
+> **Additional lymph nodes**
+> - Examine the deltopectoral groove below the clavicle.
+> - Examine supraclavicular lymph nodes on both sides.
+> - Palpate the opposite axilla in a similar manner.
 
-**1. Central Group**
+> [!tip] 🟣 VIVA PEARL
+> Always examine both axillae, the supraclavicular region and the opposite breast.
 
-- Support the patient by holding the opposite shoulder.
-- Insert fingers deep into axilla.
-- Slide fingers along chest wall.
-- Palpate central group.
+---
 
-**2. Apical Group**
+# 6. SYSTEMIC EXAMINATION
 
-- Push fingers as high as possible into axilla.
-- Palpate apical group.
+> [!question] 🔵 TUTOR – Question
+> What specific points do you examine during systemic examination in a patient with suspected breast carcinoma?
 
-**3. Anterior / Pectoral Group**
+> [!success] 🟢 STUDENT – Answer
 
-- Place palm forward beneath anterior axillary fold.
-- Palpate the pectoral group.
+> **Respiratory system**
+> - Chest examination is normal.
+> - No signs of consolidation.
+> - No signs of collapse.
+> - No signs of pleural effusion.
 
-**4. Brachial Group**
+> **Spine**
+> - No spinal tenderness.
+> - Movements are not restricted.
+> - Straight leg raise test is normal.
 
-- Insert the opposite hand into axilla.
-- Palpate lateral wall against humerus.
+> **Abdomen**
+> - Liver is not palpable.
+> - No signs of free fluid in the abdominal cavity.
 
-**5. Posterior / Subscapular Group**
+> **Pelvic examination**
+> - Vaginal and rectal examination was mentioned in the discussion to look for pelvic metastases.
 
-- Stand behind the patient.
-- Palpate beneath posterior axillary fold.
+---
 
-### Additional Lymph Node Examination
+# 7. PROVISIONAL DIAGNOSIS
 
-**6. Deltopectoral Nodes**
+> [!success] 🟢 STUDENT – Diagnosis
+> A malignant tumour of the upper outer quadrant of the right breast, probably Stage III carcinoma according to the Manchester classification discussed in the transcript.
 
-- Palpate deltopectoral groove below the clavicle.
+> [!important] 🟡 TUTOR – Teaching Point
+> The diagnosis should be based on:
+> - History.
+> - Inspection.
+> - Palpation.
+> - Skin involvement.
+> - Nipple changes.
+> - Axillary lymph node findings.
+> - Systemic examination.
 
-**7. Supraclavicular Nodes**
+---
 
-- Stand behind the patient.
-- Palpate behind the middle third of clavicle on both sides.
+# 8. MANCHESTER CLASSIFICATION
 
-**8. Opposite Axilla**
+> [!question] 🔵 TUTOR – Question
+> Explain the Manchester classification of breast carcinoma.
 
-- Examine opposite axilla in a similar manner.
-
-# 16. SYSTEMIC EXAMINATION
-
-**TUTOR – Question: Mention the important findings of systemic examination.**
-
-**STUDENT – Answer:**
-
-## 16.1 Respiratory System
-
-- Chest examination normal.
-- No signs of consolidation.
-- No signs of collapse.
-- No pleural effusion.
-
-## 16.2 Musculoskeletal System
-
-- Spine is non-tender.
-- Spinal movements are not restricted.
-- Straight leg raising test is normal.
-
-## 16.3 Abdominal Examination
-
-- Liver is not palpable.
-- No signs of free fluid in abdominal cavity.
-
-## 16.4 Additional Examination
-
-**STUDENT – Plan:**
-
-Vaginal and rectal examinations are requested to look for pelvic metastases.
-
-# 17. PROVISIONAL DIAGNOSIS
-
-**STUDENT – Diagnosis:**
-
-Malignant tumour of the upper outer quadrant of the right breast, probably Stage III carcinoma according to the Manchester classification.
-
-# 18. MANCHESTER CLASSIFICATION OF BREAST CANCER
-
-**TUTOR – Question: Explain the Manchester classification of breast cancer.**
-
-**STUDENT – Answer:**
-
-It is a four-stage classification based on clinical examination.
+> [!success] 🟢 STUDENT – Answer
+> The discussion describes a four-stage clinical classification.
 
 ## Stage I
 
-- Tumour limited to breast.
-- No palpable lymph nodes.
-- Skin changes, if present, are directly over tumour.
-- Skin changes are smaller than tumour itself.
+> [!info] 🟠 STAGE I
+> - Tumour limited to the breast.
+> - Lymph nodes are not palpable.
+> - If skin changes are present, they are directly over the tumour.
+> - Skin changes are connected to the tumour and smaller than the tumour itself.
 
 ## Stage II
 
-- Tumour limited to breast.
-- Mobile ipsilateral axillary lymph nodes are palpable.
+> [!info] 🟠 STAGE II
+> - Similar to Stage I.
+> - Mobile ipsilateral axillary lymph nodes are palpable.
 
 ## Stage III
 
-- Extensive skin involvement.
-- Skin fixation.
-- Peau d'orange appearance.
-- Skin ulceration.
-- Fixation to pectoral fascia or muscle.
-- Fixed ipsilateral axillary lymph nodes.
+> [!warning] 🔴 STAGE III
+> - Skin involvement larger than the tumour.
+> - Skin fixation or lemon-peel appearance.
+> - Skin ulceration.
+> - Fixation to pectoral fascia or muscles.
+> - Fixed ipsilateral axillary lymph nodes.
 
 ## Stage IV
 
-- Fixation of tumour to chest wall.
-- Supraclavicular lymph node involvement.
-- Contralateral axillary lymph node involvement.
-- Distant metastases.
-- Satellite skin nodules.
-- Involvement of opposite breast.
-
-# 19. STAGING VS GRADING
-
-**TUTOR – Question: What is the difference between staging and grading of a malignant tumour?**
-
-**STUDENT – Answer:**
-
-| Staging | Grading |
-|---|---|
-| Indicates extent of tumour spread | Indicates cellular characteristics |
-| Assesses local invasion and metastasis | Assesses differentiation and anaplasia |
-| Based on anatomical extent | Based on histopathological appearance |
-
-# 20. INVESTIGATIONS
-
-**TUTOR – Question: What investigations will you order for this patient?**
-
-**STUDENT – Answer:**
-
-## 20.1 Routine Blood Investigations
-
-1. Complete blood count.
-2. Blood sugar.
-3. Glycosylated haemoglobin (HbA1c).
-4. Serum urea.
-5. Serum creatinine.
-6. Liver function tests.
-7. HIV testing.
-8. Hepatitis B testing.
-9. Hepatitis C testing.
-
-## 20.2 Cardiorespiratory Investigations
-
-1. Chest X-ray.
-2. ECG.
-3. Echocardiography.
-
-## 20.3 Breast-Specific Investigations
-
-### A. Mammography
-
-**TUTOR – Question: What is the role of mammography?**
-
-**STUDENT – Answer:**
-
-Mammography may demonstrate:
-
-- Pleomorphic solid mass.
-- Spiculated margins.
-- Irregular edges.
-- Microcalcifications.
-- Distortion of normal breast architecture.
-
-**Other Uses:**
-
-1. Helps differentiate benign and malignant lesions when clinical diagnosis is uncertain.
-2. Helps identify multicentric lesions.
-3. Useful in screening high-risk patients.
-4. Helps detect early malignancy.
-5. Particularly useful in fatty involution of breast where small lesions may be difficult to palpate.
-
-### B. Tissue Diagnosis
-
-**STUDENT – Plan:**
-
-- Tissue diagnosis for histopathological confirmation.
-- Determine ER status.
-- TAPB – Fine needle aspiration biopsy.
-- If TAPB results are inconclusive, perform core needle biopsy or excisional biopsy.
-
-## 20.4 Investigations for Metastasis
-
-**STUDENT – Plan:**
-
-1. CT scan of chest.
-2. Bone scan.
-3. X-ray of spine.
-4. MRI of spine, if indicated.
-5. Ultrasound of liver and abdominal organs.
-
-# 21. MANAGEMENT OF BREAST CARCINOMA
-
-## 21.1 Management of the Present Patient
-
-**TUTOR – Question:**
-
-The tumour is more than 2 cm, fixed to pectoral fascia, and mobile axillary lymph nodes are palpable. This represents locally advanced disease. What will you do?
-
-**STUDENT – Answer:**
-
-I would recommend:
-
-1. Total mastectomy with axillary lymph node dissection.
-2. Postoperative radiation therapy.
-3. Chemotherapy.
-4. Hormonal therapy depending on receptor status.
-5. Regular follow-up.
-
-**TUTOR – Question: Why not perform radical mastectomy?**
-
-**STUDENT – Answer:**
-
-In advanced stages, carcinoma may have spread beyond the possibilities of complete surgical treatment. Therefore, radical surgery may not be justified.
-
-# 22. STAGE-WISE SURGICAL MANAGEMENT
-
-## 22.1 Early Localised Tumour
-
-**TUTOR – Question: What is your treatment plan for an early localised tumour?**
-
-**STUDENT – Answer:**
-
-For an early localised tumour smaller than 5 cm, I would advise modified radical mastectomy as a radical treatment.
-
-## 22.2 Modified Radical Mastectomy
-
-**TUTOR – Question: What structures are removed during modified radical mastectomy?**
-
-**STUDENT – Answer:**
-
-### Structures Removed
-
-1. Entire breast tissue.
-2. Ellipsoidal skin flap.
-3. Nipple.
-4. Areola.
-5. Skin overlying the tumour.
-6. Axillary fibro-fatty lymphatic tissue below and medial to axillary vein, extending to apex.
-
-### Structures Preserved
-
-- Nerve to latissimus dorsi.
-- Nerve to serratus anterior.
-
-## 22.3 Modified Radical vs Halsted Radical Mastectomy
-
-**TUTOR – Question: How does modified radical mastectomy differ from the original Halsted radical mastectomy?**
-
-**STUDENT – Answer:**
-
-### Halsted Radical Mastectomy
-
-The original Halsted procedure also removed:
-
-- Pectoralis minor muscle.
-- Sternocostal portion of pectoralis major muscle.
-
-**Consequences:**
-
-- Loss of anterior axillary fold.
-- Shoulder dysfunction.
-- Arm lymphoedema in many patients.
-
-### Patey Mastectomy
-
-- Pectoralis minor muscle is removed.
-- Allows better exposure of axillary area and lymphatic tissue.
-
-**TUTOR – Question: What other structures are removed during Halsted operation?**
-
-**STUDENT – Answer:**
-
-- Aponeurosis and superficial fibres of serratus anterior laterally.
-- Latissimus dorsi.
-- Subscapularis muscle.
-- Upper edge of internal oblique muscle anteriorly.
-
-# 23. BREAST-CONSERVING SURGERY
-
-**TUTOR – Question: What if the tumour is solitary, less than 2 cm and histologically well differentiated?**
-
-**STUDENT – Answer:**
-
-Consider organ-preserving surgery.
-
-### Procedure
-
-1. Excision of tumour.
-2. Maintain a 1 cm margin on all sides.
-3. Sentinel lymph node biopsy.
-4. Postoperative radiation therapy to remaining breast.
-
-### If Sentinel Lymph Node Is Positive
-
-- If frozen section shows malignant cells in sentinel lymph node, proceed to axillary lymph node dissection.
-
-## 23.1 Is Radiation Therapy Necessary in Every Case?
-
-**TUTOR – Question: Will you perform breast radiation therapy in every case?**
-
-**STUDENT – Answer:**
-
-- Radiation therapy is necessary after breast-conserving surgery to prevent recurrence in remaining breast tissue.
-- It is not always necessary after mastectomy if resection margins are clear.
-
-## 23.2 Radiation to Regional Lymph Nodes
-
-**TUTOR – Question: What about the axillary region?**
-
-**STUDENT – Answer:**
-
-- If histopathology reveals metastasis in axillary lymph nodes, radiation therapy to axillary region may be advised.
-- If more than four lymph nodes are involved, supraclavicular and internal thoracic lymph node regions may also be irradiated.
-
-# 24. SYSTEMIC THERAPY
-
-**STUDENT – Answer:**
-
-Systemic treatment consists of:
-
-1. Chemotherapy.
-2. Hormonal therapy depending on receptor status.
-3. Targeted therapy depending on HER2 status.
-
-## 24.1 Chemotherapy
-
-**STUDENT – Answer:**
-
-The chemotherapy regimens mentioned in the discussion are:
-
-### FAC Regimen
-
-- 5-Fluorouracil.
-- Adriamycin.
-- Cyclophosphamide.
-
-### CMF Regimen
-
-- 5-Fluorouracil.
-- Methotrexate.
-- Cyclophosphamide.
-
-The discussion mentions weekly administration for six cycles.
-
-## 24.2 Hormonal Therapy
-
-**STUDENT – Answer:**
-
-For hormone receptor-positive tumours, anti-estrogen therapy may be prescribed.
-
-Drugs mentioned:
-
-- Letrozole.
-- Tamoxifen.
-
-Duration mentioned in discussion: 5 years.
-
-## 24.3 Targeted Therapy
-
-**STUDENT – Answer:**
-
-For HER2-positive breast cancer:
-
-- Trastuzumab, a monoclonal antibody, is used.
-- Duration mentioned in discussion: 1 year.
-
-# 25. MANAGEMENT OF LOCALLY ADVANCED BREAST CANCER
-
-**TUTOR – Question:**
-
-What will you do if the patient has Stage IIB or Stage III disease, with involvement of pectoral muscle, chest wall or extensive skin, but no distant metastases?
-
-**STUDENT – Answer:**
-
-## Step 1: Confirm Diagnosis
-
-- Perform core needle biopsy.
-- Confirm histopathology.
-- Determine receptor status.
-
-## Step 2: Assess Resectability
-
-Assess whether the tumour can be completely removed and whether skin flap closure is possible.
-
-## Step 3: If Tumour Is Resectable
-
-- Perform palliative simple mastectomy as described in the discussion.
-- Follow with chemotherapy.
-- Give radiation therapy.
-
-## Step 4: If Tumour Is Not Resectable
-
-- Begin a full course of neoadjuvant (primary) chemotherapy.
-
-## Step 5: Reassess After Chemotherapy
-
-**If tumour shrinks and becomes resectable:**
-
-- Proceed with surgery.
-
-**If tumour remains unresectable:**
-
-- Give radiation therapy as described in the discussion.
+> [!danger] 🔴 STAGE IV
+> - Tumour fixed to the chest wall.
+> - Supraclavicular lymph node involvement.
+> - Contralateral axillary lymph node involvement.
+> - Distant metastasis.
+> - Satellite skin nodules.
+> - Involvement of the opposite breast.
+
+> [!important] 🟡 EXAM NOTE
+> This is the classification as presented in the teaching transcript. Do not automatically equate its stages with modern TNM staging.
 
 ---
 
-# 26. QUICK VIVA REVISION
+# 9. STAGING VS GRADING
 
-## Patient Profile
+> [!question] 🔵 TUTOR – Question
+> What is the difference between staging and grading of a malignant neoplasm?
 
-- 50-year-old female.
-- Right breast lump for 3 months.
-- Progressive increase in size.
-- Painless.
-- No nipple discharge.
-- No constitutional symptoms.
+> [!success] 🟢 STUDENT – Answer
 
-## Local Examination Findings
+> **Staging**
+> - Indicates the extent of the tumour.
+> - Indicates local invasion and spread.
+> - Includes lymph node and distant metastasis assessment.
 
-| Parameter | Finding |
-|---|---|
-| Side | Right breast |
-| Site | Upper outer quadrant |
-| Size | 4 × 4 × 3 cm |
-| Surface | Uneven |
-| Margins | Ill-defined |
-| Consistency | Firm |
-| Skin | Tethered, not fused |
-| Breast tissue | Fixed |
-| Pectoral muscle | Fixed |
-| Chest wall | Not fixed |
-| Nipple | Displaced upwards and outwards |
-| Axillary nodes | One mobile, firm node |
-| Node size | 3 × 2 cm |
+> **Grading**
+> - Indicates the degree of cellular differentiation.
+> - Reflects cellular abnormalities.
+> - Indicates the degree of anaplasia.
 
-## Provisional Diagnosis
-
-Malignant tumour of the upper outer quadrant of right breast, probably Stage III carcinoma according to Manchester classification.
-
-## Important Differentials
-
-1. Fibroadenosis.
-2. Fibroadenoma.
-3. Breast cyst.
-4. Phyllodes tumour.
-5. Breast abscess.
-6. Breast carcinoma.
-
-## Important Examination Points
-
-- Always examine the opposite breast first during palpation.
-- Mention lump size in three dimensions.
-- Assess skin tethering and fixation.
-- Check fixation to breast tissue, pectoral muscle and chest wall separately.
-- Examine all five groups of axillary lymph nodes.
-- Examine supraclavicular and deltopectoral lymph nodes.
-- Look for evidence of distant metastasis.
+> [!tip] 🟣 VIVA PEARL
+> **Staging = Extent of spread.**  
+> **Grading = Degree of cellular differentiation.**
 
 ---
 
-# END OF CASE PRESENTATION
+# 10. INVESTIGATIONS
 
-> **Note:** These notes preserve the tutor–student discussion. Clinical classifications, investigations, drug regimens and management recommendations are reproduced from the source and should be verified against current guidelines before clinical application.
+## 10.1 Routine Investigations
+
+> [!question] 🔵 TUTOR – Question
+> What investigations would you order for this patient?
+
+> [!success] 🟢 STUDENT – Answer
+> - Complete blood count.
+> - Blood sugar.
+> - Glycosylated haemoglobin (HbA1c).
+> - Serum urea.
+> - Serum creatinine.
+> - Liver function tests.
+> - HIV testing.
+> - Hepatitis B testing.
+> - Hepatitis C testing.
+> - Chest X-ray.
+> - Echocardiography.
+> - ECG.
+
+## 10.2 Breast-Specific Investigations
+
+> [!success] 🟢 STUDENT – Answer
+> - Mammography.
+> - ER receptor status.
+> - TAPB / fine-needle aspiration biopsy.
+> - Core needle biopsy if TAPB is inconclusive.
+> - Excisional biopsy if required.
+
+> [!important] 🟡 TUTOR – Teaching Point
+> The discussion mentions histopathological confirmation and receptor assessment as important parts of the work-up.
+
+## 10.3 Investigations for Metastasis
+
+> [!success] 🟢 STUDENT – Answer
+> - CT scan of the chest.
+> - Bone scan.
+> - X-ray of the spine.
+> - MRI of the spine, if indicated.
+> - Ultrasound of the liver.
+> - Ultrasound of abdominal organs.
+
+## 10.4 Role of Mammography
+
+> [!question] 🔵 TUTOR – Question
+> What is the role of mammography in breast carcinoma?
+
+> [!success] 🟢 STUDENT – Answer
+> Mammography may demonstrate:
+> - Pleomorphic solid mass.
+> - Spiculated margins.
+> - Irregular edges.
+> - Microcalcifications.
+> - Distortion of normal breast architecture.
+
+> [!important] 🟡 TUTOR – Teaching Point
+> Mammography:
+> - Helps differentiate benign and malignant lesions when clinical findings are uncertain.
+> - Helps detect multicentric lesions.
+> - Is useful for screening high-risk patients.
+> - Helps detect small lesions, particularly in fatty involution of the breast.
+
+---
+
+# 11. MANAGEMENT
+
+## 11.1 Management Plan for the Present Case
+
+> [!question] 🔵 TUTOR – Question
+> The patient has a node greater than 2 cm, fixation to the pectoral fascia and palpable mobile axillary lymph nodes. What would you recommend?
+
+> [!success] 🟢 STUDENT – Answer
+> The student proposed:
+> - Total mastectomy.
+> - Axillary lymph node dissection.
+> - Postoperative radiation therapy.
+> - Chemotherapy.
+> - Hormonal therapy, as indicated.
+> - Regular follow-up.
+
+> [!question] 🔵 TUTOR – Question
+> Why not perform a radical mastectomy?
+
+> [!success] 🟢 STUDENT – Answer
+> The discussion states that in advanced Stage III and Stage IV disease, carcinoma may have spread beyond the scope of complete surgical treatment, making radical surgery unjustified.
+
+## 11.2 Modified Radical Mastectomy
+
+> [!question] 🔵 TUTOR – Question
+> What is the treatment plan for an early localised tumour smaller than 5 cm, according to the discussion?
+
+> [!success] 🟢 STUDENT – Answer
+> Modified radical mastectomy was proposed as a radical treatment option.
+
+> [!question] 🔵 TUTOR – Question
+> What structures are removed during modified radical mastectomy?
+
+> [!success] 🟢 STUDENT – Answer
+> - All breast tissue.
+> - Ellipsoidal skin flap.
+> - Nipple.
+> - Areola.
+> - Skin overlying the tumour.
+> - Axillary tissue below and medial to the axillary vein, extending to the apex.
+> - Fibrofatty lymphatic tissue of the axilla.
+
+> [!important] 🟡 TUTOR – Teaching Point
+> The nerves supplying the latissimus dorsi and serratus anterior are carefully preserved in the operation described.
+
+## 11.3 Modified Radical vs Classical Radical Mastectomy
+
+> [!question] 🔵 TUTOR – Question
+> How does modified radical mastectomy differ from the original Halsted radical mastectomy?
+
+> [!success] 🟢 STUDENT – Answer
+
+> **Modified radical mastectomy**
+> - Removes the breast and axillary lymphatic tissue.
+> - Preserves the pectoral muscles in the commonly used muscle-preserving approach.
+
+> **Halsted radical mastectomy**
+> - Removes the breast.
+> - Removes the pectoralis minor.
+> - Removes the sternocostal portion of pectoralis major, as described in the transcript.
+> - More extensive muscle removal can cause loss of the axillary fold, shoulder dysfunction and arm lymphoedema.
+
+> [!question] 🔵 TUTOR – Question
+> What is removed in a Patey mastectomy?
+
+> [!success] 🟢 STUDENT – Answer
+> The transcript describes removal of the pectoralis minor to improve exposure of the axilla and lymphatic tissue.
+
+> [!question] 🔵 TUTOR – Question
+> What other structures are described as being removed in the Halsted operation?
+
+> [!success] 🟢 STUDENT – Answer
+> The discussion mentions:
+> - Aponeurosis and superficial fibres of serratus anterior laterally.
+> - Latissimus dorsi and subscapularis.
+> - Upper edge of internal oblique anteriorly.
+
+## 11.4 Breast-Conserving Surgery
+
+> [!question] 🔵 TUTOR – Question
+> When can organ-preserving surgery be considered?
+
+> [!success] 🟢 STUDENT – Answer
+> The discussion suggests considering it when:
+> - The tumour is solitary.
+> - Tumour size is less than 2 cm.
+> - Histology shows a well-differentiated tumour.
+
+> [!success] 🟢 STUDENT – Answer: Procedure Described
+> - Remove the tumour with a 1 cm margin on all sides.
+> - Perform sentinel lymph node biopsy.
+> - Give postoperative radiation therapy to the remaining breast.
+> - If malignant cells are detected in the sentinel node on frozen section, proceed to axillary lymph node dissection.
+
+## 11.5 Radiation Therapy
+
+> [!question] 🔵 TUTOR – Question
+> Is breast radiation required in every case?
+
+> [!success] 🟢 STUDENT – Answer
+> - Radiation is necessary after breast-conserving surgery to reduce recurrence in the remaining breast tissue.
+> - The discussion states that it may not be necessary after radical mastectomy when resection margins are clear.
+
+> [!question] 🔵 TUTOR – Question
+> What is the role of radiation therapy in axillary lymph node involvement?
+
+> [!success] 🟢 STUDENT – Answer
+> - If axillary lymph node metastases are detected, radiation to the axillary area may be advised.
+> - If more than four lymph nodes are involved, the discussion mentions radiation to the supraclavicular and internal thoracic lymph nodes.
+
+---
+
+# 12. SYSTEMIC THERAPY
+
+## 12.1 Chemotherapy
+
+> [!question] 🔵 TUTOR – Question
+> What systemic therapy is described after surgery?
+
+> [!success] 🟢 STUDENT – Answer
+> The discussion mentions chemotherapy and hormonal therapy according to receptor status.
+
+> [!question] 🔵 TUTOR – Question
+> Which chemotherapy regimens are mentioned in the transcript?
+
+> [!success] 🟢 STUDENT – Answer
+> **FAC regimen**
+> - 5-Fluorouracil.
+> - Adriamycin.
+> - Cyclophosphamide.
+
+> **CMF regimen**
+> - 5-Fluorouracil.
+> - Methotrexate.
+> - Cyclophosphamide.
+
+> [!warning] 🔴 IMPORTANT
+> These are regimens quoted from the source discussion, not a current treatment prescription. Actual chemotherapy selection and schedule depend on contemporary oncology protocols and patient-specific factors.
+
+## 12.2 Hormonal Therapy
+
+> [!question] 🔵 TUTOR – Question
+> What hormonal treatment is mentioned for receptor-positive breast carcinoma?
+
+> [!success] 🟢 STUDENT – Answer
+> The transcript mentions:
+> - Letrozole.
+> - Tamoxifen.
+> - Treatment duration described in the discussion: 5 years.
+
+> [!important] 🟡 TUTOR – Teaching Point
+> Hormonal therapy depends on hormone receptor status, particularly ER and PR status.
+
+## 12.3 HER2-Targeted Therapy
+
+> [!question] 🔵 TUTOR – Question
+> What treatment is mentioned for HER2-positive breast carcinoma?
+
+> [!success] 🟢 STUDENT – Answer
+> - Trastuzumab.
+> - The transcript describes treatment with trastuzumab for 1 year.
+
+> [!important] 🟡 TUTOR – Teaching Point
+> Trastuzumab is a monoclonal antibody directed against HER2.
+
+---
+
+# 13. LOCALLY ADVANCED BREAST CARCINOMA
+
+## 13.1 Definition and Assessment
+
+> [!question] 🔵 TUTOR – Question
+> How would you manage Stage IIB or Stage III disease with involvement of the pectoral muscle, chest wall or a large area of skin, without distant metastasis?
+
+> [!success] 🟢 STUDENT – Answer
+> - Confirm the diagnosis.
+> - Determine receptor status using core biopsy.
+> - Assess whether the tumour is surgically resectable.
+
+## 13.2 If the Tumour Is Resectable
+
+> [!success] 🟢 STUDENT – Answer
+> If the tumour is completely resectable and skin-flap closure is possible:
+> - The transcript proposes surgery by palliative simple mastectomy.
+> - Follow with chemotherapy.
+> - Give radiation therapy.
+
+## 13.3 If the Tumour Is Not Resectable
+
+> [!success] 🟢 STUDENT – Answer
+> If complete removal is not possible:
+> 1. Give neoadjuvant (primary) chemotherapy.
+> 2. Reassess tumour size and resectability after chemotherapy.
+> 3. If the tumour shrinks and becomes resectable, proceed with surgery.
+> 4. If it remains unresectable, the discussion proposes radiation therapy.
+
+> [!important] 🟡 TUTOR – Teaching Point
+> Neoadjuvant chemotherapy is given before surgery to reduce tumour size and potentially make an initially unresectable tumour operable.
+
+---
+
+# 14. QUICK VIVA REVISION
+
+> [!tip] 🟣 IMPORTANT QUESTIONS
+> **History**
+> - Why is a painless breast lump in a 50-year-old suspicious?
+> - What are the causes of nipple discharge?
+> - What are the risk factors for breast carcinoma?
+> - Why is family history important?
+>
+> **Inspection**
+> - Difference between nipple deviation and displacement?
+> - What is the significance of nipple retraction?
+> - Differentiate eczema from Paget's disease.
+> - What is peau d'orange?
+>
+> **Palpation**
+> - Why use the flat palm?
+> - What are the characteristics of fibroadenoma and carcinoma?
+> - Differentiate tethering from fixation.
+> - How do you check fixation to pectoralis major?
+>
+> **Lymph nodes**
+> - Name the five axillary lymph node groups.
+> - Describe the technique of axillary palpation.
+>
+> **Diagnosis and investigations**
+> - Explain the Manchester classification.
+> - Differentiate staging from grading.
+> - What is the role of mammography?
+> - What is triple assessment?
+>
+> **Management**
+> - What is modified radical mastectomy?
+> - Differentiate modified radical and Halsted mastectomy.
+> - What is breast-conserving surgery?
+> - What is the role of sentinel lymph node biopsy?
+> - How is locally advanced breast carcinoma managed?
+
+---
+
+# 15. IMPORTANT CLINICAL NOTE
+
+> [!warning] 🔴 VERIFY BEFORE CLINICAL APPLICATION
+> These notes organise the tutor–student discussion in the supplied transcript. Some terminology, classification details and treatment recommendations in the source may be historical or affected by transcription errors.
+>
+> In particular:
+> - The Manchester classification is reproduced as described in the transcript.
+> - The chemotherapy regimens and treatment durations are source-derived.
+> - The transcript's surgical descriptions should be checked against standard surgical textbooks.
+> - Modern breast cancer staging, investigations and treatment should be verified against current guidelines and the treating oncology team.
+>
+> Use these notes to understand the case discussion and prepare for viva; do not use them as a standalone treatment protocol.
