@@ -11,18 +11,28 @@
             "id": "1df241d25b3c5d24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Medicine/Cardiology/Wide complex tachycardia ECG.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Medicine/Cardiology/ACS.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Wide complex tachycardia ECG"
+              "icon": "lucide-file-text",
+              "title": "ACS"
+            }
+          },
+          {
+            "id": "b609adb485115f9e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Medicine/Cardiology/ACS.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ACS"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -118,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Medicine/Cardiology/Wide complex tachycardia ECG.md",
+            "file": "Medicine/Cardiology/ACS.pdf",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -175,10 +185,11 @@
   },
   "active": "1df241d25b3c5d24",
   "lastOpenFiles": [
+    "Medicine/Cardiology/ACS.pdf",
+    "Medicine/Cardiology/Wide complex tachycardia ECG.md",
     "Stable angina.md",
     "Chest pain DDx.md",
     "stable angina.pdf",
-    "Medicine/Cardiology/Wide complex tachycardia ECG.md",
     "Chest pain DDx.pdf",
     "Medicine/GIT/Upper abdominal pain DDx.md",
     "Pharma/Gi and endo/H2 antagonist ,PPI.pdf",
@@ -198,7 +209,6 @@
     "Medicine/Cardiology/Ecg.png",
     "Medicine/Cardiology/TR.md",
     "Medicine/Cardiology/IMG_20261008_192252248.jpg",
-    "Medicine/Cardiology/ACS.pdf",
     "Medicine/Cardiology/ADHF Mx.pdf",
     "Medicine/Cardiology/Htn emergency.md",
     "Medicine/Cardiology/HF Mx.pdf",
