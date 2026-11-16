@@ -236,21 +236,21 @@ Anterior Abdominal Wall        Groin & Pelvic Region     Lumbar & Gluteal Region
     - **Deep Ring Location**: Situated **1.25 cm to 1.5 cm (0.5 inch) above the mid-inguinal point**.
 - **Procedure**: Reduce the swelling in supine position with thigh flexed and internally rotated (to ==relax external ring structures==). Place one hand behind the scrotum and apply even pressure to reduce the swelling. Place the thumb over the ==deep ring (1.25 cm to 1.5 cm above mid-inguinal point)== and ask the patient to stand up and cough.
 - **Test Interpretation**:
-    - **Positive Test**: Swelling **DOES NOT REAPPEAR** while thumb pressure is maintained over the deep ring (Confirms **Indirect Inguinal Hernia**).
-    - **Negative Test**: Swelling escapes medial to the thumb through the posterior wall (Confirms **Direct Inguinal Hernia**).
-- **Fallacies / Causes of False Negative Ring Occlusion Test**:
-    1. Internal ring excessively stretched in a large indirect hernia, so the thumb cannot completely seal the ring (hernia escapes by the side of the thumb).
-    2. **Pantaloon / Dual Hernia**: Co-existing indirect and direct components (indirect component is blocked, but direct component escapes).
-    3. Insufficient thumb pressure exerted by the examiner.
+    - **Positive Test**: Swelling **==DOES NOT REAPPEAR==** while thumb pressure is maintained over the deep ring (Confirms **Indirect Inguinal Hernia**).
+    - **Negative Test**: Swelling escapes _==medial_ to the thumb== through the posterior wall (Confirms **Direct Inguinal Hernia**).
+> - **Fallacies / Causes of False Negative Ring Occlusion Test**:
+>     1. Internal ring ==excessively stretched== in a large indirect hernia, so the thumb cannot completely seal the ring (hernia escapes by the side of the thumb).
+>     2. **==Pantaloon / Dual Hernia==**: Co-existing indirect and direct components (indirect component is blocked, but direct component escapes).
+>     3. ==Insufficient thumb pressure== exerted by the examiner.
 
 ---
 
 #### 2. Finger Invagination Test
 
-- **Procedure**: Invaginate scrotal skin starting at the bottom of the scrotum using the index finger. Locate the pubic tubercle and enter the external ring, negotiating the inguinal canal directed **upward, backward, and outward**.
+- **Procedure**: Invaginate scrotal skin starting at the bottom of the scrotum using the index finger. Locate the pubic tubercle and enter the external ring, negotiating the inguinal canal directed **==upward, backward, and outward==**.
 - **Impulse Localization**:
-    - Impulse felt at the **TIP of the finger** = **Indirect Inguinal Hernia**.
-    - Impulse felt on the **PULP (palmar surface) of the finger** = **Direct Inguinal Hernia**.
+    - Impulse felt at the **==TIP== of the finger** = **==Indirect== Inguinal Hernia**.
+    - Impulse felt on the **==PULP== (palmar surface) of the finger** = **==Direct== Inguinal Hernia**.
 - **Precaution**: Perform ONLY when the patient is comfortable and free of pain or acute inflammation.
 
 ---
@@ -258,8 +258,8 @@ Anterior Abdominal Wall        Groin & Pelvic Region     Lumbar & Gluteal Region
 #### 3. Abdominal Wall Muscle Tone (Carnett's / Head-Raising Test)
 
 - Test tone by asking the patient to raise their head and shoulders off the couch or blow against closed vocal cords (Valsalva).
-- **Findings**: Abdominal muscle tone is **GOOD**. No Malgaigne's bulging on straining.
-- **Clinical Significance**: Poor abdominal muscle tone is an indication for **Hernioplasty (Synthetic Mesh Repair)**.
+- **Findings**: Abdominal muscle tone is **GOOD**. No Malgaigne's bulging on straining.==longitudinal bulging  over the lateral part of the inguinal ligament==
+- **Clinical Significance**: Poor abdominal muscle tone is an indication for **==Hernioplasty== (Synthetic Mesh Repair)**.
 
 ---
 
@@ -288,8 +288,8 @@ Anterior Abdominal Wall        Groin & Pelvic Region     Lumbar & Gluteal Region
 
 ### Prostatic Outflow Obstruction Management Protocol
 
-- **IMPORTANT**: If an enlarged prostate is detected in an elderly patient, **the prostate condition MUST BE TREATED FIRST** (medically or via TURP).
-- **Rationale**: Operating on the hernia while the patient continues to strain during micturition leads to immediate post-operative mesh disruption and hernia recurrence.
+- **IMPORTANT**: If an enlarged prostate is detected in an elderly patient, **the prostate condition MUST BE TREATED ==FIRST==** (medically or via TURP).
+- **Rationale**: Operating on the hernia while the patient continues to strain during micturition leads to immediate post-operative mesh disruption and hernia ==recurrence==.
 
 ---
 
@@ -300,21 +300,28 @@ Anterior Abdominal Wall        Groin & Pelvic Region     Lumbar & Gluteal Region
                                      │
      ┌───────────────────────────────┴───────────────────────────────┐
      ▼                                                               ▼
-Prosthetic Mesh Repair (Lichtenstein)               Pure Tissue Repair (Shouldice)
+Prosthetic Mesh Repair (Lichtenstein)             Pure Tissue Repair (Shouldice)
 • Gold standard tension-free hernioplasty.          • 4-layer double-breasting of
-• Polypropylene mesh placed on posterior wall.         transversalis fascia (no mesh).
-• Sutured to inguinal ligament & conjoint tendon.   • Uses continuous 2-0 / 3-0 Prolene.
+• Polypropylene mesh placed on posterior wall.    transversalis fascia (no mesh).
+• Sutured to inguinal ligament & conjoint tendon.• Uses continuous 2-0 / 3-0 Prolene.
 ```
 
 1. **Essential Steps of Indirect Hernia Repair**:
-    - High ligation of the sac at the deep internal ring.
-    - Narrowing of the dilated internal ring (Marcy repair).
-    - Posterior wall repair/reinforcement.
+    - ==High ligation== of the sac at the deep internal ring.
+    - Narrowing of the dilated internal ring (==Marcy== repair).
+    - ==Posterior wall== repair/reinforcement.
 2. **Polypropylene Mesh Hernioplasty (Lichtenstein Repair)**:
     - **Gold Standard**: Polypropylene (Prolene) mesh placed behind the spermatic cord over the posterior wall. Sutured to the pubic tubercle and inguinal ligament below, and conjoint tendon above.
-3. **Non-Mesh Repair — Shouldice Repair**:
-    - Transversalis fascia is incised and **double-breasted in 4 layers** using continuous 2-0 or 3-0 Prolene sutures. Alternatively, a strip of external oblique aponeurosis is used behind the cord.
-4. **Key Surgical Steps Summary**:
+3. **Non-Mesh Repair —
+     1. Shouldice Repair
+       Transversalis fascia is incised and **double-breasted in 4 layers** using continuous 2-0 or 3-0 Prolene sutures. Alternatively, a strip of external oblique aponeurosis is used behind the cord.
+     2. Mayers Hernioplasty(SKIN)
+     3. Desardas repair (EOA)
+    
+
+     
+     
+5. **Key Surgical Steps Summary**:
     - **Indirect Hernia Key Step**: High ligation of the sac and narrowing of the internal ring.
     - **Direct Hernia Key Step**: Repair and reinforcement of the transversalis fascia in the weak posterior wall.
 
