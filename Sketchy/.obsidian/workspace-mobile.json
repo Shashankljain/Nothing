@@ -11,28 +11,18 @@
             "id": "1df241d25b3c5d24",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Medicine/Cardiology/ACS.pdf"
+                "file": "Medicine/Cardiology/acute pericarditis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "ACS"
-            }
-          },
-          {
-            "id": "b609adb485115f9e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Medicine/Cardiology/ACS.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ACS"
+              "icon": "lucide-file",
+              "title": "acute pericarditis"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Medicine/Cardiology/ACS.pdf",
+            "file": "Medicine/Cardiology/acute pericarditis.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -185,6 +175,7 @@
   },
   "active": "1df241d25b3c5d24",
   "lastOpenFiles": [
+    "Medicine/Cardiology/pericarditis,cardiac tamponad,constrictive pericarditis.pdf",
     "Medicine/Cardiology/ACS.pdf",
     "Medicine/Cardiology/Wide complex tachycardia ECG.md",
     "Stable angina.md",
