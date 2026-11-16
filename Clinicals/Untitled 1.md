@@ -36,15 +36,15 @@ A 40-year-old male presented with swelling over the right side of the scrotum fo
 
 ### Important points in the history
 
-| Feature | History |
-|---|---|
-| Onset | Gradual |
-| Duration | 2 years |
-| Progression | Gradually increased, then became stable |
-| Increase on straining | Absent |
-| Reduction on lying down | Absent |
-| Reduction on compression | Absent |
-| Rapid increase in size | Absent |
+| Feature                  | History                                 |
+| ------------------------ | --------------------------------------- |
+| Onset                    | Gradual                                 |
+| Duration                 | 2 years                                 |
+| Progression              | Gradually increased, then became stable |
+| Increase on straining    | Absent                                  |
+| Reduction on lying down  | Absent                                  |
+| Reduction on compression | Absent                                  |
+| Rapid increase in size   | Absent (==testicular tumor==)           |
 
 > [!important] Clinical significance
 > A long-standing, gradually progressive, painless scrotal swelling that does not reduce on lying down or compression suggests hydrocele.
