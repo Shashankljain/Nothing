@@ -270,8 +270,8 @@ No:
 ### Position of sinus and ulcer
 
 > [!important] High-yield clinical point
-> - **Posterior sinus:** Classically associated with tuberculous epididymitis.
-> - **Anterior ulcer:** May occur following rupture of a testicular gumma.
+> - **Posterior sinus:** Classically associated with ==tuberculous epididymitis.==
+> - **Anterior ulcer:** May occur following rupture of a ==testicular gumma.==
 
 **Can tuberculosis produce an anterior sinus?**
 
@@ -282,11 +282,11 @@ Yes.
 - A tuberculous sinus arising from the epididymis may therefore open on the anterior surface.
 - This can be assessed by palpating the opposite testis.
 
-### Causes of skin excoriation in large hydrocele
+### Causes of ==skin excoriation== in large hydrocele
 
 1. **Buried penis:** The penis sinks into the enlarged scrotum. The patient cannot direct the urinary stream, causing urine to flow over the scrotal skin.
 2. **Friction:** Scrotal skin rubs against the medial aspect of the thighs while walking.
-3. **Irritating applications:** Application of irritating herbal remedies may damage the skin.
+3. **Irritating applications:** Application of irritating ==herbal remedies== may damage the skin.
 
 ## 2.4 Cough Impulse
 
@@ -349,11 +349,11 @@ Only the spermatic cord structures are felt below the external inguinal ring.
 
 **Question: What is the difference between reducibility and compressibility?**
 
-| Feature | Reducibility | Compressibility |
-|---|---|---|
-| Meaning | Swelling decreases in size on pressure | Swelling decreases in size on pressure |
-| After pressure is released | Does not spontaneously regain its size | Spontaneously regains its size |
-| Mechanism discussed | Displacement of contents/viscera | Emptying and refilling of fluid or blood |
+| Feature                    | Reducibility                               | Compressibility                          |
+| -------------------------- | ------------------------------------------ | ---------------------------------------- |
+| Meaning                    | Swelling decreases in size on pressure     | Swelling decreases in size on pressure   |
+| After pressure is released | Does ==not== spontaneously regain its size | Spontaneously ==regains== its size       |
+| Mechanism discussed        | Displacement of contents/viscera           | Emptying and refilling of fluid or blood |
 
 ### Swellings showing compressibility
 
@@ -369,11 +369,11 @@ Only the spermatic cord structures are felt below the external inguinal ring.
 
 ### Definition
 
-Fluctuation is the presence of a transmitted impulse in **two planes at right angles to each other**.
+Fluctuation is the presence of a ==transmitted impulse in **two planes== at right angles to each other**.
 
 **What does a positive fluctuation test indicate?**
 
-It indicates that the swelling contains fluid.
+It indicates that the swelling contains ==fluid==.
 
 ### Method
 
@@ -387,7 +387,7 @@ It indicates that the swelling contains fluid.
 
 The scrotum is freely movable.
 
-If it is not stabilised, movement of the entire swelling may produce a false impression of fluctuation.
+If it is not stabilised, movement of the entire swelling may produce a ==false impression== of fluctuation.
 
 > [!important] Key point
 > Fix the swelling before performing fluctuation to avoid a false-positive result due to movement of the scrotum.
@@ -410,12 +410,12 @@ This indicates that the swelling is translucent.
 
 ## 4.2 Why Examine the Normal Side First?
 
-Normal skin translucency varies according to:
-- Skin thickness
-- Power of the flashlight
-- Lighting in the examination room
+==Normal skin translucency varies according to:==
+- ==Skin thickness==
+- ==Power of the flashlight==
+- ==Lighting in the examination room==
 
-Thin skin or a powerful flashlight may produce a false impression of positive transillumination.
+Thin skin or a powerful flashlight may produce a ==false impression== of positive transillumination.
 
 ## 4.3 What if the Glow Is Doubtful?
 
@@ -434,14 +434,14 @@ In this case, the finding supports hydrocele.
 
 ## 4.5 False-negative Transillumination
 
-A hydrocele may fail to transilluminate when:
-
-1. The fluid is cloudy.
-2. The sac wall is thickened due to infection.
-3. The sac is calcified.
-4. Scrotal elephantiasis is present.
-5. The examination is performed in a brightly lit room.
-6. The flashlight is placed behind the swelling, allowing the testis to block the light.
+> A hydrocele may fail to transilluminate when:
+> 
+> 1. `The fluid is cloudy.`
+> 2. `The sac wall is thickened due to infection.`
+> 3. `The sac is calcified.`
+> 4. `Scrotal elephantiasis is present.`
+> 5. `The examination is performed in a brightly lit room.`
+> 6. `The flashlight is placed behind the swelling, allowing the testis to block the light.`
 
 ## 4.6 False-positive Transillumination
 
@@ -450,14 +450,14 @@ May occur in:
 - Congenital hernia in infants due to thin-walled intestinal contents and thin skin.
 - Individuals with fair, thin skin, where normal skin translucency may be mistaken for a positive result.
 
-## 4.7 Transillumination in Epididymal Cysts
+## 4.7 Transillumination in Epididymal Cysts - kept ==POSTERIORLY==
 
 | Appearance | Interpretation |
 |---|---|
 | Single cyst | Brightly translucent |
 | Multiple small cysts | Mosaic appearance |
 
-The mosaic appearance is called the **Chinese lantern appearance**.
+The mosaic appearance is called the **==Chinese lantern appearance==**.
 
 ## 4.8 Scrotal Swellings That Transilluminate
 
@@ -567,7 +567,7 @@ This is considered in the context of genitourinary tuberculosis.
 # 8. PROVISIONAL / FINAL DIAGNOSIS
 
 > [!success] Final diagnosis
-> **Uncomplicated primary right-sided hydrocele.**
+> **Uncomplicated primary right-sided  vaginal hydrocele.**
 
 ## Why is this diagnosed as hydrocele?
 
@@ -589,7 +589,7 @@ The diagnosis is supported by:
 
 ## 9.1 Definition
 
-A hydrocele is an abnormal accumulation of fluid in a part of the processus vaginalis, usually within the tunica vaginalis.
+A hydrocele is an abnormal accumulation of fluid in a part of the ==processus vaginalis==, usually within the tunica vaginalis.
 
 When fluid accumulates in the tunica vaginalis, it is called a **vaginal hydrocele**.
 
@@ -604,13 +604,13 @@ According to the discussion, the fluid contains:
 
 ## 9.3 Characteristics of Hydrocele Fluid
 
-| Characteristic | Description |
-|---|---|
-| Colour | Clear, pale yellow or amber |
-| Appearance | Shimmering |
-| Reason for shimmer | Cholesterol crystals |
-| Coagulation | Coagulates when a drop of blood is added |
-| Reason for coagulation | Fibrinogen content |
+| Characteristic         | Description                              |
+| ---------------------- | ---------------------------------------- |
+| Colour                 | Clear, pale yellow or amber              |
+| Appearance             | Shimmering                               |
+| Reason for shimmer     | ==Cholesterol crystals==                 |
+| Coagulation            | Coagulates when a drop of blood is added |
+| Reason for coagulation | ==Fibrinogen== content                   |
 
 ---
 
@@ -673,13 +673,13 @@ Surgery is suggested because:
 
 The procedure depends on the size and thickness of the sac.
 
-| Type of sac | Procedure mentioned |
-|---|---|
-| Thin and small sac | Simple eversion |
-| Thin and small sac | Lord's plication |
-| Large sac | Subdartos pocket procedure (name in transcript needs verification) |
-| Large sac | Jaboulay's operation – partial excision and eversion |
-| Very thick sac | Subtotal excision with suturing of edges for haemostasis |
+| Type of sac        | Procedure mentioned                                                                         |
+| ------------------ | ------------------------------------------------------------------------------------------- |
+| Thin and small sac | Simple eversion                                                                             |
+| Thin and small sac | Lord's plication                                                                            |
+| Thin and small sac | ==🔵Sharma and Jhavers== Subdartos pocket procedure (name in transcript needs verification) |
+| Large sac          | Jaboulay's operation – partial excision and eversion                                        |
+| Very thick sac     | Subtotal excision with suturing of edges for haemostasis                                    |
 
 ### A. Simple Eversion
 
@@ -706,7 +706,7 @@ The procedure depends on the size and thickness of the sac.
 
 **Question: What will you do if hydrocele recurs several years after surgery?**
 
-The student suggests suspecting another underlying condition because a vaginal hydrocele is not expected to recur after successful eversion of the sac.
+The student suggests suspecting another underlying condition because a vaginal hydrocele is ==not expected to recur== after successful eversion of the sac.
 
 The mentor agrees with this response.
 
