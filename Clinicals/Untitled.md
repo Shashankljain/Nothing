@@ -33,19 +33,23 @@ noticed a small swelling on the right side of the scrotum.
 
 ● There is no reduction in size on compression.
 
-● There is no history of rapid increase in size.
+● There is no history of rapid increase in size. (To rule out - ==Testicular tumor==)
 
 > [!question] Mentor: What swellings decrease in size on lying down?  
 > **Student’s answer:** - Inguinal hernia. - Varicocele. -  
-> Lymphovarix. - Congenital hydrocele — decreases slowly over minutes  
+> Lymphovarix. 
+> - Congenital hydrocele — decreases slowly over minutes  
 > or hours.  
 >  
 > Inguinal hernia, varicocele and lymphovarix usually decrease rapidly  
 > in the supine position or with compression.
 
-> [!question] Mentor: Are there other swellings in the body that  
-> decrease on lying down? **Student’s answer:** - Umbilical hernia. -  
-> Ventral hernia. - Incisional (postoperative) hernia. - Varicose veins  
+> [!question] Mentor: Are there other swellings in the body that decrease on lying down? 
+> 
+> **Student’s answer:** - Umbilical hernia. 
+>-  Ventral hernia.
+>- Incisional (postoperative) hernia. 
+>- Varicose veins  
 > of the lower limbs.
 
 History of complications
