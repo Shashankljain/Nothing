@@ -213,8 +213,14 @@ Anterior Abdominal Wall        Groin & Pelvic Region     Lumbar & Gluteal Region
     - **Traction Test**: Performed to check relation to cord structures (e.g., ==encysted hydrocele== of cord moves downward on traction on the testis).
 4. **Consistency & Contents**:
     - Soft and elastic consistency.
-    - **Reduction Characteristics**: Reducible with a **gargling sound (borborygmi)**. Initial part of reduction is slightly difficult, while the remaining part reduces rapidly into the abdominal cavity — diagnostic of an **Enterocele** (gas-filled intestine).
-    - _Contrast with Omentocele_: Doughy feel, reduces silently without gargling, initial part reduces easily, final part is difficult due to adhesions.
+    - **Reduction Characteristics**: Reducible with a **==gargling== sound (borborygmi)**. ==Initial part of reduction is slightly difficult,== while the remaining part reduces rapidly into the abdominal cavity — diagnostic of an **==Enterocele**== (gas-filled intestine).
+
+    - `Soft elastic - enterocele`
+    - `Doughy, granular- omentocele`
+    - `Bag of worm - Varicoele`
+    - `Cystic -hydrocele of cord, lymphvarix, bilocular hydrocoele`
+
+    - _Contrast with Omentocele_: Doughy feel, reduces silently without gargling, ==initial part reduces easily==, final part is difficult due to adhesions.
 5. **Differentiating Varicocele Post-Reduction**:
     - After reduction, maintain pressure on the external ring and ask the patient to stand up: A varicocele fills slowly from **below upward**, unlike a hernia which descends from **above downward**.
 
@@ -225,10 +231,10 @@ Anterior Abdominal Wall        Groin & Pelvic Region     Lumbar & Gluteal Region
 #### 1. Internal (Deep) Ring Occlusion Test
 
 - **Landmark Definitions**:
-    - **Mid-Inguinal Point**: Point midway between the Symphysis Pubis and Anterior Superior Iliac Spine (ASIS). _The Femoral Artery lies directly behind this point._
-    - **Midpoint of Inguinal Ligament**: Point midway between the Pubic Tubercle and Anterior Superior Iliac Spine (ASIS). _Situated lower and lateral to the mid-inguinal point._
+    - **Mid-Inguinal Point**: Point midway between the ==Symphysis Pubis and Anterior Superior Iliac Spine (ASIS)==. _The Femoral Artery lies directly behind this point._
+    - **Midpoint of Inguinal Ligament**: Point midway between the ==Pubic Tubercle and Anterior Superior Iliac Spine (ASIS)==. _Situated lower and lateral to the mid-inguinal point._
     - **Deep Ring Location**: Situated **1.25 cm to 1.5 cm (0.5 inch) above the mid-inguinal point**.
-- **Procedure**: Reduce the swelling in supine position with thigh flexed and internally rotated (to relax external ring structures). Place one hand behind the scrotum and apply even pressure to reduce the swelling. Place the thumb over the deep ring (1.25 cm to 1.5 cm above mid-inguinal point) and ask the patient to stand up and cough.
+- **Procedure**: Reduce the swelling in supine position with thigh flexed and internally rotated (to ==relax external ring structures==). Place one hand behind the scrotum and apply even pressure to reduce the swelling. Place the thumb over the ==deep ring (1.25 cm to 1.5 cm above mid-inguinal point)== and ask the patient to stand up and cough.
 - **Test Interpretation**:
     - **Positive Test**: Swelling **DOES NOT REAPPEAR** while thumb pressure is maintained over the deep ring (Confirms **Indirect Inguinal Hernia**).
     - **Negative Test**: Swelling escapes medial to the thumb through the posterior wall (Confirms **Direct Inguinal Hernia**).
