@@ -23,7 +23,7 @@
 
 #### B. Secondary Nephrotic Syndrome
 
-- **Infections**: Hepatitis B, Hepatitis C, HIV, Malaria (_Plasmodium malariae_), Syphilis.
+- **Infections**: Hepatitis B, Hepatitis C, HIV, Malaria (_Plasmodium ==malariae==_), Syphilis.
 - **Systemic / Autoimmune**: Systemic Lupus Erythematosus (**SLE**), Henoch-Schönlein Purpura (IgA Vasculitis), Amyloidosis.
 - **Drugs & Toxins**: Heavy metals (gold, lead, cadmium), NSAIDs, penicillamine.
 

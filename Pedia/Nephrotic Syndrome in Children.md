@@ -47,19 +47,19 @@
 
 #### B. Classification Based on Response to Corticosteroid Therapy [⭐ High-Yield]
 
-|Clinical Category|Diagnostic Operational Definition|
-|:--|:--|
-|**Steroid-Sensitive (SSNS)**|Complete attainment of remission (urine protein nil or trace for **3 consecutive days**) within **4 weeks** of daily prednisolone therapy.|
-|**Steroid-Resistant (SRNS)**|Absence of complete remission despite **6 to 8 weeks** of daily prednisolone at **2 mg/kg/day (60 mg/m²/day)**.|
-|**Infrequent Relapser**|**<2 relapses** in the first 6 months of initial response, or **<3 relapses** within any 12-month period.|
-|**Frequent Relapser**|**≥2 relapses** in the first 6 months, or **≥3 relapses** within any 12-month period.|
-|**Steroid-Dependent (SDNS)**|**2 consecutive relapses** occurring while on alternate-day prednisolone or within **14 days** of stopping corticosteroid therapy.|
+| Clinical Category            | Diagnostic Operational Definition                                                                                                           |
+| :--------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Steroid-Sensitive (SSNS)** | Complete attainment of remission (urine protein nil or trace for **3 consecutive days**) within **4 weeks** of daily prednisolone therapy.  |
+| **Steroid-Resistant (SRNS)** | Absence of complete remission despite **6 to 8 weeks** of daily prednisolone at **2 mg/kg/day (60 mg/m²/day)**.                             |
+| **Infrequent Relapser**      | **<2 relapses** in the first 6 months of initial response, or **<3 relapses** within any 12-month period.                                   |
+| **Frequent Relapser**        | **≥2 relapses** in the first 6 months, or **≥3 relapses** within any 12-month period.                                                       |
+| **Steroid-Dependent (SDNS)** | **2 consecutive relapses** occurring while on alternate-day prednisolone or within **14 days** of stopping corticosteroid therapy.          |
 
 ---
 
 ### 4. Pathophysiology [⭐ High-Yield]
 
-```
+```mermaid 
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
@@ -118,8 +118,8 @@ H --> I[Secondary Renal Sodium & Water Retention -> Worsening Edema]:::danger
     - **Lipid Profile**: Elevated serum total cholesterol (**>200–500 mg/dL**), VLDL, and LDL.
     - **Renal Function Tests**: Blood urea nitrogen (**BUN**) and serum creatinine are typically **normal**; mild elevations occur secondary to prerenal hypovolemia.
     - **Serum Electrolytes**: Serum sodium may be low (hyponatremia due to water retention or dilution); serum calcium is low (due to loss of protein-bound calcium; ionized calcium is normal).
-    - **Serum Complement C3**: **Normal** in MCNS (low C3 points to MPGN, Lupus Nephritis, or PSGN).
-3. **Infection Screening & Pre-Steroid Workup**:
+    - **==Serum Complement C3==**: **Normal** in MCNS (low C3 points to MPGN, Lupus Nephritis, or PSGN).
+3. **Infection Screening & Pre-Steroid Workup**: capsulated bacterial infection (H.influ, strp. pneumoniae )
     - **Mantoux Test (Tuberculin Skin Test)** and **Chest X-ray**: Mandatory prior to initiating prolonged corticosteroid therapy.
     - Hepatitis B (HBsAg), Hepatitis C, and HIV serology.
 
@@ -158,7 +158,7 @@ Renal biopsy is **NOT required** prior to starting treatment in a child aged 
 
 #### A. Management of the Initial Episode of MCNS [⭐ High-Yield]
 
-```
+```mermaid 
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
