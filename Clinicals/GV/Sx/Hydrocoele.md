@@ -1,15 +1,7 @@
 [[Sx]]
 
----
-title: Hydrocele – Clinical Case Presentation
-subject: General Surgery
-topic: Scrotal Swelling
-type: clinical-case
-tags:
-  - Surgery
-  - Hydrocele
-  - Scrotal-Swelling
-  - Clinical-Examination
+
+
 ---
 
 # HYDROCELE – CLINICAL CASE PRESENTATION
