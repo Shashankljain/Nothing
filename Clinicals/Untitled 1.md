@@ -51,7 +51,7 @@ A 40-year-old male presented with swelling over the right side of the scrotum fo
 
 ## 1.2 Differential Diagnosis Based on Change in Size
 
-**Question: Which scrotal swellings decrease in size in the supine position?**
+**Question: Which scrotal swellings ==decrease in size in the supine position==?**
 
 | Condition | Behaviour |
 |---|---|
@@ -88,7 +88,7 @@ No history of fever with chills associated with pain and swelling.
 
 No history of swelling of the feet.
 
-### How does filariasis cause scrotal swelling?
+### ==How does filariasis cause scrotal swelling?==
 
 Three important mechanisms:
 
@@ -114,12 +114,12 @@ No history of:
 ### Differential diagnosis
 
 **Gonococcal epididymo-orchitis**
-- Usually associated with a history suggestive of sexually transmitted infection.
-- May present with pain and inflammatory symptoms.
+- Usually associated with a ==history suggestive of sexually transmitted infection==.
+- May present with ==pain and inflammatory== symptoms.
 - Less likely in this patient because the swelling is painless and long-standing.
 
 **Tertiary syphilis**
-- Testicular gumma may cause testicular/scrotal swelling.
+- Testicular ==gumma== may cause testicular/scrotal swelling.
 - This is a rare presentation.
 
 ## 1.6 History to Rule Out Tuberculosis
@@ -149,7 +149,7 @@ Ask for:
 ### Why ask about pulmonary tuberculosis in a case of scrotal swelling?
 
 > [!important] Viva point
-> Genitourinary tuberculosis is usually secondary to a primary focus elsewhere in the body, commonly the lungs.
+> Genitourinary tuberculosis is usually ==secondary to a primary focus== elsewhere in the body, commonly the lungs.
 
 ### How does tuberculosis cause scrotal swelling?
 
@@ -193,8 +193,8 @@ Examine the patient in the **standing position**.
 
 1. To observe whether the swelling increases in size.
 2. To detect an associated hernia.
-3. To detect varicocele, which may be missed in the supine position.
-4. To assess the full size of a hernia.
+3. To detect ==varicocele==, which may be missed in the supine position.
+4. To assess the ==full size== of a hernia.
 
 > [!tip] Clinical pearl
 > Always examine a scrotal swelling in both standing and supine positions when appropriate.
@@ -233,11 +233,11 @@ Examine the patient in the **standing position**.
 
 The discussion describes a condition occurring in prolonged and severe hydrocele.
 
-- Atrophy of supporting tissues may occur.
+- ==Atrophy== of supporting tissues may occur.
 - The vaginal sac may protrude due to defects involving the cremasteric muscle and coverings.
 - The sac may become covered mainly by skin.
 
-This is referred to in the discussion as **water-sac hernia**.
+This is referred to in the discussion as **==water-sac hernia==**.
 
 ## 2.3 Inspection of Scrotal Skin
 
