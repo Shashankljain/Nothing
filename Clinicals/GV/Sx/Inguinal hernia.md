@@ -216,7 +216,7 @@ Anterior Abdominal Wall        Groin & Pelvic Region     Lumbar & Gluteal Region
     - **Reduction Characteristics**: Reducible with a **==gargling== sound (borborygmi)**. ==Initial part of reduction is slightly difficult,== while the remaining part reduces rapidly into the abdominal cavity — diagnostic of an **==Enterocele**== (gas-filled intestine).
 
     - `Soft elastic - enterocele`
-    - `Doughy, granular- omentocele`
+    - `Doughy, granular- omentocele , Epiplocele
     - `Bag of worm - Varicoele`
     - `Cystic -hydrocele of cord, lymphvarix, bilocular hydrocoele`
 
