@@ -68,7 +68,7 @@ A 50-year-old woman, a housewife, presented with complaints of a lump in her rig
 
 - Patient has no pain.
 - No cyclical pain before menstruation.
-- Cyclical breast pain is described in the discussion as a feature of fibroadenosis.
+- Cyclical breast pain is described in the discussion as a feature of ==fibroadenosis==.
 
 ---
 
@@ -152,7 +152,7 @@ There was no history of bloody or purulent nipple discharge.
 > How high is the risk?
 
 > [!success] Student answers
-> The discussion mentions approximately 5–10 times higher risk than the general population, particularly in the presence of a BRCA gene mutation.
+> The discussion mentions approximately 5–10 times higher risk than the general population, particularly in the presence of a ==BRCA gene mutation==.
 
 ## 5.1 Risk factors mentioned in the discussion
 
@@ -251,9 +251,9 @@ The patient is examined in different positions.
 
 Findings:
 
-- Right nipple is slightly higher than the left.
-- Asymmetry of the breasts is present.
-- Diffuse protrusion is seen in the upper outer quadrant of the right breast.
+- Right nipple is slightly ==higher== than the left.
+- ==Asymmetry== of the breasts is present.
+- Diffuse protrusion is seen in the ==upper outer quadrant== of the right breast.
 
 ### B. Leaning forward
 
@@ -271,7 +271,7 @@ Finding:
 
 **Tutor asks:** Fixation to which structure?
 
-**Student:** Thoracic fascia.
+**Student:** ==Thoracic fascia.==
 
 ### C. Raising both arms above the head
 
@@ -292,7 +292,7 @@ Findings:
 > What is this method of examination called?
 
 > [!success] Student answers
-> Okina's method of examining the mammary glands (as transcribed in the source).
+> ==Auchincloss method of examining== the mammary glands (as transcribed in the source).
 
 > [!important] Tutor's explanation
 > Raising the arms above the head makes visible signs of breast cancer more prominent and also exposes the undersurface of the breasts and axillae for examination.
@@ -306,7 +306,7 @@ Affected side: Right breast.
 ### Findings
 
 - Diffuse bulge in the upper outer quadrant.
-- Nipple displaced upward and outward.
+- Nipple displaced ==upward and outward==.
 - Nipple deviated to the left.
 - Nipple is not bulging.
 - No flattening.
@@ -314,7 +314,9 @@ Affected side: Right breast.
 - No cracks, separations or tears.
 
 > [!important] Tutor's explanation
-> The discussion describes displacement of the nipple towards the tumour as a sign suggestive of malignancy. Benign tumours may displace the nipple in the opposite direction.
+> The discussion describes -
+> - displacement of the nipple ==towards== the tumour as a sign suggestive of malignancy. 
+> - Benign tumours may displace the nipple in the ==opposite== direction.
 
 ## 8.1 Nipple deviation vs displacement
 
@@ -346,12 +348,12 @@ Affected side: Right breast.
 
 ### Types of nipple retraction
 
-| Congenital retraction | Acquired retraction |
-|---|---|
-| Present from birth | Develops recently |
-| Usually bilateral | Usually unilateral |
-| Due to impaired evagination of the nipple bud | Clinically significant |
-| Usually not suggestive of malignancy | May indicate carcinoma or fibrosis |
+| Congenital retraction                         | Acquired retraction                    |
+| --------------------------------------------- | -------------------------------------- |
+| Present from birth                            | Develops recently                      |
+| Usually bilateral                             | Usually unilateral                     |
+| Due to impaired evagination of the nipple bud | Clinically significant                 |
+| Usually not suggestive of malignancy          | May indicate ==carcinoma or fibrosis== |
 
 ### Causes of acquired retraction
 
@@ -558,7 +560,7 @@ Assess:
 > Absence of local warmth and tenderness makes an acute abscess less likely.
 
 > [!important] Tutor's explanation
-> A chronic abscess (termed "antibioma" in the source transcript) may not be warm or painful.
+> A chronic abscess (termed "==antibioma==" in the source transcript) may not be warm or painful.
 
 ## 12.2 Why use a flat palm?
 
@@ -566,7 +568,7 @@ Assess:
 > Why did you specifically mention a flat palm?
 
 > [!success] Student answers
-> Sometimes a nodular lump may be felt when breast tissue is palpated between the fingers. However, when palpated using a flat palm, no discrete lump may be felt. This can occur in fibroadenosis.
+> Sometimes a nodular lump may be felt when breast tissue is palpated between the fingers. However, when palpated using a flat palm, no discrete lump may be felt. This can occur in ==fibroadenosis==.
 
 The discussion also mentions:
 - A normal breast filled with milk.
@@ -746,7 +748,7 @@ Finding: The lump is connected to the skin but not fused to it.
 
 ## 15.3 Assessment of serratus anterior
 
-If the tumour is in the outer lower quadrant, the serratus anterior muscle may also need to be examined.
+If the tumour is in the ==outer lower quadrant==, the serratus anterior muscle may also need to be examined.
 
 ### Procedure
 
@@ -876,12 +878,12 @@ After axillary palpation:
 
 ## 19.1 Stages
 
-| Stage | Features described in the discussion |
-|---|---|
-| Stage I | Tumour limited to the breast. No palpable lymph nodes. Skin changes, if present, are directly over the tumour, connected to it and smaller than the tumour. |
-| Stage II | Similar to Stage I, but palpable mobile ipsilateral axillary lymph nodes are present. |
-| Stage III | Skin involvement larger than tumour size, fixation or lemon-peel sign, skin ulceration, fixation to pectoral fascia or muscles, and fixed ipsilateral axillary lymph nodes. |
-| Stage IV | Fixation to chest wall, supraclavicular lymph node involvement, opposite axillary lymph node involvement, distant metastasis, skin satellite nodules or involvement of the opposite breast. |
+| Stage     | Features described in the discussion                                                                                                                                                            |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Stage I   | Tumour limited to the breast. No palpable lymph nodes. Skin changes, if present, are directly over the tumour, connected to it and smaller than the tumour.                                     |
+| Stage II  | Similar to Stage I, but palpable ==🔴mobile== ==ipsilateral axillary lymph== nodes are present.                                                                                                 |
+| Stage III | Skin involvement larger than tumour size, ==fixation== or lemon-peel sign, skin ulceration, fixation to pectoral fascia or muscles, and fixed ipsilateral axillary lymph nodes.                 |
+| Stage IV  | Fixation to chest wall, supraclavicular lymph node involvement, ==opposite axillary lymph node== involvement, distant metastasis, skin satellite nodules or involvement of the opposite breast. |
 
 ### Quick flowchart
 
@@ -921,11 +923,11 @@ advanced nodal / skin involvement
 
 > [!success] Student answers
 
-| Staging | Grading |
-|---|---|
-| Indicates invasiveness and spread of the tumour | Indicates cellular changes |
-| Assesses extent of disease | Assesses degree of differentiation / anaplasia |
-| Includes tumour size, lymph nodes and metastasis | Based on histological appearance of tumour cells |
+| Staging                                             | Grading                                            |
+| --------------------------------------------------- | -------------------------------------------------- |
+| Indicates ==invasiveness== and spread of the tumour | Indicates ==cellular== changes                     |
+| Assesses extent of disease                          | Assesses ==degree of differentiation / anaplasia== |
+| Includes tumour size, lymph nodes and metastasis    | Based on histological appearance of tumour cells   |
 
 > [!tip] Viva pearl
 > **Staging = Extent of spread.**  
@@ -1094,11 +1096,11 @@ The discussion describes an early localized tumour as one less than 5 cm in size
 
 ## 24.2 Modified radical vs classical radical mastectomy
 
-| Procedure | Structures removed / key feature |
-|---|---|
-| Modified radical mastectomy | Breast tissue and axillary lymphatic tissue; pectoral muscles are preserved in the described operation |
-| Halsted radical mastectomy | Also removes pectoralis minor and sternocostal part of pectoralis major, as described in the discussion |
-| Patey mastectomy | Removes pectoralis minor to improve access to the axilla, as described in the discussion |
+| Procedure                   | Structures removed / key feature                                                                            |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Modified radical mastectomy | Breast tissue and axillary lymphatic tissue; pectoral muscles are preserved in the described operation      |
+| Halsted radical mastectomy  | Also removes ==pectoralis minor and sternocostal part of pectoralis major==, as described in the discussion |
+| Patey mastectomy            | Removes pectoralis minor to improve access to the axilla, as described in the discussion                    |
 
 ### Complications of classical Halsted operation mentioned
 
@@ -1189,7 +1191,7 @@ radiation therapy
 **Student answers:**
 
 - If histology reveals axillary lymph node metastases, radiation to the axillary area is advised.
-- If more than four nodes are affected, radiation to supraclavicular and internal thoracic lymph nodes is also mentioned.
+- If ==more than four nodes== are affected, radiation to ==supraclavicular and internal thoracic lymph nodes== is also mentioned.
 
 ---
 
@@ -1201,16 +1203,16 @@ The discussion describes systemic treatment as chemotherapy and hormonal therapy
 
 The student mentions the following regimens:
 
-| Regimen | Drugs |
-|---|---|
-| FAC | 5-Fluorouracil + Adriamycin + Cyclophosphamide |
-| CMF | 5-Fluorouracil + Methotrexate + Cyclophosphamide |
+| Regimen | Drugs                                            |
+| ------- | ------------------------------------------------ |
+| FAC     | 5-Fluorouracil + Adriamycin + Cyclophosphamide   |
+| FMC     | 5-Fluorouracil + Methotrexate + Cyclophosphamide |
 
 The source describes these as regimens given in six cycles.
 
 ## 26.2 Hormonal therapy
 
-The discussion mentions:
+The discussion mentions: Anti-Estrogen 
 
 - Letrozole
 - Tamoxifen
@@ -1219,7 +1221,7 @@ It describes a five-year treatment duration.
 
 ## 26.3 HER2-targeted therapy
 
-- Trastuzumab is mentioned for HER2-positive disease.
+- ==Trastuzumab== is mentioned for HER2-positive disease.
 - The discussion describes treatment for one year.
 
 ### Receptor status and treatment mentioned
