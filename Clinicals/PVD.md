@@ -878,33 +878,37 @@ Because the affected limb has poor circulation and minor trauma may lead to ulce
 To reduce pressure and prevent injury to the toes and foot.
 
 ## C. Medical Treatment
+### **Intravenous (IV) Vasodilator & Rheological Therapy**
 
-The transcript mentions:
+When admitted for acute exacerbation or pre-gangrenous rest pain, the following IV regimen is administered[2][6]:
 
-- Antibiotics when infection is present.
-- Pentoxifylline.
-- Nicotinic acid.
-- Vitamin E.
-- Other medical measures intended to improve peripheral circulation.
+1. **Low Molecular Weight Dextran (LMWD)**:LOMODEX
 
-### Viva: What is the role of pentoxifylline?
+- **Mechanism**: Reduces blood viscosity, improves microvascular peripheral tissue perfusion, and prevents the **==sludging/aggregation of red blood cell==s (RBCs)** in low-flow ischemic vessels[2].
 
-The transcript mentions pentoxifylline as a drug used in the treatment of intermittent claudication and peripheral vascular disease.
+2. **Xanthinol Nicotinate (Xantinol Nicotinate)**:
 
-### Viva: What is the proposed role of these circulation-improving drugs?
+- **Mechanism**: Direct ==vasodilator== acting on the microvasculature of the skin and diseased ischemic tissues[2].
 
-The discussion describes their intended effects as:
+3. **Heparin**:
 
-- Reducing blood viscosity.
-- Improving peripheral tissue perfusion.
-- Improving blood flow through small vessels.
-- Reducing sludging of red blood cells.
-
-> [!WARNING]
-> The transcript does not clearly establish the exact drug names and doses for every medication mentioned.
+- **Mechanism**: Anticoagulant that prevents **thrombus extension/propagation** in pre-gangrenous vessels[2].
 
 ---
 
+### **3. Oral Pharmacotherapy**
+
+- **Oral Vasodilators & Hemorheological Agents**:
+    - **Cilostazol**: Promotes vasodilation and inhibits platelet aggregation[2].
+    - **Pentoxifylline**: Decreases blood viscosity and improves red blood cell flexibility to facilitate passage through narrowed capillaries[2].
+- **Pain Management (Analgesics)**: Administered for pain relief, though severe rest pain from nerve ischemia may require escalation or definitive surgical evaluation[2].
+- **Tocopherol (Vitamin E)**: Prescribed as long-term supportive antioxidant therapy[7].
+
+---
+
+### **4. Diagnostic/Therapeutic Lumbar Sympathetic Block**
+
+- Before considering surgical lumbar sympathectomy, a **chemical lumbar sympathetic block** is performed to evaluate if vasospastic tone is present and whether the patient will symptomatically benefit from surgical sympathectomy[1].
 # 16. ROLE OF SURGERY IN PERIPHERAL VASCULAR DISEASE
 
 ### Viva: What is the role of surgery in PVD?
