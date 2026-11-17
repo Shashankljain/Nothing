@@ -36,7 +36,7 @@ The patient was apparently normal 2 years ago, when he started experiencing pain
 - Pain subsides completely after taking rest for approximately 3–5 minutes.
 - After relief, the patient can walk a similar distance again before pain reappears.
 
-This is suggestive of **intermittent claudication**.
+This is suggestive of **==intermittent claudication==**.
 
 Over the last 2 years:
 - Claudication distance gradually decreased.
@@ -46,7 +46,7 @@ Over the last 2 years:
 
 ### Viva: What is intermittent claudication?
 
-Intermittent claudication is pain in the muscles of the lower limb occurring during exercise or walking due to inadequate arterial blood supply, which is relieved by rest.
+Intermittent claudication is ==pain in the muscles== of the lower limb occurring during exercise or walking due to ==inadequate arterial blood supply==, which is relieved by rest.
 
 ### Viva: What is the significance of intermittent claudication?
 
