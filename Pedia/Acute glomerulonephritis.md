@@ -222,7 +222,7 @@ G --> H[Monitor Resolution & Confirm C3 Normalization at 8-12 Weeks]:::success
 
 ### 9. Complications [⭐ High-Yield]
 
-1. **Hypertensive Encephalopathy**: Seizures, altered sensorium, and coma secondary to cerebral edema.
+1. **Hypertensive Encephalopathy**: ==Seizures, altered sensorium, and coma secondary to cerebral edema.==
 2. **Acute Heart Failure & Pulmonary Edema**: Life-threatening respiratory distress from hypervolemia.
 3. **Acute Kidney Injury (AKI)**: Oligo-anuria, severe azotemia, metabolic acidosis, and hyperkalemia.
 
