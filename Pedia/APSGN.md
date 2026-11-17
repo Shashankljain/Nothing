@@ -135,7 +135,7 @@ Renal biopsy is **NOT routinely required** for classic APSGN. Indications incl
 
 APSGN is a self-limiting disease; management is primarily supportive, focusing on controlling fluid overload, hypertension, and renal failure.
 
-```
+```mermaid 
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
