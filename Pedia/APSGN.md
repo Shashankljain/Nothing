@@ -39,7 +39,7 @@
 
 ### 4. Pathophysiology [⭐ High-Yield]
 
-```
+```mermaid 
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
@@ -114,7 +114,7 @@ Renal biopsy is **NOT routinely required** for classic APSGN. Indications incl
 #### D. Histopathology Findings (When Biopsy Performed)
 
 - **Light Microscopy (LM)**: Diffuse **endocapillary proliferative glomerulonephritis** with prominent neutrophil and monocyte infiltration; bloodless, enlarged glomeruli.
-- **Immunofluorescence (IF)**: Coarse **granular deposits of IgG and C3** along capillary walls and mesangium, producing a classic **"starry sky"** or "lumpy-bumpy" pattern.
+- **Immunofluorescence (IF)**: Coarse **granular deposits of IgG and C3** along capillary walls and mesangium, producing a classic **"==starry sky=="** or "==lumpy-bumpy==" pattern.
 - **Electron Microscopy (EM)**: Large, discrete **subepithelial electron-dense deposits ("humps")**.
 
 ---
