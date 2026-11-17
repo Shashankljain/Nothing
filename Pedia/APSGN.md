@@ -67,7 +67,7 @@ G2 --> H[Intravascular Volume Expansion -> Periorbital Edema & Systemic Hyperten
 ### 5. Clinical Features [⭐ High-Yield]
 
 #### A. Symptoms
-
+ - ==Painless==
 - **Abrupt Onset**: Symptoms appear suddenly after the characteristic latent period following pharyngitis (1–2 weeks) or pyoderma (3–6 weeks).
 - **Cola- or Tea-Colored Urine (Gross Hematuria)**: The hallmark presenting complaint, reported in up to 30–50% of overt cases.
 - **Puffiness of Face / Edema**: Most prominent around the eyes (periorbital edema) upon waking in the morning.
