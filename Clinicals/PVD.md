@@ -573,17 +573,18 @@ Look for:
 
 ## A. Arterial Pulses to Be Examined against which bone?
 
-| Artery                      | Site of palpation                                              |
-| --------------------------- | -------------------------------------------------------------- |
-| Superficial temporal artery | In front of the tragus of the ear                              |
-| Carotid artery              | Between the trachea and anterior border of sternocleidomastoid |
-| Brachial artery             | Medial to the tendon of biceps in the cubital fossa            |
-| Radial artery               | At the wrist, lateral to the flexor carpi radialis tendon      |
-| Femoral artery              | Mid-inguinal point                                             |
-| Popliteal artery            | Deep in the popliteal fossa                                    |
-| Posterior tibial artery     | Behind the medial malleolus                                    |
-| Dorsalis pedis artery       | On the dorsum of the foot                                      |
-
+| Artery                          | Anatomical Palpation Site                                                                                                    | Underlying Bone Landmark                                                   |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Dorsalis Pedis Artery**       | Proximal end of the 1st inter-metatarsal space, just lateral to the tendon of Extensor Hallucis Longus (EHL)[1]              | **Head of the 1st Metatarsal bone**[1]                                     |
+| **Posterior Tibial Artery**     | Midway between the medial malleolus and the heel (calcaneus)[1]                                                              | **Medial Malleolus of the Tibia**[1]                                       |
+| **Popliteal Artery**            | Deep in the popliteal fossa (knee flexed to 30° / Foote's test position)[1][2]                                               | **Posterior surface of the lower end of Femur / upper end of Tibia**[1][2] |
+| **Femoral Artery**              | Midway between the pubic tubercle and Anterior Superior Iliac Spine (ASIS), with thigh in external rotation and abduction[1] | **Head of the Femur**[1]                                                   |
+| **Abdominal Aorta**             | Just to the left of the midline in the epigastric and umbilical regions[1]                                                   | **Lumbar Vertebral Column**[1]                                             |
+| **Carotid Artery**              | In the neck along the anterior border of the sternocleidomastoid muscle[1]                                                   | **Chassaignac's Tubercle (Transverse process of C6 vertebra)**[1]          |
+| **Subclavian Artery**           | Base of the posterior triangle of the neck, just above the center of the clavicle[1]                                         | **First Rib**[1]                                                           |
+| **Brachial Artery**             | Middle third of the arm on the medial aspect (and cubital fossa)[1]                                                          | **Shaft of the Humerus**[1]                                                |
+| **Radial Artery**               | At the wrist joint, just lateral to the tendon of Flexor Carpi Radialis (FCR)[1]                                             | **Lower end of the Radius**[1]                                             |
+| **Superficial Temporal Artery** | In front of the tragus of the ear[1][3]                                                                                      | **Temporal Bone**[1][3]                                                    |
 ## Crossed Leg Test (==Fuschig Test==)
 
 > [!IMPORTANT] Viva Question
