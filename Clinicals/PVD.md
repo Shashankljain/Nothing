@@ -1,4 +1,4 @@
-[[Sx]]
+
 
 # PERIPHERAL VASCULAR DISEASE (PVD) WITH GANGRENE
 ## General Surgery – Long Case Presentation
@@ -77,7 +77,7 @@ Claudication distance is the distance a patient can walk on a plain surface at n
 
 - It is a good index of major arterial obstruction.
 - It differs depending on the side and extent of arterial obstruction.
-- It depends on the state of collateral circulation.
+- It depends on the state of ==collateral== circulation.
 - It is also influenced by general health, temperature, walking speed and physical ability.
 
 ### Viva: How is intermittent claudication graded?
@@ -95,7 +95,7 @@ The transcript discusses grading according to the severity of pain and its effec
 1. During exercise, the oxygen demand of muscles increases.
 2. Diseased arteries cannot supply sufficient blood.
 3. Local ischaemia develops.
-4. Metabolic products accumulate.
+4. Metabolic products accumulate.(P substance, lactic acid)
 5. This produces pain during walking.
 
 ### Viva: Differentiate vascular claudication from spinal claudication.
@@ -119,7 +119,9 @@ The discussion specifically mentions nerve root compression and prolapsed interv
 - Improve general health.
 - Consider a job involving less walking if necessary.
 
-The transcript also mentions long-term medical treatment, including pentoxifylline and vitamin E, and discusses lumbar sympathectomy and exercise-related treatment.
+- [ ] The transcript also mentions long-term medical treatment, including ==pentoxifylline== and ==vitamin E==, 
+- [ ] ==lumbar sympathectomy== -it wasn’t the pain as a divert the blood to the skin
+- [ ] exercise-related treatment.
 
 ---
 
@@ -136,7 +138,7 @@ Since the last 1 month, the patient has developed continuous pain in the right f
 - Relieved by hanging the foot down.
 
 > [!DANGER] CLINICAL SIGNIFICANCE
-> This is suggestive of **ISCHAEMIC REST PAIN**.
+> This is suggestive of **ISCHAEMIC REST PAIN**. / cry of the dying nerve
 
 ### Viva: What is the significance of rest pain?
 
@@ -173,7 +175,7 @@ The patient developed gradual blackening of the right second toe approximately 6
 
 ### Viva: Why do you ask about fever and oedema?
 
-Fever and oedema may suggest associated infection or spreading gangrene.
+Fever and oedema may suggest associated ==infection or spreading gangrene.==
 
 ---
 
@@ -188,7 +190,7 @@ The patient is a chronic smoker.
 - History of tobacco consumption is present.
 
 ### Viva: What is the relation between smoking and gangrene?
-
+## Burger’s disease
 - Smoking causes vascular damage.
 - It contributes to arterial narrowing and atherosclerosis.
 - It is strongly associated with peripheral vascular disease.
@@ -216,7 +218,7 @@ The patient is a chronic smoker.
 
 Raynaud's phenomenon is episodic vasospasm of small arteries, usually affecting the fingers and toes, precipitated by cold exposure or emotional stress.
 
-### Clinical Features
+### Clinical Features (Pallor, cynosis ,Congestion)
 
 - Exposure to cold causes an attack.
 - Initial vasospasm produces pallor.
@@ -254,7 +256,7 @@ The discussion mentions:
 ### Viva: What are the main features of Buerger's disease?
 
 - It commonly affects young male smokers.
-- It involves small and medium-sized arteries.
+- It involves ==small and medium-sized== arteries.
 - Superficial veins may also be involved.
 - It can present with intermittent claudication and gangrene.
 - Tobacco consumption has a strong association.
@@ -294,15 +296,15 @@ The following points were discussed:
 
 # 4. IMPORTANCE OF MARITAL STATUS AND POTENCY
 
-The patient is married and has children.
+The patient is married and has children. no history of impotance (==Lerische’s syndrome==)
 
 ### Viva: Why should marital status and potency be assessed before lumbar sympathectomy?
 
-Because lumbar sympathectomy may produce sexual dysfunction.
+Because ==lumbar sympathectomy== may produce sexual dysfunction.
 
 ### Viva: How can lumbar sympathectomy cause impotence?
 
-Bilateral lumbar sympathectomy may interfere with sympathetic nerve supply involved in ejaculation.
+Bilateral lumbar sympathectomy may interfere with ==sympathetic nerve supply involved in ejaculation.==
 
 Possible complications include:
 
@@ -343,7 +345,11 @@ Dry gangrene of the right second toe.
 
 <span style="color:#269B75"><b>Answer:</b></span>
 
-Gangrene is the death of a macroscopic portion of tissue due to loss of blood supply, usually with superadded putrefaction or infection in some forms.
+Gangrene is the death of a ==macroscopic== portion of tissue due to loss of blood supply, usually with ==superadded putrefaction== or infection in some forms.
+
+If there is no Super added putrefaction It is called as-Slough
+
+Slough - Death of softtissues , which are not separated by living tissue
 
 ### Viva: What is the difference between gangrene and necrosis?
 
@@ -356,7 +362,7 @@ Gangrene is the death of a macroscopic portion of tissue due to loss of blood su
 
 ### Viva: What is the cause of black discoloration in gangrene?
 
-Black discoloration is due to the breakdown of blood cells in the tissues and formation of iron sulphide from haemoglobin.
+Black discoloration is due to the breakdown of blood cells in the tissues and formation of ==iron sulphide== from haemoglobin.
 
 This produces the characteristic dark black colour.
 
@@ -392,7 +398,7 @@ Clear-cut line of demarcation
 ↓  
 Ulceration and separation of gangrenous part
 
-This process is associated with aseptic ulceration.
+This process is associated with ==aseptic ulceration.==
 
 ### Viva: What happens to the underlying tissues during separation?
 
@@ -400,27 +406,27 @@ The process of separation may extend into the underlying tissues. The surviving 
 
 ### Viva: Why is a line of demarcation well formed in dry gangrene?
 
-Because the process is relatively slow and the surrounding circulation is comparatively better, allowing the body to form a clear separation between viable and dead tissue.
+Because the process is relatively ==slow== and the ==surrounding circulation== is comparatively better, allowing the body to form a clear separation between viable and dead tissue.
 
 ### Viva: Is the line of demarcation well formed in wet gangrene?
 
-No. It is poorly formed or absent because infection and inflammation spread into the surrounding tissues.
+No. It is poorly formed or absent because infection and inflammation ==spread into the surrounding tissues.==
 
 ---
 
 # 6. DIFFERENTIATION BETWEEN DRY AND WET GANGRENE
 
-| Feature | Dry gangrene | Wet gangrene |
-|---|---|---|
-| Cause | Ischaemia | Ischaemia with infection |
-| Appearance | Dry, black and mummified | Swollen, moist and discoloured |
-| Infection | Usually absent initially | Present |
-| Line of demarcation | Well formed | Poorly formed or absent |
-| Spread | Usually slow | Rapid |
-| Oedema | Usually absent | Common |
-| Skin | Dry and shrunken | Shiny and swollen |
-| Prognosis | Comparatively better | Serious |
-| Separation | May occur naturally | Requires urgent management |
+| Feature             | Dry gangrene             | Wet gangrene                                                 |
+| ------------------- | ------------------------ | ------------------------------------------------------------ |
+| Cause               | Ischaemia                | Ischaemia with infection, Venous gangrene, Diabetic gangrene |
+| Appearance          | Dry, black and mummified | Swollen, moist and discoloured                               |
+| Infection           | Usually absent initially | Present                                                      |
+| Line of demarcation | Well formed              | Poorly formed or absent                                      |
+| Spread              | Usually slow             | Rapid                                                        |
+| Oedema              | Usually absent           | Common                                                       |
+| Skin                | Dry and shrunken         | Shiny and swollen                                            |
+| Prognosis           | Comparatively better     | ==Serious==                                                  |
+| Separation          | May occur naturally      | Requires urgent management                                   |
 
 > [!IMPORTANT] EXAM POINT
 > Dry gangrene is less prone to infection. Wet gangrene can spread rapidly and may become life-threatening.
@@ -469,9 +475,11 @@ The discussion mentions:
 
 Blister formation may indicate tissue damage and possible progression towards wet gangrene, particularly when associated with infection and oedema.
 
-### Viva: What is the significance of dark black skin?
+### Viva: What is the significance of dark black skin? (==SKIP AREA==)
 
 It indicates tissue death. The extent of surrounding changes must be assessed to determine whether gangrene is spreading.
+
+Sign of chronic Ischimia-
 
 ---
 
