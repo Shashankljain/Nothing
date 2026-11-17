@@ -571,18 +571,45 @@ Look for:
 > [!IMPORTANT] HIGH-YIELD
 > This is an extremely important part of the PVD case presentation. All peripheral pulses must be examined and compared on both sides.
 
-## A. Arterial Pulses to Be Examined
+## A. Arterial Pulses to Be Examined against which bone?
 
-| Artery | Site of palpation |
-|---|---|
-| Superficial temporal artery | In front of the tragus of the ear |
-| Carotid artery | Between the trachea and anterior border of sternocleidomastoid |
-| Brachial artery | Medial to the tendon of biceps in the cubital fossa |
-| Radial artery | At the wrist, lateral to the flexor carpi radialis tendon |
-| Femoral artery | Mid-inguinal point |
-| Popliteal artery | Deep in the popliteal fossa |
-| Posterior tibial artery | Behind the medial malleolus |
-| Dorsalis pedis artery | On the dorsum of the foot |
+| Artery                      | Site of palpation                                              |
+| --------------------------- | -------------------------------------------------------------- |
+| Superficial temporal artery | In front of the tragus of the ear                              |
+| Carotid artery              | Between the trachea and anterior border of sternocleidomastoid |
+| Brachial artery             | Medial to the tendon of biceps in the cubital fossa            |
+| Radial artery               | At the wrist, lateral to the flexor carpi radialis tendon      |
+| Femoral artery              | Mid-inguinal point                                             |
+| Popliteal artery            | Deep in the popliteal fossa                                    |
+| Posterior tibial artery     | Behind the medial malleolus                                    |
+| Dorsalis pedis artery       | On the dorsum of the foot                                      |
+
+## Crossed Leg Test (==Fuschig Test==)
+
+> [!IMPORTANT] Viva Question
+> **What is Fuschig test?**
+
+**Definition:** A clinical test used to detect popliteal artery pulsations when direct palpation is difficult.
+
+### Procedure
+
+1. Ask the patient to sit with legs crossed.
+2. Position the popliteal fossa of one leg against the knee of the opposite leg.
+3. Divert the patient's attention by talking.
+4. Observe the upper foot for oscillatory movements.
+5. Look for movements synchronous with the popliteal arterial pulsation.
+
+### Interpretation
+
+- **Positive finding:** ==Oscillatory movement== of the upper foot synchronous with the popliteal pulse.
+- **Negative finding:** No visible oscillatory movement.
+
+### Clinical Significance
+
+Helps demonstrate popliteal arterial pulsations when they are difficult to palpate.
+
+> [!TIP] Remember
+> **Fuschig test = Crossed legs + Oscillatory movement of foot + Popliteal pulse.**
 
 ### Important Examination Points
 
