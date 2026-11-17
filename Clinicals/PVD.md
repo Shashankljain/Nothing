@@ -807,4 +807,193 @@ The discussion describes their intended effects as:
 *The transcript does not clearly establish the exact drug names and doses for every medication mentioned.*
 
 
+---
 
+# 16. ROLE OF SURGERY IN PERIPHERAL VASCULAR DISEASE
+
+### Viva: What is the role of surgery in PVD?
+
+Surgery may be required to:
+1. Improve blood supply to the affected limb.
+2. Restore arterial circulation.
+3. Prevent progression of ischaemia.
+4. Treat non-healing ulcers.
+5. Remove gangrenous tissue when indicated.
+
+## A. Revascularisation Procedures
+
+The discussion mentions procedures intended to improve blood flow.
+
+These include:
+- Arterial bypass surgery.
+- Vascular reconstruction.
+- Other procedures to restore arterial circulation.
+
+## B. Amputation
+
+### Viva: Why should we not immediately amputate dry gangrene?
+
+Because dry gangrene may undergo natural separation through the process of aseptic ulceration.
+
+- A clear line of demarcation may develop.
+- The dead tissue may separate naturally.
+- Unnecessary surgical trauma may increase the local demand for blood supply.
+- In a poorly perfused limb, healing after surgery may be difficult.
+
+### Viva: When is amputation indicated?
+
+Amputation may be required when:
+
+1. Gangrene is spreading proximally.
+2. There is severe infection.
+3. Wet gangrene is present.
+4. The affected tissue is extensively non-viable.
+5. Conservative management is unsuccessful.
+6. The limb cannot be salvaged.
+
+> **Important:** If gangrene is spreading and infection is severe, amputation may become necessary.
+
+---
+
+# 17. LEVEL OF AMPUTATION
+
+### Viva: What is the ideal level of amputation in peripheral vascular disease?
+
+The level should be selected according to the adequacy of blood supply at the proposed amputation site.
+
+### Important principle
+
+**Amputation should be performed at a level where adequate circulation is present to allow wound healing.**
+
+The mentor specifically emphasises the importance of assessing arterial pulses before deciding the level of amputation.
+
+### Points to consider
+
+- Presence of palpable arterial pulses.
+- Adequacy of blood supply.
+- Extent of gangrene.
+- Viability of surrounding tissue.
+- Possibility of wound healing.
+
+---
+
+# 18. IMPORTANT VIVA REVISION
+
+| Question | Key answer |
+|---|---|
+| What is intermittent claudication? | Pain during walking due to inadequate arterial blood supply, relieved by rest |
+| What is claudication distance? | Distance walked before the onset of pain |
+| What is the significance of claudication distance? | Indicates severity of arterial obstruction |
+| What is rest pain? | Ischaemic pain occurring even at rest |
+| Why is pain relieved by hanging the foot down? | Dependency helps improve distal perfusion |
+| What is gangrene? | Macroscopic tissue death |
+| What causes black discoloration? | Breakdown of blood cells and formation of iron sulphide |
+| What is the line of demarcation? | Junction between dead and viable tissue |
+| Why is the line of demarcation well formed in dry gangrene? | Relatively slow progression and separation of viable tissue |
+| Why is it poorly formed in wet gangrene? | Infection spreads into surrounding tissue |
+| What is Buerger's test? | Clinical assessment of arterial circulation by elevation and dependency |
+| What is Buerger's angle? | Angle at which pallor appears on elevation |
+| What is the importance of pulse examination? | Helps identify the level and extent of arterial obstruction |
+| Why is smoking history important? | Smoking is a major risk factor for peripheral arterial disease |
+| Why is potency assessed before lumbar sympathectomy? | Risk of sexual dysfunction and retrograde ejaculation |
+| What is the importance of angiography? | Demonstrates the site and extent of arterial obstruction |
+| When is amputation indicated? | Spreading gangrene, severe infection or non-salvageable tissue |
+
+---
+
+# 19. CASE PRESENTATION – FINAL SUMMARY
+
+### Clinical Summary
+
+A 35-year-old male patient, chronic smoker, presented with:
+
+- Intermittent claudication for 2 years.
+- Progressive reduction in claudication distance from 200 metres to 25–30 metres.
+- Ischaemic rest pain in the right foot for 1 month.
+- Blackening of the right second toe for 6 days.
+
+On local examination, the right second toe showed black discoloration with a dry, mummified appearance and a developing line of demarcation.
+
+### Provisional Diagnosis
+
+**Dry gangrene of the right second toe secondary to peripheral vascular disease, probably thromboangiitis obliterans.**
+
+### Management Plan
+
+1. Admission and assessment.
+2. Assessment of peripheral arterial circulation.
+3. Routine blood investigations.
+4. Colour Doppler study.
+5. Further vascular imaging when indicated.
+6. Smoking cessation.
+7. Local foot care and protection.
+8. Appropriate medical treatment.
+9. Assessment for revascularisation.
+10. Amputation if gangrene spreads or infection becomes severe.
+
+---
+
+# 20. QUICK CLINICAL EXAMINATION CHECKLIST
+
+## History
+
+- [ ] Claudication distance
+- [ ] Duration and nature of pain
+- [ ] Progression of claudication
+- [ ] History of rest pain
+- [ ] History of gangrene
+- [ ] History of ulceration
+- [ ] Smoking and tobacco history
+- [ ] Diabetes mellitus
+- [ ] Hypertension
+- [ ] Hyperlipidaemia
+- [ ] Raynaud's phenomenon
+- [ ] Buerger's disease
+- [ ] Previous vascular events
+- [ ] Drug history
+- [ ] Previous surgery
+- [ ] Marital status and potency
+
+## Local Examination
+
+- [ ] Inspection of gangrenous area
+- [ ] Extent of black discoloration
+- [ ] Line of demarcation
+- [ ] Dry or wet gangrene
+- [ ] Signs of proximal spread
+- [ ] Skin colour
+- [ ] Skin temperature
+- [ ] Skin texture
+- [ ] Hair growth
+- [ ] Nail changes
+- [ ] Tenderness
+- [ ] Sensation
+- [ ] Movements
+
+## Vascular Examination
+
+- [ ] Femoral pulse
+- [ ] Popliteal pulse
+- [ ] Posterior tibial pulse
+- [ ] Dorsalis pedis pulse
+- [ ] Compare both lower limbs
+- [ ] Buerger's test
+- [ ] Buerger's angle
+- [ ] Capillary refill
+
+## Investigations
+
+- [ ] Complete blood count
+- [ ] Blood sugar
+- [ ] Blood urea
+- [ ] Serum creatinine
+- [ ] Liver function tests
+- [ ] Lipid profile
+- [ ] Local culture if indicated
+- [ ] Colour Doppler
+- [ ] Plethysmography
+- [ ] Angiography when indicated
+
+---
+
+# END OF CASE PRESENTATION
