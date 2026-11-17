@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "APSGN"
             }
+          },
+          {
+            "id": "a494b98b4e7d941f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,8 +202,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "f092ce87cd8d430a",
+  "active": "a494b98b4e7d941f",
   "lastOpenFiles": [
+    "Untitled.md",
     "APSGN.md",
     "Chapters.md",
     "Kidney disorder/Nephrotic Syndrome -5.md",
@@ -220,7 +235,6 @@
     "Immunisation/Rubella.md",
     "Fluid and electrolyte imbalance",
     "Fluid and electrolyte imbalance/Hypocalcemia.md",
-    "Fluid and electrolyte imbalance/Tx Hyponatremia.md",
-    "Fluid and electrolyte imbalance/Hypokalemia.md"
+    "Fluid and electrolyte imbalance/Tx Hyponatremia.md"
   ]
 }
