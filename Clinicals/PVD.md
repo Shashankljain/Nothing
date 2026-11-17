@@ -773,14 +773,62 @@ Used to assess changes in limb volume associated with arterial blood flow.
 
 The transcript mentions oxygen-related clearance studies. The exact test name is unclear.
 
-### 4. Angiography
+### 4. Arteriography -
+## **1. Procedural Steps & Approaches for Arteriography**
 
-Used to demonstrate:
+Arteriography (Arteriogram) is a contrast imaging technique used to visualize the arterial tree of the lower limbs[1].
 
-- Site of arterial obstruction.
-- Extent of vascular disease.
-- Proximal and distal arterial circulation.
-- Collateral circulation.
+### **Step 1: Selection of Cannulation Route**
+
+- **Standard Route (Unilateral Disease)**:
+    - The arterial needle/catheter is inserted into the **Femoral Artery** of the unaffected side in an **inverted (retrograde) fashion**[1].
+- **Alternative Routes (Bilateral / Severe Ischemia)**:
+    - If **both lower limbs are severely affected**, direct femoral puncture is avoided[1].
+    - Alternative approaches used:
+        1. **Brachial Artery Approach** (upper extremity arterial access)[1].
+        2. **Trans-lumbar Approach** (direct needle access into the abdominal aorta)[1].
+
+### **Step 2: Contrast Injection & Radiographic Imaging**
+
+- Radiopaque contrast media is injected into the arterial system, followed by serial X-ray exposures (radiographs) to visualize the contrast flowing through the vessel lumen, occlusion sites, and distal collateral branches[1].
+
+---
+
+## **2. Critical Warning & Clinical Precaution**
+
+- **Danger of Femoral Artery Puncture**:
+    - Direct puncture of a severely diseased or ischemic femoral artery can trigger severe **arterial spasm**[1].
+    - **Complication**: In a severely ischemic limb, puncture-induced vasospasm can precipitate a sudden **acute attack of gangrene**[1].
+- **Rule**: Puncture of a severely affected femoral artery **should always be avoided**; alternative upper limb or trans-lumbar access routes must be selected instead[1].
+
+---
+
+## **3. Key Diagnostic Findings Obtained from Arteriography**
+
+Arteriography provides 7 essential anatomical and functional details required for surgical planning[1]:
+
+1. **Exact Site of Block**: Precise anatomical location of the arterial occlusion (e.g., iliac, femoral, or popliteal level)[1].
+2. **Extent of Block**: The exact length/segment of vessel occluded[1].
+3. **State of Collateral Circulation**: Demonstrates whether collateral vessel flow around the occlusion is adequate or poor[1].
+4. **Distal Run-off**: Visualizes the patency and quality of the arterial tree distal to the block (essential to determine if bypass grafting is feasible)[1].
+5. **Presence of Organic Disease**: Confirms structural vascular wall pathology[1].
+6. **Nature of the Occlusion**: Differentiates between:
+
+- **Thrombus** or **Embolus**[1].
+- Regular, smooth narrowing seen in **Atherosclerosis** vs. segmental occlusion in **Buerger's disease (Thromboangiitis Obliterans)**[1][3].
+
+7. **Selection of Operative Procedure**: Guides the exact surgical strategy (e.g., Femoropopliteal Bypass, Endarterectomy, Lumbar Sympathectomy, or Amputation)[1].
+
+---
+
+## **4. Indications & When Arteriography is NOT Indicated**
+
+- **When Arteriography is Indicated**:
+    - Indicated when surgical reconstruction (e.g., arterial bypass surgery or endarterectomy) is actively planned, and the exact anatomical site of obstruction needs mapping[1].
+- **When Arteriography is NOT Indicated (Clinical Case Example)**:
+    - In the presented case of digital dry gangrene (2nd toe) secondary to Buerger's disease, arteriography is **NOT indicated** [17–19].
+    - **Reason**: The site of obstruction (popliteal artery) is already **demonstrable clinically** (popliteal pulse absent on routine palpation, but demonstrable by Fouche's / 4-6 test), and distal small-vessels are affected where bypass is not feasible [15, 17–19].
+
 
 ### Other Imaging Mentioned
 
@@ -789,31 +837,6 @@ Used to demonstrate:
 
 ---
 
-# 14. ANGIOGRAPHY
-
-### Viva: What is the importance of angiography?
-
-Angiography helps determine:
-
-1. Exact site of arterial obstruction.
-2. Extent of arterial disease.
-3. Condition of proximal arteries.
-4. Condition of distal arteries.
-5. Collateral circulation.
-6. Feasibility of vascular reconstruction.
-7. Appropriate level of amputation, when required.
-
-### Viva: Why should angiography be performed carefully in a patient with severe gangrene?
-
-The mentor discusses the importance of avoiding unnecessary invasive investigation in a severely compromised limb and selecting investigations according to the patient's clinical condition.
-
-### Viva: Is angiography indicated in this patient?
-
-The discussion states that the presence of clinically demonstrable distal arterial obstruction should be considered while deciding the need for angiographic investigation.
-
-The exact concluding wording in the transcript is unclear.
-
----
 
 # 15. CONSERVATIVE MANAGEMENT
 
