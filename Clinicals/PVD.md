@@ -580,11 +580,11 @@ Look for:
 | **Popliteal Artery**            | Deep in the popliteal fossa (knee flexed to 30° / Foote's test position)[1][2]                                               | **Posterior surface of the lower end of Femur / upper end of Tibia**[1][2] |
 | **Femoral Artery**              | Midway between the pubic tubercle and Anterior Superior Iliac Spine (ASIS), with thigh in external rotation and abduction[1] | **Head of the Femur**[1]                                                   |
 | **Abdominal Aorta**             | Just to the left of the midline in the epigastric and umbilical regions[1]                                                   | **Lumbar Vertebral Column**[1]                                             |
-| **Carotid Artery**              | In the neck along the anterior border of the sternocleidomastoid muscle[1]                                                   | **Chassaignac's Tubercle (Transverse process of C6 vertebra)**[1]          |
+| **Carotid Artery**              | In the neck along the anterior border of the sternocleidomastoid muscle[1]                                                   | **==Chassaignac's== Tubercle (Transverse process of C6 vertebra)**[1]      |
 | **Subclavian Artery**           | Base of the posterior triangle of the neck, just above the center of the clavicle[1]                                         | **First Rib**[1]                                                           |
 | **Brachial Artery**             | Middle third of the arm on the medial aspect (and cubital fossa)[1]                                                          | **Shaft of the Humerus**[1]                                                |
-| **Radial Artery**               | At the wrist joint, just lateral to the tendon of Flexor Carpi Radialis (FCR)[1]                                             | **Lower end of the Radius**[1]                                             |
-| **Superficial Temporal Artery** | In front of the tragus of the ear[1][3]                                                                                      | **Temporal Bone**[1][3]                                                    |
+| **Radial Artery**               | At the wrist joint, just lateral to the tendon of _==Flexor_ Carpi Radialis== (FCR)[1]                                       | **Lower end of the Radius**[1]                                             |
+| **Superficial Temporal Artery** | In front of the ==tragus== of the ear[1][3]                                                                                  | **Temporal Bone**[1][3]                                                    |
 ## Crossed Leg Test (==Fuschig Test==)
 
 > [!IMPORTANT] Viva Question
@@ -676,7 +676,7 @@ It is a clinical test used to assess the adequacy of arterial circulation in the
 
 ### Interpretation
 
-- Pallor on elevation suggests poor arterial circulation.
+- ==Pallor== on elevation suggests poor arterial circulation.
 - Delayed return of normal colour suggests arterial insufficiency.
 - Dependent rubor indicates severe arterial insufficiency.
 
@@ -684,7 +684,7 @@ It is a clinical test used to assess the adequacy of arterial circulation in the
 
 ### Viva: What is Buerger's angle?
 
-It is the angle at which pallor first appears when the lower limb is elevated.
+It is the angle at which ==pallor first appears== when the lower limb is elevated.
 
 A lower angle indicates more severe arterial insufficiency.
 
@@ -707,7 +707,7 @@ These help assess the severity of arterial obstruction.
 
 # 11. PROVISIONAL DIAGNOSIS
 
-**Dry gangrene of the right second toe with a developing line of demarcation, secondary to peripheral vascular disease of the digital arteries, probably thromboangiitis obliterans.**
+**Dry gangrene of the right second toe with a developing line of demarcation, secondary to peripheral vascular disease of the digital arteries, probably ==thromboangiitis obliterans==.**
 
 The transcript also discusses the possibility of atherosclerotic peripheral vascular disease.
 
