@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Acute glomerulonephritis"
             }
+          },
+          {
+            "id": "290988a4b079c3f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,10 +216,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "f092ce87cd8d430a",
+  "active": "290988a4b079c3f9",
   "lastOpenFiles": [
-    "Acute glomerulonephritis.md",
+    "Untitled.md",
     "APSGN.md",
+    "Acute glomerulonephritis.md",
     "Chapters.md",
     "Kidney disorder/Nephrotic Syndrome -5.md",
     "Kidney disorder/Nephrotic Syndrome in Children.md",
@@ -234,7 +249,6 @@
     "Immunisation/Types of Vaccines & MMR Vaccine.md",
     "Immunisation/Rubella.md",
     "Fluid and electrolyte imbalance",
-    "Fluid and electrolyte imbalance/Hypocalcemia.md",
-    "Fluid and electrolyte imbalance/Tx Hyponatremia.md"
+    "Fluid and electrolyte imbalance/Hypocalcemia.md"
   ]
 }
