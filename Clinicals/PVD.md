@@ -479,7 +479,18 @@ Blister formation may indicate tissue damage and possible progression towards we
 
 It indicates tissue death. The extent of surrounding changes must be assessed to determine whether gangrene is spreading.
 
-Sign of chronic Ischimia-
+## Sign of chronic Ischimia-
+- skin is thin and shiny, 
+- with scanty hair 
+- very little of sub-cutaneous fat.
+- Nails show transverse ridges
+
+## sign of acute Ischemia-(5P)
+- pain
+- Pallor
+- Pulselessness
+- Paresthesis
+- Paralysis
 
 ---
 
@@ -493,10 +504,10 @@ Compare the temperature of:
 
 - Affected toe.
 - Surrounding foot.
-- Proximal part of the limb.
+- ==Proximal== part of the limb.
 - Opposite lower limb.
 
-A reduction in temperature suggests poor arterial blood supply.
+A reduction in temperature suggests ==poor arterial blood supply.==
 
 ## B. Tenderness
 
@@ -511,7 +522,7 @@ Assess:
 
 In this patient, with gradual onset of gangrene, it is not particularly significant.
 
-However, in acute-onset gangrene, tenderness along the arteries may be important and may suggest an acute inflammatory or infective process.
+However, in ==acute-onset gangrene==, tenderness along the arteries may be important and may suggest an acute inflammatory or infective process.
 
 ### Viva: What does tenderness on palpation of the gangrenous area suggest?
 
@@ -526,7 +537,7 @@ It may suggest:
 
 ## C. Assessment of Gangrene
 
-### Incomplete Gangrene
+### Incomplete /pre -Gangrene
 
 - Some sensation may be preserved.
 - Some movements may be preserved.
