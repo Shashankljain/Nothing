@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AFFECTIONS OF THE SOFT TISSUES/Meralgia Paresthetica.md",
+                "file": "Chapters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meralgia Paresthetica"
+              "title": "Chapters"
             }
           }
         ],
@@ -228,7 +228,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "49ba6c39017ab36c",
+  "active": "126e7b1280bc094f",
   "lastOpenFiles": [
     "AFFECTIONS OF THE SOFT TISSUES/Meralgia Paresthetica.md",
     "AFFECTIONS OF THE SOFT TISSUES/Dorsal Ganglion of Wrist.md",
