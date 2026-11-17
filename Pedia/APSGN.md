@@ -4,7 +4,7 @@
 ### 1. Definition [⭐ High-Yield]
 
 - **Acute Poststreptococcal Glomerulonephritis (APSGN)** is an immune complex-mediated, non-suppurative inflammatory disorder of the renal glomeruli occurring as a delayed sequela following a Group A β-hemolytic Streptococcal (**GABS**) infection of the pharynx or skin.
-- **Classic Clinical Triad / Tetrad**: Characterized by the sudden onset of **gross hematuria** (cola- or tea-colored urine), **oliguria**, **periorbital edema**, and **hypertension**.
+- **Classic Clinical Triad / Tetrad**: Characterized by the sudden onset of **gross painless hematuria** (cola- or tea-colored urine), **oliguria**, **periorbital edema**, and **==hypertension==**.
 
 ---
 
