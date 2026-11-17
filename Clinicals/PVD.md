@@ -307,3 +307,504 @@ The discussion specifically mentions:
 
 > **Important:** Sexual function and fertility-related history should be assessed before performing lumbar sympathectomy.
 
+
+
+---
+
+# 5. LOCAL EXAMINATION
+
+## A. Inspection
+
+The right second toe shows:
+- Black discoloration.
+- Dry, shrunken appearance.
+- Mummified appearance.
+- Gangrenous changes extending up to the proximal interphalangeal joint.
+- Surrounding skin appears relatively normal.
+- No obvious ulceration described.
+
+### Viva: What do you think it is?
+
+**Answer:** Dry gangrene of the right second toe.
+
+### Viva: What is gangrene?
+
+Gangrene is the death of a macroscopic portion of tissue due to loss of blood supply, usually with superadded putrefaction or infection in some forms.
+
+### Viva: What is the difference between gangrene and necrosis?
+
+- **Necrosis:** Death of cells or tissues.
+- **Gangrene:** Macroscopic tissue death, commonly involving a larger portion of tissue, with characteristic clinical changes.
+
+---
+
+## B. Dry Gangrene
+
+### Viva: What is the cause of black discoloration in gangrene?
+
+Black discoloration is due to the breakdown of blood cells in the tissues and formation of iron sulphide from haemoglobin.
+
+This produces the characteristic dark black colour.
+
+### Viva: What is the line of demarcation?
+
+It is the line of junction between dead gangrenous tissue and the surrounding viable tissue.
+
+### Viva: What is the significance of the line of demarcation?
+
+1. It separates dead tissue from living tissue.
+2. It indicates the level up to which the tissue has survived.
+3. It helps assess the possible extent of gangrene.
+4. It helps in deciding the level of amputation.
+5. It indicates that the gangrenous part may separate naturally.
+
+### Viva: How is the line of demarcation formed?
+
+The body responds to dead tissue by producing granulation tissue.
+
+Sequence:
+
+Dead tissue
+↓
+Inflammatory response
+↓
+Granulation tissue formation
+↓
+Separation of dead tissue from living tissue
+↓
+Clear-cut line of demarcation
+↓
+Ulceration and separation of gangrenous part
+
+This process is associated with aseptic ulceration.
+
+### Viva: What happens to the underlying tissues during separation?
+
+The process of separation may extend into the underlying tissues. The surviving tissues are preserved, and the gangrenous portion gradually separates, leaving a stump.
+
+### Viva: Why is a line of demarcation well formed in dry gangrene?
+
+Because the process is relatively slow and the surrounding circulation is comparatively better, allowing the body to form a clear separation between viable and dead tissue.
+
+### Viva: Is the line of demarcation well formed in wet gangrene?
+
+No. It is poorly formed or absent because infection and inflammation spread into the surrounding tissues.
+
+---
+
+# 6. DIFFERENTIATION BETWEEN DRY AND WET GANGRENE
+
+| Feature | Dry gangrene | Wet gangrene |
+|---|---|---|
+| Cause | Ischaemia | Ischaemia with infection |
+| Appearance | Dry, black and mummified | Swollen, moist and discoloured |
+| Infection | Usually absent initially | Present |
+| Line of demarcation | Well formed | Poorly formed or absent |
+| Spread | Usually slow | Rapid |
+| Oedema | Usually absent | Common |
+| Skin | Dry and shrunken | Shiny and swollen |
+| Prognosis | Comparatively better | Serious |
+| Separation | May occur naturally | Requires urgent management |
+
+> **Important:** Dry gangrene is less prone to infection. Wet gangrene can spread rapidly and may become life-threatening.
+
+---
+
+# 7. SIGNS OF SPREAD OF GANGRENE
+
+During local examination, the examiner asks the student to look for signs suggesting proximal spread.
+
+### Points to examine
+
+1. Extension of black discoloration.
+2. Oedema.
+3. Skin colour changes.
+4. Skin temperature.
+5. Blisters.
+6. Discharge.
+7. Tenderness.
+8. Signs of infection.
+9. Condition of surrounding skin.
+
+### Viva: What are the signs of wet gangrene?
+
+- Swelling.
+- Moist and shiny skin.
+- Blister formation.
+- Discolouration.
+- Discharge.
+- Poorly defined line of demarcation.
+- Rapid proximal spread.
+- Signs of infection.
+
+### Viva: What are the signs of poor circulation in the proximal part of the limb?
+
+The discussion mentions:
+
+- Skin colour changes.
+- Skin becoming shiny.
+- Scanty hair growth.
+- Brittle nails.
+- Reduced skin temperature.
+- Poor peripheral circulation.
+
+### Viva: What is the significance of blister formation?
+
+Blister formation may indicate tissue damage and possible progression towards wet gangrene, particularly when associated with infection and oedema.
+
+### Viva: What is the significance of dark black skin?
+
+It indicates tissue death. The extent of surrounding changes must be assessed to determine whether gangrene is spreading.
+
+---
+
+# 8. PALPATION
+
+After inspection, proceed to palpation.
+
+## A. Local Temperature
+
+Compare the temperature of:
+- Affected toe.
+- Surrounding foot.
+- Proximal part of the limb.
+- Opposite lower limb.
+
+A reduction in temperature suggests poor arterial blood supply.
+
+## B. Tenderness
+
+Assess:
+- Gangrenous area.
+- Surrounding tissues.
+- Proximal part of the limb.
+- Course of major arteries.
+
+### Viva: Is tenderness along the line of arteries significant?
+
+In this patient, with gradual onset of gangrene, it is not particularly significant.
+
+However, in acute-onset gangrene, tenderness along the arteries may be important and may suggest an acute inflammatory or infective process.
+
+### Viva: What does tenderness on palpation of the gangrenous area suggest?
+
+It may suggest:
+- Infection.
+- Inflammation.
+- Wet gangrene.
+- Spreading gangrene.
+
+---
+
+## C. Assessment of Gangrene
+
+### Incomplete gangrene
+
+- Some sensation may be preserved.
+- Some movements may be preserved.
+- Blood supply may not be completely lost.
+
+### Complete gangrene
+
+- No sensation.
+- No movement in the affected dead part.
+- No capillary refill.
+- No arterial pulsation in the affected part.
+- Complete tissue death.
+
+---
+
+## D. Buerger's Posture / Elevation Changes
+
+The mentor discusses assessment of circulation by observing the affected limb in different positions.
+
+Look for:
+- Pallor on elevation.
+- Return of colour when the limb is lowered.
+- Dependent rubor.
+- Delayed recovery of normal colour.
+
+---
+
+# 9. VASCULAR EXAMINATION
+
+**This is an extremely important part of the PVD case presentation.**
+
+All peripheral pulses must be examined and compared on both sides.
+
+## A. Arterial Pulses to Be Examined
+
+| Artery | Site of palpation |
+|---|---|
+| Superficial temporal artery | In front of the tragus of the ear |
+| Carotid artery | Between the trachea and anterior border of sternocleidomastoid |
+| Brachial artery | Medial to the tendon of biceps in the cubital fossa |
+| Radial artery | At the wrist, lateral to the flexor carpi radialis tendon |
+| Femoral artery | Mid-inguinal point |
+| Popliteal artery | Deep in the popliteal fossa |
+| Posterior tibial artery | Behind the medial malleolus |
+| Dorsalis pedis artery | On the dorsum of the foot |
+
+### Important examination points
+
+- Examine both sides.
+- Compare the volume of pulses.
+- Note whether the pulse is palpable or absent.
+- Examine pulses proximal and distal to the suspected site of obstruction.
+
+## B. Examination of Lower Limb Pulses
+
+The following pulses are particularly important in PVD:
+
+1. Femoral artery.
+2. Popliteal artery.
+3. Posterior tibial artery.
+4. Dorsalis pedis artery.
+
+### Viva: Why do we examine all the pulses?
+
+To:
+- Identify the level of arterial obstruction.
+- Assess the extent of peripheral vascular disease.
+- Determine the adequacy of blood circulation.
+- Help decide the possible level of amputation.
+
+### Viva: What if the posterior tibial and dorsalis pedis pulses are not palpable?
+
+This suggests reduced arterial circulation in the distal limb.
+
+However, pulses must be examined carefully and compared with the opposite side.
+
+---
+
+## C. Special Test for Peripheral Pulses
+
+### Viva: What is the purpose of the test discussed for demonstrating difficult-to-palpate arterial pulsations?
+
+The discussion refers to a technique in which the patient is positioned appropriately, the muscles are relaxed and the examiner uses careful palpation to identify arterial pulsations.
+
+The exact name of this test is unclear in the automatic transcript.
+
+---
+
+# 10. OTHER VASCULAR ASSESSMENT
+
+## A. Buerger's Test
+
+### Viva: What is Buerger's test?
+
+It is a clinical test used to assess the adequacy of arterial circulation in the lower limb.
+
+### Procedure
+
+1. Ask the patient to lie supine.
+2. Elevate the lower limb.
+3. Observe the foot for pallor.
+4. Gradually lower the limb.
+5. Observe the time taken for normal colour to return.
+6. Look for dependent rubor.
+
+### Interpretation
+
+- Pallor on elevation suggests poor arterial circulation.
+- Delayed return of normal colour suggests arterial insufficiency.
+- Dependent rubor indicates severe arterial insufficiency.
+
+## B. Buerger's Angle
+
+### Viva: What is Buerger's angle?
+
+It is the angle at which pallor first appears when the lower limb is elevated.
+
+A lower angle indicates more severe arterial insufficiency.
+
+> **Important:** Buerger's angle is a clinical measure used to assess the severity of peripheral arterial obstruction.
+
+## C. Other Clinical Parameters
+
+The discussion mentions the following clinical indicators:
+
+- Claudication distance.
+- Systolic blood pressure.
+- Peripheral pulse volume.
+- Buerger's angle.
+- Skin colour and temperature.
+
+These help assess the severity of arterial obstruction.
+
+---
+
+# 11. PROVISIONAL DIAGNOSIS
+
+**Dry gangrene of the right second toe with a developing line of demarcation, secondary to peripheral vascular disease of the digital arteries, probably thromboangiitis obliterans.**
+
+The transcript also discusses the possibility of atherosclerotic peripheral vascular disease.
+
+---
+
+# 12. MANAGEMENT
+
+## A. Initial Management
+
+The patient should be admitted for further evaluation.
+
+### Initial steps
+
+1. Admit the patient.
+2. Assess the extent of gangrene.
+3. Assess the arterial circulation.
+4. Investigate the cause.
+5. Assess the possibility of infection.
+6. Plan further treatment based on vascular status.
+
+---
+
+# 13. INVESTIGATIONS
+
+## A. Routine Investigations
+
+The mentor discusses the following investigations:
+
+| Investigation | Purpose |
+|---|---|
+| Complete blood count | Assess haemoglobin and infection |
+| Blood pressure | Identify hypertension |
+| Blood sugar | Detect diabetes mellitus |
+| Fasting blood sugar | Assess glycaemic status |
+| Blood urea | Assess renal function |
+| Serum creatinine | Assess renal function |
+| Liver function tests | Assess liver function |
+| Lipid profile | Assess hyperlipidaemia |
+| Local swab for culture and sensitivity | Identify organisms if infection or discharge is present |
+
+## B. Specific Investigations
+
+The aim is to demonstrate:
+
+1. State of circulation.
+2. Level of arterial obstruction.
+3. Extent of arterial disease.
+4. Condition of distal vessels.
+5. Suitability for vascular surgery.
+
+### 1. Colour Doppler Study
+
+Used to assess:
+- Blood flow in lower limb arteries.
+- Site of obstruction.
+- Degree of arterial narrowing.
+- Flow characteristics.
+
+### 2. Plethysmography
+
+Used to assess changes in limb volume associated with arterial blood flow.
+
+### 3. TcPO2 / Transcutaneous Oxygen Assessment
+
+The transcript mentions oxygen-related clearance studies. The exact test name is unclear.
+
+### 4. Angiography
+
+Used to demonstrate:
+- Site of arterial obstruction.
+- Extent of vascular disease.
+- Proximal and distal arterial circulation.
+- Collateral circulation.
+
+### Other imaging mentioned
+
+- CT angiography.
+- MR angiography.
+
+---
+
+# 14. ANGIOGRAPHY
+
+### Viva: What is the importance of angiography?
+
+Angiography helps determine:
+
+1. Exact site of arterial obstruction.
+2. Extent of arterial disease.
+3. Condition of proximal arteries.
+4. Condition of distal arteries.
+5. Collateral circulation.
+6. Feasibility of vascular reconstruction.
+7. Appropriate level of amputation, when required.
+
+### Viva: Why should angiography be performed carefully in a patient with severe gangrene?
+
+The mentor discusses the importance of avoiding unnecessary invasive investigation in a severely compromised limb and selecting investigations according to the patient's clinical condition.
+
+### Viva: Is angiography indicated in this patient?
+
+The discussion states that the presence of clinically demonstrable distal arterial obstruction should be considered while deciding the need for angiographic investigation.
+
+The exact concluding wording in the transcript is unclear.
+
+---
+
+# 15. CONSERVATIVE MANAGEMENT
+
+The mentor divides conservative treatment into three broad components:
+
+1. General treatment.
+2. Local treatment.
+3. Medical treatment.
+
+## A. General Treatment
+
+- Complete cessation of smoking.
+- Avoid all tobacco products.
+- Improve general health.
+- Weight reduction if required.
+- Regular exercise within tolerable limits.
+- Avoid injury to the affected limb.
+- Maintain proper foot hygiene.
+- Wear comfortable and soft footwear.
+
+## B. Local Treatment
+
+- Protect the affected toe from trauma.
+- Avoid pressure over the gangrenous area.
+- Keep the surrounding skin clean.
+- Maintain appropriate dressing.
+- Trim nails carefully.
+- Avoid injury while cutting nails.
+- Avoid applying irritants or excessive heat.
+- Monitor for signs of infection.
+- Observe for proximal spread of gangrene.
+
+### Viva: Why should the foot be protected from injury?
+
+Because the affected limb has poor circulation and minor trauma may lead to ulceration, infection and further tissue damage.
+
+### Viva: Why should soft footwear be advised?
+
+To reduce pressure and prevent injury to the toes and foot.
+
+## C. Medical Treatment
+
+The transcript mentions:
+- Antibiotics when infection is present.
+- Pentoxifylline.
+- Nicotinic acid.
+- Vitamin E.
+- Other medical measures intended to improve peripheral circulation.
+
+### Viva: What is the role of pentoxifylline?
+
+The transcript mentions pentoxifylline as a drug used in the treatment of intermittent claudication and peripheral vascular disease.
+
+### Viva: What is the proposed role of these circulation-improving drugs?
+
+The discussion describes their intended effects as:
+- Reducing blood viscosity.
+- Improving peripheral tissue perfusion.
+- Improving blood flow through small vessels.
+- Reducing sludging of red blood cells.
+
+*The transcript does not clearly establish the exact drug names and doses for every medication mentioned.*
+
+
+
