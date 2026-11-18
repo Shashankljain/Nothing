@@ -35,13 +35,13 @@ The case presentation and viva exchange are integrated in exact chronological se
 
 > [!question] **Tutor (Mentor)** What thyroid swelling regresses in size?
 
-> [!note] **Student** Sir, a thyroid swelling produced by **hemorrhage into a degenerated cyst or nodule**increases in size suddenly and, as the blood is reabsorbed over the next few weeks, it decreases in size or disappears completely.
+> [!note] **Student** Sir, a thyroid swelling produced by **==hemorrhage== ==into a degenerated cyst or nodule==** increases in size suddenly and, as the blood is reabsorbed over the next few weeks, it decreases in size or disappears completely.
 
 - **Student Continuation**: No history of rapid increase in size with pain.
 
 > [!question] **Tutor (Mentor)** What is a rapid increase in size accompanied by pain suggestive of?
 
-> [!note] **Student** It is suggestive of **==hemorrhage== into a pre-existing nodule** or an **anaplastic malignant change**.
+> [!note] **Student** It is suggestive of **==hemorrhage== into a ==pre-existing nodule==** or an **anaplastic malignant change**.
 
 ---
 
@@ -57,7 +57,11 @@ The case presentation and viva exchange are integrated in exact chronological se
     - No history of ulceration over the swelling, skin breakdown, discharge, or sinus/fistula formation.
     - No history of fever, weight loss, cough with expectoration, hemoptysis, or contact with a known case of tuberculosis.
     - No history of swelling anywhere else in the body, bone pain, bleeding from gums/oral cavity, or swelling in the oral cavity.
-    - **Pressure Symptoms Screening**: No history of difficulty in swallowing (dysphagia), difficulty in breathing (dyspnea), or change/hoarseness of voice.
+    - **Pressure Symptoms Screening**: No history of difficulty in swallowing (==dysphagia==), difficulty in breathing (==dyspnea==), or change/==hoarseness== of voice.
+
+
+==Nocturnal goitre== - seen in RETROSTERNAL Goitre, Recumbent position 
+
 
 > [!question] **Tutor (Mentor)** What is the cause of dyspnea in a goiter?
 
@@ -65,7 +69,7 @@ The case presentation and viva exchange are integrated in exact chronological se
 
 - **Student Continuation**:
     - **Malignancy & Metastasis Screening**: No history of recent rapid weight loss, severe bone pain, or swellings in the skull or long bones (suggestive of distant metastases from malignant thyroid).
-    - **Toxic Symptoms Screening**: No history of palpitations, chest pain, exertional dyspnea, eye prominence/protrusion (exophthalmos), fine tremors of hands, excitability, insomnia, excessive sweating, increased appetite with weight loss, diarrhea, or mental disturbances.
+    - **Toxic Symptoms Screening**: No history of palpitations, chest pain, exertional dyspnea, eye prominence/protrusion (exophthalmos), fine tremors of hands, excitability, insomnia, excessive sweating, increased appetite with weight loss, diarrhea, or menstrual disturbances.
     - **Hypothyroid Symptoms Screening**: No history of edema of feet or face, hoarseness of voice, dry skin, or mental/physical lethargy.
 
 ---
@@ -82,13 +86,14 @@ The case presentation and viva exchange are integrated in exact chronological se
 
 > [!question] **Tutor (Mentor)** What detail would you look for if there is a family or village history of goiter?
 
-> [!note] **Student** A high incidence of thyroid swelling in a family or village strongly points to **dietary iodine deficiency** in food and water (as seen in the Himalayan endemic goiter belt) or habitual intake of **dietary goitrogens** (such as cabbage containing thiocyanates).
+> [!note] **Student** A high incidence of thyroid swelling in a family or village strongly points to **==dietary iodine deficiency==** in food and water (as seen in the Himalayan endemic goiter belt) or habitual intake of **==dietary goitrogens==** (such as cabbage containing thiocyanates).
 
-- **Past & Radiation History**: No history of taking anti-thyroid drugs or prior medical/surgical treatment for the swelling. No history of radiation to the neck during childhood.
+- **Past & Radiation History**: No history of taking anti-thyroid drugs or prior medical/surgical treatment for the swelling. (Because ==Para amino salicylic acid==)
+- No history of radiation to the neck during childhood.
 
 > [!question] **Tutor (Mentor)** What is the clinical significance of asking about childhood neck radiation?
 
-> [!note] **Student** Irradiation to the neck during childhood can result in **Papillary Carcinoma of the Thyroid**appearing 10 to 40 years later, as well as parathyroid adenomas.
+> [!note] **Student** Irradiation to the neck during childhood can result in **==Papillary Carcinoma== of the Thyroid**appearing 10 to 40 years later, as well as ==parathyroid adenomas.==
 
 ---
 
@@ -96,8 +101,8 @@ The case presentation and viva exchange are integrated in exact chronological se
 
 ### Inspection Protocol & Techniques
 
-- **Patient Position**: Sitting comfortably on a stool with the neck slightly hyperextended.
-- **Pizzillo's Method**: If the neck is short or fat, the thyroid is made more prominent by Pizzillo's method: the patient clasps her hands behind the occiput and presses her head backward against the resistance of her clasped hands. This tightens the pretracheal fascia and pushes the thyroid forward.
+- **Patient Position**: Sitting comfortably on a stool with the neck slightly ==hyperextended==.
+- **Pizzillo's Method**: If the neck is ==short or fat==, the thyroid is made more prominent by Pizzillo's method: the patient clasps her hands behind the occiput and presses her head backward against the resistance of her clasped hands. This tightens the pretracheal fascia and pushes the thyroid forward.
 
 ---
 
@@ -107,7 +112,7 @@ The case presentation and viva exchange are integrated in exact chronological se
 
 > [!question] **Tutor (Mentor)** Which thyroid swellings have an uneven surface?
 
-> [!note] **Student** **Multinodular Goiter (MNG)** has a characteristic bosselated/uneven surface, while **Carcinoma of the Thyroid** presents with a hard, irregular surface.
+> [!note] **Student** **==Multinodular Goiter (MNG)==** has a characteristic **bosselated/uneven surface**, while **==Carcinoma of the Thyroid==** presents with a **hard, irregular surface.**
 
 ---
 
@@ -127,9 +132,9 @@ The case presentation and viva exchange are integrated in exact chronological se
 
 > [!note] **Student**
 > 
-> - **Hot (Hyperfunctioning) Nodule**: Takes up excess isotope; seen in Toxic Solitary Adenoma.
-> - **Warm (Normal functioning) Nodule**: Isotope uptake equal to normal gland; seen in Follicular Adenoma.
-> - **Cold (Non-functioning) Nodule**: Takes up minimal/no isotope; seen in Papillary Carcinoma, Hemorrhagic Cyst, or Calcified Nodule.
+> - **Hot (Hyperfunctioning) Nodule**: Takes up excess isotope; seen in ==Toxic Solitary Adenoma==.
+> - **Warm (Normal functioning) Nodule**: Isotope uptake equal to normal gland; seen in ==Follicular Adenoma==.
+> - **Cold (Non-functioning) Nodule**: Takes up minimal/no isotope; seen in ==Papillary Carcinoma, Hemorrhagic Cyst, or Calcified Nodule.==
 
 ```
                      I-131 SCINTIGRAPHY NODULE MATRIX
@@ -147,13 +152,13 @@ Hot Nodule                     Warm Nodule                    Cold Nodule
 
 > [!question] **Tutor (Mentor)** If you find a single large nodule giving the clinical impression of a solitary nodule, how do you differentiate if the rest of the gland is normal?
 
-> [!note] **Student** If a single nodule is palpable and the rest of the thyroid gland is NOT palpable, it is clinically considered a **Solitary Thyroid Nodule**. _(Note: Many clinically solitary nodules are revealed to be Multinodular Goiters with one dominant nodule on ultrasound or histopathology)._
+> [!note] **Student** If a single nodule is palpable and the rest of the thyroid gland is NOT palpable, it is clinically considered a **Solitary Thyroid Nodule**. _(Note: Many clinically solitary nodules are revealed to be ==Multinodular Goiters== with one dominant nodule on ultrasound or histopathology)._
 
 ---
 
 > [!question] **Tutor (Mentor)** How do you indirectly infer that the rest of the thyroid gland (isthmus) is normal and non-palpable?
 
-> [!note] **Student** From the ability to feel the **2nd, 3rd, and 4th tracheal rings** in the suprasternal notch. If the isthmus is enlarged, these rings cannot be felt directly.
+> [!note] **Student** From the ability to feel the **==2nd, 3rd, and 4th tracheal rings==** in the suprasternal notch. If the isthmus is enlarged, these rings cannot be felt directly.
 
 ---
 
@@ -168,11 +173,11 @@ Hot Nodule                     Warm Nodule                    Cold Nodule
 
 ---
 
-- **Student Continuation of Inspection**: Overlying skin is normal; no red streaks, scars, sinuses, or fistulae. The lower border of the swelling is distinctly visible. The swelling **moves UPWARD on deglutition (swallowing)**, but **DOES NOT move on protrusion of the tongue**.
+- **Student Continuation of Inspection**: Overlying skin is normal; no red streaks, scars, sinuses, or fistulae. The lower border of the swelling is distinctly visible. The swelling **moves UPWARD on deglutition (swallowing)**, but **==DOES NOT move on protrusion of the tongue==**.
 
 > [!question] **Tutor (Mentor)** Why does a thyroid swelling move UPWARD on deglutition?
 
-> [!note] **Student** Because the thyroid gland is enclosed within the **pretracheal layer of deep cervical fascia**, which is attached superiorly to the thyroid and cricoid cartilages. During deglutition, the larynx and cartilages are elevated by the elevator muscles of the pharynx (e.g., Stylopharyngeus), pulling the attached pretracheal fascia and enclosed thyroid gland upward.
+> [!note] **Student** Because the thyroid gland is enclosed within the **==pretracheal layer of deep cervical fascia==**, which is attached superiorly to the thyroid and cricoid cartilages. During deglutition, the larynx and cartilages are elevated by the ==elevator muscles of the pharynx== (e.g., Stylopharyngeus), pulling the attached pretracheal fascia and enclosed thyroid gland upward.
 
 ---
 
