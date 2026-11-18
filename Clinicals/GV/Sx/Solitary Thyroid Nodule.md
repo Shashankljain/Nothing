@@ -553,7 +553,7 @@ Report: BENIGN Adenoma/Cyst                           Report: MALIGNANT Carcinom
 
 > [!question] **Tutor (Mentor)** How will you treat this patient with a clinically euthyroid Solitary Thyroid Nodule?
 
-> [!note] **Student** I will advise surgical intervention: **Right Hemithyroidectomy (Right Lobectomy + Isthmusectomy)** with **Intraoperative Frozen Section Biopsy**.
+> [!note] **Student** I will advise surgical intervention: **Right ==Hemithyroidectomy (Right Lobectomy + Isthmusectomy)==** with **==Intraoperative Frozen Section Biopsy==**.
 > 
 > - If the frozen section report is **Benign**, the operation is complete as a Hemithyroidectomy.
 > - If the frozen section report is **Malignant**, the operation will proceed immediately to **Total Thyroidectomy**.
