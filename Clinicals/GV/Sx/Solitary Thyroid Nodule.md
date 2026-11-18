@@ -458,7 +458,7 @@ As presented in the clinical examination protocol, apparent exophthalmos is dist
 
 > [!question] **Tutor (Mentor)** How do you differentiate Exophthalmos from an Intra-orbital Tumor?
 
-> [!note] **Student** An intra-orbital tumor produces **unilateral, eccentric displacement** of the eyeball, and manual reduction of the globe is impossible or difficult.
+> [!note] **Student** An intra-orbital tumor produces **==unilateral, eccentric displacement==** of the eyeball, and manual reduction of the globe is impossible or difficult.
 
 ---
 
