@@ -542,9 +542,9 @@ As presented in the clinical examination protocol, apparent exophthalmos is dist
                                     │
      ┌──────────────────────────────┴──────────────────────────────┐
      ▼                                                             ▼
-Report: BENIGN Adenoma/Cyst                                  Report: MALIGNANT Carcinoma
-• Operation Completed.                                      • Proceed immediately to
-• Preserve Left Lobe.                                         TOTAL THYROIDECTOMY.
+Report: BENIGN Adenoma/Cyst                           Report: MALIGNANT Carcinoma
+• Operation Completed.                                • Proceed immediately to
+• Preserve Left Lobe.                                    TOTAL THYROIDECTOMY.
 ```
 
 ---
