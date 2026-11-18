@@ -520,7 +520,7 @@ As presented in the clinical examination protocol, apparent exophthalmos is dist
 
 > [!question] **Tutor (Mentor)** Why is Indirect Laryngoscopy (IDL) performed pre-operatively even if the patient's voice is normal?
 
-> [!note] **Student** **Indirect Laryngoscopy (IDL)** for vocal cord mobility is **medicolegally essential before surgery**. Gradual onset of recurrent laryngeal nerve involvement can be compensated by the opposite cord without noticeable voice change; documenting vocal cord paralysis pre-operatively protects the surgeon medicolegally.
+> [!note] **Student** **Indirect Laryngoscopy (IDL)** for vocal cord mobility is **medicolegally essential before surgery**. Gradual onset of recurrent laryngeal nerve involvement can be compensated by the opposite cord without noticeable voice change; ==documenting vocal cord paralysis pre-operatively== protects the surgeon medicolegally.
 
 ---
 
