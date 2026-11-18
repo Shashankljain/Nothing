@@ -444,7 +444,7 @@ As presented in the clinical examination protocol, apparent exophthalmos is dist
 | **von Graefe's Sign** | Lid lag — upper lid lags behind movement of eyeball on looking down             | Sympathetic spasm of levator palpebrae superioris              |
 | **Stellwag's Sign**   | Infrequent and incomplete blinking                                              | Retraction of upper eyelid                                     |
 | **Moebius's Sign**    | Inability to sustain convergence of eyes when looking at a near object          | Weakness of medial rectus muscles                              |
-| **Joffroy's Sign**    | Absence of forehead wrinkling on looking upward with head tilted down           | Superior rectus / Frontalis discoordination                    |
+| **Joffroy's Sign**    | Absence of ==forehead wrinkling== on looking upward with head tilted down       | Superior rectus / Frontalis discoordination                    |
 | **Gifford's Sign**    | Difficulty in eversion of upper eyelid                                          | Spasm of tarsal muscles                                        |
 | **Enroth's Sign**     | Fullness / edema of upper and lower eyelids                                     | Periorbital edema                                              |
 
