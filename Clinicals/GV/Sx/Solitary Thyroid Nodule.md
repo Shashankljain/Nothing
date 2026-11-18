@@ -236,7 +236,7 @@ Hot Nodule                     Warm Nodule                    Cold Nodule
 
 > [!question] **Tutor (Mentor)** What is Lahey's Method of palpation?
 
-> [!note] **Student** **Lahey's Method**: The examiner stands in front of the patient. The thumb of one hand presses against the side of the thyroid cartilage to push the gland to the opposite side. This displaces the contralateral thyroid lobe out of the tracheoesophageal groove, allowing the fingers of the examiner's other hand to palpate the posteromedial surface of the displaced lobe.
+> [!note] **Student** **Lahey's Method**: The examiner stands in front of the patient. The thumb of one hand presses against the side of the thyroid cartilage to push the gland to the opposite side. This displaces the ==contralateral thyroid lobe out of the tracheoesophageal groove==, allowing the fingers of the examiner's other hand to palpate the posteromedial surface of the displaced lobe.
 
 ---
 
