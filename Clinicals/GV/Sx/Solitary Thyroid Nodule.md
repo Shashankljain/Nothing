@@ -482,7 +482,7 @@ As presented in the clinical examination protocol, apparent exophthalmos is dist
 
 ## 6. Provisional Clinical Diagnosis
 
-> **"Non-toxic Solitary Thyroid Nodule of the Right Lobe, clinically euthyroid, with no retrosternal extension, no features of thyrotoxicosis, and no clinical signs of malignancy."**
+> **"Benign, non-toxic, solitary Thyroid nodule with no retro-sternal extention, and no air way obstruction"**
 
 ---
 
