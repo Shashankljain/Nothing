@@ -280,7 +280,7 @@ Hot Nodule                     Warm Nodule                    Cold Nodule
 
 > [!question] **Tutor (Mentor)** Why doesn't a thyroid swelling grow superficial to the sternocleidomastoid muscle?
 
-> [!note] **Student** Because the strong investing layer of deep cervical fascia enclosing the sternocleidomastoid muscle prevents superficial expansion.
+> [!note] **Student** Because the ==strong investing layer of deep cervical fascia== enclosing the sternocleidomastoid muscle prevents superficial expansion.
 
 ---
 
