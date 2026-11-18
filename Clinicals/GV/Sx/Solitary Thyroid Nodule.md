@@ -585,7 +585,7 @@ Report: BENIGN Adenoma/Cyst                           Report: MALIGNANT Carcinom
 > 3. **Anaplastic Thyroid Carcinoma**:
 >     - Primary **Radiotherapy and Chemotherapy**. Total thyroidectomy is justified ==ONLY== if the thyroid capsule is not infiltrated and no distant metastases exist.
 > 4. **Medullary Thyroid Carcinoma (MTC)**:
->     - **Total Thyroidectomy** with Central and Ipsilateral/Bilateral Neck Dissection. _(Not responsive to I-131 ablation or T4 suppression)._
+>     - **Total Thyroidectomy** with ==Central and Ipsilateral/Bilateral Neck Dissection==. _(Not responsive to I-131 ablation or T4 suppression)._
 
 ---
 
