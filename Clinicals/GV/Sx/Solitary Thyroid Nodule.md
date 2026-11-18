@@ -353,7 +353,7 @@ No palpable thrill over the upper pole. (To rule out-==PRIMARY THYROTOXICOSIS==)
 
 > [!note] **Student**
 > 
-> 1. Long-standing MNG with **Scabbard Trachea** (laterally compressed trachea).
+> 1. Long-standing MNG with **==Scabbard Trachea==** (laterally compressed trachea).
 > 2. Malignant infiltration of the trachea.
 > 3. Riedel's Thyroiditis.
 
