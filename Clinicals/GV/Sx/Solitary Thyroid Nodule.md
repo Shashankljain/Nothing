@@ -316,7 +316,7 @@ No palpable thrill over the upper pole. (To rule out-==PRIMARY THYROTOXICOSIS==)
 
 > [!question] **Tutor (Mentor)** How does Berry's sign change in Thyroid Malignancy?
 
-> [!note] **Student** Thyroid Carcinoma invades and encases/engulfs the carotid sheath. Consequently, carotid arterial pulsations become **WEAK or ABSENT** on palpation.
+> [!note] **Student** Thyroid Carcinoma ==invades and encases/engulfs== the carotid sheath. Consequently, carotid arterial pulsations become **WEAK or ABSENT** on palpation.
 
 ---
 
