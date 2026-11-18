@@ -416,13 +416,13 @@ Although the eyes appear to "bulge", the eyeball itself remains in its normal an
 
 As presented in the clinical examination protocol, apparent exophthalmos is distinguished from true exophthalmos using specific visual and physical criteria:
 
-|Parameter|Apparent Exophthalmos (Lid Retraction / Dalrymple's Sign)|True Exophthalmos|
-|---|---|---|
-|**Eyeball Position**|Normal position within the bony orbit.|Forward protrusion/displacement out of the orbit.|
-|**Underlying Pathology**|Sympathetic overactivity of upper eyelid muscles.|Deposition of retro-orbital fat, mucopolysaccharides, and intra-ocular muscle edema.|
-|**Upper Limbus Sclera**|Sclera is visible **above the upper limbus**.|Sclera may be visible above and below.|
-|**Lower Limbus Sclera**|Lower lid margin sits in its **normal position** at the 6 o'clock limbus.|Sclera is clearly visible **between the lower limbus and the lower lid margin**.|
-|**Naffziger's Method** _(Inspection from above/behind forehead)_|Apex of the cornea does **NOT** project beyond the orbital rim.|Apex of the cornea is visibly projecting beyond the orbital margin.|
+| Parameter                                                        | Apparent Exophthalmos (Lid Retraction / Dalrymple's Sign)                 | True Exophthalmos                                                                    |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **Eyeball Position**                                             | Normal position within the bony orbit.                                    | Forward protrusion/displacement out of the orbit.                                    |
+| **Underlying Pathology**                                         | ==Sympathetic== overactivity of upper eyelid muscles.                     | Deposition of retro-orbital fat, mucopolysaccharides, and intra-ocular muscle edema. |
+| **Upper Limbus Sclera**                                          | Sclera is visible **above the upper limbus**.                             | Sclera may be visible above and below.                                               |
+| **Lower Limbus Sclera**                                          | Lower lid margin sits in its **normal position** at the 6 o'clock limbus. | Sclera is clearly visible **between the lower limbus and the lower lid margin**.     |
+| **Naffziger's Method** _(Inspection from above/behind forehead)_ | Apex of the cornea does **NOT** project beyond the orbital rim.           | Apex of the cornea is visibly projecting beyond the orbital margin.                  |
 
 ---
 
