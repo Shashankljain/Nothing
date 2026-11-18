@@ -386,7 +386,9 @@ No palpable thrill over the upper pole. (To rule out-==PRIMARY THYROTOXICOSIS==)
 
 > [!question] **Tutor (Mentor)** How do you look for Exophthalmos?
 
-> [!note] **Student** **Naffziger's Method**: The patient sits on a stool looking straight ahead. The examiner stands behind her, tilts her head slightly backward, and inspects down the line of the forehead. If exophthalmos is present, the apex of the cornea becomes visible beyond the orbital margin.
+Lower lid touches the limbus at 6 position, if not thouching exopthalmus
+
+> [!note] **Student** **==Naffziger's Method==**: The patient sits on a stool looking straight ahead. The examiner stands behind her, tilts her head slightly backward, and inspects down the ==line of the forehead==. If exophthalmos is present, the apex of the ==cornea becomes visible== beyond the orbital margin.
 
 ---
 
