@@ -73,9 +73,15 @@ This comprehensive, chronological study note contains all information from the c
 - **Student Response**: A history of such an incident stresses the **need for surgery as early as possible** to prevent recurrent obstruction or strangulation.
 
 ---
-#### Differentiating Reducibility vs. Compressibility vs. Irreducibility
 
-Strangulation vs obstruction 
+
+### Q. What is the difference between obstruction and strangulation?
+
+Obstruction: Intestinal contents cannot pass through the bowel.
+
+Strangulation: Blood supply to the herniated bowel is compromised.
+
+#### Differentiating Reducibility vs. Compressibility vs. Irreducibility
 
 | Parameter           | Reducibility                                                                                      | Compressibility                                                                                                                         | Irreducibility                                                                           |
 | ------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
