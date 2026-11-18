@@ -286,6 +286,23 @@ Hot Nodule                     Warm Nodule                    Cold Nodule
 
 - **Student Continuation of Palpation**: The rest of the thyroid gland (left lobe and isthmus) is non-palpable. Overlying skin is not fixed. Mobility is not restricted in either horizontal or vertical directions. No palpable thrill over the upper pole. Carotid arterial pulsations are felt equally on both sides, but are displaced **BACKWARDS and OUTWARDS** on the right side.
 
+
+## PLAYTSMA SIGN
+**Platysma sign** is a clinical test used during neck and thyroid examinations to check whether a neck swelling has infiltrated or become ==fixed== to the overlying platysma muscle[1].
+
+---
+
+### **How to Perform the Test**
+
+- Ask the patient to **turn their head/neck to the opposite side**[1].
+
+---
+
+### **Interpretation of Results**
+
+- **Positive Platysma Sign**: If the swelling has infiltrated or adheres to the platysma muscle, the muscle contracts and **stands out as a prominent ==longitudinal== ridge** along the direction of its fibers[1]. This indicates fixity/infiltration into superficial tissues (often seen in advanced malignancy or severe inflammatory infiltration)[1][2].
+- **Negative Platysma Sign**: The skin and platysma move smoothly without forming a rigid contour or ridge over the swelling, confirming that the mass is ==not fixed== to the superficial muscular layer[1].
+
 > [!question] **Tutor (Mentor)** What is this carotid displacement sign called?
 
 > [!note] **Student** **Berry's Displacement Sign**: Benign thyroid enlargement pushes the carotid sheath and carotid vessels **BACKWARDS and OUTWARDS**. Thus, carotid pulsations remain easily palpable behind the posterior border of the swelling.
