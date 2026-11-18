@@ -201,7 +201,7 @@ Hot Nodule                     Warm Nodule                    Cold Nodule
 
 > [!note] **Student** To differentiate a **Thyroglossal Cyst** from a Thyroid Nodule.
 > 
-> - **Thyroglossal Cyst**: Derived from the thyroglossal tract attached to the base of the tongue at the foramen cecum. Protrusion of the tongue pulls a thyroglossal cyst UPWARD.
+> - **Thyroglossal Cyst**: Derived from the thyroglossal tract attached to the base of the tongue at the ==foramen cecum==. Protrusion of the tongue pulls a thyroglossal cyst UPWARD.
 > - **Thyroid Nodule**: Does not move on tongue protrusion.
 
 ---
