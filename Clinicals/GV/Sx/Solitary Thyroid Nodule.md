@@ -285,8 +285,7 @@ Hot Nodule                     Warm Nodule                    Cold Nodule
 ---
 
 - **Student Continuation of Palpation**: The rest of the thyroid gland (left lobe and isthmus) is non-palpable. Overlying skin is not fixed. Mobility is not restricted in either horizontal or vertical directions. 
-	- No palpable thrill over the upper pole. (To rule out-==PRIMARY THYROTOXICOSIS==)
-- Carotid arterial pulsations are felt equally on both sides, but are displaced **BACKWARDS and OUTWARDS** on the right side.
+	
 
 
 ## PLAYTSMA SIGN
@@ -305,9 +304,13 @@ Hot Nodule                     Warm Nodule                    Cold Nodule
 - **Positive Platysma Sign**: If the swelling has infiltrated or adheres to the platysma muscle, the muscle contracts and **stands out as a prominent ==longitudinal== ridge** along the direction of its fibers[1]. This indicates fixity/infiltration into superficial tissues (often seen in advanced malignancy or severe inflammatory infiltration)[1][2].
 - **Negative Platysma Sign**: The skin and platysma move smoothly without forming a rigid contour or ridge over the swelling, confirming that the mass is ==not fixed== to the superficial muscular layer[1].
 
+
+No palpable thrill over the upper pole. (To rule out-==PRIMARY THYROTOXICOSIS==)
+- Carotid arterial pulsations are felt equally on both sides, but are displaced **BACKWARDS and OUTWARDS** on the right side.
+
 > [!question] **Tutor (Mentor)** What is this carotid displacement sign called?
 
-> [!note] **Student** **Berry's Displacement Sign**: Benign thyroid enlargement pushes the carotid sheath and carotid vessels **BACKWARDS and OUTWARDS**. Thus, carotid pulsations remain easily palpable behind the posterior border of the swelling.
+> [!note] **Student** **Berry's Displacement Sign**: Benign thyroid enlargement pushes the ==carotid sheath and carotid vessels== **BACKWARDS and OUTWARDS**. Thus, carotid pulsations remain easily palpable behind the posterior border of the swelling.
 
 ---
 
