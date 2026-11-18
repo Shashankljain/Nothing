@@ -175,6 +175,13 @@ Hot Nodule                     Warm Nodule                    Cold Nodule
 
 - **Student Continuation of Inspection**: Overlying skin is normal; no red streaks, scars, sinuses, or fistulae. The lower border of the swelling is distinctly visible. The swelling **moves UPWARD on deglutition (swallowing)**, but **==DOES NOT move on protrusion of the tongue==**.
 
+### **Primary Swellings That Move With Deglutition**
+
+- **Thyroid Gland & Thyroid Swellings** (all benign nodules, colloid goiters, adenomas, early carcinomas)[1].
+- **Thyroglossal Cyst** (moves with deglutition, and _also_ moves upward on **tongue protrusion**)[1][2].
+- **Pretracheal Lymph Nodes**[2].
+- **Prelaryngeal Lymph Nodes**[2].
+
 > [!question] **Tutor (Mentor)** Why does a thyroid swelling move UPWARD on deglutition?
 
 > [!note] **Student** Because the thyroid gland is enclosed within the **==pretracheal layer of deep cervical fascia==**, which is attached superiorly to the thyroid and cricoid cartilages. During deglutition, the larynx and cartilages are elevated by the ==elevator muscles of the pharynx== (e.g., Stylopharyngeus), pulling the attached pretracheal fascia and enclosed thyroid gland upward.
