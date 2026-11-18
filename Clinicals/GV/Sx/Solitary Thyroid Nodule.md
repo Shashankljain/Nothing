@@ -373,7 +373,7 @@ No palpable thrill over the upper pole. (To rule out-==PRIMARY THYROTOXICOSIS==)
 
 ### Percussion & Auscultation
 
-- **Percussion**: Resonant note over the upper sternum (rules out retrosternal goiter dullness).
+- **Percussion**: ==Resonant== note over the upper sternum (rules out retrosternal goiter dullness).
 - **Auscultation**: No systolic bruit heard over the upper pole of the swelling (rules out primary thyrotoxicosis hypervascularity).
 
 ---
