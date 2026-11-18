@@ -271,4 +271,4 @@ _Thromboangiitis Obliterans (Buerger's disease) is a non-atherosclerotic, segmen
 
 ---
 
-💡 _Would you like to review **Acute Limb Ischemia & Fogarty Embolectomy**, **Lumbar Sympathectomy Techniques & Indications**, or **Amputation Levels & Surgical Principles** next?_
+💡 _Would you like to review **Acute Limb Ischemia & Fogarty Embolectomy**, **Lumbar Sympathectomy Techniques & Indications**, or **Amputation Levels & Surgical Principles** next?_ 
