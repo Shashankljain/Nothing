@@ -264,7 +264,7 @@ Hot Nodule                     Warm Nodule                    Cold Nodule
 
 > [!question] **Tutor (Mentor)** What is the clinical importance of retrosternal extension?
 
-> [!note] **Student** Retrosternal extension is a **relative contraindication to medical anti-thyroid drug treatment** because initial drug-induced enlargement of the gland can compress the trachea against the rigid thoracic inlet, causing acute respiratory distress. It is also an indication for early surgical intervention.
+> [!note] **Student** Retrosternal extension is a **==relative contraindication to medical anti-thyroid drug treatment==** because initial drug-induced ==enlargement== of the gland can compress the trachea against the rigid thoracic inlet, causing ==acute respiratory distress==. It is also an indication for early surgical intervention.
 
 ---
 
