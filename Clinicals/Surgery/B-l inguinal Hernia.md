@@ -205,13 +205,13 @@ Factors                        Weakness                     Factors
 
 #### Cough Impulse Variations Across Groin Swellings
 
-|Condition|Type of Cough Impulse Present|Key Distinguishing Features|
-|---|---|---|
-|**Inguinal Hernia**|**Expansile & Propulsive** type|Swelling expands and pushes forward; reducible (if uncomplicated).|
-|**Saphena Varix**|**Expansile** type ONLY (No propulsion)|Extremely soft consistency; disappears immediately on lying down or pressure.|
-|**Varicocele**|**Thrill-like** impulse|Feels like a "bag of worms"; collapses when supine.|
-|**Hydrocele**|**ABSENT** cough impulse|Transillumination test positive; possible to "get above the swelling".|
-|**Femoral Aneurysm**|Visible / Palpable **Expansile Pulsation**|Pulsates synchronously with arterial pulse; situated below inguinal ligament.|
+| Condition            | Type of Cough Impulse Present              | Key Distinguishing Features                                                   |
+| -------------------- | ------------------------------------------ | ----------------------------------------------------------------------------- |
+| **Inguinal Hernia**  | **Expansile & Propulsive** type            | Swelling expands and pushes forward; reducible (if uncomplicated).            |
+| **Saphena Varix**    | **Expansile** type ONLY (No propulsion)    | Extremely soft consistency; disappears immediately on lying down or pressure. |
+| **Varicocele**       | **Thrill-like** impulse                    | Feels like a "bag of worms"; collapses when supine.                           |
+| **Hydrocele**        | **ABSENT** cough impulse                   | Transillumination test positive; possible to "get above the swelling".        |
+| **Femoral Aneurysm** | Visible / Palpable **Expansile Pulsation** | Pulsates synchronously with arterial pulse; situated below inguinal ligament. |
 
 ---
 
