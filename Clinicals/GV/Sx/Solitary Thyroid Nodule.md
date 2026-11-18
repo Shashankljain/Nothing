@@ -367,7 +367,7 @@ No palpable thrill over the upper pole. (To rule out-==PRIMARY THYROTOXICOSIS==)
 
 > [!question] **Tutor (Mentor)** Why does a thyroid swelling grow preferentially BACKWARD rather than forward?
 
-> [!note] **Student** Because the anterior layer of the pretracheal fascia is thick and strong, resisting forward growth. In contrast, the posterior layer of the pretracheal fascia is thin and flimsy, offering the **line of least resistance** toward the tracheoesophageal groove.
+> [!note] **Student** Because the anterior layer of the ==pretracheal fascia is thick and strong==, resisting forward growth. In contrast, the posterior layer of the pretracheal fascia is thin and flimsy, offering the **line of least resistance** toward the tracheoesophageal groove.
 
 ---
 
