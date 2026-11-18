@@ -75,10 +75,13 @@ This comprehensive, chronological study note contains all information from the c
 ---
 #### Differentiating Reducibility vs. Compressibility vs. Irreducibility
 
-|Parameter|Reducibility|Compressibility|Irreducibility|
-|---|---|---|---|
-|**Definition**|Swelling can be completely returned into its original abdominal cavity manually or spontaneously.|Swelling shrinks/disappears on direct pressure without entering a pre-formed cavity, and immediately reappears upon releasing pressure.|Swelling cannot be returned into the abdominal cavity by posture or manual manipulation.|
-|**Pathophysiology**|Uncomplicated hernia.|Vascular malformations, Hemangioma, Lymphangioma, Saphena varix.|Longstanding adhesion formation between sac and contents, or narrow neck.|
+Strangulation vs obstruction 
+
+| Parameter           | Reducibility                                                                                      | Compressibility                                                                                                                         | Irreducibility                                                                           |
+| ------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **Definition**      | Swelling can be completely returned into its original abdominal cavity manually or spontaneously. | Swelling shrinks/disappears on direct pressure without entering a pre-formed cavity, and immediately reappears upon releasing pressure. | Swelling cannot be returned into the abdominal cavity by posture or manual manipulation. |
+| **Pathophysiology** | Uncomplicated hernia.                                                                             | Vascular malformations, Hemangioma, Lymphangioma, Saphena varix.                                                                        | Longstanding adhesion formation between sac and contents, or narrow neck.                |
+|                     |                                                                                                   |                                                                                                                                         | (Omentum and intestine)                                                                  |
 
 ---
 
