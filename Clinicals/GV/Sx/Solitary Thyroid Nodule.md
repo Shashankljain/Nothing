@@ -562,7 +562,7 @@ Report: BENIGN Adenoma/Cyst                           Report: MALIGNANT Carcinom
 
 > [!question] **Tutor (Mentor)** How do you treat a Toxic Solitary Nodule?
 
-> [!note] **Student** Pre-operative medical stabilization using anti-thyroid drugs (**==Carbimazole== 20–40 mg/day**) and Beta-blockers (**Propranolol**). Once euthyroid, perform **Right Hemithyroidectomy** or offer **Radio-Iodine (I-131) ==Ablation==** (especially if patient is >40 years or high surgical risk).
+> [!note] **Student** Pre-operative medical stabilization using anti-thyroid drugs (**==Carbimazole== 20–40 mg/day**) and Beta-blockers (**Propranolol**). Once euthyroid, perform **Right Hemithyroidectomy** or offer **Radio-Iodine (I-131) ==Ablation==** (especially if patient is ==>40 years== or high surgical risk).
 
 ---
 
