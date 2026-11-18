@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semen Analysis.md",
+                "file": "Infertility and Sterility/Semen Analysis.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Male infertility.md",
+                "file": "Infertility and Sterility/Male infertility.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primary Infertility.md",
+                "file": "Infertility and Sterility/Primary Infertility.md",
                 "mode": "source",
                 "source": false
               },
@@ -228,13 +228,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "24bf2c352d1f7355",
+  "active": "a8ce41fab51959e8",
   "lastOpenFiles": [
     "Male Infertility -Causes.md",
-    "Male infertility.md",
-    "Semen Analysis.md",
+    "Infertility and Sterility/Male infertility.md",
+    "Infertility and Sterility/Semen Analysis.md",
     "Infertility and Sterility/C16-Infertility and Sterility.md",
-    "Primary Infertility.md",
+    "Infertility and Sterility/Primary Infertility.md",
     "Chapter -GYN.md",
     "Infertility and Sterility"
   ]
