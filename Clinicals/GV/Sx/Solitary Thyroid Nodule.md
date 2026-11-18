@@ -475,7 +475,7 @@ As presented in the clinical examination protocol, apparent exophthalmos is dist
 ### II. Signs of Myxedema, Retrosternal Extension & Metastasis
 
 - **Myxedema Screening**: No skin thickening, no facial/periorbital edema, no voice changes, no mental/physical lethargy.
-- **Retrosternal Extension Screening**: No dilated veins over the chest wall. **Pemberton's Sign is negative** (elevating both arms above the head does not cause facial congestion or stridor). **Horner's Syndrome is negative** (no ptosis, miosis, anhidrosis, or enophthalmos).
+- **Retrosternal Extension Screening**: No dilated veins over the chest wall. **Pemberton's Sign is negative** (elevating both arms above the head does not cause facial congestion or stridor). **Horner's Syndrome (occurs due to compression of sympathetic nerve)is negative** (no ptosis, miosis, anhidrosis, or enophthalmos).
 - **Metastasis Screening**: Cervical lymph nodes non-palpable. No skull or long bone tenderness. Chest clear. Liver non-palpable, no ascites.
 
 ---
