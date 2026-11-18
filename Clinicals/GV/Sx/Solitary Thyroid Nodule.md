@@ -579,9 +579,9 @@ Report: BENIGN Adenoma/Cyst                           Report: MALIGNANT Carcinom
 > [!note] **Student**
 > 
 > 1. **Papillary Thyroid Carcinoma (PTC)**:
->     - **Total Thyroidectomy** (due to high multicentricity) + removal of enlarged central compartment lymph nodes (no radical neck dissection unless lateral nodes breached). Followed by life-long **L-Thyroxine (T4) suppression therapy**.
+>     - **Total Thyroidectomy** (due to high multicentricity) + removal of enlarged central compartment lymph nodes (no radical neck dissection unless lateral nodes breached). Followed by ==life-long **L-Thyroxine (T4) suppression therapy**==.
 > 2. **Follicular Thyroid Carcinoma (FTC)**:
->     - **Total Thyroidectomy** + post-operative whole-body scan for distant blood-borne metastases (bones/lungs) + **Radio-Iodine (I-131) Ablation** + T4 suppression.
+>     - **Total Thyroidectomy** + ==post-operative whole-body scan== for distant blood-borne metastases (bones/lungs) + **Radio-Iodine (I-131) Ablation** + T4 suppression.
 > 3. **Anaplastic Thyroid Carcinoma**:
 >     - Primary **Radiotherapy and Chemotherapy**. Total thyroidectomy is justified ONLY if the thyroid capsule is not infiltrated and no distant metastases exist.
 > 4. **Medullary Thyroid Carcinoma (MTC)**:
