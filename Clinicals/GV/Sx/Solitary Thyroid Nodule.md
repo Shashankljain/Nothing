@@ -397,6 +397,36 @@ Lower lid touches the limbus at 6 position, if not thouching exopthalmus
 > [!note] **Student** Due to excessive deposition of ==fat and mucopolysaccharides== in the retro-orbital tissue space, combined with intra-ocular muscle edema.
 
 ---
+# Apparent Exophthalmos (False Exophthalmos / Pseudo-Exophthalmos)
+
+**Apparent exophthalmos** is a false clinical appearance of eyeball protrusion caused by widening of the palpebral fissure due to **upper eyelid retraction (Dalrymple's sign)**.
+
+Although the eyes appear to "bulge", the eyeball itself remains in its normal anatomical position within the orbit.
+
+---
+
+### 1. Mechanism & Pathophysiology
+
+- **Cause**: Driven by sympathetic overactivity causing spasm/contraction of Müller's muscle and the levator palpebrae superioris muscle in thyrotoxicosis.
+- **Anatomical Effect**: The retracted upper lid exposes the white sclera above the cornea, creating an illusion of forward displacement.
+
+---
+
+### 2. Clinical Differentiation: Apparent vs. True Exophthalmos
+
+As presented in the clinical examination protocol, apparent exophthalmos is distinguished from true exophthalmos using specific visual and physical criteria:
+
+|Parameter|Apparent Exophthalmos (Lid Retraction / Dalrymple's Sign)|True Exophthalmos|
+|---|---|---|
+|**Eyeball Position**|Normal position within the bony orbit.|Forward protrusion/displacement out of the orbit.|
+|**Underlying Pathology**|Sympathetic overactivity of upper eyelid muscles.|Deposition of retro-orbital fat, mucopolysaccharides, and intra-ocular muscle edema.|
+|**Upper Limbus Sclera**|Sclera is visible **above the upper limbus**.|Sclera may be visible above and below.|
+|**Lower Limbus Sclera**|Lower lid margin sits in its **normal position** at the 6 o'clock limbus.|Sclera is clearly visible **between the lower limbus and the lower lid margin**.|
+|**Naffziger's Method** _(Inspection from above/behind forehead)_|Apex of the cornea does **NOT** project beyond the orbital rim.|Apex of the cornea is visibly projecting beyond the orbital margin.|
+
+---
+
+👁️ I can outline how to perform **Naffziger's Method** step-by-step or detail the other 7 classic eye signs of thyrotoxicosis if you'd like to review them for viva.
 
 > [!question] **Tutor (Mentor)** Differentiate between von Graefe's Lid Lag and Dalrymple's Lid Retraction.
 
