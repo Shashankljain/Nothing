@@ -399,7 +399,7 @@ Lower lid touches the limbus at 6 position, if not thouching exopthalmus
 ---
 # Apparent Exophthalmos (False Exophthalmos / Pseudo-Exophthalmos)
 
-**Apparent exophthalmos** is a false clinical appearance of eyeball protrusion caused by widening of the palpebral fissure due to **upper eyelid retraction (Dalrymple's sign)**.
+**Apparent exophthalmos** is a false clinical appearance of eyeball protrusion caused by widening of the palpebral fissure due to **upper eyelid retraction (==Dalrymple's sign==)**.
 
 Although the eyes appear to "bulge", the eyeball itself remains in its normal anatomical position within the orbit.
 
@@ -425,8 +425,6 @@ As presented in the clinical examination protocol, apparent exophthalmos is dist
 |**Naffziger's Method** _(Inspection from above/behind forehead)_|Apex of the cornea does **NOT** project beyond the orbital rim.|Apex of the cornea is visibly projecting beyond the orbital margin.|
 
 ---
-
-👁️ I can outline how to perform **Naffziger's Method** step-by-step or detail the other 7 classic eye signs of thyrotoxicosis if you'd like to review them for viva.
 
 > [!question] **Tutor (Mentor)** Differentiate between von Graefe's Lid Lag and Dalrymple's Lid Retraction.
 
