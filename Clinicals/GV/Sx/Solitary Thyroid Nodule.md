@@ -272,9 +272,9 @@ Hot Nodule                     Warm Nodule                    Cold Nodule
 
 > [!note] **Student**
 > 
-> 1. **Substernal Type**: Extends into the upper thorax, but its lower border is palpable in the neck on deep inspiration.
-> 2. **Plunging Type**: Normally lies behind the sternum, but plunges upward into the neck when intrathoracic pressure increases (e.g., on coughing).
-> 3. **Intrathoracic Type**: Lies completely within the superior mediastinum.
+> 1. **Substernal Type**: Extends into the upper thorax, but its ==lower border is palpable== in the neck on deep inspiration.
+> 2. **Plunging Type**: Normally lies behind the sternum, but ==plunges upward== into the neck when intrathoracic pressure increases (e.g., on coughing).
+> 3. **Intrathoracic Type**: Lies completely within the ==superior mediastinum.==
 
 ---
 
