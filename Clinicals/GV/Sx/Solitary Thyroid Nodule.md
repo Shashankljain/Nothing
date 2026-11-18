@@ -394,7 +394,7 @@ Lower lid touches the limbus at 6 position, if not thouching exopthalmus
 
 > [!question] **Tutor (Mentor)** Why does Exophthalmos occur in thyrotoxicosis?
 
-> [!note] **Student** Due to excessive deposition of fat and mucopolysaccharides in the retro-orbital tissue space, combined with intra-ocular muscle edema.
+> [!note] **Student** Due to excessive deposition of ==fat and mucopolysaccharides== in the retro-orbital tissue space, combined with intra-ocular muscle edema.
 
 ---
 
