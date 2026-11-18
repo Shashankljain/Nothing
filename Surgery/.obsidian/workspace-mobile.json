@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Causes of Leg Ulcers & TOA"
             }
+          },
+          {
+            "id": "410036d9e62c6f4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -228,8 +242,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "4cec856dee6b0f7e",
+  "active": "410036d9e62c6f4d",
   "lastOpenFiles": [
+    "Untitled.md",
     "Vascular lesion/Causes of Leg Ulcers & TOA.md",
     "Vascular lesion/Thromboangiitis Obliterans (Buerger's Disease) & Peripheral Vascular Disease.md",
     "Vascular lesion/C14- Vascular lesions.md",
@@ -257,7 +272,6 @@
     "Rectum and anal canal/Rectal prolapse.md",
     "Rectum and anal canal/Pilonidal Sinus.md",
     "Rectum and anal canal/Ischiorectal Abscess.md",
-    "Stomach/Complications of Peptic (Gastric) Ulcer.md",
     "Rectum and anal canal",
     "Stomach",
     "Breast",
