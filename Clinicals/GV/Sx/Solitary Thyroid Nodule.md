@@ -221,7 +221,7 @@ Hot Nodule                     Warm Nodule                    Cold Nodule
 
 > [!question] **Tutor (Mentor)** Why do you flex the patient's neck slightly during palpation?
 
-> [!note] **Student** Flexing the neck relaxes the sternocleidomastoid muscles, platysma, and pretracheal fascia, facilitating deeper and easier palpation of the thyroid lobes.
+> [!note] **Student** Flexing the neck ==relaxes the sternocleidomastoid muscles, platysma, and pretracheal fascia, facilitating deeper and easier palpation of the thyroid lobes==.
 
 ---
 
