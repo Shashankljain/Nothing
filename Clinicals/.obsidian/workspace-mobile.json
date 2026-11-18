@@ -108,7 +108,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Visible ",
+            "query": "Filariasis ",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -232,15 +232,15 @@
   },
   "active": "cb7d66d8a1f19f38",
   "lastOpenFiles": [
-    "Surgery/B-l inguinal Hernia.md",
+    "GV/Sx/Hydrocoele.md",
     "GV/Sx/Inguinal hernia.md",
+    "Surgery/B-l inguinal Hernia.md",
     "GV/Sx/VV notes.md",
     "GV/Sx/Solitary Thyroid Nodule.md",
     "PVD.md",
     "GV/Sx/PVD.md",
     "GV/Sx/Non healing ulcer.md",
     "GV/Sx/BREAST LUMP.md",
-    "GV/Sx/Hydrocoele.md",
     "Hydrocele.md",
     "Surgery/Ca Breast.md",
     "Inguinal Hernia.md",
