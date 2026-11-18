@@ -452,7 +452,7 @@ As presented in the clinical examination protocol, apparent exophthalmos is dist
 
 > [!question] **Tutor (Mentor)** What is Progressive / Malignant Exophthalmos (Exophthalmic Ophthalmoplegia)?
 
-> [!note] **Student** It is a severe condition where exophthalmos continues to progress rapidly even after successful treatment of thyrotoxicosis. It leads to chemosis of conjunctiva, corneal ulceration, and weakness of ocular muscles (ophthalmoplegia).
+> [!note] **Student** It is a severe condition where exophthalmos continues to progress rapidly even after successful treatment of thyrotoxicosis. It leads to ==chemosis of conjunctiva, corneal ulceration, and weakness of ocular muscles== (ophthalmoplegia).
 
 ---
 
