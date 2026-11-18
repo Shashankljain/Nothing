@@ -339,7 +339,7 @@ No palpable thrill over the upper pole. (To rule out-==PRIMARY THYROTOXICOSIS==)
 
 > [!question] **Tutor (Mentor)** How do you demonstrate Kocher's Test?
 
-> [!note] **Student** **Procedure**: Ask the patient to extend her neck and take deep breaths through an open mouth. The examiner compresses the thyroid lobes laterally from both sides. **Positive Result**: Appearance of stridor and respiratory distress due to acute tracheal narrowing.
+> [!note] **Student** **Procedure**: Ask the patient to extend her neck and take deep breaths through an open mouth. The examiner compresses the thyroid lobes laterally from both sides. **Positive Result**: Appearance of ==stridor and respiratory distress== due to acute tracheal narrowing.
 
 ---
 
