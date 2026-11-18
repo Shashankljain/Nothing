@@ -284,7 +284,9 @@ Hot Nodule                     Warm Nodule                    Cold Nodule
 
 ---
 
-- **Student Continuation of Palpation**: The rest of the thyroid gland (left lobe and isthmus) is non-palpable. Overlying skin is not fixed. Mobility is not restricted in either horizontal or vertical directions. No palpable thrill over the upper pole. Carotid arterial pulsations are felt equally on both sides, but are displaced **BACKWARDS and OUTWARDS** on the right side.
+- **Student Continuation of Palpation**: The rest of the thyroid gland (left lobe and isthmus) is non-palpable. Overlying skin is not fixed. Mobility is not restricted in either horizontal or vertical directions. 
+	- No palpable thrill over the upper pole. (To rule out-)
+- Carotid arterial pulsations are felt equally on both sides, but are displaced **BACKWARDS and OUTWARDS** on the right side.
 
 
 ## PLAYTSMA SIGN
