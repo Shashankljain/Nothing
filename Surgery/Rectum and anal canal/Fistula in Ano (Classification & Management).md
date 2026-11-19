@@ -3,7 +3,7 @@
 
 ### Definition [⭐ High-Yield]
 
-A **fistula-in-ano (anal fistula)** is a chronic, abnormal granulation tissue-lined communication extending from an internal opening within the anorectal lumen (predominantly at the dentate line) to an external opening on the skin of the perineum or buttock.
+A **fistula-in-ano (anal fistula)** is a chronic, abnormal granulation tissue-lined ==communication== extending from an internal opening within the anorectal lumen (predominantly at the dentate line) to an external opening on the skin of the perineum or buttock.
 
 ---
 
@@ -11,8 +11,8 @@ A **fistula-in-ano (anal fistula)** is a chronic, abnormal granulation tissue-
 
 - **Cryptoglandular Theory (Parks)** [⭐ High-Yield]: Over 90% of anal fistulae arise secondary to acute infection and abscess formation in the **intersphincteric anal glands** (which open into the anal crypts at the dentate line).
 - **Secondary / Non-Cryptoglandular Causes**:
-    - **Inflammatory Bowel Disease**: Crohn's disease (frequently complex, multiple, or recurrent fistulae).
-    - **Specific Granulomatous Infections**: Tuberculosis, Actinomycosis, Lymphogranuloma venereum.
+    - **Inflammatory Bowel Disease**: ==Crohn's disease== (frequently complex, multiple, or recurrent fistulae).
+    - **Specific Granulomatous Infections**: ==Tuberculosis==, ==Actinomycosis==, Lymphogranuloma venereum.
     - **Malignancy & Radiation**: Rectal or anal carcinoma, post-pelvic radiation necrosis.
     - **Iatrogenic & Trauma**: Injudicious drainage of anorectal abscesses, obstetric perineal trauma, foreign body trauma.
 
@@ -34,6 +34,8 @@ Parks' Anatomical Classification   AGA Clinical Classification     Anatomical Le
 ```
 
 #### 1. Parks' Anatomical Classification [⭐ High-Yield]
+
+# SITE
 
 Parks' classification categorizes anal fistulae based on the relationship of the primary track to the internal and external anal sphincter muscles:
 
@@ -63,7 +65,7 @@ Parks' classification categorizes anal fistulae based on the relationship of the
 - **Low Anal Fistula**: The main track opens into the anal canal below the level of the anorectal ring (puborectalis muscle). Can be safely treated with one-stage fistulotomy without risking fecal incontinence.
 - **High Anal Fistula**: The track or internal opening lies at or above the level of the anorectal ring. Division of the enclosed muscle mass during fistulotomy carries a high risk of permanent fecal incontinence.
 
-#### 4. Goodsall's Rule (Topographical Direction Classification) [⭐ High-Yield]
+#### 4. ==Goodsall's Rule== (Topographical Direction Classification) [⭐ High-Yield]
 
 Goodsall's rule predicts the course of the primary fistula track and the location of its internal opening based on the anatomical position of the external opening relative to a transverse line drawn through the center of the anus:
 
@@ -88,7 +90,7 @@ Goodsall's rule predicts the course of the primary fistula track and the locatio
 
 ### Pathophysiology [⭐ High-Yield]
 
-```
+```mermaid 
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
@@ -134,13 +136,15 @@ J -->|High Trans-sphincteric / Complex| L[Sphincter-Sparing LIFT / Loose Seton /
 
 #### 1. Clinical & Bedside Tests
 
+
+- Fistulogram
 - **Hydrogen Peroxide Instillation**: Injection of dilute H₂O₂ through the external opening during anoscopy visualizes bubbles escaping from the internal opening at the dentate line.
 - **Probing**: Gentle passage of a malleable metallic probe along the track establishes the direction and height of the primary track.
 
 #### 2. Advanced Imaging Modalities [⭐ High-Yield]
 
 - **High-Resolution Pelvic Magnetic Resonance Imaging (MRI) [Gold Standard Imaging Modality]**:
-    - Accurate evaluation of primary tracks, secondary Extensions, horseshoe spreading, and relation to the puborectalis muscle.
+    - Accurate evaluation of ==primary tracks, secondary Extensions, horseshoe spreading, and relation to the puborectalis muscle.==
 - **Three-Dimensional Endoanal Ultrasound (3D-EAUS)**: High accuracy for defining intersphincteric tracks and assessing internal/external sphincter muscle integrity.
 
 ---

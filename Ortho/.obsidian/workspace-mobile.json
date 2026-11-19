@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AFFECTIONS OF THE SOFT TISSUES/Meralgia Paresthetica.md",
+                "file": "Chapters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meralgia Paresthetica"
+              "title": "Chapters"
+            }
+          },
+          {
+            "id": "0c185278981d49fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fracture in children/C9-Fracture in children.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C9-Fracture in children"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -228,8 +242,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "49ba6c39017ab36c",
+  "active": "0c185278981d49fb",
   "lastOpenFiles": [
+    "Fracture in children/Salter-Harris Classification.md",
+    "Chapters.md",
+    "Fracture in children/C9-Fracture in children.md",
+    "Fracture in children",
     "AFFECTIONS OF THE SOFT TISSUES/Meralgia Paresthetica.md",
     "AFFECTIONS OF THE SOFT TISSUES/Dorsal Ganglion of Wrist.md",
     "AFFECTIONS OF THE SOFT TISSUES/Ganglion cyst of wrist.md",
@@ -240,7 +258,6 @@
     "AFFECTIONS OF THE SOFT TISSUES/Rotator Cuff Tear.md",
     "AFFECTIONS OF THE SOFT TISSUES/De Quervain's Tenosynovitis.md",
     "AFFECTIONS OF THE SOFT TISSUES/CTS.md",
-    "Chapters.md",
     "AFFECTIONS OF THE SOFT TISSUES/C36 - AFFECTIONS OF THE SOFT TISSUES.md",
     "Congenital Dislocation of the Hip/Congenital Dislocation of the Hip.md",
     "AFFECTIONS OF THE SOFT TISSUES",
@@ -257,8 +274,6 @@
     "Bone tumors/Osteoid Osteoma.md",
     "Bone tumors/Osteochondroma.md",
     "Bone tumors/OS Radiodiagnosis.md",
-    "Bone tumors/GCT.md",
-    "Bone tumors/Ewing's Sarcoma.md",
     "Prolapsed Intervertebral Disc",
     "Bone tumors",
     "CTEV"

@@ -4,81 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "d367d5492c5ed1be",
+        "id": "55b290e09b7e51c8",
         "type": "tabs",
         "children": [
           {
-            "id": "3cae69b39dffb7e1",
+            "id": "390a862a25796c01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters - OBS.md",
+                "file": "Complicated labour/ECV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapters - OBS"
+              "title": "ECV"
             }
           },
           {
-            "id": "7b7e3ad4a1d3dff2",
+            "id": "0d9242f8d0aa5745",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diagnosis of pregnancy/Jacquemier's Sign in Pregnancy.md",
+                "file": "Complicated labour/Cord prolapse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jacquemier's Sign in Pregnancy"
+              "title": "Cord prolapse"
             }
           },
           {
-            "id": "f1677568ae7c5e56",
+            "id": "b6107be8392e5d66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diagnosis of pregnancy/Hegar sign.md",
+                "file": "Complicated labour/Face-to-Pubis Delivery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hegar sign"
+              "title": "Face-to-Pubis Delivery"
             }
           },
           {
-            "id": "7dbd321eed4b2f0e",
+            "id": "9d54f47564704ca8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diagnosis of pregnancy/Quickening.md",
+                "file": "Complicated labour/Transverse Lie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quickening"
-            }
-          },
-          {
-            "id": "ad538db4e22fef42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diagnosis of pregnancy/Naegele's Rule.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Naegele's Rule"
+              "title": "Transverse Lie"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -174,6 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Complicated labour/Transverse Lie.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -227,43 +214,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "ad538db4e22fef42",
+  "active": "3e4948034c049545",
   "lastOpenFiles": [
+    "Complicated labour/Transverse Lie.md",
+    "Complicated labour/Face-to-Pubis Delivery.md",
+    "Complicated labour/Lovset's Maneuver.md",
+    "Untitled.base",
+    "Complicated labour/Burns-Marshall Method in Breech Presentation.md",
+    "Complicated labour/Internal Rotation of the Fetal Head.md",
+    "Complicated labour/Methods of Delivery of Aftercoming Head in Breech.md",
+    "Complicated labour/Brow Presentation.md",
+    "Complicated labour/Mechanism of Labor in Face Presentation.md",
+    "Complicated labour/AVBD.md",
+    "Complicated labour/Cord prolapse.md",
+    "Complicated labour/ECV.md",
+    "Diagnosis of pregnancy/Jacquemier's Sign in Pregnancy.md",
+    "Chapters - OBS.md",
+    "Diagnosis of pregnancy/Hegar sign.md",
+    "Complicated labour/OPP, ROP.md",
+    "Complicated labour/DTA.md",
+    "Complicated labour/Breech presentation.md",
+    "Complicated labour/C26- Complicated labour.md",
+    "Complicated labour",
+    "Chapters - GYN.md",
     "Diagnosis of pregnancy/Naegele's Rule.md",
     "Diagnosis of pregnancy/Quickening.md",
     "Diagnosis of pregnancy/Goodell's Sign and Osiander's Sign.md",
-    "Diagnosis of pregnancy/Hegar sign.md",
-    "Diagnosis of pregnancy/Jacquemier's Sign in Pregnancy.md",
-    "Chapters - OBS.md",
     "Immunological Tests for Diagnosis of Pregnancy.md",
     "Diagnosis of Pregnancy in First Trimester.md",
     "C7-Diagnosis of preg.md",
     "COMPLICATIONS OF TSL/Complications of Third Stage.md",
-    "COMPLICATIONS OF TSL/Inversion of Uterus.md",
-    "COMPLICATIONS OF TSL/Adherent Placenta.md",
-    "COMPLICATIONS OF TSL/PPH.md",
-    "COMPLICATIONS OF TSL/Atonic PPH-5M.md",
-    "COMPLICATIONS OF TSL/Atonic PPH.md",
-    "COMPLICATIONS OF TSL/Retained Placenta.md",
-    "COMPLICATIONS OF TSL/Primary PPH.md",
-    "Fetal Skull and Maternal Pelvis/Obstetric Conjugate.md",
-    "COMPLICATIONS OF TSL/C28-COMPLICATIONS OF TSL.md",
     "COMPLICATIONS OF TSL",
-    "Fetal Skull and Maternal Pelvis/Diameters of the Fetal Skull & Engagement.md",
-    "Fetal Skull and Maternal Pelvis/C9 -Fetal Skull and Maternal Pelvis.md",
     "Fetal Skull and Maternal Pelvis",
-    "Fetal Skull and Maternal Pelvis/Anatomical Conjugate.md",
-    "Fetal Skull and Maternal Pelvis/Moulding of Fetal Head.md",
-    "Fetal Skull and Maternal Pelvis/Succedaneum vs Cephalhematoma.md",
-    "Fetal Skull and Maternal Pelvis/Sagittal Suture -significance.md",
-    "HTN in preg/Pritchard's Regimen in Eclampsia.md",
     "HTN in preg",
     "DISEASES OF THE FETUS AND THE NEWBORN",
     "Term pregnancy",
     "Diagnosis of pregnancy",
     "Vomiting in preg",
-    "N Labour",
-    "Antepartum hemorrhage",
-    "Fundamental of reproduction"
+    "N Labour"
   ]
 }

@@ -74,6 +74,38 @@ This comprehensive, chronological study note contains all information from the c
 
 ---
 
+
+### Q. What is the difference between obstruction and strangulation?
+
+Obstruction: Intestinal contents cannot pass through the bowel.
+
+Strangulation: Blood supply to the herniated bowel is compromised.
+
+#### Differentiating Reducibility vs. Compressibility vs. Irreducibility
+
+| Parameter           | Reducibility                                                                                      | Compressibility                                                                                                                         | Irreducibility                                                                           |
+| ------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **Definition**      | Swelling can be completely returned into its original abdominal cavity manually or spontaneously. | Swelling shrinks/disappears on direct pressure without entering a pre-formed cavity, and immediately reappears upon releasing pressure. | Swelling cannot be returned into the abdominal cavity by posture or manual manipulation. |
+| **Pathophysiology** | Uncomplicated hernia.                                                                             | Vascular malformations, Hemangioma, Lymphangioma, Saphena varix.                                                                        | Longstanding adhesion formation between sac and contents, or narrow neck.                |
+|                     |                                                                                                   |                                                                                                                                         | (Omentum and intestine)                                                                  |
+
+---
+
+### Phase 4: Differential Diagnosis of Groin Swellings & Cough Impulse Varieties
+
+- **Differential Diagnoses for Groin Mass**: Inguinal hernia, Femoral hernia, Saphena varix, Varicocele, Hydrocele, Lymphadenopathy, Sebaceous cyst, Femoral artery aneurysm.
+
+#### Cough Impulse Variations Across Groin Swellings
+
+| Condition            | Type of Cough Impulse Present              | Key Distinguishing Features                                                   |
+| -------------------- | ------------------------------------------ | ----------------------------------------------------------------------------- |
+| **Inguinal Hernia**  | **Expansile & Propulsive** type            | Swelling expands and pushes forward; reducible (if uncomplicated).            |
+| **Saphena Varix**    | **Expansile** type ONLY (No propulsion)    | Extremely soft consistency; disappears immediately on lying down or pressure. |
+| **Varicocele**       | **Thrill-like** impulse                    | Feels like a "bag of worms"; collapses when supine.                           |
+| **Hydrocele**        | **ABSENT** cough impulse                   | Transillumination test positive; possible to "get above the swelling".        |
+| **Femoral Aneurysm** | Visible / Palpable **Expansile Pulsation** | Pulsates synchronously with arterial pulse; situated below inguinal ligament. |
+
+---
 ### Phase 2: Classification of External Abdominal Hernias & Lumbar Triangles
 
 - **Mentor Question**: Can you tell me all the external hernias of the human body?
