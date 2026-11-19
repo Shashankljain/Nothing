@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GV/Sx/Solitary Thyroid Nodule.md",
+                "file": "WA/Surgery/Thyroid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solitary Thyroid Nodule"
+              "title": "Thyroid"
             }
           }
         ],
@@ -174,7 +174,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "GV/Sx/Solitary Thyroid Nodule.md",
+            "file": "WA/Surgery/Thyroid.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -232,34 +232,36 @@
   },
   "active": "cb7d66d8a1f19f38",
   "lastOpenFiles": [
+    "GV/Sx/Solitary Thyroid Nodule.md",
+    "WA/Surgery/Thyroid.md",
+    "WA",
     "GV/Sx/PVD.md",
     "GV/Sx/Inguinal hernia.md",
     "GV/Sx/Hydrocoele.md",
-    "Surgery/B-l inguinal Hernia.md",
+    "WA/Surgery/B-l inguinal Hernia.md",
     "GV/Sx/VV notes.md",
-    "GV/Sx/Solitary Thyroid Nodule.md",
     "GV/Sx/Non healing ulcer.md",
     "GV/Sx/BREAST LUMP.md",
     "Hydrocele.md",
-    "Surgery/Ca Breast.md",
+    "WA/Surgery/Ca Breast.md",
     "Inguinal Hernia.md",
     "GV/Sx/VV presentation.md",
     "GV/Sx/Sx.md",
     "GV/Sx",
     "GV",
-    "Surgery/Surgery.md",
-    "Surgery",
-    "OBG/Anemia.md",
-    "OBG/AUB.md",
-    "OBG/PIH.md",
-    "OBG/OBS.md",
-    "OBG/Previous LSCS 2.md",
-    "OBG/Previous LSCS 1.md",
-    "OBG/GYN.md",
-    "OBG/Examination.md",
-    "OBG/GDM.md",
+    "WA/Surgery/Surgery.md",
+    "WA/Surgery",
+    "WA/OBG/Anemia.md",
+    "WA/OBG/AUB.md",
+    "WA/OBG/PIH.md",
+    "WA/OBG/OBS.md",
+    "WA/OBG/Previous LSCS 2.md",
+    "WA/OBG/Previous LSCS 1.md",
+    "WA/OBG/GYN.md",
+    "WA/OBG/Examination.md",
+    "WA/OBG/GDM.md",
     "OBG/Untitled.base",
     "OBG/Untitled.canvas",
-    "OBG"
+    "WA/OBG"
   ]
 }
