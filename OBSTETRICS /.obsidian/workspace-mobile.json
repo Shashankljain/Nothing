@@ -50,35 +50,21 @@
             }
           },
           {
-            "id": "1f3805e0f430d985",
+            "id": "6038604279213613",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanism of Labor in Face Presentation.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mechanism of Labor in Face Presentation"
-            }
-          },
-          {
-            "id": "ad38ac2440562776",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brow Presentation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Brow Presentation"
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -174,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Brow Presentation.md",
+            "file": "Untitled.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -228,11 +214,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "ad38ac2440562776",
+  "active": "6038604279213613",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Face-to-Pubis Delivery.md",
     "Brow Presentation.md",
     "Mechanism of Labor in Face Presentation.md",
-    "Face-to-Pubis Delivery.md",
     "AVBD.md",
     "Cord prolapse.md",
     "ECV.md",
@@ -256,7 +243,6 @@
     "COMPLICATIONS OF TSL/Adherent Placenta.md",
     "COMPLICATIONS OF TSL/PPH.md",
     "COMPLICATIONS OF TSL/Atonic PPH-5M.md",
-    "COMPLICATIONS OF TSL/Atonic PPH.md",
     "COMPLICATIONS OF TSL",
     "Fetal Skull and Maternal Pelvis",
     "HTN in preg",
