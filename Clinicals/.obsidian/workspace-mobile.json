@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "Mass per abdomen"
             }
+          },
+          {
+            "id": "eb34bd540cb9152e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -188,7 +202,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mass per abdomen.md",
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -244,8 +258,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "88b3e656e2c33807",
+  "active": "eb34bd540cb9152e",
   "lastOpenFiles": [
+    "Untitled.md",
     "Mass per abdomen.md",
     "WA/Surgery/Thyroid.md",
     "GV/Sx/Solitary Thyroid Nodule.md",
