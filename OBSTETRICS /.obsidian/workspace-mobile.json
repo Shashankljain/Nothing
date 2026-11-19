@@ -50,17 +50,13 @@
             }
           },
           {
-            "id": "4abafa79b613fae0",
+            "id": "57973ddbc4d7ae28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Burns-Marshall Method in Breech Presentation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Burns-Marshall Method in Breech Presentation"
+              "title": "New tab"
             }
           }
         ],
@@ -160,7 +156,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Burns-Marshall Method in Breech Presentation.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -214,10 +209,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "4abafa79b613fae0",
+  "active": "57973ddbc4d7ae28",
   "lastOpenFiles": [
-    "Burns-Marshall Method in Breech Presentation.md",
     "Face-to-Pubis Delivery.md",
+    "Untitled.base",
+    "Burns-Marshall Method in Breech Presentation.md",
     "Internal Rotation of the Fetal Head.md",
     "Methods of Delivery of Aftercoming Head in Breech.md",
     "Brow Presentation.md",
@@ -242,7 +238,6 @@
     "C7-Diagnosis of preg.md",
     "COMPLICATIONS OF TSL/Complications of Third Stage.md",
     "COMPLICATIONS OF TSL/Inversion of Uterus.md",
-    "COMPLICATIONS OF TSL/Adherent Placenta.md",
     "COMPLICATIONS OF TSL",
     "Fetal Skull and Maternal Pelvis",
     "HTN in preg",
@@ -250,7 +245,6 @@
     "Term pregnancy",
     "Diagnosis of pregnancy",
     "Vomiting in preg",
-    "N Labour",
-    "Antepartum hemorrhage"
+    "N Labour"
   ]
 }
