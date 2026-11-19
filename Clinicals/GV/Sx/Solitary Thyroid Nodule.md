@@ -110,6 +110,7 @@ The case presentation and viva exchange are integrated in exact chronological se
 
 - **Student Finding**: On inspection, there is a single, oval swelling measuring 3 cm × 2 cm, situated to the right of the midline in the lower neck, 1 cm above the medial end of the clavicle. It has a smooth surface and well-defined margins.
 
+- Extent of the thyroid?
 > [!question] **Tutor (Mentor)** Which thyroid swellings have an uneven surface?
 
 > [!note] **Student** **==Multinodular Goiter (MNG)==** has a characteristic **bosselated/uneven surface**, while **==Carcinoma of the Thyroid==** presents with a **hard, irregular surface.**
@@ -184,7 +185,9 @@ Hot Nodule                     Warm Nodule                    Cold Nodule
 
 > [!question] **Tutor (Mentor)** Why does a thyroid swelling move UPWARD on deglutition?
 
-> [!note] **Student** Because the thyroid gland is enclosed within the **==pretracheal layer of deep cervical fascia==**, which is attached superiorly to the thyroid and cricoid cartilages. During deglutition, the larynx and cartilages are elevated by the ==elevator muscles of the pharynx== (e.g., Stylopharyngeus), pulling the attached pretracheal fascia and enclosed thyroid gland upward.
+> [!note] **Student**
+> BERRYS LIGAMENT 
+Because the thyroid gland is enclosed within the **==pretracheal layer of deep cervical fascia==**, which is attached superiorly to the thyroid and cricoid cartilages. During deglutition, the larynx and cartilages are elevated by the ==elevator muscles of the pharynx== (e.g., Stylopharyngeus), pulling the attached pretracheal fascia and enclosed thyroid gland upward.
 
 ---
 
