@@ -50,13 +50,17 @@
             }
           },
           {
-            "id": "7dbd321eed4b2f0e",
+            "id": "58aa8925d27bb5fd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -209,14 +213,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "7dbd321eed4b2f0e",
+  "active": "58aa8925d27bb5fd",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Diagnosis of pregnancy/Hegar sign.md",
     "Chapters - GYN.md",
     "Chapters - OBS.md",
     "Diagnosis of pregnancy/Naegele's Rule.md",
     "Diagnosis of pregnancy/Quickening.md",
     "Diagnosis of pregnancy/Goodell's Sign and Osiander's Sign.md",
-    "Diagnosis of pregnancy/Hegar sign.md",
     "Diagnosis of pregnancy/Jacquemier's Sign in Pregnancy.md",
     "Immunological Tests for Diagnosis of Pregnancy.md",
     "Diagnosis of Pregnancy in First Trimester.md",
@@ -238,7 +243,6 @@
     "Fetal Skull and Maternal Pelvis/Anatomical Conjugate.md",
     "Fetal Skull and Maternal Pelvis/Moulding of Fetal Head.md",
     "Fetal Skull and Maternal Pelvis/Succedaneum vs Cephalhematoma.md",
-    "Fetal Skull and Maternal Pelvis/Sagittal Suture -significance.md",
     "HTN in preg",
     "DISEASES OF THE FETUS AND THE NEWBORN",
     "Term pregnancy",
