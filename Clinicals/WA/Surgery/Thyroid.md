@@ -123,8 +123,8 @@ In this version, **all viva exchanges are integrated directly into the chronolo
 
 > [!note] **Student** Yes. Thyroid hormones regulate the menstrual cycle:
 > 
-> - **Hypothyroidism → Menorrhagia**: Decreased circulating T4 removes negative feedback, causing a rise in pituitary TSH. TSH shares a common α-subunit with FSH and LH. Excess TSH spillover stimulates ovarian estrogen synthesis → hyper-proliferation of endometrium → menorrhagia.
-> - **Hyperthyroidism → Oligomenorrhea / Amenorrhea**: Elevated T4 suppresses pituitary TSH, which simultaneously co-suppresses gonadotropins (FSH and LH). Furthermore, hyperthyroidism induces systemic muscular hypertonicity, causing chronic contraction of the uterine myometrium and compressing intramural uterine vessels → restricted endometrial blood flow → amenorrhea.
+> - **Hypothyroidism → Menorrhagia**: Decreased circulating T4 removes negative feedback, causing a rise in pituitary TSH. TSH shares a common ==α-subunit with FSH and LH==. Excess TSH spillover stimulates ovarian estrogen synthesis → hyper-proliferation of endometrium → menorrhagia.
+> - **Hyperthyroidism → Oligomenorrhea / Amenorrhea**: Elevated T4 suppresses pituitary TSH, which simultaneously co-suppresses gonadotropins (FSH and LH). Furthermore, hyperthyroidism induces ==systemic muscular hypertonicity==, causing chronic contraction of the uterine myometrium and ==compressing intramural uterine vessels== → restricted endometrial blood flow → amenorrhea.
 > - _Obstetric Relevance_: A history of repeated spontaneous abortions or miscarriages is a strong clinical pointer to thyroid dysfunction.
 
 ---
@@ -139,7 +139,7 @@ In this version, **all viva exchanges are integrated directly into the chronolo
 > [!note] **Student**
 > 
 > - **Childhood Radiation**: Irradiation to the neck during childhood is a major etiology for Papillary Carcinoma of the Thyroid (appearing 10–40 years post-exposure) and parathyroid adenomas.
-> - **Drug History**: Screen for anti-thyroid thionamides (carbimazole, methimazole, PTU), amiodarone (high iodine content), iodine cough syrups, lithium (inhibits hormone release; used in bipolar disorder), PAS, sulfonylureas, and L-thyroxine.
+> - **Drug History**: Screen for anti-thyroid thionamides (carbimazole, methimazole, PTU), amiodarone (high iodine content), iodine cough syrups, ==lithium== (inhibits hormone release; used in bipolar disorder), PAS, sulfonylureas, and L-thyroxine.
 > - **Family History of Sudden Deaths**: Screen for Multiple Endocrine Neoplasia (MEN 2A/2B) Syndromes. A patient with familial Medullary Thyroid Carcinoma may have an unsuspected co-existing **Pheochromocytoma**, which can precipitate a fatal hypertensive crisis during anesthesia or surgery if not diagnosed pre-operatively.
 
 ---
@@ -153,7 +153,7 @@ In this version, **all viva exchanges are integrated directly into the chronolo
 
 > [!question] **Tutor / Mentor** How should fine tongue tremors be examined in thyrotoxicosis?
 
-> [!note] **Student** Always inspect for fine tongue tremors with the tongue resting **INSIDE the oral cavity floor**for 20–30 seconds. Protruding the tongue forces muscle exertion, producing false-positive **intentional tremors** (similar to muscle shivering during plank exercises).
+> [!note] **Student** Always inspect for fine tongue tremors with the tongue resting **==INSIDE== the oral cavity floor**for ==20–30 seconds.== Protruding the tongue forces muscle exertion, producing ==false-positive **intentional tremors** (==similar to muscle shivering during plank exercises).
 
 ---
 
@@ -206,7 +206,9 @@ In this version, **all viva exchanges are integrated directly into the chronolo
 
 > [!question] **Tutor / Mentor** Why does a thyroid swelling move UPWARD during deglutition? Which thyroid swellings DO NOT move on deglutition?
 
-> [!note] **Student** The thyroid gland is enclosed within the pretracheal layer of deep cervical fascia, which attaches superiorly to the thyroid and cricoid cartilages. During swallowing, pharyngeal elevator muscles elevate the larynx, pulling the pretracheal fascia and enclosed thyroid gland upward. **Thyroid Swellings That DO NOT Move on Deglutition**:
+> [!note] **Student** The thyroid gland is enclosed within the pretracheal layer of deep cervical fascia, which attaches superiorly to the ==thyroid and cricoid cartilages==. During swallowing, ==pharyngeal elevator muscles== elevate the larynx, pulling the pretracheal fascia and enclosed thyroid gland upward. 
+> 
+> **Thyroid Swellings That DO NOT Move on Deglutition**:
 > 
 > 1. Retrosternal / Intrathoracic Goiter.
 > 2. Extremely large or fixed Multinodular Goiters.
@@ -224,8 +226,8 @@ In this version, **all viva exchanges are integrated directly into the chronolo
 ### Palpation Protocol & Techniques
 
 - **Position**: Examiner stands BEHIND the sitting patient. Patient flexes neck slightly forward (relaxes SCM muscles, platysma, and pretracheal fascia).
-- **Lahey's Method**: Examiner stands in front, presses thumb against thyroid cartilage to push gland to opposite side, displacing contralateral lobe out of tracheoesophageal groove to palpate its posteromedial surface.
-- **Crile's Method**: Palpation of thyroid lobe using thumb while supporting neck with fingers.
+- **==Lahey's Method==**: Examiner stands in front, presses thumb against thyroid cartilage to push gland to opposite side, displacing contralateral lobe out of tracheoesophageal groove to palpate its posteromedial surface.
+- **==Crile's Method==**: Palpation of thyroid lobe using thumb while supporting neck with fingers.
 
 ---
 
@@ -265,13 +267,13 @@ In this version, **all viva exchanges are integrated directly into the chronolo
 > - **Firm**: Follicular Adenoma, Tense Thyroid Cyst, Multinodular Goiter, Primary Toxic Goiter.
 > - **Stony Hard**: Carcinoma of Thyroid, Calcified Nodule, Riedel's Thyroiditis.
 > - **Thyroid Paradox**:
->     1. A tense benign cyst or colloid nodule feels stony hard due to high internal fluid pressure, mimicking malignancy.
->     2. A malignant tumor with central necrosis, hemorrhage, or colloid breakdown feels soft or cystic, mimicking a benign cyst.
+>     1. A ==tense benign cyst== or colloid nodule feels ==stony hard== due to high internal fluid pressure, mimicking malignancy.
+>     2. A ==malignant== tumor with ==central necrosis, hemorrhage, or colloid== breakdown feels soft or cystic, mimicking a benign cyst.
 >     3. Long-standing benign nodule with dystrophic calcification feels stony hard.
 
 > [!question] **Tutor / Mentor** What is Berry's Displacement Sign vs. Malignant Carotid Encasement? What are the 10 classic clinical signs indicating thyroid malignancy?
 
-> [!note] **Student** **Berry's Displacement Sign**: Benign thyroid enlargement pushes the carotid sheath and carotid artery **BACKWARDS and OUTWARDS**, preserving palpable carotid pulses behind the swelling.**Malignant Encasement**: Thyroid Carcinoma invades and encases/engulfs the carotid sheath, making carotid arterial pulsations **WEAK or ABSENT**. **10 Classic Clinical Signs Indicating Thyroid Malignancy**:
+> [!note] **Student** **==Berry's Displacement Sign==**: Benign thyroid enlargement pushes the carotid sheath and carotid artery **==BACKWARDS and OUTWARDS==**, preserving palpable carotid pulses behind the swelling.**==Malignant Encasement==**: Thyroid Carcinoma invades and encases/engulfs the carotid sheath, making carotid arterial pulsations **WEAK or ABSENT**. **10 Classic Clinical Signs Indicating Thyroid Malignancy**:
 > 
 > 1. Rapidly enlarging painless thyroid nodule.
 > 2. Sudden rapid growth in a long-standing nodule.
@@ -286,15 +288,23 @@ In this version, **all viva exchanges are integrated directly into the chronolo
 
 > [!question] **Tutor / Mentor** What is Kocher's Test (Tracheal Compression Test)? What is Scabbard Trachea?
 
-> [!note] **Student** **Kocher's Test**: The patient extends her neck and breathes deeply through an open mouth while the examiner applies lateral compression over both thyroid lobes. **Positive result** = appearance of stridor and respiratory distress due to acute tracheal narrowing. **Scabbard Trachea**: In long-standing bilateral MNGs, continuous bilateral compression flattens the trachea anteroposteriorly, converting its lumen into a narrow vertical slit.
+> [!note] **Student** 
+> **Kocher's Test**: The patient extends her neck and ==breathes deeply== through an open mouth while the examiner applies lateral compression over both thyroid lobes. **Positive result** = appearance of stridor and respiratory distress due to acute tracheal narrowing. 
+> 
+> **Scabbard Trachea**: In long-standing bilateral MNGs, continuous ==bilateral compression== flattens the trachea anteroposteriorly, converting its lumen into a narrow vertical slit.
 
 > [!question] **Tutor / Mentor** Why do we check for a vascular thrill or bruit specifically over the UPPER POLE of the thyroid gland?
 
-> [!note] **Student** The Superior Thyroid Artery enters the upper pole as a single, large, superficial trunk on the anterior surface, making arterial bruits and thrills easy to detect. In contrast, although the Inferior Thyroid Artery provides the larger overall blood supply, it is deep and breaks into multiple branches before entering the gland, making it difficult to auscultate.
+> [!note] **Student** 
+> The Superior Thyroid Artery enters the upper pole as a ==single, large, superficial trunk== on the anterior surface, making arterial bruits and thrills easy to detect.
+>  In contrast, although the Inferior Thyroid Artery provides the larger overall blood supply, it is ==deep and breaks into multiple branches before entering the gland==, making it difficult to auscultate.
 
 > [!question] **Tutor / Mentor** What is the true clinical objective of performing Lahey's or Crile's palpation methods?
 
-> [!note] **Student** To assess the presence of nodularity in the rest of the thyroid gland (differentiating a true Solitary Thyroid Nodule from a dominant nodule in a Multinodular Goiter). Differentiating a solitary nodule (requires Hemithyroidectomy) from MNG (requires Total Thyroidectomy) fundamentally alters the surgical procedure.
+> [!note] **Student** 
+> 
+>To assess the presence of nodularity in the rest of the thyroid gland (differentiating a true Solitary Thyroid Nodule from a dominant nodule in a Multinodular Goiter). 
+>Differentiating a solitary nodule (requires ==Hemithyroidectomy==) from MNG (requires ==Total Thyroidectomy==) fundamentally alters the surgical procedure.
 
 ---
 
@@ -342,11 +352,13 @@ In this version, **all viva exchanges are integrated directly into the chronolo
 
 ### Integrated Viva Discussion: Investigations
 
-> [!warning] **IMPORTANT Clinical Pearl — Absolute Contraindication to FNAC** **Do NOT perform Fine Needle Aspiration Cytology (FNAC) on a Hyperfunctioning / Toxic Thyroid Nodule!** Mechanical trauma from needle aspiration into a hypervascular, hyperfunctioning gland can release a massive surge of stored thyroid hormones into the circulation, precipitating a life-threatening **Thyroid Storm**! If TSH is low/suppressed, order a Radioisotope Scan (I-123 / Tc-99m) first. If it reveals a Hot Nodule, administer anti-thyroid medical therapy or I-131 ablation instead of FNAC.
+> [!warning] **IMPORTANT Clinical Pearl —
+>  Absolute Contraindication to FNAC** **Do ==NOT== perform Fine Needle Aspiration Cytology (FNAC) on a ==Hyperfunctioning / Toxic Thyroid Nodule!==** Mechanical trauma from needle aspiration into a hypervascular, hyperfunctioning gland can ==release a massive surge of stored thyroid hormones into the circulation==, precipitating a life-threatening **Thyroid Storm**! If TSH is low/suppressed, order a ==Radioisotope Scan (I-123 / Tc-99m)== first. If it reveals a Hot Nodule, administer anti-thyroid medical therapy or I-131 ablation instead of FNAC.
 
 > [!question] **Tutor / Mentor** Why is Indirect Laryngoscopy (IDL) performed pre-operatively even if the patient's voice is normal?
 
-> [!note] **Student** Indirect Laryngoscopy (IDL) for vocal cord mobility is **medicolegally essential before surgery**. Gradual onset of recurrent laryngeal nerve involvement can be compensated by the opposite cord without noticeable voice change; documenting vocal cord paralysis pre-operatively protects the surgeon medicolegally.
+> [!note] **Student** 
+> Indirect Laryngoscopy (IDL) for vocal cord mobility is **medicolegally essential before surgery**. ==Gradual onset of recurrent laryngeal nerve== involvement can be compensated by the opposite cord without noticeable voice change; documenting vocal cord paralysis pre-operatively protects the surgeon medicolegally.
 
 ---
 
@@ -388,7 +400,7 @@ Report: BENIGN Adenoma/Cyst                                  Report: MALIGNANT C
 
 > [!note] **Student**
 > 
-> 1. **Withhold Immediate Post-op L-Thyroxine**: Do NOT give thyroxine replacement immediately after surgery.
+> 1. **Withhold Immediate Post-op L-Thyroxine**: Do ==NOT== give thyroxine replacement immediately after surgery.
 > 2. **Induce Hypothyroidism**: Allow the patient to become hypothyroid until pituitary TSH rises above **30 μU/mL**.
 > 3. **Rationale**: Elevated TSH forces any microscopic residual thyroid or metastatic cancer cells to become "hungry" for iodine, ensuring maximum uptake of therapeutic I-131.
 > 4. **Post-Ablation Suppression**: After radioiodine ablation, initiate a **Suppressive Dose** of L-Thyroxine (e.g. 150–200 μg/day) to maintain serum TSH below **0.1 to 0.3 μU/mL** to prevent tumor recurrence.
@@ -430,11 +442,11 @@ _(Synthesized by Dr. Nishant & Dr. Kishan)_
                                       │
      ┌───────────────────┬────────────┴────────────┬───────────────────┐
      ▼                   ▼                         ▼                   ▼
-1. Anatomical       2. Physiological          3. Pathological     4. Complications &
+1. Anatomical       2. Physiological          3. Pathological  4. Complications &
    Confirmation        State                     Nature              Metastasis
-   • Confirm thyroid   • Determine Euthyroid,    • Differentiate     • Assess compression,
-     origin via          Hyperthyroid, or          Benign,             retrosternal
-     deglutition &       Hypothyroid state         Malignant, or       extension, &
+   • Confirm thyroid•Determine Euthyroid • Differentiate    • Assess compression,
+     origin via          Hyperthyroid, or          Benign,        retrosternal
+     deglutition &       Hypothyroid state         Malignant, or   extension, &
      relations           clinically/biochemically  Inflammatory        metastasis
 ```
 
