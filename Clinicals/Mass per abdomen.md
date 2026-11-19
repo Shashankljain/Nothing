@@ -73,7 +73,9 @@ _(Based on the Comprehensive Clinical Class on **Mass per Abdomen** by The Whi
 
 > [!note] **Student**
 > 
-> Uniform abdominal distension with full flanks suggests generalized fluid accumulation (ascites), generalized flatus, or severe obesity. A history of temporary reduction in distension following increased urine output after diuretic administration strongly favors **ascites** secondary to liver disease or cardiac failure.
+> ==Uniform== abdominal distension with full flanks suggests ==generalized fluid accumulation (ascites), generalized flatus, or severe obesity==. 
+> 
+> A history of ==temporary reduction== in distension following ==increased urine output== after diuretic administration strongly favors **ascites** secondary to liver disease or cardiac failure.
 
 ---
 
