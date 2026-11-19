@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Methods of Delivery of Aftercoming Head in Breech"
             }
+          },
+          {
+            "id": "f9376068b4892ab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internal Rotation of the Fetal Head.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Internal Rotation of the Fetal Head"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +174,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Methods of Delivery of Aftercoming Head in Breech.md",
+            "file": "Internal Rotation of the Fetal Head.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -214,8 +228,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "6038604279213613",
+  "active": "f9376068b4892ab5",
   "lastOpenFiles": [
+    "Internal Rotation of the Fetal Head.md",
     "Methods of Delivery of Aftercoming Head in Breech.md",
     "Face-to-Pubis Delivery.md",
     "Brow Presentation.md",
@@ -242,7 +257,6 @@
     "COMPLICATIONS OF TSL/Inversion of Uterus.md",
     "COMPLICATIONS OF TSL/Adherent Placenta.md",
     "COMPLICATIONS OF TSL/PPH.md",
-    "COMPLICATIONS OF TSL/Atonic PPH-5M.md",
     "COMPLICATIONS OF TSL",
     "Fetal Skull and Maternal Pelvis",
     "HTN in preg",
