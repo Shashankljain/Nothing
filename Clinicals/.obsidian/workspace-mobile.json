@@ -78,35 +78,49 @@
             }
           },
           {
-            "id": "88b3e656e2c33807",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mass per abdomen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mass per abdomen"
-            }
-          },
-          {
             "id": "6dfd247f89ec1bb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "GV/Sx/Non healing ulcer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Non healing ulcer"
+            }
+          },
+          {
+            "id": "512b30c76af2b51b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WA/Surgery/Leg Ulcer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leg Ulcer"
+            }
+          },
+          {
+            "id": "7c05b255faba85a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WA/Surgery/VV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VV"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -202,7 +216,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "WA/Surgery/VV.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -258,22 +272,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "6dfd247f89ec1bb1",
+  "active": "afe6361d52c65806",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Mass per abdomen.md",
+    "WA/Surgery/Leg Ulcer.md",
+    "WA/Surgery/VV.md",
+    "GV/Sx/VV notes.md",
     "WA/Surgery/Thyroid.md",
+    "WA/Surgery/B-l inguinal Hernia.md",
+    "GV/Sx/Non healing ulcer.md",
+    "GV/Sx/Inguinal hernia.md",
+    "WA/Surgery/Ca Breast.md",
+    "WA/Surgery/MASS PER ABDOMEN.md",
+    "Mass per abdomen.md",
     "GV/Sx/Solitary Thyroid Nodule.md",
     "WA",
     "GV/Sx/PVD.md",
-    "GV/Sx/Inguinal hernia.md",
     "GV/Sx/Hydrocoele.md",
-    "WA/Surgery/B-l inguinal Hernia.md",
-    "GV/Sx/VV notes.md",
-    "GV/Sx/Non healing ulcer.md",
     "GV/Sx/BREAST LUMP.md",
     "Hydrocele.md",
-    "WA/Surgery/Ca Breast.md",
     "Inguinal Hernia.md",
     "GV/Sx/VV presentation.md",
     "GV/Sx/Sx.md",
@@ -288,8 +304,6 @@
     "WA/OBG/Previous LSCS 2.md",
     "WA/OBG/Previous LSCS 1.md",
     "WA/OBG/GYN.md",
-    "WA/OBG/Examination.md",
-    "WA/OBG/GDM.md",
     "OBG/Untitled.base",
     "OBG/Untitled.canvas",
     "WA/OBG"

@@ -138,7 +138,10 @@ _(Patient examined with informed consent in adequate illumination, exposed from 
     - _Anatomy_: On the right side, the **cecum** forms the wall; on the left side, the **sigmoid colon** forms the wall.
     - _Surgical Precaution_: In congenital indirect hernia, the sac is central and contents lie inside. In a sliding hernia, the sac is formed by peritoneum only on the medial aspect; the lateral exposed part is directly formed by the colon wall. Careless dissection or opening of the sac laterally risks opening the lumen of the bowel.
 - **Mentor Question**: Why are direct inguinal hernias extremely rare in children and females?
-- **Mentor Explanation**: In children and females, the pelvis is narrow and short. Consequently, the deep inguinal ring and superficial inguinal ring overlap directly in front of each other (very short inguinal canal). In females, a wide pelvic brim predisposes to femoral hernia, but direct inguinal hernia remains rare because both rings overlap.
+- **Mentor Explanation**: In children and females, the pelvis is ==narrow and short==. Consequently, the deep inguinal ring and superficial inguinal ring overlap directly in front of each other (==very short inguinal canal==). In females, a wide pelvic brim predisposes to femoral hernia, but direct inguinal hernia remains rare because both rings overlap.
+      - Strong posterior wall
+      - Round ligament
+      - Broad ligament
 
 ---
 
@@ -165,18 +168,18 @@ Factors                        Weakness                     Factors
 - **Mentor Analysis of Raised Intra-Abdominal Pressure vs. Muscle Weakness**:
     - **IMPORTANT**: Increased intra-abdominal pressure ALONE does NOT cause a hernia.
     - **Evidence**: Olympic weightlifters and bodybuilders generate massive intra-abdominal pressure (lifting 100 to 200 kg) but rarely develop hernias because their muscular and fascial walls are intact and strong.
-    - **True Pathophysiology**: Chronic intra-abdominal tension continuously stretches the **transversalis fascia** and abdominal musculature, causing thinning, atrophy, and fascial breakdown.
+    - **True Pathophysiology**: Chronic intra-abdominal tension continuously ==stretches the **transversalis fascia**== and abdominal ==musculature==, causing ==thinning, atrophy, and fascial breakdown==.
     - **Obesity Myth**: Recent clinical studies have disproven the old concept that obesity directly causes inguinal hernias by increasing abdominal pressure.
 - **Comorbidities Contribution (Asthma, Diabetes, Hypertension)**:
     - _Asthma_: Chronic repetitive cough spikes intra-abdominal pressure.
-    - _Diabetes Mellitus_: Diabetic autonomic/peripheral neuropathy causes motor nerve denervation, leading to abdominal muscle atrophy.
-    - _Hypertension_: Longstanding hypertension causes arterial wall thickening / atherosclerosis → reduced microvascular blood supply → ischemic atrophy and fascial weakness.
+    - _Diabetes Mellitus_: Diabetic autonomic/peripheral neuropathy causes ==motor nerve denervation==, leading to abdominal muscle ==atrophy==.
+    - _Hypertension_: Longstanding hypertension causes arterial wall thickening / ==atherosclerosis== → reduced microvascular blood supply → ==ischemic atrophy and fascial weakness.==
 - **Hormonal Factors in Processus Vaginalis Resorption**:
     - **Mentor Question**: Why does the processus vaginalis / tunica vaginalis resorb in some individuals and persist in others?
-    - **Mentor Answer (IMPORTANT MCQ)**: **Calcitonin Gene-Related Peptide (CGRP)** and **Hepatocyte Growth Factor (HGF)** are the two primary hormones regulating the resorption of the processus vaginalis. Hormonal imbalance leads to persistent patency and hernia formation.
+    - **Mentor Answer (IMPORTANT MCQ)**: **==Calcitonin Gene-Related Peptide (CGRP)==** and **==Hepatocyte Growth Factor (HGF)==** are the two primary hormones regulating the resorption of the processus vaginalis. Hormonal imbalance leads to persistent patency and hernia formation.
 - **Mentor Question on Appendectomy & Nerve Injury**:
-    - _Student Common Assumption_: Open grid-iron appendectomy causes inguinal hernia due to ilioinguinal nerve injury.
-    - **Mentor Correction**: **NO**. The ilioinguinal nerve gives off its motor branches to the internal oblique and transversus abdominis muscles **BEFORE** entering the inguinal canal. Therefore, nerve division within the canal or during grid-iron abscess drainage does NOT cause abdominal muscle weakness or hernia.
+    - _Student Common Assumption_: Open grid-iron appendectomy causes inguinal hernia due to ==ilioinguinal nerve injury==.
+    - **Mentor Correction**: **NO**. The ilioinguinal nerve gives off its ==motor branches== to the ==internal== ==oblique== and ==transversus== ==abdominis== muscles **BEFORE** entering the inguinal canal. Therefore, nerve division within the canal or during grid-iron abscess drainage does NOT cause abdominal muscle weakness or hernia.
 
 ---
 
@@ -281,20 +284,20 @@ Factors                        Weakness                     Factors
     - Patient placed in **Trendelenburg position** (head low, foot end elevated).
     - Thigh **flexed, adducted, and internally rotated** to relax the superficial and deep rings.
     - Pressure applied gently near the neck of the sac first, guiding contents back into the peritoneal cavity using two fingers.
-    - **DANGER — Reduction en Masse**: Pushing the entire hernia sac along with its constricting band intact back into the extraperitoneal space. The bowel remains strangulated inside the abdomen despite the disappearance of the external groin swelling.
+    - **DANGER — ==Reduction en Masse*==*: Pushing the entire hernia sac along with its constricting band intact back into the extraperitoneal space. The bowel ==remains strangulated== inside the ==abdomen== despite the disappearance of the external groin swelling.
 
 ---
 
 ### Phase 8: Pain Mechanisms, Occult Hernia, Sportsman's Groin, & Canal Contents
 
 - **Causes of Pain in Inguinal Hernia**:
-    - _Uncomplicated Hernia_: Drag/pull of the mesentery causes discomfort or pain around the umbilicus (small bowel content) or lower abdomen.
-    - _Obstructed/Strangulated_: Localized severe pain due to tissue ischemia.
-    - _Postoperative_: Inguinodynia (nerve entrapment in mesh or sutures).
-- **Occult Hernia**: Starting stage of hernia where the patient presents with persistent localized groin pain without a visible or palpable swelling.
+    - _Uncomplicated Hernia_: Drag/pull of the ==mesentery== causes discomfort or pain around the umbilicus (small bowel content) or lower abdomen.
+    - _Obstructed/Strangulated_: Localized severe pain due to tissue ==ischemia==.
+    - _Postoperative_: ==Inguinodynia== (nerve entrapment in mesh or sutures).
+- **Occult Hernia**: Starting stage of hernia where the patient presents with persistent ==localized groin pain without a visible or palpable swelling.==
 - **Sportsman's Hernia / Gilmore's Groin**:
     - **Pathology**: Not a true hernia. Caused by tearing of the aponeurosis of the external oblique, insertion of rectus abdominis, or conjoined tendon due to high intra-abdominal forces in athletes.
-    - **Diagnosis**: Muscle/ligament tear gives a "puffy" feeling or bulging; best diagnosed via **Pelvic MRI**.
+    - **Diagnosis**: Muscle/ligament tear gives a "puffy" feeling or bulging; best diagnosed via **==Pelvic MRI==**.
 - **Contents of the Inguinal Canal**:
     - **Male**: Spermatic cord and Ilioinguinal nerve.
     - **Female**: Round ligament of the uterus and Ilioinguinal nerve.
@@ -305,7 +308,7 @@ Factors                        Weakness                     Factors
 
 #### Preoperative Workup & Optimization
 
-1. **Confirmation & Baseline Testing**: Clinical diagnosis. Perform USG of abdomen/prostate to measure **Post-Void Residual Urine Volume (PVRU)** in elderly patients to rule out BPH.
+1. **Confirmation & Baseline Testing**: Clinical diagnosis. Perform USG of abdomen/prostate to measure **==Post-Void Residual Urine Volume (PVRU)==** in elderly patients to rule out BPH.
 2. **Treat Precipitating Factors FIRST**:
     - Control bronchial asthma / chronic cough with bronchodilators/nebulization.
     - Optimize blood pressure and glycemic control.
@@ -318,31 +321,31 @@ Factors                        Weakness                     Factors
                                        │
      ┌─────────────────────────────────┴─────────────────────────────────┐
      ▼                                                                   ▼
-Laparoscopic Mesh Repair                                         Open Mesh / Tissue Repair
-• TAPP (Transabdominal Preperitoneal)                            • Lichtenstein Tension-Free
-• TEP (Totally Extraperitoneal)                                    Mesh Hernioplasty (Gold Standard)
-• Indications: Bilateral hernias,                                • Stoppa's Giant Mesh Repair
-  Recurrent hernias                                              • Tissue Repairs (Bassini, Shouldice)
+Laparoscopic Mesh Repair                                Open Mesh / Tissue Repair
+• TAPP (Transabdominal Preperitoneal)                • Lichtenstein Tension-Free
+• TEP (Totally Extraperitoneal)                 Mesh Hernioplasty (Gold Standard)
+• Indications: Bilateral hernias,                  • Stoppa's Giant Mesh Repair
+  Recurrent hernias                        • Tissue Repairs (Bassini, Shouldice)
 ```
 
 - **Major Indications for Laparoscopic Repair**:
     
-    1. **Bilateral Inguinal Hernias**: Allows coverage of both sides through small trocar ports, placing a single large mesh covering the entire myopectineal orifice bilaterally, avoiding separate open groin incisions.
+    1. **Bilateral Inguinal Hernias**: Allows coverage of both sides through small trocar ports, placing a ==single large mesh== covering the ==entire myopectineal orifice== bilaterally, avoiding separate open groin incisions.
     2. **Recurrent Inguinal Hernias**: Approaching through the "virgin" preperitoneal plane avoids dense scar tissue and altered anatomy from prior open surgery.
 - **Mesh Placement Categories**:
     
-    - **Onlay Mesh**: Placed anterior to the muscle/fascial layer.
-    - **Inlay Mesh**: Placed within the defect in the same plane as the muscle/fascia.
-    - **Sublay Mesh**: Placed posterior to the muscle layer in the preperitoneal space (**most physiological**).
+    - **Onlay Mesh**: Placed ==anterior== to the muscle/fascial layer.
+    - **Inlay Mesh**: Placed ==within== the defect in the ==same plane== as the muscle/fascia.
+    - **Sublay Mesh**: Placed ==posterior== to the muscle layer in the preperitoneal space (**==most physiological==**).
 - **Mesh Materials & Weight Categories**:
     
     - _Materials_: Polypropylene (Prolene), Polyester, PTFE, Polyglycolic acid (absorbable). Use generic names!
     - _Heavyweight Mesh_: >80 g/m². Triggers intense fibrotic reaction, high shrinkage (up to 50%), and chronic stiffness.
     - _Mediumweight Mesh_: 40 to 80 g/m².
-    - _Lightweight Mesh_: <40 g/m². **PREFERRED** choice; large pore size, better fibroblastic ingrowth, lower pain.
+    - _Lightweight Mesh_: <40 g/m². **==PREFERRED==** choice; ==large== pore size, better ==fibroblastic== ingrowth, lower ==pain==.
 - **Mesh Overlap Rule**:
     
-    - **IMPORTANT**: The mesh must overlap the defect margins by **at least 2 cm, ideally 5 cm all around**.
+    - **IMPORTANT**: The mesh must overlap the defect margins by **at least 2 cm, ==ideally 5 cm all around==**.
     - _Rationale_: Tissue growth causes mesh shrinkage of **up to 50%** over 1 to 2 years; inadequate overlap leads directly to recurrence.
 - **Surgical Definitions**:
     
@@ -362,9 +365,9 @@ Laparoscopic Mesh Repair                                         Open Mesh / Tis
     - _Testicular Artery_: Direct branch of the abdominal aorta.
     - _Testicular Vein_: Right testicular vein drains directly into the IVC; Left testicular vein drains into the Left Renal Vein.
 - **Intraoperative & Postoperative Complications**:
-    - **Intraoperative**: Hemorrhage (damage to inferior epigastric artery or pampiniform plexus), nerve entrapment/injury (ilioinguinal, iliohypogastric, genital branch of genitofemoral).
-    - **Immediate Postoperative**: **Seroma formation** (most common complication in open and laparoscopic repairs), hematoma, wound infection.
-    - **Late Postoperative**: **Inguinodynia** (chronic groin pain lasting >3 months due to nerve entrapment in mesh/sutures), mesh infection, recurrence.
+    - **Intraoperative**: ==Hemorrhage== (damage to inferior epigastric artery or pampiniform plexus), ==nerve entrapment/injury== (ilioinguinal, iliohypogastric, genital branch of genitofemoral).
+    - **Immediate Postoperative**: **==Seroma formation==** (most common complication in open and laparoscopic repairs), ==hematoma==, ==wound infection==.
+    - **Late Postoperative**: **==Inguinodynia**== (chronic groin pain lasting >3 months due to nerve entrapment in mesh/sutures), mesh infection, recurrence.
 
 ---
 

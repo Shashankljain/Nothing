@@ -4,91 +4,87 @@
     "type": "split",
     "children": [
       {
-        "id": "1438cdd184a60c3f",
+        "id": "fd86a3ae9a57dee7",
         "type": "tabs",
         "children": [
           {
-            "id": "3fb3dbbf0415a712",
+            "id": "cdb0942f37ef9fd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hemorrhage/Secondary Hemorrhage.md",
+                "file": "Groin + femoral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Secondary Hemorrhage"
+              "title": "Groin + femoral"
             }
           },
           {
-            "id": "71d3cb48d2ec8452",
+            "id": "17301520fbe00b74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters.md",
+                "file": "Inguinal Hernia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapters"
+              "title": "Inguinal Hernia"
             }
           },
           {
-            "id": "35c5bc135de7e4f7",
+            "id": "30a81f4e7ebd61c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vascular lesion/C14- Vascular lesions.md",
+                "file": "Hernia/Strangulated Inguinal Hernia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C14- Vascular lesions"
+              "title": "Strangulated Inguinal Hernia"
             }
           },
           {
-            "id": "a399dc323640d342",
+            "id": "be128e912b89bb85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vascular lesion/Thromboangiitis Obliterans (Buerger's Disease) & Peripheral Vascular Disease.md",
+                "file": "Hernia/Complications of Hernia Surgery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thromboangiitis Obliterans (Buerger's Disease) & Peripheral Vascular Disease"
+              "title": "Complications of Hernia Surgery"
             }
           },
           {
-            "id": "4cec856dee6b0f7e",
+            "id": "703283a86e81edc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vascular lesion/Causes of Leg Ulcers & TOA.md",
+                "file": "Hernia/Richter's Hernia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Causes of Leg Ulcers & TOA"
+              "title": "Richter's Hernia"
             }
           },
           {
-            "id": "410036d9e62c6f4d",
+            "id": "dad328b01038321c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lower Limb Ischemia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lower Limb Ischemia"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -188,7 +184,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Rectum and anal canal/Fistula in Ano (Classification & Management).md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -242,42 +237,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "410036d9e62c6f4d",
+  "active": "dad328b01038321c",
   "lastOpenFiles": [
-    "Lower Limb Ischemia.md",
+    "Breast/C31-Breast.md",
+    "Hernia/Femoral Canal (Surgical Anatomy).md",
+    "Hernia",
+    "Hernia/Richter's Hernia.md",
+    "Hernia/Complications of Hernia Surgery.md",
+    "Hernia/Strangulated Inguinal Hernia.md",
+    "Hernia/Complications of Inguinal Hernia.md",
+    "Hernia/Obstructed Hernia.md",
+    "Hernia/Maydl's Hernia.md",
+    "Hernia/Pantaloon Hernia.md",
+    "Hernia/Femoral Hernia.md",
+    "Hernia/Inguinal Hernia.md",
+    "Hernia/Groin + femoral.md",
+    "Chapters.md",
+    "Transplantation/Principles of Organ Transplantation.md",
+    "Transplantation/C23-Transplantation.md",
+    "Hernia/Lower Limb Ischemia.md",
     "Vascular lesion/Causes of Leg Ulcers & TOA.md",
     "Vascular lesion/Thromboangiitis Obliterans (Buerger's Disease) & Peripheral Vascular Disease.md",
     "Vascular lesion/C14- Vascular lesions.md",
-    "Chapters.md",
+    "Hemorrhage/Secondary Hemorrhage.md",
+    "Hernia/C41-hernia.md",
+    "Transplantation/Immunological Basis of Transplantation.md",
+    "Transplantation",
     "Vascular lesion",
     "Rectum and anal canal/Fistula in Ano (Classification & Management).md",
     "Rectum and anal canal/Hemorrhoids (3rd Degree).md",
     "Hemorrhage/Indications for Blood Transfusion.md",
-    "Hemorrhage/Secondary Hemorrhage.md",
     "Hemorrhage/FFP.md",
-    "Hemorrhage/Reactionary Hemorrhage.md",
-    "Hemorrhage/Massive Blood Transfusion.md",
-    "Hemorrhage/Hemorrhagic Shock.md",
-    "Hemorrhage/Complications of Blood Transfusion.md",
-    "Rectum and anal canal/Solitary Rectal Ulcer Syndrome.md",
-    "Hemorrhage/C6 - Hemorrhage and blood transfusion.md",
-    "Rectum and anal canal/Colonoscopy — Indications.md",
     "Hemorrhage",
-    "Rectum and anal canal/Goodsall's Rule.md",
-    "Rectum and anal canal/Anorectal Abscess.md",
-    "Rectum and anal canal/Imperforate Anus.md",
-    "Rectum and anal canal/Carcinoma of the Upper 1-3rd of rectum.md",
-    "Rectum and anal canal/C-48 Rectum and anal canal.md",
-    "Rectum and anal canal/Rectal Prolapse 1.md",
-    "Rectum and anal canal/Rectal prolapse.md",
-    "Rectum and anal canal/Pilonidal Sinus.md",
-    "Rectum and anal canal/Ischiorectal Abscess.md",
     "Rectum and anal canal",
     "Stomach",
     "Breast",
     "Electrolyte and Nutrition",
     "Venous disease",
-    "Appendix",
-    "Wound and wound healing"
+    "Appendix"
   ]
 }
