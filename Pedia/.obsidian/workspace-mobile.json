@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Beta Thalassemia Major — Laboratory"
             }
+          },
+          {
+            "id": "67657fb03a1b4737",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,8 +216,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "8e7a69b05a808a42",
+  "active": "67657fb03a1b4737",
   "lastOpenFiles": [
+    "Untitled.md",
     "Beta Thalassemia Major — Laboratory.md",
     "Kidney disorder/APSGN.md",
     "CRT.md",
@@ -232,7 +247,6 @@
     "IMNCI/PMR.md",
     "IMNCI/Aim, principle - IMNCI.md",
     "IMNCI/Imnci diarrhea.md",
-    "IMNCI/IMNCI.md",
     "IMNCI",
     "Immunisation",
     "Fluid and electrolyte imbalance"
