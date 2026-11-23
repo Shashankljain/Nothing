@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infertility and Sterility/Semen Analysis.md",
+                "file": "Infertility and Sterility/Primary Infertility -10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Semen Analysis"
+              "title": "Primary Infertility -10"
             }
           }
         ],
@@ -174,7 +174,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Infertility and Sterility/Semen Analysis.md",
+            "file": "Infertility and Sterility/Primary Infertility -10.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -230,10 +230,10 @@
   },
   "active": "24bf2c352d1f7355",
   "lastOpenFiles": [
-    "Infertility and Sterility/Male Infertility -Causes.md",
-    "Infertility and Sterility/Primary Infertility.md",
-    "Infertility and Sterility/Male infertility.md",
+    "Infertility and Sterility/Male infertility -10.md",
     "Infertility and Sterility/Semen Analysis.md",
+    "Infertility and Sterility/Male Infertility -Causes.md",
+    "Infertility and Sterility/Primary Infertility -10.md",
     "Infertility and Sterility/C16-Infertility and Sterility.md",
     "Chapter -GYN.md",
     "Infertility and Sterility"
