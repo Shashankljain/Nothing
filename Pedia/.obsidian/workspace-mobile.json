@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beta Thalassemia Major — Laboratory.md",
+                "file": "Hematological disorder/Beta Thalassemia Major — Laboratory.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITP investigation + tx.md",
+                "file": "Hematological disorder/ITP investigation + tx.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Complications of Sickle Cell Anemia.md",
+                "file": "Hematological disorder/Complications of Sickle Cell Anemia.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aplastic Anemia — Causes.md",
+                "file": "Acute ITP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aplastic Anemia — Causes"
+              "title": "Acute ITP"
             }
           }
         ],
@@ -244,20 +244,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "6273867c49f9fcdb",
+  "active": "401757ef48605509",
   "lastOpenFiles": [
-    "Aplastic Anemia — Causes.md",
-    "Complications of Sickle Cell Anemia.md",
-    "ITP investigation + tx.md",
-    "Iron Chelation Therapy.md",
-    "Megaloblastic Anemia.md",
-    "RBC Indices.md",
-    "Beta Thalassemia Major — Laboratory.md",
+    "Hematological disorder/Aplastic Anemia — Causes.md",
+    "Hematological disorder/Complications of Sickle Cell Anemia.md",
+    "Hematological disorder/ITP investigation + tx.md",
+    "Hematological disorder/Iron Chelation Therapy.md",
+    "Hematological disorder/Megaloblastic Anemia.md",
+    "Hematological disorder/RBC Indices.md",
+    "Hematological disorder/Beta Thalassemia Major — Laboratory.md",
     "Kidney disorder/APSGN.md",
-    "CRT.md",
-    "IDA.md",
-    "Hemolytic Anemia — Peripheral Smear Findings.md",
-    "Hemolytic (Thalassemic) Facies.md",
+    "Hematological disorder/CRT.md",
+    "Hematological disorder/IDA.md",
+    "Hematological disorder/Hemolytic Anemia — Peripheral Smear Findings.md",
+    "Hematological disorder/Hemolytic (Thalassemic) Facies.md",
     "Hematological disorder/C13-Hemat disorder.md",
     "Kidney disorder/Acute glomerulonephritis.md",
     "Hematological disorder",
