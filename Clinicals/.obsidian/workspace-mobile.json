@@ -4,123 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "b5c9e48058e62de8",
+        "id": "bd0d0fbd86d57bb0",
         "type": "tabs",
         "children": [
           {
-            "id": "a5356268c4339049",
+            "id": "ab2f9506a1e1a2ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Surgery/B-l inguinal Hernia.md",
+                "file": "WA/Medicine/Medicine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "B-l inguinal Hernia"
+              "title": "Medicine"
             }
           },
           {
-            "id": "fc42c5568e21ae29",
+            "id": "1cce2aaa3b0afce2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Surgery/Ca Breast.md",
+                "file": "WA/Medicine/Pleural Effusion & Lung Collapse -Malignancy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ca Breast"
-            }
-          },
-          {
-            "id": "2b1e2af7f29887bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GV/Sx/Inguinal hernia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inguinal hernia"
-            }
-          },
-          {
-            "id": "ea3b7180dd5bcd33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PVD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PVD"
-            }
-          },
-          {
-            "id": "cb7d66d8a1f19f38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WA/Surgery/Thyroid.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thyroid"
-            }
-          },
-          {
-            "id": "6dfd247f89ec1bb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GV/Sx/Non healing ulcer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Non healing ulcer"
-            }
-          },
-          {
-            "id": "512b30c76af2b51b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WA/Surgery/Leg Ulcer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Leg Ulcer"
-            }
-          },
-          {
-            "id": "7c05b255faba85a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WA/Surgery/VV.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VV"
+              "title": "Pleural Effusion & Lung Collapse -Malignancy"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -274,13 +190,16 @@
   },
   "active": "afe6361d52c65806",
   "lastOpenFiles": [
-    "WA/Surgery/Leg Ulcer.md",
+    "WA/Medicine/Pleural Effusion & Lung Collapse -Malignancy.md",
+    "WA/Medicine/Medicine.md",
+    "WA/Medicine",
     "WA/Surgery/VV.md",
-    "GV/Sx/VV notes.md",
-    "WA/Surgery/Thyroid.md",
-    "WA/Surgery/B-l inguinal Hernia.md",
+    "WA/Surgery/Leg Ulcer.md",
     "GV/Sx/Non healing ulcer.md",
+    "WA/Surgery/Thyroid.md",
     "GV/Sx/Inguinal hernia.md",
+    "GV/Sx/VV notes.md",
+    "WA/Surgery/B-l inguinal Hernia.md",
     "WA/Surgery/Ca Breast.md",
     "WA/Surgery/MASS PER ABDOMEN.md",
     "Mass per abdomen.md",
@@ -302,8 +221,6 @@
     "WA/OBG/PIH.md",
     "WA/OBG/OBS.md",
     "WA/OBG/Previous LSCS 2.md",
-    "WA/OBG/Previous LSCS 1.md",
-    "WA/OBG/GYN.md",
     "OBG/Untitled.base",
     "OBG/Untitled.canvas",
     "WA/OBG"
