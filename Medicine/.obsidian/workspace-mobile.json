@@ -64,35 +64,21 @@
             }
           },
           {
-            "id": "8cdb1d8cc1cb0c4e",
+            "id": "a523b66c3bfbc2c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tuberculous Meningitis.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tuberculous Meningitis"
-            }
-          },
-          {
-            "id": "6fd79eac0f7ec41b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Myasthenia Gravis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Myasthenia Gravis"
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -188,7 +174,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Myasthenia Gravis.md",
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -244,12 +230,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "6fd79eac0f7ec41b",
+  "active": "a523b66c3bfbc2c2",
   "lastOpenFiles": [
-    "Myasthenia Gravis.md",
-    "Tuberculous Meningitis.md",
-    "Migraine Headache.md",
+    "Untitled.md",
     "Stroke/Intracerebral Hemorrhage.md",
+    "Tuberculous Meningitis.md",
+    "Myasthenia Gravis.md",
+    "Migraine Headache.md",
     "Status Epilepticus.md",
     "Acute Bacterial (Pyogenic) Meningitis & Meningococcal Meningitis.md",
     "Chapters.md",
@@ -273,7 +260,6 @@
     "Hepatology/Hepatorenal Syndrome.md",
     "Hepatology/Liver Biopsy.md",
     "Hepatology/Causes of Hematemesis & Management of Acute Variceal Bleeding.md",
-    "Hepatology/Portal Hypertension.md",
     "Hepatology",
     "Cardiology"
   ]
