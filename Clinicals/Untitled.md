@@ -1,4 +1,4 @@
-
+[[Medicine]]
 # Stroke Localization & Cerebrovascular Accidents — Complete Integrated Clinical Performa & Chronological Viva Analysis
 
 _(Exhaustive line-by-line transcript-grounded study notes based on the masterclass **"STROKE LOCALIZATION"**presented by **Dr. Archith Boloor**, organized and hosted by **The White Army**)_ [1–117]
