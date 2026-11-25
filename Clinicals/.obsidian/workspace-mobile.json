@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stroke localization.md",
+                "file": "Stroke localization-Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stroke localization"
+              "title": "Stroke localization-Theory"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Stroke localization.md",
+            "file": "Stroke localization-Theory.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
   "active": "ecdb82bdf14df9f1",
   "lastOpenFiles": [
     "WA/Surgery/Surgery.md",
-    "Stroke localization.md",
+    "Stroke localization-Theory.md",
     "WA/Medicine/Medicine.md",
     "WA/Medicine/Community-Acquired Pneumonia (CAP) & Lobar Consolidation.md",
     "WA/Medicine/Pleural Effusion & Lung Collapse -Malignancy.md",
