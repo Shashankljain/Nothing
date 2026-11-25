@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Stroke localization-Theory"
             }
+          },
+          {
+            "id": "ce9de1b89b022073",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anemia 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anemia 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,10 +188,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "ecdb82bdf14df9f1",
+  "active": "ce9de1b89b022073",
   "lastOpenFiles": [
-    "WA/Surgery/Surgery.md",
+    "Anemia 1.md",
     "Stroke localization-Theory.md",
+    "WA/Surgery/Surgery.md",
     "WA/Medicine/Medicine.md",
     "WA/Medicine/Community-Acquired Pneumonia (CAP) & Lobar Consolidation.md",
     "WA/Medicine/Pleural Effusion & Lung Collapse -Malignancy.md",
@@ -205,7 +221,6 @@
     "GV/Sx",
     "GV",
     "WA/Surgery",
-    "WA/OBG/Anemia.md",
     "OBG/Untitled.base",
     "OBG/Untitled.canvas",
     "WA/OBG"
