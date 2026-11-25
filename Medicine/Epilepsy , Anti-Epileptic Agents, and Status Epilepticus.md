@@ -1,5 +1,5 @@
 [[C25-Neurology]]
-# Epilepsy, Anti-Epileptic Agents, and Status Epilepticus
+# Epilepsy , Anti-Epileptic Agents, and Status Epilepticus
 
 ## 1. Definition [⭐ High-Yield]
 
