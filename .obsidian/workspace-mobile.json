@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCQ To do.md",
+                "file": "Question/MCQ To do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "MCQ To do"
+            }
+          },
+          {
+            "id": "9a09f6506581d156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MCQ r.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MCQ r"
             }
           },
           {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,10 +215,11 @@
       "study-flow-planner:Study Flow Planner": false
     }
   },
-  "active": "47d59d202a6dbf82",
+  "active": "9a09f6506581d156",
   "lastOpenFiles": [
+    "Question/MCQ To do.md",
+    "MCQ r.md",
     "Surgery/Chapters.md",
-    "MCQ To do.md",
     "Question",
     "Medicine/Neurology/Tuberculous Meningitis.md",
     "Medicine/Neurology/Status Epilepticus.md",
@@ -231,7 +246,6 @@
     "Surgery/Transplantation/C23-Transplantation.md",
     "Surgery/Transplantation",
     "Surgery/Hernia/Strangulated Inguinal Hernia.md",
-    "Surgery/Hernia/Richter's Hernia.md",
     "Surgery/Hernia",
     "Clinicals/WA/Medicine",
     "Surgery/Vascular lesion",
