@@ -35,8 +35,7 @@
               "title": "Thyroid"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +186,7 @@
       "study-flow-planner:Study Flow Planner": false
     }
   },
-  "active": "fa50dfcbbd81332b",
+  "active": "649cdee7b5d72e0b",
   "lastOpenFiles": [
     "Surgery/Transplantation/Principles of Organ Transplantation.md",
     "Surgery/Transplantation/Immunological Basis of Transplantation.md",
