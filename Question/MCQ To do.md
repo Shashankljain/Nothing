@@ -1,3 +1,5 @@
 - [ ] anatomy
 - [ ] medicine - gi
 - [ ] med - dementia 
+- [ ] surgery - gi
+- [ ] sx vasucular
