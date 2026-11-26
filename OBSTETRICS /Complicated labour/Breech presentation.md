@@ -108,7 +108,7 @@ Breech presentation is divided into **Complete (Flexed)** and **Incomplete**�
 
 ### 4. Pathophysiology (Cascade Flowchart) [⭐ High-Yield]
 
-```
+```mermaid 
 flowchart TD
 
 classDef primary fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
@@ -145,13 +145,13 @@ I -->|Arrest of Progress / Fetal Distress / Cord Prolapse| K[Emergency Cesarean 
 
 - **During Pregnancy**: High, soft presenting part felt through the fornices [DC Dutta 1, Ch 26, p. 356].
 - **During Labor**:
-    - Smooth, soft buttocks with a linear intergluteal cleft, ischial tuberosities, sacrum, coccyx, and external genitalia are palpable [DC Dutta 1, Ch 26, p. 356].
+    - Smooth, soft buttocks with a linear intergluteal cleft, ==ischial tuberosities, sacrum, coccyx, and external genitalia== are palpable [DC Dutta 1, Ch 26, p. 356].
     - Fresh meconium staining on examination finger is common due to abdominal compression [DC Dutta 1, Ch 26, p. 356].
     - **Feet Identification**: In complete breech or footling, feet are identified by the **prominence of the heel**, lesser mobility of the great toe, and toes arranged in a straight line (distinguished from hand by lack of opposable thumb and presence of heel) [DC Dutta 1, Ch 26, p. 356].
 
 #### C. Ultrasonography (Gold Standard Diagnostic Tool) [⭐ High-Yield]
 
-- **Diagnostic Role**: Confirms presentation, specifies exact variety (complete, frank, footling), measures BPD/AC for estimated fetal weight (EFW), assesses liquor volume, localizes placenta, and evaluates **fetal head attitude** (flexed vs. hyperextended/"stargazing head") [DC Dutta 1, Ch 26, p. 356].
+- **Diagnostic Role**: Confirms presentation, specifies exact variety (complete, frank, footling), measures BPD/AC for estimated fetal weight (EFW), assesses liquor volume, localizes placenta, and evaluates **fetal head attitude** (flexed vs. hyperextended/"==stargazing head==") [DC Dutta 1, Ch 26, p. 356].
 
 ---
 
@@ -227,7 +227,7 @@ There are three distinct clinical methods for conducting vaginal breech delivery
 ##### Stepwise Conduct of AVBD [⭐ High-Yield]:
 
 1. **Preparation**: Patient in lithotomy position (15° lateral tilt); empty bladder; perform **liberal mediolateral episiotomy** under pudendal/epidural anesthesia when posterior buttock distends perineum [DC Dutta 1, Ch 26, p. 361–362].
-2. **Delivery of Extended Legs (Pinard's Maneuver)**:
+2. **Delivery of Extended Legs (Pinard's Maneuver)**:- Popliteal (P-P)
     - If legs are extended (Frank breech), press two fingers into the **popliteal fossa** in a direction of **abduction and flexion** of the thigh; the knee flexes spontaneously and the foot slips down to be delivered [DC Dutta 1, Ch 26, p. 362, 364].
 3. **Delivery of Extended Arms (Lovset's Maneuver — Standard Choice)** [⭐ High-Yield]:
     - _Indication_: Extended arms or nuchal displacement of arms [DC Dutta 1, Ch 26, p. 364].

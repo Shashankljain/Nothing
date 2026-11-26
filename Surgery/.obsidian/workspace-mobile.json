@@ -81,14 +81,18 @@
             "id": "dad328b01038321c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Chapters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapters"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -237,8 +241,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "dad328b01038321c",
+  "active": "703283a86e81edc2",
   "lastOpenFiles": [
+    "Chapters.md",
     "Breast/C31-Breast.md",
     "Hernia/Femoral Canal (Surgical Anatomy).md",
     "Hernia",
@@ -252,7 +257,6 @@
     "Hernia/Femoral Hernia.md",
     "Hernia/Inguinal Hernia.md",
     "Hernia/Groin + femoral.md",
-    "Chapters.md",
     "Transplantation/Principles of Organ Transplantation.md",
     "Transplantation/C23-Transplantation.md",
     "Hernia/Lower Limb Ischemia.md",
